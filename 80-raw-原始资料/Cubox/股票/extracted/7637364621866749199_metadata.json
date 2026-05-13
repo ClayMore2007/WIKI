@@ -1,0 +1,39 @@
+{
+  "video_id": "7637364621866749199",
+  "source_url": "https://www.douyin.com/share/video/7637364621866749199",
+  "desc": "Claude Code投研系列，打造12个agent投研团队 65K Star 开源项目 TradingAgents 架构拆解\n用 12 个 AI Agent 模拟一家投研公司的完整流程：\n4个分析师拉真实数据 → 多空两派辩论 → 裁判判定 → 风险委员会三方吵架 → 总经理拍板\n⚠️ 仅为开源架构拆解，不构成任何建议\n#claude #claudecode #ai新星计划",
+  "created_at": "2026-05-08T11:55:28",
+  "create_time": 1778212528,
+  "author": {
+    "nickname": "Simon林",
+    "short_id": "24842990940",
+    "signature": "Claude Code 深度玩家\n独立开发者丨多 Agent 实战\n仓库：simonlin1212"
+  },
+  "duration_ms": 307547,
+  "width": 2698,
+  "height": 1440,
+  "statistics": {
+    "digg_count": 1231,
+    "comment_count": 35,
+    "share_count": 263,
+    "collect_count": 1592
+  },
+  "hashtags": [
+    "claude",
+    "claudecode",
+    "ai新星计划"
+  ],
+  "music": {
+    "title": "第二颗纽扣的秘密一21_chaeyoung",
+    "author": "21_chaeyoung"
+  },
+  "cover_urls": [
+    "https://p9-sign.douyinpic.com/tos-cn-i-dy/19841e43ffee450ca17fa1da89bbb007~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1779796800&x-signature=2jFsYf6Gd5O7pkSan9ttFQZtDhw%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260512202443420F81809BA41833C784",
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/19841e43ffee450ca17fa1da89bbb007~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1779796800&x-signature=3cFKOgKLuT8fyYbXu9y77jzbDqM%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260512202443420F81809BA41833C784",
+    "https://p26-sign.douyinpic.com/tos-cn-i-dy/19841e43ffee450ca17fa1da89bbb007~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1779796800&x-signature=d4wwHwshKVB9HLNSN6xjl2HFBCk%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260512202443420F81809BA41833C784",
+    "https://p9-sign.douyinpic.com/tos-cn-i-dy/19841e43ffee450ca17fa1da89bbb007~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1779796800&x-signature=5g9RpHMMfMHwIV%2Fh%2FQc53jBaBUc%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260512202443420F81809BA41833C784"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v0d00fg10000d7ulrnfog65uquuspeag"
+  ]
+}

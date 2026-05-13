@@ -1,0 +1,35 @@
+{
+  "video_id": "7638552450798030122",
+  "source_url": "https://www.douyin.com/share/video/7638552450798030122",
+  "desc": "算力下半场超节点OEM谁是赢家 ",
+  "created_at": "2026-05-11T16:44:49",
+  "create_time": 1778489089,
+  "author": {
+    "nickname": "正经的阿干",
+    "short_id": "64243458544",
+    "signature": "私募研究员 只讲逻辑与干货"
+  },
+  "duration_ms": 254283,
+  "width": 1080,
+  "height": 1920,
+  "statistics": {
+    "digg_count": 185,
+    "comment_count": 3,
+    "share_count": 24,
+    "collect_count": 111
+  },
+  "hashtags": [],
+  "music": {
+    "title": "@正经的阿干创作的原声一正经的阿干",
+    "author": "正经的阿干"
+  },
+  "cover_urls": [
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/66541ce9f77941729f84f3c272816fbb~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1779796800&x-signature=g3hU%2F9A8jJyUWYI09TI9rqkG%2B30%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260512204409FCF9F28B053220A77587",
+    "https://p26-sign.douyinpic.com/tos-cn-i-dy/66541ce9f77941729f84f3c272816fbb~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1779796800&x-signature=Orc1gdD%2Bb1%2BBFj09telIVPJz4Sk%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260512204409FCF9F28B053220A77587",
+    "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-dy/66541ce9f77941729f84f3c272816fbb~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1779796800&x-signature=o48B0o2VtM0wDjZciLb0VY51nGI%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260512204409FCF9F28B053220A77587",
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/66541ce9f77941729f84f3c272816fbb~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1779796800&x-signature=YRof%2FJLDeJLIlSJ%2BmvmMunaPmnI%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260512204409FCF9F28B053220A77587"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000d80p97vog65kdm5bmvtg&ratio=720p&line=0"
+  ]
+}
