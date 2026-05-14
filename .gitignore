@@ -2,7 +2,20 @@
 .claudian/sessions/
 .trash/
 
-# Large extracted media should stay local; keep transcripts/metadata in Git.
-**/extracted/*.mp4
+# Video files should stay local.
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wmv
+*.flv
+*.webm
+*.m4v
+*.mpeg
+*.mpg
+*.3gp
+*.ts
+
+# Large extracted audio should stay local; keep transcripts/metadata in Git.
 **/extracted/*.m4a
 **/extracted/*.wav
