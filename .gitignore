@@ -1,3 +1,8 @@
 .obsidian/workspace*.json
 .claudian/sessions/
 .trash/
+
+# Large extracted media should stay local; keep transcripts/metadata in Git.
+**/extracted/*.mp4
+**/extracted/*.m4a
+**/extracted/*.wav
