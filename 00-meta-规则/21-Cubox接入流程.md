@@ -1,6 +1,6 @@
 ---
 status: active
-updated: 2026-05-11
+updated: 2026-05-14
 confidence: high
 sources:
   - [[00-meta-规则/00-快速入口]]
@@ -23,6 +23,7 @@ sources:
 ## 硬规则
 
 - 不直接移动、重命名或删除 `Cubox/` 中的文件。
+- 从 `Cubox/` 生成的 raw 副本、metadata、转写稿和提取模板都必须放在 `80-raw-原始资料/Cubox/` 下对应分类；不得落入 `80-raw-原始资料/股票/`、`80-raw-原始资料/技术/` 等通用 raw 目录。
 - 先解析 frontmatter `tags`，再判断分类。
 - 可映射标签优先；标题、URL、正文关键词只能兜底。
 - 标签与标题/内容冲突时，按标签归档，并在报告中标记冲突。

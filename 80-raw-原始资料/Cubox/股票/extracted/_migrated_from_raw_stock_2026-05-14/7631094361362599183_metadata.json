@@ -1,0 +1,35 @@
+{
+  "video_id": "7631094361362599183",
+  "source_url": "https://www.douyin.com/video/7631094361362599183",
+  "desc": "昇腾供应链梳理封装、测试、连接器、光模块 ",
+  "created_at": "2026-04-21T14:23:41",
+  "create_time": 1776752621,
+  "author": {
+    "nickname": "正经的阿干",
+    "short_id": "64243458544",
+    "signature": "私募研究员 只讲逻辑与干货"
+  },
+  "duration_ms": 187966,
+  "width": 720,
+  "height": 1280,
+  "statistics": {
+    "digg_count": 9024,
+    "comment_count": 424,
+    "share_count": 2549,
+    "collect_count": 9653
+  },
+  "hashtags": [],
+  "music": {
+    "title": "@正经的阿干创作的原声一正经的阿干",
+    "author": "正经的阿干"
+  },
+  "cover_urls": [
+    "https://p11-sign.douyinpic.com/tos-cn-i-dy/21c27e255ee94ff0bc35fcfac96c825b~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1779642000&x-signature=Ua1UZcFX7R0eCB9ETDZthsn3HHQ%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260511012704EDE7C4DF2141FBB7747C",
+    "https://p26-sign.douyinpic.com/tos-cn-i-dy/21c27e255ee94ff0bc35fcfac96c825b~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1779642000&x-signature=h59xhuZgmAdPUXkcOJe0u9iX04A%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260511012704EDE7C4DF2141FBB7747C",
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/21c27e255ee94ff0bc35fcfac96c825b~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1779642000&x-signature=73DDT26Y3NyifGngM4alJsNskS4%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260511012704EDE7C4DF2141FBB7747C",
+    "https://p11-sign.douyinpic.com/tos-cn-i-dy/21c27e255ee94ff0bc35fcfac96c825b~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1779642000&x-signature=99Dk8Pplfrj%2BwcDGEVV%2BC2KFPwo%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260511012704EDE7C4DF2141FBB7747C"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v0300fg10000d7jheunog65q4q3jf2c0"
+  ]
+}

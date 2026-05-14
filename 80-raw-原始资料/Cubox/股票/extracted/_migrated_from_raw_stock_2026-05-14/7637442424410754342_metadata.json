@@ -1,0 +1,38 @@
+{
+  "video_id": "7637442424410754342",
+  "source_url": "https://www.douyin.com/video/7637442424410754342",
+  "desc": "五月热门主线题材梳理#股民 #行情分析",
+  "created_at": "2026-05-08T16:57:19",
+  "create_time": 1778230639,
+  "author": {
+    "nickname": "主升学长",
+    "short_id": "36550177515",
+    "signature": "大道至简，顺势而为"
+  },
+  "duration_ms": 13634,
+  "width": 1264,
+  "height": 2248,
+  "statistics": {
+    "digg_count": 65,
+    "comment_count": 1,
+    "share_count": 8,
+    "collect_count": 66
+  },
+  "hashtags": [
+    "股民",
+    "行情分析"
+  ],
+  "music": {
+    "title": "@主升学长创作的原声一主升学长",
+    "author": "主升学长"
+  },
+  "cover_urls": [
+    "https://p11-sign.douyinpic.com/tos-cn-i-dy/9b45cd75882044f2a957ecf7cd8701bd~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1779642000&x-signature=nrmWjTjS%2BP%2FZYF4uTkYKzjuJykY%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605110127034100A96EF8B4417EADB7",
+    "https://p26-sign.douyinpic.com/tos-cn-i-dy/9b45cd75882044f2a957ecf7cd8701bd~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1779642000&x-signature=S1clQIoOWId47eHFDG%2BR4epHbe4%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605110127034100A96EF8B4417EADB7",
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/9b45cd75882044f2a957ecf7cd8701bd~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1779642000&x-signature=x9VTH4hb8qpCHcux0wamm1Wf36A%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605110127034100A96EF8B4417EADB7",
+    "https://p11-sign.douyinpic.com/tos-cn-i-dy/9b45cd75882044f2a957ecf7cd8701bd~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1779642000&x-signature=TJuAG0MM%2FUGlzaqn%2FpkOj8r7za0%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605110127034100A96EF8B4417EADB7"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000d7uprkvog65tn16lmli0&ratio=720p&line=0"
+  ]
+}
