@@ -1,0 +1,35 @@
+{
+  "video_id": "7638974867438591846",
+  "source_url": "https://www.douyin.com/share/video/7638974867438591846/",
+  "desc": "Codex一键切换国产大模型，不丢失聊天记录。",
+  "created_at": "2026-05-12T20:03:56",
+  "create_time": 1778587436,
+  "author": {
+    "nickname": "大玉 780",
+    "short_id": "50530822952",
+    "signature": "EchoBird 🐦‍🔥https://echobird.ai/\nCoffee CLI ☕️https://coffeecli.com/ \n有大佬援助macOS 设备吗"
+  },
+  "duration_ms": 52871,
+  "width": 1080,
+  "height": 1920,
+  "statistics": {
+    "digg_count": 4476,
+    "comment_count": 245,
+    "share_count": 684,
+    "collect_count": 5171
+  },
+  "hashtags": [],
+  "music": {
+    "title": "海阔天空尾奏 (SLOW)一DJ小爱",
+    "author": "DJ小爱"
+  },
+  "cover_urls": [
+    "https://p26-sign.douyinpic.com/tos-cn-i-0813/ooAvg7naAXAFKTtGBrEwAQyAIIpjiIPAIDPMi~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1779980400&x-signature=DkQviuS07i8xWzyrqjIsUTAoQsg%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260514233835071065D3F3CB0090945F",
+    "https://p3-sign.douyinpic.com/tos-cn-i-0813/ooAvg7naAXAFKTtGBrEwAQyAIIpjiIPAIDPMi~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1779980400&x-signature=PHacw%2FF3%2FUQI8rd2TPzKH7SGES8%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260514233835071065D3F3CB0090945F",
+    "https://p11-sign.douyinpic.com/tos-cn-i-0813/ooAvg7naAXAFKTtGBrEwAQyAIIpjiIPAIDPMi~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1779980400&x-signature=FFNc%2FG9bzxt6no6yOGRai5yxFwU%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260514233835071065D3F3CB0090945F",
+    "https://p26-sign.douyinpic.com/tos-cn-i-0813/ooAvg7naAXAFKTtGBrEwAQyAIIpjiIPAIDPMi~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1779980400&x-signature=baxds0VdXBpYWMKkSZwOziRl38Y%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260514233835071065D3F3CB0090945F"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0d00fg10000d81he0fog65ikl7q67s0&ratio=720p&line=0"
+  ]
+}
