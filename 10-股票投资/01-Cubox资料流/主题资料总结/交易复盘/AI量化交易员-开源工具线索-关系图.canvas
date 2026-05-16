@@ -1,0 +1,102 @@
+{
+  "nodes": [
+    {
+      "id": "source",
+      "type": "file",
+      "x": -820,
+      "y": -260,
+      "width": 330,
+      "height": 140,
+      "file": "10-股票投资/01-Cubox资料流/主题资料总结/交易复盘/AI量化交易员-开源工具线索.md",
+      "color": "1"
+    },
+    {
+      "id": "center",
+      "type": "text",
+      "x": -420,
+      "y": -260,
+      "width": 430,
+      "height": 150,
+      "color": "2",
+      "text": "AI量化工具链\n\n• 工具功能模块，不是产业链\n• 保留模块/市场/模型"
+    },
+    {
+      "id": "g1",
+      "type": "text",
+      "x": -820,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "2",
+      "text": "策略生成\n\n• 自然语言输入\n• 策略代码生成\n• 核验：仓库/代码质量"
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "x": -310,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "3",
+      "text": "回测/调参\n\n• 回测框架\n• 手续费/滑点/复权\n• AI调参\n• 样本外验证"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "x": 200,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "4",
+      "text": "交易雷达\n\n• 全球金融数据\n• 热门机会推送\n• 核验：数据合法性/延迟"
+    },
+    {
+      "id": "g4",
+      "type": "text",
+      "x": 710,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "5",
+      "text": "市场/模型支持\n\n• 外汇/股市/期货/加密\n• OpenAI/DeepSeek/Claude/Gemini\n• 核验：成本/稳定性/合规"
+    }
+  ],
+  "edges": [
+    {
+      "id": "source-center",
+      "fromNode": "source",
+      "fromSide": "right",
+      "toNode": "center",
+      "toSide": "left",
+      "label": "来源"
+    },
+    {
+      "id": "center-g1",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g1",
+      "toSide": "left"
+    },
+    {
+      "id": "center-g2",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g2",
+      "toSide": "left"
+    },
+    {
+      "id": "center-g3",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g3",
+      "toSide": "left"
+    },
+    {
+      "id": "center-g4",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g4",
+      "toSide": "left"
+    }
+  ]
+}

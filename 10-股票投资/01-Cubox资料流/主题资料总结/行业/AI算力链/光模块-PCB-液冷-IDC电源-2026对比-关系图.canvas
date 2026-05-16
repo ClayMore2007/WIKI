@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"source","type":"file","x":-820,"y":-260,"width":330,"height":140,"file":"10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/光模块-PCB-液冷-IDC电源-2026对比.md","color":"1"},
+		{"id":"center","type":"text","x":-420,"y":-260,"width":430,"height":150,"color":"2","text":"AI数据中心四赛道\n\n• 共同驱动：AI服务器/交换机/GPU扩容\n• 只保留赛道与关键公司/核验项"},
+		{"id":"g1","type":"text","x":-820,"y":20,"width":450,"height":220,"color":"3","text":"光模块\n\n• 环节：800G/1.6T 光模块\n• 关注：出货节奏、价格、客户集中度\n• 风险：预期拥挤/产能扩张"},
+		{"id":"g2","type":"text","x":-310,"y":20,"width":450,"height":220,"color":"4","text":"PCB\n\n• 环节：AI服务器/交换机高端板\n• 关注：单机价值量、稼动率、毛利\n• 风险：扩产后供给释放"},
+		{"id":"g3","type":"text","x":200,"y":20,"width":450,"height":220,"color":"5","text":"液冷\n\n• 环节：冷板/浸没式/热管理\n• 资料偏好：低渗透率+高壁垒+维护复购\n• 关注：订单、渗透率、漏液风险"},
+		{"id":"g4","type":"text","x":710,"y":20,"width":450,"height":220,"color":"6","text":"IDC电源\n\n• 环节：UPS/HVDC/备用电源\n• 关注：订单兑现、收入占比\n• 风险：大企业话语权强，小公司弹性不确定"}
+	],
+	"edges":[
+		{"id":"source-center","fromNode":"source","fromSide":"right","toNode":"center","toSide":"left","label":"来源"},
+		{"id":"center-g1","fromNode":"center","fromSide":"right","toNode":"g1","toSide":"left"},
+		{"id":"center-g2","fromNode":"center","fromSide":"right","toNode":"g2","toSide":"left"},
+		{"id":"center-g3","fromNode":"center","fromSide":"right","toNode":"g3","toSide":"left"},
+		{"id":"center-g4","fromNode":"center","fromSide":"right","toNode":"g4","toSide":"left"}
+	]
+}

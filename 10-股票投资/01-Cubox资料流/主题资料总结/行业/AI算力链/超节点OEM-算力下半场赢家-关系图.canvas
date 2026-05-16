@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"source","type":"file","x":-820,"y":-260,"width":330,"height":140,"file":"10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/超节点OEM-算力下半场赢家.md","color":"1"},
+		{"id":"center","type":"text","x":-420,"y":-260,"width":430,"height":150,"color":"2","text":"超节点 OEM 产业链\n\n• 超节点提升系统集成复杂度\n• OEM/ODM、液冷、电源、连接器受关注"},
+		{"id":"g1","type":"text","x":-820,"y":20,"width":450,"height":220,"color":"2","text":"需求端\n\n• 大模型调用量上行\n• 推理需求产业化\n• 大厂CAPEX/服务器采购"},
+		{"id":"g2","type":"text","x":-310,"y":20,"width":450,"height":220,"color":"3","text":"超节点系统\n\n• GPU集群逻辑一体化\n• 电源/液冷/连接器/运维要求提升\n• GB200/NVL、国产Atlas/海光方案待核验"},
+		{"id":"g3","type":"text","x":200,"y":20,"width":450,"height":220,"color":"4","text":"OEM/ODM\n\n• 服务器OEM/ODM厂商\n• 核验：AI服务器收入占比、客户认证、交付能力"},
+		{"id":"g4","type":"text","x":710,"y":20,"width":450,"height":220,"color":"5","text":"配套链\n\n• 液冷、电源、连接器、机柜\n• 核验：订单、毛利、供应份额"}
+	],
+	"edges":[
+		{"id":"source-center","fromNode":"source","fromSide":"right","toNode":"center","toSide":"left","label":"来源"},
+		{"id":"center-g1","fromNode":"center","fromSide":"right","toNode":"g1","toSide":"left"},
+		{"id":"center-g2","fromNode":"center","fromSide":"right","toNode":"g2","toSide":"left"},
+		{"id":"center-g3","fromNode":"center","fromSide":"right","toNode":"g3","toSide":"left"},
+		{"id":"center-g4","fromNode":"center","fromSide":"right","toNode":"g4","toSide":"left"}
+	]
+}

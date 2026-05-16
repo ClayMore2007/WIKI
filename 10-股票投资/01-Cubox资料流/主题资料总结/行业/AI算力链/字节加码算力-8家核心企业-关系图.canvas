@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"source","type":"file","x":-820,"y":-260,"width":330,"height":140,"file":"10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/字节加码算力-8家核心企业.md","color":"1"},
+		{"id":"center","type":"text","x":-420,"y":-260,"width":430,"height":150,"color":"2","text":"字节 AI 算力 CAPEX 线索\n\n• 前提：2026 AI基建CAPEX 1600亿→2000亿（媒体声称）\n• 主链：智算中心→服务器集群→算力硬件/IDC/液冷/PCB\n• 全部公司关系待核验"},
+		{"id":"g1","type":"text","x":-820,"y":20,"width":450,"height":220,"color":"4","text":"AI芯片/IP\n\n• 寒武纪：AI加速芯片｜待核验字节订单\n• 芯原股份：芯片IP/设计服务｜待核验AI芯片链关系"},
+		{"id":"g2","type":"text","x":-310,"y":20,"width":450,"height":220,"color":"3","text":"网络/光模块\n\n• 锐捷网络：交换机/路由器｜待核验采购名单\n• 光迅科技：光模块/光芯片｜本地自选｜待核验AI数据中心收入"},
+		{"id":"g3","type":"text","x":200,"y":20,"width":450,"height":220,"color":"5","text":"服务器/IDC\n\n• 浪潮信息：AI服务器｜持仓+自选｜优先核验供货关系\n• 润泽科技：IDC/算力运营｜自选｜核验大客户披露"},
+		{"id":"g4","type":"text","x":710,"y":20,"width":450,"height":220,"color":"6","text":"液冷/PCB\n\n• 东阳光：IDC/液冷｜自选｜区分资产主体\n• 沪电股份：高端PCB｜自选｜核验AI服务器PCB订单"}
+	],
+	"edges":[
+		{"id":"source-center","fromNode":"source","fromSide":"right","toNode":"center","toSide":"left","label":"来源"},
+		{"id":"center-g1","fromNode":"center","fromSide":"right","toNode":"g1","toSide":"left"},
+		{"id":"center-g2","fromNode":"center","fromSide":"right","toNode":"g2","toSide":"left"},
+		{"id":"center-g3","fromNode":"center","fromSide":"right","toNode":"g3","toSide":"left"},
+		{"id":"center-g4","fromNode":"center","fromSide":"right","toNode":"g4","toSide":"left"}
+	]
+}

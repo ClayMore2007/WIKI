@@ -1,0 +1,102 @@
+{
+  "nodes": [
+    {
+      "id": "source",
+      "type": "file",
+      "x": -820,
+      "y": -260,
+      "width": 330,
+      "height": 140,
+      "file": "10-股票投资/01-Cubox资料流/主题资料总结/财报/2026Q1-高盛A股扫货复盘-三条主线.md",
+      "color": "1"
+    },
+    {
+      "id": "center",
+      "type": "text",
+      "x": -420,
+      "y": -260,
+      "width": 430,
+      "height": 150,
+      "color": "2",
+      "text": "高盛Q1 A股持仓主线\n\n• 视频声称：新进219只A股\n• 主线：AI/新能源/小金属/消费周期补充"
+    },
+    {
+      "id": "g1",
+      "type": "text",
+      "x": -820,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "2",
+      "text": "AI\n\n• 算力、光模块、服务器、半导体等\n• 核验：持仓市值/比例/连续性"
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "x": -310,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "3",
+      "text": "新能源\n\n• 电池、储能、材料修复方向\n• 核验：周期位置、盈利修复"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "x": 200,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "4",
+      "text": "小金属\n\n• 资源约束/涨价弹性\n• 核验：品种供需、库存、政策"
+    },
+    {
+      "id": "g4",
+      "type": "text",
+      "x": 710,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "5",
+      "text": "消费/周期\n\n• 组合补充项\n• 核验：是否非主线、仓位是否很小"
+    }
+  ],
+  "edges": [
+    {
+      "id": "source-center",
+      "fromNode": "source",
+      "fromSide": "right",
+      "toNode": "center",
+      "toSide": "left",
+      "label": "来源"
+    },
+    {
+      "id": "center-g1",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g1",
+      "toSide": "left"
+    },
+    {
+      "id": "center-g2",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g2",
+      "toSide": "left"
+    },
+    {
+      "id": "center-g3",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g3",
+      "toSide": "left"
+    },
+    {
+      "id": "center-g4",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g4",
+      "toSide": "left"
+    }
+  ]
+}

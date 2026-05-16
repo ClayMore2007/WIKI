@@ -1,0 +1,102 @@
+{
+  "nodes": [
+    {
+      "id": "source",
+      "type": "file",
+      "x": -820,
+      "y": -260,
+      "width": 330,
+      "height": 140,
+      "file": "10-股票投资/01-Cubox资料流/主题资料总结/交易复盘/AI分析情绪周期的助手.md",
+      "color": "1"
+    },
+    {
+      "id": "center",
+      "type": "text",
+      "x": -420,
+      "y": -260,
+      "width": 430,
+      "height": 150,
+      "color": "2",
+      "text": "AI情绪周期工具链\n\n• 工具线索，不是产业链\n• 只保留模块/数据源/输出"
+    },
+    {
+      "id": "g1",
+      "type": "text",
+      "x": -820,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "2",
+      "text": "数据源\n\n• 指数\n• 涨跌家数\n• 成交额\n• 连板\n• 龙虎榜\n• 题材热度"
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "x": -310,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "3",
+      "text": "情绪阶段\n\n• 冰点\n• 回暖\n• 高潮\n• 退潮\n• 阈值/模型需核验"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "x": 200,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "4",
+      "text": "输出\n\n• 复盘提示\n• 风险提示\n• 题材热度观察"
+    },
+    {
+      "id": "g4",
+      "type": "text",
+      "x": 710,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "6",
+      "text": "工具核验\n\n• 工具链接\n• 截图/录屏\n• 数据合法性\n• 不自动下单"
+    }
+  ],
+  "edges": [
+    {
+      "id": "source-center",
+      "fromNode": "source",
+      "fromSide": "right",
+      "toNode": "center",
+      "toSide": "left",
+      "label": "来源"
+    },
+    {
+      "id": "center-g1",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g1",
+      "toSide": "left"
+    },
+    {
+      "id": "center-g2",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g2",
+      "toSide": "left"
+    },
+    {
+      "id": "center-g3",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g3",
+      "toSide": "left"
+    },
+    {
+      "id": "center-g4",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g4",
+      "toSide": "left"
+    }
+  ]
+}

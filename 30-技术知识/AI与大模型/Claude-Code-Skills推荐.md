@@ -1,10 +1,10 @@
----
+﻿---
 status: seed
 updated: 2026-05-11
 confidence: medium
 sources:
   - "[[30-技术知识/AI与大模型/Cubox-AI资料索引]]"
-  - "[[00-log-整理日志/Cubox整理报告-2026-05-11]]"
+  - "[[00-log-整理日志/2026-05-11-Cubox整理报告]]"
 ---
 
 # Claude Code Skills 与工具推荐

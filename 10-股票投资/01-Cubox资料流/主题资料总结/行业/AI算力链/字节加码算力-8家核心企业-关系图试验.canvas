@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"source","type":"file","file":"10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/字节加码算力-8家核心企业.md","x":-760,"y":-260,"width":360,"height":180,"color":"1"},
+		{"id":"premise","type":"text","text":"核心前提\n\n媒体/视频声称：字节 2026 AI 基建 CAPEX 从 1600 亿上调至 2000 亿，增量约 400 亿。\n\n状态：非官方披露，只能作为产业线索。","x":-320,"y":-280,"width":390,"height":210,"color":"2"},
+		{"id":"chain","type":"text","text":"传导链条\n\nCAPEX 上调 → 智算中心扩建 → AI 服务器集群扩容 → 芯片 / 网络 / 光模块 / IDC / 液冷 / PCB 需求。","x":160,"y":-260,"width":390,"height":180,"color":"3"},
+		{"id":"verify","type":"text","text":"P0 核验闸门\n\n1. 官方或交叉来源确认 CAPEX\n2. 订单或客户披露\n3. 收入占比与毛利率\n4. 交付节奏与产能\n5. 区分直接受益与概念映射","x":640,"y":-280,"width":380,"height":230,"color":"6"},
+		{"id":"chips","type":"text","text":"芯片与 IP\n\n寒武纪：AI 加速芯片，需核验字节订单/供应商关系。\n\n芯原股份：芯片 IP / 设计服务，需核验与字节 AI 芯片链关系。","x":-760,"y":40,"width":420,"height":230,"color":"4"},
+		{"id":"network","type":"text","text":"网络与光互联\n\n锐捷网络：数据中心交换机 / 路由器，需核验采购名单和订单规模。\n\n光迅科技：光模块 / 光芯片，本地为自选；需核验 AI 数据中心收入弹性和字节订单。","x":-260,"y":40,"width":440,"height":250,"color":"3"},
+		{"id":"server","type":"text","text":"服务器与 IDC\n\n浪潮信息：AI 服务器，本地持仓 + 自选；最高优先级核验供货关系、毛利率、交付节奏。\n\n润泽科技：IDC / 算力运营，本地自选；核验 REIT 募集书、年报和大客户披露。","x":260,"y":40,"width":460,"height":270,"color":"5"},
+		{"id":"cooling-pcb","type":"text","text":"液冷与 PCB\n\n东阳光：IDC / 液冷，本地自选；需区分上市公司、控股股东和资产主体。\n\n沪电股份：高端 PCB，本地自选；核验 AI 服务器 PCB 订单、客户结构和产能利用率。","x":800,"y":40,"width":460,"height":270,"color":"5"},
+		{"id":"portfolio","type":"text","text":"本地股票池暴露\n\n持仓 + 自选：浪潮信息\n自选：光迅科技、润泽科技、东阳光、沪电股份\n未在当前池：寒武纪、芯原股份、锐捷网络","x":-760,"y":390,"width":540,"height":200,"color":"3"},
+		{"id":"risk","type":"text","text":"风险提示\n\n短视频投研内容，全部结论必须回到公告、财报和研报核实。\n\n若“字节 2000 亿 AI CAPEX”前提不成立，整条推导需要降权。\n\n不构成投资建议。","x":-120,"y":390,"width":560,"height":220,"color":"6"}
+	],
+	"edges":[
+		{"id":"e-source-premise","fromNode":"source","fromSide":"right","toNode":"premise","toSide":"left","label":"抽取核心前提"},
+		{"id":"e-premise-chain","fromNode":"premise","fromSide":"right","toNode":"chain","toSide":"left","label":"形成产业链传导"},
+		{"id":"e-chain-verify","fromNode":"chain","fromSide":"right","toNode":"verify","toSide":"left","label":"所有结论先过核验"},
+		{"id":"e-chain-chips","fromNode":"chain","fromSide":"bottom","toNode":"chips","toSide":"top"},
+		{"id":"e-chain-network","fromNode":"chain","fromSide":"bottom","toNode":"network","toSide":"top"},
+		{"id":"e-chain-server","fromNode":"chain","fromSide":"bottom","toNode":"server","toSide":"top"},
+		{"id":"e-chain-cooling-pcb","fromNode":"chain","fromSide":"bottom","toNode":"cooling-pcb","toSide":"top"},
+		{"id":"e-server-portfolio","fromNode":"server","fromSide":"bottom","toNode":"portfolio","toSide":"right","label":"映射持仓/自选"},
+		{"id":"e-network-portfolio","fromNode":"network","fromSide":"bottom","toNode":"portfolio","toSide":"top"},
+		{"id":"e-cooling-portfolio","fromNode":"cooling-pcb","fromSide":"bottom","toNode":"portfolio","toSide":"right"},
+		{"id":"e-verify-risk","fromNode":"verify","fromSide":"bottom","toNode":"risk","toSide":"right","label":"降权规则"}
+	]
+}

@@ -1,0 +1,102 @@
+{
+  "nodes": [
+    {
+      "id": "source",
+      "type": "file",
+      "x": -820,
+      "y": -260,
+      "width": 330,
+      "height": 140,
+      "file": "10-股票投资/01-Cubox资料流/主题资料总结/行业/半导体/半导体先进制程扩产-产业链梳理.md",
+      "color": "1"
+    },
+    {
+      "id": "center",
+      "type": "text",
+      "x": -420,
+      "y": -260,
+      "width": 430,
+      "height": 150,
+      "color": "2",
+      "text": "先进制程扩产链\n\n• 设备→材料→代工→先进封装\n• 关键是国产替代率与订单兑现"
+    },
+    {
+      "id": "g1",
+      "type": "text",
+      "x": -820,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "2",
+      "text": "设备\n\n• 北方华创：设备平台\n• 中微公司：刻蚀等\n• 拓荆科技：薄膜沉积\n• 核验：订单/招标/国产化率"
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "x": -310,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "3",
+      "text": "材料\n\n• 沪硅产业：12英寸硅片\n• 江丰电子：靶材\n• 彤程新材：光刻胶相关\n• 核验：客户认证/收入占比"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "x": 200,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "4",
+      "text": "代工\n\n• 中芯国际：先进/成熟制程\n• 华虹公司：特色工艺\n• 核验：产能利用率/扩产进展"
+    },
+    {
+      "id": "g4",
+      "type": "text",
+      "x": 710,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "5",
+      "text": "先进封装\n\n• 盛合晶微（疑似）\n• 长电科技、通富微电\n• 方向：2.5D/3D/Chiplet"
+    }
+  ],
+  "edges": [
+    {
+      "id": "source-center",
+      "fromNode": "source",
+      "fromSide": "right",
+      "toNode": "center",
+      "toSide": "left",
+      "label": "来源"
+    },
+    {
+      "id": "center-g1",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g1",
+      "toSide": "left"
+    },
+    {
+      "id": "center-g2",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g2",
+      "toSide": "left"
+    },
+    {
+      "id": "center-g3",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g3",
+      "toSide": "left"
+    },
+    {
+      "id": "center-g4",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g4",
+      "toSide": "left"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 ---
 status: active
-updated: 2026-05-13
+updated: 2026-05-15
 confidence: low
 source_type: douyin_video
 source_author: 研报聚焦
@@ -18,6 +18,9 @@ tags:
   - IDC电源
   - 算力基建
 raw_source: "[[80-raw-原始资料/Cubox/股票/2.51 复制打开抖音，看看【研报聚焦的作品】光模块、PCB、液冷、IDC 电源 2026 年只...  L@J.vs 06-17 ygB---2026-05-05]]"
+external_sources:
+  - "https://www.trendforce.cn/presscenter/news/20260506-13034.html"
+  - "https://omdia.tech.informa.com/-/media/tech/omdia/marketing/campaigns/data-center-thermal-management-and-sustainability-intelligence-service/omdia-data-center-infographic_r5.pdf"
 ---
 
 # 光模块 vs PCB vs 液冷 vs IDC电源：2026谁增长最大
@@ -56,6 +59,8 @@ raw_source: "[[80-raw-原始资料/Cubox/股票/2.51 复制打开抖音，看看
 | 待核验重点 | 800G/1.6T真实出货节奏、龙头估值、机构持仓、产能/需求增速 | 高端PCB订单、扩产节奏、实际稼动率和毛利趋势 | 液冷渗透率、市场规模、毛利率、核心公司订单和复购周期 | IDC电源企业收入占比、订单兑现、HVDC/UPS路线 |
 
 ## 液冷逻辑拆解（来源声称）
+
+P0 阶段性核验：TrendForce 2026-05-06 的 CSP 资本开支研究支持“AI Server 用电量上升会带动 HVDC、液冷散热等关键零部件成长”的方向；Omdia 资料支持液冷用于改善功率/散热比并满足新型数据中心负载。但本视频中的“国内液冷服务器渗透率约20%、AI智算中心向50%以上”等具体数字尚未找到原始出处，继续按“来源声称”处理。
 
 | 逻辑 | 视频说法 | 核验要求 |
 |---|---|---|

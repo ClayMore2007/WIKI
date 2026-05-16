@@ -1,0 +1,102 @@
+{
+  "nodes": [
+    {
+      "id": "source",
+      "type": "file",
+      "x": -820,
+      "y": -260,
+      "width": 330,
+      "height": 140,
+      "file": "10-股票投资/01-Cubox资料流/主题资料总结/财报/2026Q1-从亏10亿到赚38亿-业绩反转.md",
+      "color": "1"
+    },
+    {
+      "id": "center",
+      "type": "text",
+      "x": -420,
+      "y": -260,
+      "width": 430,
+      "height": 150,
+      "color": "2",
+      "text": "Q1业绩反转链\n\n• 反转原因：价格周期/需求爆发/产品升级/一次性因素\n• 先校验财报数字"
+    },
+    {
+      "id": "g1",
+      "type": "text",
+      "x": -820,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "2",
+      "text": "存储链\n\n• 江波龙：存储方案\n• 德明利：DDR5/SSD/主控\n• 佰维存储：存储模组\n• 核验：存储价格/库存/企业级占比"
+    },
+    {
+      "id": "g2",
+      "type": "text",
+      "x": -310,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "3",
+      "text": "光模块\n\n• 中际旭创：800G/1.6T\n• 核验：财报数字、海外客户、价格/份额"
+    },
+    {
+      "id": "g3",
+      "type": "text",
+      "x": 200,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "4",
+      "text": "动力/储能电池\n\n• 宁德时代：动力+储能龙头\n• ASR数字需核验\n• 核验：份额/毛利率/价格战"
+    },
+    {
+      "id": "g4",
+      "type": "text",
+      "x": 710,
+      "y": 20,
+      "width": 450,
+      "height": 220,
+      "color": "6",
+      "text": "反转判断\n\n• 低基数\n• 价格回暖\n• 需求爆发\n• 非经常性损益"
+    }
+  ],
+  "edges": [
+    {
+      "id": "source-center",
+      "fromNode": "source",
+      "fromSide": "right",
+      "toNode": "center",
+      "toSide": "left",
+      "label": "来源"
+    },
+    {
+      "id": "center-g1",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g1",
+      "toSide": "left"
+    },
+    {
+      "id": "center-g2",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g2",
+      "toSide": "left"
+    },
+    {
+      "id": "center-g3",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g3",
+      "toSide": "left"
+    },
+    {
+      "id": "center-g4",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "g4",
+      "toSide": "left"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
----
+﻿---
 status: active
 updated: 2026-05-11
 confidence: medium
 sources:
   - "[[80-raw-原始资料/Cubox/旅游/README]]"
-  - "[[00-log-整理日志/Cubox整理报告-2026-05-11]]"
+  - "[[00-log-整理日志/2026-05-11-Cubox整理报告]]"
 ---
 
 # Cubox 旅游资料索引
@@ -28,4 +28,4 @@ sources:
 ## 来源入口
 
 - raw 副本：[[80-raw-原始资料/Cubox/旅游/README]]
-- 整理报告：[[00-log-整理日志/Cubox整理报告-2026-05-11]]
+- 整理报告：[[00-log-整理日志/2026-05-11-Cubox整理报告]]

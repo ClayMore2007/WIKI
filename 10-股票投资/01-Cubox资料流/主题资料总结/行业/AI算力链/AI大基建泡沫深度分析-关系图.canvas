@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"source","type":"file","x":-820,"y":-260,"width":330,"height":140,"file":"10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/AI大基建泡沫深度分析.md","color":"1"},
+		{"id":"center","type":"text","x":-420,"y":-260,"width":430,"height":150,"color":"2","text":"AI大基建六环节\n\n• 判断是否泡沫，先拆产业链环节\n• 每环节看供需、订单、价格、利润"},
+		{"id":"g1","type":"text","x":-820,"y":20,"width":450,"height":220,"color":"2","text":"芯片\n\n• GPU/ASIC/CPU\n• 核验：供给、国产替代、客户验证"},
+		{"id":"g2","type":"text","x":-310,"y":20,"width":450,"height":220,"color":"3","text":"PCB/光模块\n\n• PCB：高多层板/HDI/价值量\n• 光模块：800G/1.6T出货/价格/份额"},
+		{"id":"g3","type":"text","x":200,"y":20,"width":450,"height":220,"color":"4","text":"交换机/网络\n\n• 数据中心网络架构升级\n• 核验：交换机速率、白盒/品牌格局"},
+		{"id":"g4","type":"text","x":710,"y":20,"width":450,"height":220,"color":"5","text":"散热/电力\n\n• 散热：风冷/冷板/浸没式液冷\n• 电力：供电/配电/储能/绿电"}
+	],
+	"edges":[
+		{"id":"source-center","fromNode":"source","fromSide":"right","toNode":"center","toSide":"left","label":"来源"},
+		{"id":"center-g1","fromNode":"center","fromSide":"right","toNode":"g1","toSide":"left"},
+		{"id":"center-g2","fromNode":"center","fromSide":"right","toNode":"g2","toSide":"left"},
+		{"id":"center-g3","fromNode":"center","fromSide":"right","toNode":"g3","toSide":"left"},
+		{"id":"center-g4","fromNode":"center","fromSide":"right","toNode":"g4","toSide":"left"}
+	]
+}

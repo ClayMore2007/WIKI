@@ -1,0 +1,39 @@
+{
+  "video_id": "7639940305118071423",
+  "source_url": "https://www.douyin.com/share/video/7639940305118071423/",
+  "desc": "高盛最新研报:澜起科技。#澜起科技 #研报 #高盛",
+  "created_at": "2026-05-15T10:30:19",
+  "create_time": 1778812219,
+  "author": {
+    "nickname": "每日读研报",
+    "short_id": "612593891",
+    "signature": "快速更新国内国外最新研报播客"
+  },
+  "duration_ms": 1700514,
+  "width": 1178,
+  "height": 2094,
+  "statistics": {
+    "digg_count": 31,
+    "comment_count": 0,
+    "share_count": 14,
+    "collect_count": 20
+  },
+  "hashtags": [
+    "澜起科技",
+    "研报",
+    "高盛"
+  ],
+  "music": {
+    "title": "@每日读研报创作的原声一每日读研报",
+    "author": "每日读研报"
+  },
+  "cover_urls": [
+    "https://p11-sign.douyinpic.com/tos-cn-p-0015/okQUCafxIrOLXQFAeA1QDEOU7oLBGBFVBeVglE~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780056000&x-signature=cKFZqnUiJNdINJMM5TYSsCPdqIA%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260515205503C8C14DB512CFC81813F9",
+    "https://p26-sign.douyinpic.com/tos-cn-p-0015/okQUCafxIrOLXQFAeA1QDEOU7oLBGBFVBeVglE~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780056000&x-signature=Va6o1LLHDkFI3gz6OFCqojK9cXI%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260515205503C8C14DB512CFC81813F9",
+    "https://p3-sign.douyinpic.com/tos-cn-p-0015/okQUCafxIrOLXQFAeA1QDEOU7oLBGBFVBeVglE~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780056000&x-signature=%2FO%2BU5YXnZMNdh0eOBu9u3oQ06jA%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260515205503C8C14DB512CFC81813F9",
+    "https://p11-sign.douyinpic.com/tos-cn-p-0015/okQUCafxIrOLXQFAeA1QDEOU7oLBGBFVBeVglE~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1780056000&x-signature=h0xS4GdTCLrDI2Ed7v9JzN3V9vU%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260515205503C8C14DB512CFC81813F9"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000d838a5fog65l9om1bp8g&ratio=720p&line=0"
+  ]
+}
