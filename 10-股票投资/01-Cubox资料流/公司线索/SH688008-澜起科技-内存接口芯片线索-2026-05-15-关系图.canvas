@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"source","type":"file","x":-820,"y":-280,"width":360,"height":150,"file":"10-股票投资/01-Cubox资料流/公司线索/SH688008-澜起科技-内存接口芯片线索-2026-05-15.md","color":"1"},
+		{"id":"center","type":"text","x":-390,"y":-280,"width":450,"height":170,"color":"2","text":"澜起科技：内存接口芯片线索\n\n• 来源：抖音转写/研报解读\n• 低置信，只作待核验线索\n• 不构成投资建议"},
+		{"id":"demand","type":"text","x":-820,"y":20,"width":430,"height":210,"color":"2","text":"需求侧假设\n\n• Agentic AI 增加 CPU 编排压力\n• 内存访问更碎片化\n• 服务器数据搬运瓶颈待验证"},
+		{"id":"memory","type":"text","x":-320,"y":20,"width":430,"height":210,"color":"3","text":"内存接口产品\n\n• RCD / MRCD\n• MDB / 数据缓冲\n• DDR5/MR-DIMM 术语需校对"},
+		{"id":"io","type":"text","x":180,"y":20,"width":430,"height":210,"color":"4","text":"高速互联产品\n\n• PCIe Retimer\n• PCIe Switch\n• 光学互联 IC 研发线索\n• 客户/进度待公告核验"},
+		{"id":"valuation","type":"text","x":680,"y":20,"width":430,"height":210,"color":"5","text":"研报/估值声称\n\n• 目标价和增速来自视频转述\n• H/A 溢价口径待核验\n• 必须回原研报和财报"},
+		{"id":"risk","type":"text","x":-320,"y":300,"width":430,"height":180,"color":"6","text":"主要风险\n\n• ASR 公司名/术语误识别\n• 新品 tape-out 或量产延期\n• AI Capex 放缓\n• 竞争路线变化"}
+	],
+	"edges":[
+		{"id":"source-center","fromNode":"source","fromSide":"right","toNode":"center","toSide":"left","label":"来源页"},
+		{"id":"center-demand","fromNode":"center","fromSide":"bottom","toNode":"demand","toSide":"top","label":"需求"},
+		{"id":"demand-memory","fromNode":"demand","fromSide":"right","toNode":"memory","toSide":"left","label":"带动"},
+		{"id":"memory-io","fromNode":"memory","fromSide":"right","toNode":"io","toSide":"left","label":"延伸"},
+		{"id":"io-valuation","fromNode":"io","fromSide":"right","toNode":"valuation","toSide":"left","label":"支撑声称"},
+		{"id":"center-risk","fromNode":"center","fromSide":"bottom","toNode":"risk","toSide":"top","label":"待核验"}
+	]
+}

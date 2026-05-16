@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"source","type":"file","x":-820,"y":-280,"width":360,"height":150,"file":"10-股票投资/01-Cubox资料流/主题资料总结/交易复盘/买在无人问津处-市场情绪风险复盘.md","color":"1"},
+		{"id":"center","type":"text","x":-390,"y":-280,"width":450,"height":170,"color":"2","text":"市场情绪风险复盘\n\n• 买在无人问津处/卖在人声鼎沸时\n• 只作复盘框架\n• 不自动触发交易"},
+		{"id":"emotion","type":"text","x":-820,"y":20,"width":430,"height":210,"color":"2","text":"社交情绪\n\n• 赚钱神话扩散\n• 踏空焦虑\n• 辞职/加仓冲动\n• 人声鼎沸信号"},
+		{"id":"leverage","type":"text","x":-320,"y":20,"width":430,"height":210,"color":"3","text":"杠杆与融资\n\n• 保单贷/场外配置线索\n• 美元融资成本\n• 隐性杠杆待核验"},
+		{"id":"macro","type":"text","x":180,"y":20,"width":430,"height":210,"color":"4","text":"宏观流动性\n\n• 美债/QT/美元走强\n• 资金成本上升\n• 对高估值科技股形成压力"},
+		{"id":"theme","type":"text","x":680,"y":20,"width":430,"height":210,"color":"5","text":"产业叙事\n\n• AI/半导体/算力反复强化\n• 从事实验证转向情绪接力\n• 需防单一主题偏见"},
+		{"id":"action","type":"text","x":-320,"y":300,"width":430,"height":180,"color":"6","text":"周复盘动作\n\n• 记录观察\n• 标注来源声称\n• 不写买卖指令\n• 另建决策页再验证"}
+	],
+	"edges":[
+		{"id":"source-center","fromNode":"source","fromSide":"right","toNode":"center","toSide":"left","label":"来源页"},
+		{"id":"center-emotion","fromNode":"center","fromSide":"bottom","toNode":"emotion","toSide":"top","label":"观察"},
+		{"id":"emotion-leverage","fromNode":"emotion","fromSide":"right","toNode":"leverage","toSide":"left","label":"强化"},
+		{"id":"leverage-macro","fromNode":"leverage","fromSide":"right","toNode":"macro","toSide":"left","label":"受制于"},
+		{"id":"macro-theme","fromNode":"macro","fromSide":"right","toNode":"theme","toSide":"left","label":"冲击"},
+		{"id":"center-action","fromNode":"center","fromSide":"bottom","toNode":"action","toSide":"top","label":"输出"}
+	]
+}

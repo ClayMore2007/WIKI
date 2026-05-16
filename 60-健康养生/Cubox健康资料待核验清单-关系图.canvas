@@ -1,0 +1,124 @@
+{
+  "nodes": [
+    {
+      "id": "source",
+      "type": "file",
+      "x": -820,
+      "y": -280,
+      "width": 360,
+      "height": 150,
+      "file": "60-健康养生/Cubox健康资料待核验清单.md",
+      "color": "1"
+    },
+    {
+      "id": "center",
+      "type": "text",
+      "x": -390,
+      "y": -280,
+      "width": 450,
+      "height": 170,
+      "color": "2",
+      "text": "Cubox 健康资料待核验\n\n• 低置信线索池\n• 不提供诊断/治疗/用药建议\n• 先分层再核验"
+    },
+    {
+      "id": "theory",
+      "type": "text",
+      "x": -820,
+      "y": 20,
+      "width": 430,
+      "height": 210,
+      "color": "2",
+      "text": "中医理论\n\n• 同药不同效/辨证法\n• 三因极一病证方论\n• 可做概念史，不指导用药"
+    },
+    {
+      "id": "herbs",
+      "type": "text",
+      "x": -320,
+      "y": 20,
+      "width": 430,
+      "height": 210,
+      "color": "3",
+      "text": "药材/本草\n\n• 远志\n• 黄精直播线索\n• 功效/禁忌/相互作用必须核验"
+    },
+    {
+      "id": "practice",
+      "type": "text",
+      "x": 180,
+      "y": 20,
+      "width": 430,
+      "height": 210,
+      "color": "4",
+      "text": "养生/运动\n\n• 金刚功起源\n• 白发原因说法\n• 区分文化线索和医学证据"
+    },
+    {
+      "id": "personal",
+      "type": "text",
+      "x": 680,
+      "y": 20,
+      "width": 430,
+      "height": 210,
+      "color": "5",
+      "text": "医馆/个人体验\n\n• 成都金牛中医线索\n• 不记录个人健康隐私\n• 只保留低敏地点线索"
+    },
+    {
+      "id": "rules",
+      "type": "text",
+      "x": -320,
+      "y": 300,
+      "width": 430,
+      "height": 180,
+      "color": "6",
+      "text": "处理规则\n\n• 来源分层 A-D\n• 社媒只作线索\n• 药材页必须写禁忌\n• 无完整内容不写结论"
+    }
+  ],
+  "edges": [
+    {
+      "id": "source-center",
+      "fromNode": "source",
+      "fromSide": "right",
+      "toNode": "center",
+      "toSide": "left",
+      "label": "来源页"
+    },
+    {
+      "id": "center-theory",
+      "fromNode": "center",
+      "fromSide": "bottom",
+      "toNode": "theory",
+      "toSide": "top",
+      "label": "概念"
+    },
+    {
+      "id": "center-herbs",
+      "fromNode": "center",
+      "fromSide": "bottom",
+      "toNode": "herbs",
+      "toSide": "top",
+      "label": "药材"
+    },
+    {
+      "id": "center-practice",
+      "fromNode": "center",
+      "fromSide": "bottom",
+      "toNode": "practice",
+      "toSide": "top",
+      "label": "实践线索"
+    },
+    {
+      "id": "center-personal",
+      "fromNode": "center",
+      "fromSide": "bottom",
+      "toNode": "personal",
+      "toSide": "top",
+      "label": "隐私边界"
+    },
+    {
+      "id": "center-rules",
+      "fromNode": "center",
+      "fromSide": "bottom",
+      "toNode": "rules",
+      "toSide": "top",
+      "label": "约束"
+    }
+  ]
+}

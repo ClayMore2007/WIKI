@@ -1,0 +1,124 @@
+{
+  "nodes": [
+    {
+      "id": "source",
+      "type": "file",
+      "x": -820,
+      "y": -280,
+      "width": 360,
+      "height": 150,
+      "file": "20-旅游出行/目的地/成都周边和川西候选地-Cubox线索.md",
+      "color": "1"
+    },
+    {
+      "id": "center",
+      "type": "text",
+      "x": -390,
+      "y": -280,
+      "width": 450,
+      "height": 170,
+      "color": "2",
+      "text": "成都周边和川西候选地\n\n• Cubox 旅游 raw 候选池\n• 不是正式行程\n• 出行前必须核验"
+    },
+    {
+      "id": "longquan",
+      "type": "text",
+      "x": -820,
+      "y": 20,
+      "width": 430,
+      "height": 210,
+      "color": "2",
+      "text": "龙泉山短途\n\n• In Clouds 云崖山景餐厅\n• 成都出发约 1h 来源声称\n• 核验营业/预约/停车/消费"
+    },
+    {
+      "id": "hanyuan",
+      "type": "text",
+      "x": -320,
+      "y": 20,
+      "width": 430,
+      "height": 210,
+      "color": "3",
+      "text": "汉源牧场线索\n\n• 金黄野花/云海\n• 自驾直达来源声称\n• 核验精确地点/季节/路况"
+    },
+    {
+      "id": "camping",
+      "type": "text",
+      "x": 180,
+      "y": 20,
+      "width": 430,
+      "height": 210,
+      "color": "4",
+      "text": "露营线索\n\n• 成都周边免费露营\n• 朗莎营地直播入口\n• 核验过夜/明火/费用/安全"
+    },
+    {
+      "id": "genie",
+      "type": "text",
+      "x": 680,
+      "y": 20,
+      "width": 430,
+      "height": 210,
+      "color": "5",
+      "text": "川西/格聂\n\n• 7月蓝色花海线索\n• 高海拔和路况风险\n• 核验花期/住宿/车况"
+    },
+    {
+      "id": "checklist",
+      "type": "text",
+      "x": -320,
+      "y": 300,
+      "width": 430,
+      "height": 180,
+      "color": "6",
+      "text": "升级为行程条件\n\n• 精确地点\n• 近期开放状态\n• 费用/交通/天气\n• 风险和备选方案"
+    }
+  ],
+  "edges": [
+    {
+      "id": "source-center",
+      "fromNode": "source",
+      "fromSide": "right",
+      "toNode": "center",
+      "toSide": "left",
+      "label": "来源页"
+    },
+    {
+      "id": "center-longquan",
+      "fromNode": "center",
+      "fromSide": "bottom",
+      "toNode": "longquan",
+      "toSide": "top",
+      "label": "短途"
+    },
+    {
+      "id": "center-hanyuan",
+      "fromNode": "center",
+      "fromSide": "bottom",
+      "toNode": "hanyuan",
+      "toSide": "top",
+      "label": "自驾"
+    },
+    {
+      "id": "center-camping",
+      "fromNode": "center",
+      "fromSide": "bottom",
+      "toNode": "camping",
+      "toSide": "top",
+      "label": "露营"
+    },
+    {
+      "id": "center-genie",
+      "fromNode": "center",
+      "fromSide": "bottom",
+      "toNode": "genie",
+      "toSide": "top",
+      "label": "川西"
+    },
+    {
+      "id": "center-checklist",
+      "fromNode": "center",
+      "fromSide": "bottom",
+      "toNode": "checklist",
+      "toSide": "top",
+      "label": "核验后升级"
+    }
+  ]
+}
