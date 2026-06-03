@@ -1,0 +1,343 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "text",
+      "text": "# 2026-05-04 - 醉酒大佬-从选G到清仓方法论\n\n资料脑图｜按原文结构生成",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 170,
+      "color": "1",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n2",
+      "type": "text",
+      "text": "## 风险提示\n- \"醉酒布道\"是非正式场景，观点可能有情绪化成分。\n- 投资方法论需要个人验证，不能直接照搬。",
+      "x": 0,
+      "y": -460,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n3",
+      "type": "text",
+      "text": "当前只有图文描述和无音轨说明稿，不能用标题脑补完整方法论。",
+      "x": -79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n4",
+      "type": "text",
+      "text": "不构成投资建议。",
+      "x": 79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n5",
+      "type": "text",
+      "text": "## 笔记信息\n- 作者：大大子用湖接（图文笔记，非视频）\n- 发布：2026-05-04",
+      "x": 563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n6",
+      "type": "text",
+      "text": "互动：12558赞 / 1349评 / 3900分享（高热度）",
+      "x": 789,
+      "y": -451,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n7",
+      "type": "text",
+      "text": "原链：https://www.douyin.com/note/7635700654874748261",
+      "x": 887,
+      "y": -379,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n8",
+      "type": "text",
+      "text": "## 内容声称\n",
+      "x": 702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n9",
+      "type": "text",
+      "text": "## 提取状态\n- 抖音图文/笔记类型，duration = 0，当前只有 metadata 和 notes 模板。\n- 未取得图文正文或图片内容，因此不能提取真实“选股到清仓”方法论。",
+      "x": 312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n10",
+      "type": "text",
+      "text": "本页保留为高热度方法论线索，等待重新抓取图文正文或人工提供截图。",
+      "x": 535,
+      "y": 579,
+      "width": 330,
+      "height": 110,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n11",
+      "type": "text",
+      "text": "## 关键主题\n- 完整的投资流程：选股 → 持有 → 清仓\n- \"醉酒大佬\"可能是某位投资圈KOL的真实分享",
+      "x": -312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n12",
+      "type": "text",
+      "text": "投资方法论：选股标准、持仓管理、卖出纪律",
+      "x": -394,
+      "y": 619,
+      "width": 330,
+      "height": 110,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n13",
+      "type": "text",
+      "text": "\"干货满满\"暗示有具体的操作框架",
+      "x": -535,
+      "y": 579,
+      "width": 330,
+      "height": 110,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n14",
+      "type": "text",
+      "text": "## 图文待 OCR 内容\n- 选股方法论：什么标准筛选股票？\n- 持仓管理：仓位如何分配、何时加减仓？",
+      "x": -702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n15",
+      "type": "text",
+      "text": "清仓纪律：什么条件下必须卖出？",
+      "x": -1027,
+      "y": 192,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n16",
+      "type": "text",
+      "text": "\"醉酒\"状态下是否有独特的坦诚视角？",
+      "x": -1062,
+      "y": 103,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n17",
+      "type": "text",
+      "text": "## 最小核验框架\n- 模块 / 需要提取的内容\n- 选股 / 赛道、业绩、估值、筹码、技术形态或消息催化的排序",
+      "x": -563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n18",
+      "type": "text",
+      "text": "买入 / 买点条件、仓位比例、确认信号",
+      "x": -887,
+      "y": -379,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n19",
+      "type": "text",
+      "text": "持有 / 加仓/减仓条件，如何处理波动和回撤",
+      "x": -789,
+      "y": -451,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "toNode": "n2"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n2",
+      "toNode": "n3"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n2",
+      "toNode": "n4"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n1",
+      "toNode": "n5"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n5",
+      "toNode": "n6"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n5",
+      "toNode": "n7"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n1",
+      "toNode": "n8"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n1",
+      "toNode": "n9"
+    },
+    {
+      "id": "e9",
+      "fromNode": "n9",
+      "toNode": "n10"
+    },
+    {
+      "id": "e10",
+      "fromNode": "n1",
+      "toNode": "n11"
+    },
+    {
+      "id": "e11",
+      "fromNode": "n11",
+      "toNode": "n12"
+    },
+    {
+      "id": "e12",
+      "fromNode": "n11",
+      "toNode": "n13"
+    },
+    {
+      "id": "e13",
+      "fromNode": "n1",
+      "toNode": "n14"
+    },
+    {
+      "id": "e14",
+      "fromNode": "n14",
+      "toNode": "n15"
+    },
+    {
+      "id": "e15",
+      "fromNode": "n14",
+      "toNode": "n16"
+    },
+    {
+      "id": "e16",
+      "fromNode": "n1",
+      "toNode": "n17"
+    },
+    {
+      "id": "e17",
+      "fromNode": "n17",
+      "toNode": "n18"
+    },
+    {
+      "id": "e18",
+      "fromNode": "n17",
+      "toNode": "n19"
+    }
+  ]
+}

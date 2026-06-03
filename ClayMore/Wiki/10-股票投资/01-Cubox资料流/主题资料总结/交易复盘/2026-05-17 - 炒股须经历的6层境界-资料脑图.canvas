@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "text",
+      "text": "# 2026-05-17 - 炒股须经历的6层境界\n\n资料脑图｜按原文结构生成",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 170,
+      "color": "1",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n2",
+      "type": "text",
+      "text": "## 来源信息\n- 作者 / 张校长策略库（金水宝库）\n- 来源日期 / 2026-05-17",
+      "x": 0,
+      "y": -460,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n3",
+      "type": "text",
+      "text": "原始描述 / 炒股须经历的6层境界，第三层淘汰了89%的人",
+      "x": -79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n4",
+      "type": "text",
+      "text": "标签 / 股票、交易人生、交易心得",
+      "x": 79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n5",
+      "type": "text",
+      "text": "## 候选主题\n- 交易成长阶段\n- 交易心理",
+      "x": 624,
+      "y": 230,
+      "width": 430,
+      "height": 170,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n6",
+      "type": "text",
+      "text": "复盘方法观察",
+      "x": 968,
+      "y": 293,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n7",
+      "type": "text",
+      "text": "## 待核验问题\n- “6 层境界”的具体分层、定义和可观察行为是什么？\n- “第三层淘汰 89%”是否只是表达性数字，还是有样本或出处？",
+      "x": -624,
+      "y": 230,
+      "width": 430,
+      "height": 170,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n8",
+      "type": "text",
+      "text": "是否适合进入个人交易原则页，还是只作为交易心理观察材料？",
+      "x": -889,
+      "y": 372,
+      "width": 330,
+      "height": 110,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "toNode": "n2"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n2",
+      "toNode": "n3"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n2",
+      "toNode": "n4"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n1",
+      "toNode": "n5"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n5",
+      "toNode": "n6"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n1",
+      "toNode": "n7"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n7",
+      "toNode": "n8"
+    }
+  ]
+}

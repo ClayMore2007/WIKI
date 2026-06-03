@@ -1,0 +1,35 @@
+{
+  "video_id": "7646700651158831050",
+  "source_url": "https://www.douyin.com/video/7646700651158831050",
+  "desc": "",
+  "created_at": "2026-06-02T15:43:55",
+  "create_time": 1780386235,
+  "author": {
+    "nickname": "模型先生",
+    "short_id": "2797319917",
+    "signature": "80后交易员\n辩证法痴迷者\n只有抖音更新，其它平台全部为假。\n没有群，不会主动加任何人。"
+  },
+  "duration_ms": 36134,
+  "width": 1080,
+  "height": 1920,
+  "statistics": {
+    "digg_count": 13804,
+    "comment_count": 2680,
+    "share_count": 4512,
+    "collect_count": 2455
+  },
+  "hashtags": [],
+  "music": {
+    "title": "@模型先生创作的原声一模型先生",
+    "author": "模型先生"
+  },
+  "cover_urls": [
+    "https://p3-sign.douyinpic.com/tos-cn-p-0015/oYE9qHEgNOP4peDbAAmyiAgIDfAmFAC8jBvqoQ~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781658000&x-signature=PpQaqLqJWj4DzyZ2glBkjacQ4Zk%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260603091155B54866EA5D3F2F3DDF5E",
+    "https://p26-sign.douyinpic.com/tos-cn-p-0015/oYE9qHEgNOP4peDbAAmyiAgIDfAmFAC8jBvqoQ~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781658000&x-signature=1bBmOdAQBBdIGl3mQy%2Bb3efU%2FJg%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260603091155B54866EA5D3F2F3DDF5E",
+    "https://p11-sign.douyinpic.com/tos-cn-p-0015/oYE9qHEgNOP4peDbAAmyiAgIDfAmFAC8jBvqoQ~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781658000&x-signature=0MTIdYgy0Qi0zUfuKlXmVpLMuqs%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260603091155B54866EA5D3F2F3DDF5E",
+    "https://p3-sign.douyinpic.com/tos-cn-p-0015/oYE9qHEgNOP4peDbAAmyiAgIDfAmFAC8jBvqoQ~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1781658000&x-signature=Tly%2FGysOyAiHv2l0sOLqQ8%2BhktQ%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260603091155B54866EA5D3F2F3DDF5E"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000d8f8jcnog65l3o0r3u10&ratio=720p&line=0"
+  ]
+}

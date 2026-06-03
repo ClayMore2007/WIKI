@@ -1,0 +1,307 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "text",
+      "text": "# 2026-05-08 - 半导体先进制程扩产-产业链梳理\n\n资料脑图｜按原文结构生成",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 170,
+      "color": "1",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n2",
+      "type": "text",
+      "text": "## 风险提示\n- 低互动量（17赞）可能意味着内容质量或传播度存疑。\n- 半导体是周期性行业，扩产可能导致供过于求。",
+      "x": 0,
+      "y": -460,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n3",
+      "type": "text",
+      "text": "先进制程、国产替代和客户导入数据经常来自调研或传闻，必须回到公告/财报/研报核验。",
+      "x": -79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n4",
+      "type": "text",
+      "text": "不构成投资建议。",
+      "x": 79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n5",
+      "type": "text",
+      "text": "## 视频信息\n- 作者：国金芯科投研\n- 时长：7分27秒",
+      "x": 563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n6",
+      "type": "text",
+      "text": "发布：2026-05-08",
+      "x": 789,
+      "y": -451,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n7",
+      "type": "text",
+      "text": "互动：17赞 / 3评 / 1分享（低热度，新发布）",
+      "x": 887,
+      "y": -379,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n8",
+      "type": "text",
+      "text": "## 视频声称\n",
+      "x": 702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n9",
+      "type": "text",
+      "text": "## 提取状态\n- 完整转写：80-raw-原始资料/Cubox/股票/extracted/7637381105368265125_trans…\n- 本页当前只整理“视频来源声称”，尚未用公告、财报、招股书、研报或产业数据库核验。",
+      "x": 312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n10",
+      "type": "text",
+      "text": "ASR 把“半导体/晶圆/封装/刻蚀/硅片”等词多次识别错误，已按语义做有限还原；公司名仍需二次核验。",
+      "x": 535,
+      "y": 579,
+      "width": 330,
+      "height": 110,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n11",
+      "type": "text",
+      "text": "## 核心逻辑（来源声称）\n- 视频把先进制程扩产归因于三条合力：AI智能硬件、高端智能手机、数据中心算力基础设施对“高算力、低功耗、小型化”的需求提升；…",
+      "x": -312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n12",
+      "type": "text",
+      "text": "## 产业链各环节\n- 环节 / 代表方向 / 核心公司（需核验）\n- 设备 / 刻蚀、清洗、薄膜沉积、检测等 / <span style=\"color:#d6a100\">北方华创</span>、<…",
+      "x": -702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n13",
+      "type": "text",
+      "text": "材料 / 12英寸硅片、靶材、光刻胶等 / <span style=\"color:#d6a100\">沪硅产业</span>、<…",
+      "x": -1027,
+      "y": 192,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n14",
+      "type": "text",
+      "text": "代工 / 先进制程、特色工艺、12英寸扩产 / <span style=\"color:#d6a100\">中芯国际</span>…",
+      "x": -1062,
+      "y": 103,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n15",
+      "type": "text",
+      "text": "## 环节拆解（来源声称）\n- 环节 / 视频给出的受益逻辑 / 待核验重点\n- 设备 / 新建晶圆厂和先进制程升级首先拉动设备采购，设备是扩产“卖铲人” / 订单排期、国产化率、先进制程可覆盖节点、客户结构",
+      "x": -563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n16",
+      "type": "text",
+      "text": "材料 / 高端材料过去依赖海外，国产替代加速；硅片、靶材、光刻胶是制造基础 / 产品认证、量产规模、海外客户/国内大厂导入情况",
+      "x": -887,
+      "y": -379,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n17",
+      "type": "text",
+      "text": "代工 / 先进制程产能偏紧，国内代工厂产能利用率高，扩产收益可反映到业绩 / <span style=\"color:#d6a1…",
+      "x": -789,
+      "y": -451,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "toNode": "n2"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n2",
+      "toNode": "n3"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n2",
+      "toNode": "n4"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n1",
+      "toNode": "n5"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n5",
+      "toNode": "n6"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n5",
+      "toNode": "n7"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n1",
+      "toNode": "n8"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n1",
+      "toNode": "n9"
+    },
+    {
+      "id": "e9",
+      "fromNode": "n9",
+      "toNode": "n10"
+    },
+    {
+      "id": "e10",
+      "fromNode": "n1",
+      "toNode": "n11"
+    },
+    {
+      "id": "e11",
+      "fromNode": "n1",
+      "toNode": "n12"
+    },
+    {
+      "id": "e12",
+      "fromNode": "n12",
+      "toNode": "n13"
+    },
+    {
+      "id": "e13",
+      "fromNode": "n12",
+      "toNode": "n14"
+    },
+    {
+      "id": "e14",
+      "fromNode": "n1",
+      "toNode": "n15"
+    },
+    {
+      "id": "e15",
+      "fromNode": "n15",
+      "toNode": "n16"
+    },
+    {
+      "id": "e16",
+      "fromNode": "n15",
+      "toNode": "n17"
+    }
+  ]
+}

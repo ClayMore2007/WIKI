@@ -1,0 +1,41 @@
+{
+  "video_id": "7643805974544780580",
+  "source_url": "https://www.douyin.com/video/7643805974544780580",
+  "desc": "Pi Agent：比 Codex 更适合普通人的AI工具 #ClaudeCode#Codex#PiAgent#AI新星计划#抖音前沿科技首发计划",
+  "created_at": "2026-05-25T20:31:13",
+  "create_time": 1779712273,
+  "author": {
+    "nickname": "第四种黑猩猩",
+    "short_id": "22070458174",
+    "signature": "🦍 超级智能是不是第四种黑猩猩？\n🤖 AI 公司创始人\n🧬 成为 AI 时代的超级个体 \n合作：lichao_0703（注明来意）"
+  },
+  "duration_ms": 1277167,
+  "width": 3840,
+  "height": 2156,
+  "statistics": {
+    "digg_count": 12071,
+    "comment_count": 324,
+    "share_count": 2114,
+    "collect_count": 14012
+  },
+  "hashtags": [
+    "ClaudeCode",
+    "Codex",
+    "PiAgent",
+    "AI新星计划",
+    "抖音前沿科技首发计划"
+  ],
+  "music": {
+    "title": "@第四种黑猩猩创作的原声一第四种黑猩猩",
+    "author": "第四种黑猩猩"
+  },
+  "cover_urls": [
+    "https://p26-sign.douyinpic.com/tos-cn-i-dy/0519747d5b4a422f94458531cd7c9a58~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781092800&x-signature=oSItb3dD1k3D3p%2BWYS%2BFHK%2FVbQc%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026052720144571E7C39C52F51102D386",
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/0519747d5b4a422f94458531cd7c9a58~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781092800&x-signature=mBmVt7DpoLNp%2BbdgJdtU897uPd0%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026052720144571E7C39C52F51102D386",
+    "https://p11-sign.douyinpic.com/tos-cn-i-dy/0519747d5b4a422f94458531cd7c9a58~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781092800&x-signature=W3KqLWBsHuK1hvBHg7B6mRUTIU0%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026052720144571E7C39C52F51102D386",
+    "https://p26-sign.douyinpic.com/tos-cn-i-dy/0519747d5b4a422f94458531cd7c9a58~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1781092800&x-signature=WywRS1f6mzXynH3pOGLIig2sdLQ%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026052720144571E7C39C52F51102D386"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000d8a3h17og65kt2g6fkcg&ratio=720p&line=0"
+  ]
+}

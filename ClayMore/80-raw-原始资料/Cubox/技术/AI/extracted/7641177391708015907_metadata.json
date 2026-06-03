@@ -1,0 +1,41 @@
+{
+  "video_id": "7641177391708015907",
+  "source_url": "https://www.douyin.com/video/7641177391708015907",
+  "desc": "Git+Github核心概念串讲从零到一攻略，AI时代基本功 本期视频带来一个Git 与 GitHub 核心概念大串讲，我会使用动画讲解结合实战演示的方式，把所有的核心概念一次讲清楚。先从本地Git仓库开始，介绍提交，分支，分区等核心概念。然后引入远端仓库，详细介绍Github的基础用法，包括怎么在Github中进行多人协作，如何在开源项目中贡献代码。 \n#计算机 #科技 #Github  #Git #AI新星计划",
+  "created_at": "2026-05-18T18:30:56",
+  "create_time": 1779100256,
+  "author": {
+    "nickname": "技术爬爬虾",
+    "short_id": "2073848557",
+    "signature": "分享好玩有趣的计算机知识与软件 DIY。"
+  },
+  "duration_ms": 2453165,
+  "width": 3840,
+  "height": 2160,
+  "statistics": {
+    "digg_count": 126023,
+    "comment_count": 770,
+    "share_count": 14114,
+    "collect_count": 120911
+  },
+  "hashtags": [
+    "计算机",
+    "科技",
+    "Github",
+    "Git",
+    "AI新星计划"
+  ],
+  "music": {
+    "title": "@技术爬爬虾创作的原声一技术爬爬虾",
+    "author": "技术爬爬虾"
+  },
+  "cover_urls": [
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/bc548d9137b048689d1c958244d36653~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780588800&x-signature=JfHkYKodkVKerupc%2F4MqZyBZVKo%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260522005400DAB2D3C257490971A118",
+    "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-dy/bc548d9137b048689d1c958244d36653~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780588800&x-signature=VZZPUTP3xyQiUHI6vnRV6eiXMIs%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260522005400DAB2D3C257490971A118",
+    "https://p11-sign.douyinpic.com/tos-cn-i-dy/bc548d9137b048689d1c958244d36653~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780588800&x-signature=WNr4zH0M1q04Rd%2B2CrsOPTzDCzo%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260522005400DAB2D3C257490971A118",
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/bc548d9137b048689d1c958244d36653~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1780588800&x-signature=YMSUgOhXcEbwiRl17mc3YSiSJOo%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260522005400DAB2D3C257490971A118"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v0d00fg10000d85e2avog65iqsjfcg5g"
+  ]
+}

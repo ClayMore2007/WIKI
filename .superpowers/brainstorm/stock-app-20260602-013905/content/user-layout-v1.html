@@ -1,0 +1,84 @@
+<h2>方案草图：产业链时间轴工作台</h2>
+<p class="subtitle">按你的手绘：左侧功能入口，中间是可展开产业链 + 时间轴，右侧固定显示公司/环节详情。</p>
+
+<div class="mockup">
+  <div class="mockup-header">主工作台线框</div>
+  <div class="mockup-body">
+    <div style="display:grid;grid-template-columns:110px minmax(620px,1fr) 240px;gap:12px;min-height:520px">
+      <div style="border-right:2px solid #e54b4b;padding-right:10px">
+        <button class="mock-button" style="width:100%;margin-bottom:10px">产业链</button>
+        <button class="mock-button" style="width:100%;margin-bottom:10px">自选股</button>
+        <button class="mock-button" style="width:100%;margin-bottom:10px">更新</button>
+        <button class="mock-button" style="width:100%">设置</button>
+      </div>
+
+      <div style="position:relative;border:1px solid #ddd;min-height:520px;overflow:hidden;background:#fbfbfb">
+        <div style="position:absolute;left:20px;top:18px;border:2px solid #e54b4b;padding:8px 18px;background:white">产业链主题</div>
+        <div style="position:absolute;left:95px;top:92px;border:2px solid #e54b4b;padding:8px 22px;background:white">下游需求</div>
+        <div style="position:absolute;left:95px;top:350px;border:2px solid #e54b4b;padding:8px 22px;background:white">上游供给</div>
+        <div style="position:absolute;left:250px;top:92px;border:2px solid #e54b4b;padding:8px 22px;background:white">核心卡点</div>
+        <div style="position:absolute;left:420px;top:92px;border:2px solid #e54b4b;padding:8px 22px;background:white">环节公司</div>
+
+        <div style="position:absolute;left:210px;right:20px;top:170px;border-top:4px solid #e54b4b">
+          <span style="position:absolute;left:20px;top:-32px;border:2px solid #e54b4b;padding:6px 18px;background:white">时间轴</span>
+          <div style="display:grid;grid-template-columns:repeat(8,1fr);gap:4px;margin-top:12px">
+            <div style="height:28px;background:#fee2e2"></div>
+            <div style="height:28px;background:#fecaca"></div>
+            <div style="height:28px;background:#f87171"></div>
+            <div style="height:28px;background:#ef4444"></div>
+            <div style="height:28px;background:#f87171"></div>
+            <div style="height:28px;background:#fecaca"></div>
+            <div style="height:28px;background:#fee2e2"></div>
+            <div style="height:28px;background:#fff"></div>
+          </div>
+          <div style="display:flex;justify-content:space-between;font-size:12px;color:#666;margin-top:6px">
+            <span>资料首现</span><span>发酵</span><span>爆发</span><span>透支/回落</span>
+          </div>
+        </div>
+
+        <div style="position:absolute;left:210px;top:230px;display:flex;gap:12px">
+          <div style="border:2px solid #e54b4b;padding:8px 18px;background:white">公司A</div>
+          <div style="border:2px solid #e54b4b;padding:8px 18px;background:white">公司B</div>
+          <div style="border:2px solid #e54b4b;padding:8px 18px;background:white">公司C</div>
+        </div>
+
+        <svg style="position:absolute;inset:0;width:100%;height:100%;pointer-events:none" viewBox="0 0 900 520" preserveAspectRatio="none">
+          <defs>
+            <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+              <path d="M 0 0 L 10 5 L 0 10 z" fill="#e54b4b"></path>
+            </marker>
+          </defs>
+          <path d="M 88 48 L 135 92" stroke="#e54b4b" stroke-width="4" fill="none" marker-end="url(#arrow)"></path>
+          <path d="M 175 120 L 250 120" stroke="#e54b4b" stroke-width="4" fill="none" marker-end="url(#arrow)"></path>
+          <path d="M 305 120 L 420 120" stroke="#e54b4b" stroke-width="4" fill="none" marker-end="url(#arrow)"></path>
+          <path d="M 145 125 L 145 350" stroke="#e54b4b" stroke-width="4" fill="none" marker-end="url(#arrow)"></path>
+        </svg>
+      </div>
+
+      <div style="border-left:2px solid #e54b4b;padding-left:12px">
+        <div style="border:2px solid #e54b4b;padding:12px 16px;margin-bottom:12px;text-align:center">公司信息详情</div>
+        <div class="placeholder" style="height:70px">7步法摘要</div>
+        <div class="placeholder" style="height:70px;margin-top:10px">PE / 财报 / 风险</div>
+        <div class="placeholder" style="height:70px;margin-top:10px">买入 / 卖出条件</div>
+        <div class="placeholder" style="height:70px;margin-top:10px">来源与待核验</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="options">
+  <div class="option" data-choice="lock-layout" onclick="toggleSelect(this)">
+    <div class="letter">A</div>
+    <div class="content">
+      <h3>锁定这个主布局</h3>
+      <p>后续围绕这套“左导航 + 中央产业链时间轴 + 右详情”的结构规划数据模型和功能。</p>
+    </div>
+  </div>
+  <div class="option" data-choice="revise-layout" onclick="toggleSelect(this)">
+    <div class="letter">B</div>
+    <div class="content">
+      <h3>继续调整结构</h3>
+      <p>先改展开层级、时间轴位置或右侧详情方式，再进入架构计划。</p>
+    </div>
+  </div>
+</div>

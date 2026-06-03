@@ -1,0 +1,67 @@
+<h2>股票投研 App 主界面方向</h2>
+<p class="subtitle">目标：从 Obsidian 资料、产业链、时间热度和公司评分里快速找到高价值卡点与候选标的。</p>
+
+<div class="cards">
+  <div class="card" data-choice="timeline-first" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div class="mockup">
+        <div class="mockup-header">A. 时间轴优先</div>
+        <div class="mockup-body">
+          <div class="mock-nav">产业热度日历 | 本周爆发 | 低位观察 | 更新任务</div>
+          <div style="display:grid;grid-template-columns:1.5fr 1fr;gap:12px;margin-top:12px">
+            <div class="placeholder" style="height:170px">年度/季度时间轴 + 热力块<br>AI算力、半导体、算电协同、机器人...</div>
+            <div class="placeholder" style="height:170px">当前窗口机会<br>P0/P1 公司排行<br>买入/卖出触发</div>
+          </div>
+          <div class="placeholder" style="height:80px;margin-top:12px">选中时间段后展开产业链和公司明细</div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>A. 时间轴优先</h3>
+      <p>适合先判断“现在/未来几周该看什么主线”，再下钻产业链和公司。</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="chain-first" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div class="mockup">
+        <div class="mockup-header">B. 产业链优先</div>
+        <div class="mockup-body">
+          <div class="mock-nav">产业链图谱 | 卡点筛选 | 公司排行 | 自选/持仓</div>
+          <div style="display:grid;grid-template-columns:1fr 1.2fr 1fr;gap:12px;margin-top:12px">
+            <div class="placeholder" style="height:210px">上游<br>材料/设备</div>
+            <div class="placeholder" style="height:210px">核心卡点<br>产能/技术/供需瓶颈</div>
+            <div class="placeholder" style="height:210px">下游<br>需求/应用/客户</div>
+          </div>
+          <div class="placeholder" style="height:60px;margin-top:12px">底部时间热度条：热度、资料密度、行情阶段</div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>B. 产业链优先</h3>
+      <p>适合先找“链条中最贵、最稀缺、最卡脖子”的环节，再比较公司。</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="radar-first" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div class="mockup">
+        <div class="mockup-header">C. 机会雷达优先</div>
+        <div class="mockup-body">
+          <div class="mock-nav">机会雷达 | 产业链 | 时间轴 | 公司库 | 更新中心</div>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px">
+            <div class="placeholder" style="height:120px">今日新增高热资料</div>
+            <div class="placeholder" style="height:120px">自选/持仓低位候选</div>
+            <div class="placeholder" style="height:120px">产业卡点 Top</div>
+            <div class="placeholder" style="height:120px">风险/透支警报</div>
+          </div>
+          <div class="placeholder" style="height:70px;margin-top:12px">点击任意机会卡，展开时间轴 + 产业链 + 7步法公司详情</div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>C. 机会雷达优先</h3>
+      <p>适合每天打开后直接看“最值得处理的机会和风险”，再下钻验证。</p>
+    </div>
+  </div>
+</div>

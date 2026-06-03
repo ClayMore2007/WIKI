@@ -1,0 +1,19 @@
+{
+  "nodes": [
+    {"id":"page","type":"file","file":"2026-05-25 - 苹果山楂陈皮红草泡水减腹说法待核验.md","x":0,"y":0,"width":380,"height":80},
+    {"id":"center","type":"text","text":"苹果山楂陈皮红草泡水\n减腹说法待核验","x":440,"y":0,"width":330,"height":100},
+    {"id":"source","type":"text","text":"来源\n吴掌厨有话说\n2026-05-25\n健康短视频低置信","x":440,"y":-180,"width":300,"height":120},
+    {"id":"claim","type":"text","text":"视频声称\n苹果+山楂+陈皮+红草泡水\n空腹饮用可缩小肚子","x":820,"y":-60,"width":330,"height":130},
+    {"id":"unknown","type":"text","text":"不确定词\n红草\n刮瓜水\n需回看字幕或画面","x":820,"y":120,"width":300,"height":120},
+    {"id":"risk","type":"text","text":"健康边界\n不提供减肥建议\n不替代医生意见\n注意胃病/血糖/药物相互作用","x":440,"y":190,"width":340,"height":150},
+    {"id":"verify","type":"text","text":"核验问题\n材料真实名称\n医学证据\n空腹饮用风险\n是否只留待核验清单","x":80,"y":170,"width":320,"height":140}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"page","fromSide":"right","toNode":"center","toSide":"left"},
+    {"id":"e2","fromNode":"center","fromSide":"top","toNode":"source","toSide":"bottom"},
+    {"id":"e3","fromNode":"center","fromSide":"right","toNode":"claim","toSide":"left"},
+    {"id":"e4","fromNode":"center","fromSide":"right","toNode":"unknown","toSide":"left"},
+    {"id":"e5","fromNode":"center","fromSide":"bottom","toNode":"risk","toSide":"top"},
+    {"id":"e6","fromNode":"center","fromSide":"left","toNode":"verify","toSide":"right"}
+  ]
+}

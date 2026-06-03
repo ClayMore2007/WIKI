@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","text":"# 华能蒙电 AI 快诊拆解\n600863\n来源：同花顺截图\n状态：图片声称 / 待核验","x":0,"y":0,"width":320,"height":160},
+		{"id":"valuation","type":"text","text":"## 估值水位\n- PE 22.34\n- 近一年 PE 均值 11.28\n- PE(TTM) 27.38\n- 目标价 5.36 元\n\n核验：PE 口径、目标价来源、股息率口径","x":420,"y":-30,"width":360,"height":200},
+		{"id":"market","type":"text","text":"## 市场与资金\n- 三市成交额 28965 亿\n- 缩量 4444 亿\n- 融资净买入 -294.17 亿\n- 主力资金净流入 -2.27 亿\n- 暗盘资金净流入 2.84 亿\n\n核验：行情时间点和数据源","x":420,"y":220,"width":380,"height":240},
+		{"id":"trend","type":"text","text":"## 技术信号\n- G 区间\n- 机构活跃度 15.39\n- 主力线 452.38\n- 散户线 486.21\n- 中期支撑 5.42\n- 长期支撑 5.07\n\n核验：指标定义、阈值和可复现性","x":-460,"y":-120,"width":360,"height":240},
+		{"id":"framework","type":"text","text":"## 可复用标准\n1. 拆事实、指标、模型、结论\n2. 映射到 7 步法\n3. 专有指标标为待核验\n4. 补财报和估值口径\n5. 记录后续 5 日、20 日走势","x":-460,"y":180,"width":360,"height":210},
+		{"id":"company","type":"text","text":"## 公司画像\n- 电力行业\n- 内蒙古\n- 火力发电、供热\n- 兼顾风电和煤炭\n\n核验：年报主营结构、装机结构、利润贡献","x":420,"y":-260,"width":360,"height":190}
+	],
+	"edges":[
+		{"id":"e1","toFloating":false,"fromNode":"center","fromSide":"right","toNode":"company","toSide":"left"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"valuation","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"right","toNode":"market","toSide":"left"},
+		{"id":"e4","fromNode":"center","fromSide":"left","toNode":"trend","toSide":"right"},
+		{"id":"e5","fromNode":"center","fromSide":"left","toNode":"framework","toSide":"right"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

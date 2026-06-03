@@ -1,0 +1,217 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "text",
+      "text": "# 2026-05-25 - 先进封装封测篇\n\n资料脑图｜按原文结构生成",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 170,
+      "color": "1",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n2",
+      "type": "text",
+      "text": "## 来源信息\n- 作者 / 正经的阿干\n- 来源日期 / 2026-05-25",
+      "x": 0,
+      "y": -460,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n3",
+      "type": "text",
+      "text": "Cubox 文件日期 / 2026-05-26",
+      "x": -79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n4",
+      "type": "text",
+      "text": "原始描述 / 先进封装详细梳理封测篇",
+      "x": 79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n5",
+      "type": "text",
+      "text": "## 核心声称\n- 视频称封测行业从传统周期代工转向 AI 算力紧缺下的核心资产，先进封装价值量和利润率明显高于传统封测。\n- 业务分层被拆成传统封测修复、存储封测增长、2.5D/3D 先进封装爆发。",
+      "x": 720,
+      "y": 0,
+      "width": 430,
+      "height": 170,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n6",
+      "type": "text",
+      "text": "重点主线包括高端先进封装产能、独立第三方测试、存储链外包红利。",
+      "x": 1071,
+      "y": -46,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n7",
+      "type": "text",
+      "text": "## 待核验问题\n- “先进封装利润率 25%-30%”“供需缺口 3-4 个季度”“测试设备交期 8-12 个月”等数字来源。\n- <span style=\"color:#d6a100\">盛合晶微</span>（SH688820）、<span style…",
+      "x": 0,
+      "y": 460,
+      "width": 430,
+      "height": 170,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n8",
+      "type": "text",
+      "text": "视频中的“聖合金威”“配顿科技”“华为深藤链”“含乌旗”等 ASR 词需要校正为正式公司或产品名。",
+      "x": 79,
+      "y": 665,
+      "width": 330,
+      "height": 110,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n9",
+      "type": "text",
+      "text": "昇腾、长鑫、长存、<span style=\"color:#d6a100\">超微半导体</span>等客户绑定关系是否公开可…",
+      "x": -79,
+      "y": 665,
+      "width": 330,
+      "height": 110,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n10",
+      "type": "text",
+      "text": "## 产业链环节\n- 环节 / 视频声称 / 相关公司或对象\n- 传统封测 / 海外大厂转向扩先进封装，传统产能向大陆转移，老牌厂商稼动率高 / <span style=\"color:#d6a…",
+      "x": -720,
+      "y": 0,
+      "width": 430,
+      "height": 170,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n11",
+      "type": "text",
+      "text": "存储封测 / 原厂外包比例提升，合约价上涨 / <span style=\"color:#d6a100\">长电科技</span>…",
+      "x": -1071,
+      "y": 46,
+      "width": 330,
+      "height": 110,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n12",
+      "type": "text",
+      "text": "先进封装产能 / CoWoS/2.5D/3D 梯队分化，供需缺口持续 / <span style=\"color:#d6a100…",
+      "x": -1071,
+      "y": -46,
+      "width": 330,
+      "height": 110,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "toNode": "n2"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n2",
+      "toNode": "n3"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n2",
+      "toNode": "n4"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n1",
+      "toNode": "n5"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n5",
+      "toNode": "n6"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n1",
+      "toNode": "n7"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n7",
+      "toNode": "n8"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n7",
+      "toNode": "n9"
+    },
+    {
+      "id": "e9",
+      "fromNode": "n1",
+      "toNode": "n10"
+    },
+    {
+      "id": "e10",
+      "fromNode": "n10",
+      "toNode": "n11"
+    },
+    {
+      "id": "e11",
+      "fromNode": "n10",
+      "toNode": "n12"
+    }
+  ]
+}

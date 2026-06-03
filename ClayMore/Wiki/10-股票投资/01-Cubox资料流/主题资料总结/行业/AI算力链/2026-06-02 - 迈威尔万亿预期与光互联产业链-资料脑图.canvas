@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {"id": "center", "type": "text", "text": "迈威尔万亿预期与光互联产业链\n2026-06-02\n低置信短视频线索", "x": 0, "y": 0, "width": 380, "height": 130},
+    {"id": "source", "type": "text", "text": "来源\n蜗牛景气研\n7646787949099504063\nfull 机器转写", "x": -520, "y": -230, "width": 300, "height": 120},
+    {"id": "logic", "type": "text", "text": "核心逻辑\n算力之后是互联\n铜转光\n硅光/CPO/共封装光学\nAI 集群带宽需求", "x": 470, "y": -230, "width": 330, "height": 160},
+    {"id": "module", "type": "text", "text": "高速光模块\n中际旭创\n新易盛\n光迅科技\n天孚通信\n东山精密", "x": -600, "y": 80, "width": 280, "height": 170},
+    {"id": "chip", "type": "text", "text": "光芯片 / DSP\n源杰科技\n裕太微（疑似）\n长光华芯（疑似）", "x": -170, "y": 280, "width": 300, "height": 140},
+    {"id": "equipment", "type": "text", "text": "CPO / 硅光设备\n罗博特科\n科瑞技术\n华盛昌\n智立方\n联讯仪器待确认", "x": 280, "y": 280, "width": 320, "height": 170},
+    {"id": "risk", "type": "text", "text": "核验重点\nMarvell 预期来源\n海外客户 CAPEX\nA 股订单/认证/收入占比\nASR 公司名纠错", "x": 510, "y": 80, "width": 330, "height": 160}
+  ],
+  "edges": [
+    {"id": "e1", "fromNode": "center", "toNode": "source"},
+    {"id": "e2", "fromNode": "center", "toNode": "logic"},
+    {"id": "e3", "fromNode": "center", "toNode": "module"},
+    {"id": "e4", "fromNode": "center", "toNode": "chip"},
+    {"id": "e5", "fromNode": "center", "toNode": "equipment"},
+    {"id": "e6", "fromNode": "logic", "toNode": "risk"},
+    {"id": "e7", "fromNode": "module", "toNode": "risk"},
+    {"id": "e8", "fromNode": "chip", "toNode": "risk"},
+    {"id": "e9", "fromNode": "equipment", "toNode": "risk"}
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {"id":"center","type":"text","text":"量价口诀\n低置信 / 待回测","x":0,"y":0,"width":320,"height":90},
+    {"id":"source","type":"file","file":"Wiki/10-股票投资/01-Cubox资料流/主题资料总结/交易复盘/2026-03-02 - 量价口诀.md","x":0,"y":-220,"width":360,"height":80},
+    {"id":"low","type":"text","text":"低位\n无量等 / 放量跟","x":-390,"y":40,"width":260,"height":100},
+    {"id":"high","type":"text","text":"高位\n无量拿 / 放量跑","x":390,"y":40,"width":260,"height":100},
+    {"id":"verify","type":"text","text":"待验证\n位置定义、量能阈值、适用对象、止损","x":0,"y":220,"width":340,"height":110}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"center","toNode":"source"},
+    {"id":"e2","fromNode":"center","toNode":"low"},
+    {"id":"e3","fromNode":"center","toNode":"high"},
+    {"id":"e4","fromNode":"center","toNode":"verify"}
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "video_id": "7643782911992384806",
+  "source_url": "https://www.douyin.com/video/7643782911992384806",
+  "desc": "【第一集】从头到脚梳理AI硬件产业链及其逻辑 这个系列合集将从头到脚把AI硬件产业链梳理一遍，内容追求广度不追求深度，希望大家喜欢#玻璃基板 #金刚石散热片 #炭化硅中介层 #AI硬件 #算力",
+  "created_at": "2026-05-25T19:01:42",
+  "create_time": 1779706902,
+  "author": {
+    "nickname": "牛塘鑫鑫",
+    "short_id": "928350575",
+    "signature": "研究AI应用、脑机接口、量子、消费电子、核电、新能源等行业"
+  },
+  "duration_ms": 199507,
+  "width": 854,
+  "height": 480,
+  "statistics": {
+    "digg_count": 3170,
+    "comment_count": 54,
+    "share_count": 739,
+    "collect_count": 3137
+  },
+  "hashtags": [
+    "玻璃基板",
+    "金刚石散热片",
+    "炭化硅中介层",
+    "AI硬件",
+    "算力"
+  ],
+  "music": {
+    "title": "@牛塘鑫鑫创作的原声一牛塘鑫鑫",
+    "author": "牛塘鑫鑫"
+  },
+  "cover_urls": [
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/06958fe3d87941dc9381138ff5a18388~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781092800&x-signature=6fw8DDotBV81HRRE1nd%2B2IkaUto%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605272013002C27F27BFAD321E3958E",
+    "https://p11-sign.douyinpic.com/tos-cn-i-dy/06958fe3d87941dc9381138ff5a18388~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781092800&x-signature=aRpx2afdK%2F5Fxb2sdbvaDbbkTc4%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605272013002C27F27BFAD321E3958E",
+    "https://p26-sign.douyinpic.com/tos-cn-i-dy/06958fe3d87941dc9381138ff5a18388~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781092800&x-signature=NOO7mzkPjc9z6uAW48xuHL0s%2F3g%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605272013002C27F27BFAD321E3958E",
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/06958fe3d87941dc9381138ff5a18388~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1781092800&x-signature=cxwToM4C3W%2BA1oKBD1tH%2FMaze30%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605272013002C27F27BFAD321E3958E"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000d8a2lmvog65mlg1cu8g0&ratio=720p&line=0"
+  ]
+}

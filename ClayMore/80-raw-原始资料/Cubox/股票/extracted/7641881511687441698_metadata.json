@@ -1,0 +1,35 @@
+{
+  "video_id": "7641881511687441698",
+  "source_url": "https://www.douyin.com/video/7641881511687441698",
+  "desc": "光模块设备这盘棋怎么看 ",
+  "created_at": "2026-05-20T16:03:18",
+  "create_time": 1779264198,
+  "author": {
+    "nickname": "正经的阿干",
+    "short_id": "64243458544",
+    "signature": "私募研究员 只讲逻辑与干货"
+  },
+  "duration_ms": 559439,
+  "width": 1080,
+  "height": 1920,
+  "statistics": {
+    "digg_count": 109,
+    "comment_count": 7,
+    "share_count": 44,
+    "collect_count": 82
+  },
+  "hashtags": [],
+  "music": {
+    "title": "@正经的阿干创作的原声一正经的阿干",
+    "author": "正经的阿干"
+  },
+  "cover_urls": [
+    "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-dy/36ec390fc8834adfaf47f6975e8e45c5~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780761600&x-signature=mAiP2E%2FmXwCk9uemOlal4ifBbVY%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605240000517F57D5523A8D2ADC80A4",
+    "https://p26-sign.douyinpic.com/tos-cn-i-dy/36ec390fc8834adfaf47f6975e8e45c5~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780761600&x-signature=DG8Ruz68DYv1yejNFwxIt%2BJSkwc%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605240000517F57D5523A8D2ADC80A4",
+    "https://p11-sign.douyinpic.com/tos-cn-i-dy/36ec390fc8834adfaf47f6975e8e45c5~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780761600&x-signature=sDi3xg1ioakXk7Rhvv1XBPQHbck%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605240000517F57D5523A8D2ADC80A4",
+    "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-dy/36ec390fc8834adfaf47f6975e8e45c5~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1780761600&x-signature=pFV0BB1c77a6fOmJdZNYfj1mQfA%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605240000517F57D5523A8D2ADC80A4"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000d86mdcvog65k7pt3ckrg&ratio=720p&line=0"
+  ]
+}

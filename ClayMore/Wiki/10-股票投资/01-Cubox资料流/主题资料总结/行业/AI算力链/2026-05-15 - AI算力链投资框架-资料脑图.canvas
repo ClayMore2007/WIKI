@@ -1,0 +1,361 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "text",
+      "text": "# 2026-05-15 - AI算力链投资框架\n\n资料脑图｜按原文结构生成",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 170,
+      "color": "1",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n2",
+      "type": "text",
+      "text": "## 待核验问题\n- 视频中提到的公司、订单、业绩数据是否能在公告或财报中找到对应证据？\n- 光模块、PCB、液冷、IDC 电源四个环节的业绩弹性是否来自事实数据还是内容创作者判断？",
+      "x": 0,
+      "y": -460,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n3",
+      "type": "text",
+      "text": "当前持仓或自选中有哪些标的暴露在 AI 算力链主题下？",
+      "x": -79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n4",
+      "type": "text",
+      "text": "哪些环节已经被市场充分定价，哪些仍处于预期差阶段？",
+      "x": 79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n5",
+      "type": "text",
+      "text": "## 当前结论\n- AI 算力链目前适合先作为观察主题，而不是直接形成决策。经过本轮提取，已有多个完整转写页能支撑“来源声称”层面的框架：光模…",
+      "x": 563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n6",
+      "type": "text",
+      "text": "## 核心框架\n- 层级 / 关注点 / 当前资料状态\n- 上游硬件 / 芯片、封测、连接器、光模块、PCB / 已有昇腾供应链、半导体先进制程、光模块/PCB对比页",
+      "x": 702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n7",
+      "type": "text",
+      "text": "服务器/超节点 / AI服务器、超节点OEM、系统集成 / 已有超节点 OEM 页面，需核验订单和收入占比",
+      "x": 1062,
+      "y": 103,
+      "width": 330,
+      "height": 110,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n8",
+      "type": "text",
+      "text": "基础设施 / IDC、电源、液冷、交换机 / 已有液冷/IDC电源对比和AIDC页面，缺权威数据",
+      "x": 1027,
+      "y": 192,
+      "width": 330,
+      "height": 110,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n9",
+      "type": "text",
+      "text": "## 已沉淀来源\n- 主题 / 页面 / 用途\n- 四赛道横向比较 / Wiki/10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/2026-04-25 -…",
+      "x": 312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n10",
+      "type": "text",
+      "text": "AIDC/算力租赁/CDN / Wiki/10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/2026-0…",
+      "x": 535,
+      "y": 579,
+      "width": 330,
+      "height": 110,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n11",
+      "type": "text",
+      "text": "字节算力链 / Wiki/10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/2026-05-10 - 字…",
+      "x": 394,
+      "y": 619,
+      "width": 330,
+      "height": 110,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n12",
+      "type": "text",
+      "text": "## 事实 / 假设 / 风险\n- 类型 / 内容\n- 来源声称 / AI应用和推理需求提升，推动算力基建扩张；液冷、超节点、AIDC、国产算力是高频线索",
+      "x": -312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n13",
+      "type": "text",
+      "text": "已核验事实 / 已完成 P0 阶段性核验：字节 CAPEX 2000 亿元口径有 SCMP 等媒体来源支持但非官方披露；Tre…",
+      "x": -394,
+      "y": 619,
+      "width": 330,
+      "height": 110,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n14",
+      "type": "text",
+      "text": "待核验假设 / 字节/阿里/腾讯CAPEX、国产芯片出货、液冷渗透率、AIDC出租率、超节点放量、光模块和PCB价格",
+      "x": -535,
+      "y": 579,
+      "width": 330,
+      "height": 110,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n15",
+      "type": "text",
+      "text": "## 重要来源\n- Wiki/10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/2026-04-10 - AI大基建泡沫…\n- Wiki/10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/2026-04-25 - 光模块-PCB…",
+      "x": -702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n16",
+      "type": "text",
+      "text": "Wiki/10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/2026-04-21 - 国产算力产业链…",
+      "x": -1027,
+      "y": 192,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n17",
+      "type": "text",
+      "text": "Wiki/10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/2026-05-10 - 字节加码算力-…",
+      "x": -1062,
+      "y": 103,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n18",
+      "type": "text",
+      "text": "## 下一步行动\n- 基于已补转写的 Wiki/10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/2026-04-10 -…\n- 对 Wiki/10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/2026-05-17 - 英伟达-R…",
+      "x": -563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n19",
+      "type": "text",
+      "text": "核验 Wiki/10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/2026-05-10 - 字节加码…",
+      "x": -887,
+      "y": -379,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n20",
+      "type": "text",
+      "text": "把已持仓和自选表中的相关公司映射到本框架。",
+      "x": -789,
+      "y": -451,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "toNode": "n2"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n2",
+      "toNode": "n3"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n2",
+      "toNode": "n4"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n1",
+      "toNode": "n5"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n1",
+      "toNode": "n6"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n6",
+      "toNode": "n7"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n6",
+      "toNode": "n8"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n1",
+      "toNode": "n9"
+    },
+    {
+      "id": "e9",
+      "fromNode": "n9",
+      "toNode": "n10"
+    },
+    {
+      "id": "e10",
+      "fromNode": "n9",
+      "toNode": "n11"
+    },
+    {
+      "id": "e11",
+      "fromNode": "n1",
+      "toNode": "n12"
+    },
+    {
+      "id": "e12",
+      "fromNode": "n12",
+      "toNode": "n13"
+    },
+    {
+      "id": "e13",
+      "fromNode": "n12",
+      "toNode": "n14"
+    },
+    {
+      "id": "e14",
+      "fromNode": "n1",
+      "toNode": "n15"
+    },
+    {
+      "id": "e15",
+      "fromNode": "n15",
+      "toNode": "n16"
+    },
+    {
+      "id": "e16",
+      "fromNode": "n15",
+      "toNode": "n17"
+    },
+    {
+      "id": "e17",
+      "fromNode": "n1",
+      "toNode": "n18"
+    },
+    {
+      "id": "e18",
+      "fromNode": "n18",
+      "toNode": "n19"
+    },
+    {
+      "id": "e19",
+      "fromNode": "n18",
+      "toNode": "n20"
+    }
+  ]
+}

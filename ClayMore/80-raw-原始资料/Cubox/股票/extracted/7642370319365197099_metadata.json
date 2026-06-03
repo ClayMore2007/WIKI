@@ -1,0 +1,39 @@
+{
+  "video_id": "7642370319365197099",
+  "source_url": "https://www.douyin.com/video/7642370319365197099",
+  "desc": "再谈dsp紧缺 #算力#算力 #光模块 #DSP",
+  "created_at": "2026-05-21T23:40:18",
+  "create_time": 1779378018,
+  "author": {
+    "nickname": "每日上扬研报纪要",
+    "short_id": "34449713441",
+    "signature": "海量调研纪要和机构小作文在下方本地团购\n资料来源于机构最新的调研纪要，电话会议，小范围交流总结等\n所有内容仅为产业逻辑分析，不作为买卖依据"
+  },
+  "duration_ms": 194305,
+  "width": 1920,
+  "height": 3414,
+  "statistics": {
+    "digg_count": 63,
+    "comment_count": 6,
+    "share_count": 13,
+    "collect_count": 37
+  },
+  "hashtags": [
+    "算力",
+    "光模块",
+    "DSP"
+  ],
+  "music": {
+    "title": "@每日上扬研报纪要创作的原声一每日上扬研报纪要",
+    "author": "每日上扬研报纪要"
+  },
+  "cover_urls": [
+    "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-dy/47fa8ed4afc0477498dde4b5b345e6a0~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780747200&x-signature=ne%2BLxQr2P9oPhomwywn7FXhc4e0%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605232050277DDA4F810CE88F2C5BDE",
+    "https://p11-sign.douyinpic.com/tos-cn-i-dy/47fa8ed4afc0477498dde4b5b345e6a0~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780747200&x-signature=YzZXRKrzMgGi5rmiIXIoN8gpVsA%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605232050277DDA4F810CE88F2C5BDE",
+    "https://p26-sign.douyinpic.com/tos-cn-i-dy/47fa8ed4afc0477498dde4b5b345e6a0~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780747200&x-signature=%2Bm%2Bw3uXtKrtcGZdNeX4Ojvp2dsI%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605232050277DDA4F810CE88F2C5BDE",
+    "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-dy/47fa8ed4afc0477498dde4b5b345e6a0~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1780747200&x-signature=tHtqLzCWaAeUiVWsnbmNQ5E1Y4g%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605232050277DDA4F810CE88F2C5BDE"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0d00fg10000d87ie8vog65saca2qn00&ratio=720p&line=0"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    {"id": "center", "type": "text", "text": "模型先生有色风格切换观察\n2026-06-02\nASR 低置信", "x": 0, "y": 0, "width": 340, "height": 120},
+    {"id": "source", "type": "text", "text": "来源\n模型先生\n7646700651158831050\npartial 机器转写", "x": -420, "y": -160, "width": 280, "height": 120},
+    {"id": "signal", "type": "text", "text": "可用线索\n疑似有色/铜相关\n风格转换需要时间\n四个月窗口接近尾声\n偏震荡向上判断", "x": 420, "y": -160, "width": 320, "height": 160},
+    {"id": "asr", "type": "text", "text": "ASR 疑点\n有色同盟/铜盟不确定\n上帝结构可能为误识别\n缺少标题和公司名", "x": -320, "y": 210, "width": 320, "height": 140},
+    {"id": "risk", "type": "text", "text": "处理原则\n不延伸个股结论\n不进入供应链确定关系\n需要回看原视频字幕\n若确认有色再补供需数据", "x": 300, "y": 210, "width": 340, "height": 160}
+  ],
+  "edges": [
+    {"id": "e1", "fromNode": "center", "toNode": "source"},
+    {"id": "e2", "fromNode": "center", "toNode": "signal"},
+    {"id": "e3", "fromNode": "center", "toNode": "asr"},
+    {"id": "e4", "fromNode": "signal", "toNode": "risk"},
+    {"id": "e5", "fromNode": "asr", "toNode": "risk"}
+  ]
+}
+

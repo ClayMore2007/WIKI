@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"semiconductor","type":"text","text":"## 半导体主线\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/半导体]]\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/半导体材料]]\n\n公司：[[中芯国际]]、[[澜起科技]]、[[海光信息]]、[[TCL中环]]、[[雅克科技]]、[[沪硅产业]]、[[云南锗业]]、[[天通股份]]、[[南大光电]]、[[安集科技]]、[[晶方科技]]、[[江丰电子]]","x":-980,"y":-520,"width":380,"height":240},
+		{"id":"packaging","type":"text","text":"## 先进封装 / 封测\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/先进封装]]\n\n公司：[[通富微电]]、[[华天科技]]、[[长电科技]]、[[盛合晶微]]、[[北方华创]]、[[拓荆科技]]、[[中微公司]]、[[华虹公司]]、[[彤程新材]]","x":-500,"y":-520,"width":380,"height":220},
+		{"id":"ai","type":"text","text":"## AI 算力链\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/AI算力链]]\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/国产算力]]\n\n公司：[[工业富联]]、[[中科曙光]]、[[浪潮信息]]、[[紫光股份]]、[[科华数据]]、[[润泽科技]]、[[芯原股份]]、[[锐捷网络]]、[[寒武纪]]","x":500,"y":-520,"width":390,"height":240},
+		{"id":"optical","type":"text","text":"## 光模块与 CPO\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/光模块与CPO]]\n\n公司：[[中际旭创]]、[[光迅科技]]、[[亨通光电]]、[[长飞光纤]]、[[中天科技]]、[[永鼎股份]]\n\n关注：订单、价格、业绩分化、扩产节奏","x":980,"y":-520,"width":380,"height":220},
+		{"id":"pcb","type":"text","text":"## PCB 与玻璃基板\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/PCB与玻璃基板]]\n\n公司：[[沪电股份]]\n\n关注：AI 服务器主板、玻璃基板、封装载板、材料验证进度","x":-980,"y":-140,"width":380,"height":200},
+		{"id":"cooling","type":"text","text":"## 液冷与数据中心电源\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/液冷与数据中心电源]]\n\n公司：[[阳光电源]]、[[协鑫能科]]、[[宁德时代]]\n\n关注：AIDC 电力、液冷渗透率、订单兑现","x":-500,"y":-140,"width":380,"height":200},
+		{"id":"holdings","type":"text","text":"## 持仓与自选\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/持仓与自选]]\n[[Wiki/10-股票投资/02-股票研究流/我的股票信息]]\n\n公司：[[华能蒙电]]、[[九丰能源]]、[[特变电工]]、[[三安光电]]、[[合肥城建]]、[[南威软件]]、[[天赐材料]]、[[兴业银锡]]、[[盈峰环境]]\n\n说明：自选/持仓不等于交易建议","x":500,"y":-140,"width":390,"height":240},
+		{"id":"earnings","type":"text","text":"## 财报业绩 / 估值\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/财报业绩]]\n\n用途：只放可核验数据\n- 营收 / 利润 / 现金流\n- PE / PB / 股息率\n- 机构目标价需标来源和日期\n\n低置信结论不进交易判断","x":980,"y":-140,"width":380,"height":210},
+		{"id":"macro","type":"text","text":"## 宏观流动性\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/宏观流动性]]\n\n公司线索：[[驱动力]]、[[宁德时代]]\n\n关注：成交额、融资、政策、指数环境。宏观只做背景，不直接推出个股买卖。","x":-980,"y":260,"width":380,"height":200},
+		{"id":"method","type":"text","text":"## 交易方法\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/交易方法]]\n\n沉淀：\n- 趋势战法\n- 尾盘买入法\n- 量价口诀\n- 个人交易原则\n\n所有方法必须用复盘验证","x":-500,"y":260,"width":380,"height":210},
+		{"id":"emerging","type":"text","text":"## 新主题观察\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/机器人与物理AI]]\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/商业航天]]\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/创新药]]\n\n公司：[[机器人]]、[[航天电器]]\n\n先做线索，不急着进持仓判断。","x":500,"y":260,"width":390,"height":210},
+		{"id":"other","type":"text","text":"## 其他资料 / 待整理\n[[Wiki/10-股票投资/02-股票研究流/知识图谱/主题卡/其他股票资料]]\n[[Wiki/10-股票投资/01-Cubox资料流/股票资料汇总]]\n\n用途：收纳未归类线索、低置信资料、待核验公司名。\n\n原则：宁可少连线，也不要把图谱变成蜘蛛网。","x":980,"y":260,"width":380,"height":210},
+		{"id":"center","type":"text","text":"# 股票研究知识图谱\n轻量总览版\n\n入口：[[Wiki/10-股票投资/02-股票研究流/知识图谱/图谱索引]]\n规则：主题 -> 主张 -> 证据/反证 -> 公司\n\n完整旧图：[[Wiki/10-股票投资/02-股票研究流/知识图谱/股票研究知识图谱-完整备份-2026-06-02.canvas]]","x":0,"y":-20,"width":420,"height":180}
+	],
+	"edges":[
+		{"id":"e-semiconductor","fromNode":"center","fromSide":"left","toNode":"semiconductor","toSide":"right"},
+		{"id":"e-packaging","fromNode":"center","fromSide":"left","toNode":"packaging","toSide":"right"},
+		{"id":"e-ai","fromNode":"center","fromSide":"right","toNode":"ai","toSide":"left"},
+		{"id":"e-optical","fromNode":"center","fromSide":"right","toNode":"optical","toSide":"left"},
+		{"id":"e-pcb","fromNode":"center","fromSide":"left","toNode":"pcb","toSide":"right"},
+		{"id":"e-cooling","fromNode":"center","fromSide":"left","toNode":"cooling","toSide":"right"},
+		{"id":"e-holdings","fromNode":"center","fromSide":"right","toNode":"holdings","toSide":"left"},
+		{"id":"e-earnings","fromNode":"center","fromSide":"right","toNode":"earnings","toSide":"left"},
+		{"id":"e-macro","fromFloating":false,"fromNode":"center","fromSide":"left","toNode":"macro","toSide":"right"},
+		{"id":"e-method","fromNode":"center","fromSide":"left","toNode":"method","toSide":"right"},
+		{"id":"e-emerging","fromNode":"center","fromSide":"right","toNode":"emerging","toSide":"left"},
+		{"id":"e-other","fromNode":"center","fromSide":"right","toNode":"other","toSide":"left"}
+	],
+	"metadata":{
+		"version":"2.0-light",
+		"frontmatter":{},
+		"note":"Lightweight overview generated 2026-06-02 to reduce Canvas lag and visual clutter."
+	}
+}

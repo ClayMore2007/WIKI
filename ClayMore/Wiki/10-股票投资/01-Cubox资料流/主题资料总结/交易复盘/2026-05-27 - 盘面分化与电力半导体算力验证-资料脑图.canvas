@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    {"id":"n1","type":"file","file":"Wiki/10-股票投资/01-Cubox资料流/主题资料总结/交易复盘/2026-05-27 - 盘面分化与电力半导体算力验证.md","x":0,"y":0,"width":390,"height":80},
+    {"id":"n2","type":"text","text":"来源：主升学长\n2026-05-27 抖音\n低置信 / 待核验","x":-460,"y":-170,"width":320,"height":110},
+    {"id":"n3","type":"text","text":"盘面声称：指数稳定，但个股体感弱，短线容错率下降","x":-460,"y":20,"width":330,"height":120},
+    {"id":"n4","type":"text","text":"电力：防守方向转进攻载体的试盘，明日看承接","x":440,"y":-190,"width":330,"height":120},
+    {"id":"n5","type":"text","text":"半导体：科技容量门面，重点看换手承接和后排扩散","x":440,"y":0,"width":330,"height":120},
+    {"id":"n6","type":"text","text":"算力：高位拥挤，反复炸板可能压制短线情绪","x":0,"y":230,"width":390,"height":110}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"n1","fromSide":"left","toNode":"n2","toSide":"right"},
+    {"id":"e2","fromNode":"n1","fromSide":"left","toNode":"n3","toSide":"right"},
+    {"id":"e3","fromNode":"n1","fromSide":"right","toNode":"n4","toSide":"left"},
+    {"id":"e4","fromNode":"n1","fromSide":"right","toNode":"n5","toSide":"left"},
+    {"id":"e5","fromNode":"n1","fromSide":"bottom","toNode":"n6","toSide":"top"}
+  ]
+}

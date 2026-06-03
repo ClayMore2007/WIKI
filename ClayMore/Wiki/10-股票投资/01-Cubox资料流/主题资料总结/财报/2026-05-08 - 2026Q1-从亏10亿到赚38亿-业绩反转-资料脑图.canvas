@@ -1,0 +1,325 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "text",
+      "text": "# 2026-05-08 - 2026Q1-从亏10亿到赚38亿-业绩反转\n\n资料脑图｜按原文结构生成",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 170,
+      "color": "1",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n2",
+      "type": "text",
+      "text": "## 风险提示\n- 业绩反转中可能包含非经常性损益，需剔除后看扣非净利润。\n- 一次性反转不构成长期投资逻辑。",
+      "x": 0,
+      "y": -460,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n3",
+      "type": "text",
+      "text": "本视频公司名和数字均来自机器转写，存在较高错字和夸张风险。",
+      "x": -79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n4",
+      "type": "text",
+      "text": "不构成投资建议。",
+      "x": 79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n5",
+      "type": "text",
+      "text": "## 视频信息\n- 作者：研报聚焦\n- 时长：7分42秒",
+      "x": 563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n6",
+      "type": "text",
+      "text": "发布：2026-05-08",
+      "x": 789,
+      "y": -451,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n7",
+      "type": "text",
+      "text": "互动：5779赞 / 200评 / 1447分享",
+      "x": 887,
+      "y": -379,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n8",
+      "type": "text",
+      "text": "## 视频声称\n",
+      "x": 702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n9",
+      "type": "text",
+      "text": "## 提取状态\n- 完整转写：80-raw-原始资料/Cubox/股票/extracted/7637503490893352244_trans…\n- 本页当前只整理“视频来源声称”，尚未逐项核对2026年一季报、扣非净利润、非经常性损益和行业价格数据。",
+      "x": 312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n10",
+      "type": "text",
+      "text": "标题说“全在这了”，正文实际集中讲 5 家公司；结尾又出现“十家公司”的口误或剪辑残留，暂按 5 个案例处理。",
+      "x": 535,
+      "y": 579,
+      "width": 330,
+      "height": 110,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n11",
+      "type": "text",
+      "text": "## 五个案例（来源声称）\n- 排名 / 公司 / 视频声称的Q1表现\n- 1 / <span style=\"color:#d6a100\">江波龙</span> / Q1盈利约38.62亿元，去年同期亏…",
+      "x": -312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n12",
+      "type": "text",
+      "text": "2 / <span style=\"color:#d6a100\">德明利</span> / Q1净利润约33.46亿元，同比接近…",
+      "x": -394,
+      "y": 619,
+      "width": 330,
+      "height": 110,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n13",
+      "type": "text",
+      "text": "3 / <span style=\"color:#d6a100\">佰维存储</span> / Q1归母净利润约28.99亿元，去…",
+      "x": -535,
+      "y": 579,
+      "width": 330,
+      "height": 110,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n14",
+      "type": "text",
+      "text": "## 反转共性（来源声称）\n- 共性 / 视频解释 / 核验角度\n- 提前布局赛道 / 风口来之前已经布局技术和产能，需求起来后能直接交付 / 看资本开支、研发投入、产能释放节奏",
+      "x": -702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n15",
+      "type": "text",
+      "text": "独家硬技术 / 能做同行做不出来的产品，避免低端价格战 / 看专利、客户认证、产品毛利率",
+      "x": -1027,
+      "y": 192,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n16",
+      "type": "text",
+      "text": "逆周期承压 / 行业低谷时继续研发扩产，回暖后吃满行业红利 / 看资产负债表、库存、现金流和低谷期投入",
+      "x": -1062,
+      "y": 103,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n17",
+      "type": "text",
+      "text": "## 主题归类\n- 存储链：<span style=\"color:#d6a100\">江波龙</span>、<span style=\"color…\n- AI算力链：<span style=\"color:#d6a100\">中际旭创</span>属于高速光模块方向，与 Wiki…",
+      "x": -563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n18",
+      "type": "text",
+      "text": "新能源龙头：<span style=\"color:#d6a100\">宁德时代</span>代表动力/储能电池全球龙头，更多…",
+      "x": -887,
+      "y": -379,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "toNode": "n2"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n2",
+      "toNode": "n3"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n2",
+      "toNode": "n4"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n1",
+      "toNode": "n5"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n5",
+      "toNode": "n6"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n5",
+      "toNode": "n7"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n1",
+      "toNode": "n8"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n1",
+      "toNode": "n9"
+    },
+    {
+      "id": "e9",
+      "fromNode": "n9",
+      "toNode": "n10"
+    },
+    {
+      "id": "e10",
+      "fromNode": "n1",
+      "toNode": "n11"
+    },
+    {
+      "id": "e11",
+      "fromNode": "n11",
+      "toNode": "n12"
+    },
+    {
+      "id": "e12",
+      "fromNode": "n11",
+      "toNode": "n13"
+    },
+    {
+      "id": "e13",
+      "fromNode": "n1",
+      "toNode": "n14"
+    },
+    {
+      "id": "e14",
+      "fromNode": "n14",
+      "toNode": "n15"
+    },
+    {
+      "id": "e15",
+      "fromNode": "n14",
+      "toNode": "n16"
+    },
+    {
+      "id": "e16",
+      "fromNode": "n1",
+      "toNode": "n17"
+    },
+    {
+      "id": "e17",
+      "fromNode": "n17",
+      "toNode": "n18"
+    }
+  ]
+}

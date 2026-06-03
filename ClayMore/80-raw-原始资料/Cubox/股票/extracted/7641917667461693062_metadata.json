@@ -1,0 +1,41 @@
+{
+  "video_id": "7641917667461693062",
+  "source_url": "https://www.douyin.com/video/7641917667461693062",
+  "desc": "不要慌 等待抄底#股票#行情#股民#AI #芯片",
+  "created_at": "2026-05-20T18:23:30",
+  "create_time": 1779272610,
+  "author": {
+    "nickname": "不如看杰哥",
+    "short_id": "53633428288",
+    "signature": "（每周一三五中午直播）原上海私募基金策略，喜欢运动爬山，冥想和音乐🎶没有小号！！！主动加你的全是骗子！"
+  },
+  "duration_ms": 243135,
+  "width": 1080,
+  "height": 1920,
+  "statistics": {
+    "digg_count": 8375,
+    "comment_count": 410,
+    "share_count": 2073,
+    "collect_count": 3534
+  },
+  "hashtags": [
+    "股票",
+    "行情",
+    "股民",
+    "ai",
+    "芯片"
+  ],
+  "music": {
+    "title": "@不如看杰哥创作的原声一不如看杰哥",
+    "author": "不如看杰哥"
+  },
+  "cover_urls": [
+    "https://p26-sign.douyinpic.com/tos-cn-i-0813c001/oAZQAhNIfzAFCzomDLifD1IAbG1zeeAK2AI5AI~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780747200&x-signature=x5QW86m2Ds3JVr%2BpUVtfEuuQ4tU%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260523205004EDB761468E473AA9B002",
+    "https://p11-sign.douyinpic.com/tos-cn-i-0813c001/oAZQAhNIfzAFCzomDLifD1IAbG1zeeAK2AI5AI~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780747200&x-signature=SL9fVMsyEe5V13QF256tleZPFTQ%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260523205004EDB761468E473AA9B002",
+    "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c001/oAZQAhNIfzAFCzomDLifD1IAbG1zeeAK2AI5AI~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780747200&x-signature=NTDCSgaxyFI%2BS7p9Vqn5ZABFnFo%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260523205004EDB761468E473AA9B002",
+    "https://p26-sign.douyinpic.com/tos-cn-i-0813c001/oAZQAhNIfzAFCzomDLifD1IAbG1zeeAK2AI5AI~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1780747200&x-signature=YpYk7gBpdFObzvfKvBtAuf4TfTk%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260523205004EDB761468E473AA9B002"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v0200fg10000d86om8vog65vd48hnni0"
+  ]
+}

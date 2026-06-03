@@ -1,0 +1,35 @@
+{
+  "video_id": "7644552820901639667",
+  "source_url": "https://www.douyin.com/share/video/7644552820901639667",
+  "desc": "",
+  "created_at": "2026-05-27T20:49:14",
+  "create_time": 1779886154,
+  "author": {
+    "nickname": "主升学长",
+    "short_id": "36550177515",
+    "signature": "大道至简，顺势而为"
+  },
+  "duration_ms": 272800,
+  "width": 1080,
+  "height": 1920,
+  "statistics": {
+    "digg_count": 35,
+    "comment_count": 4,
+    "share_count": 0,
+    "collect_count": 7
+  },
+  "hashtags": [],
+  "music": {
+    "title": "@主升学长创作的原声一主升学长",
+    "author": "主升学长"
+  },
+  "cover_urls": [
+    "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813/okat7c88UIaABABKzELLfA4IQSGA6yAT9AeFje~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781175600&x-signature=2jskEZoA7JIpumFFtDSxoSTR0%2BY%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260528195102F88C88FC957AA272EE2F",
+    "https://p3-sign.douyinpic.com/tos-cn-i-0813/okat7c88UIaABABKzELLfA4IQSGA6yAT9AeFje~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781175600&x-signature=aUXrPUgPFLsVVIJDQY83ogT5yA0%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260528195102F88C88FC957AA272EE2F",
+    "https://p26-sign.douyinpic.com/tos-cn-i-0813/okat7c88UIaABABKzELLfA4IQSGA6yAT9AeFje~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781175600&x-signature=uNH8Ji8qz7MhsUOgeTmyqMByXXk%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260528195102F88C88FC957AA272EE2F",
+    "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813/okat7c88UIaABABKzELLfA4IQSGA6yAT9AeFje~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1781175600&x-signature=0B%2FwnxR988JbwxcazhAOp8qPLEA%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260528195102F88C88FC957AA272EE2F"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0d00fg10000d8bee0nog65s6c17po6g&ratio=720p&line=0"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "video_id": "7644161510138285355",
+  "source_url": "https://www.douyin.com/video/7644161510138285355",
+  "desc": "玻璃基板 成为下一个CPO？ ",
+  "created_at": "2026-05-26T19:30:49",
+  "create_time": 1779795049,
+  "author": {
+    "nickname": "正经的阿干",
+    "short_id": "64243458544",
+    "signature": "只讲逻辑与干货\n不推荐 不解答操作问题"
+  },
+  "duration_ms": 342773,
+  "width": 1080,
+  "height": 1920,
+  "statistics": {
+    "digg_count": 333,
+    "comment_count": 43,
+    "share_count": 132,
+    "collect_count": 278
+  },
+  "hashtags": [],
+  "music": {
+    "title": "@正经的阿干创作的原声一正经的阿干",
+    "author": "正经的阿干"
+  },
+  "cover_urls": [
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/05509e739e6b454c8d54d8c0a56ae60c~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781020800&x-signature=%2Fqy0tCMROLE2p5HZh8kJFcZdX74%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605270045350AE45E82FD8F73ADCE90",
+    "https://p11-sign.douyinpic.com/tos-cn-i-dy/05509e739e6b454c8d54d8c0a56ae60c~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781020800&x-signature=afVSSQ9GVVTCkIYSqXHvUUujqd0%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605270045350AE45E82FD8F73ADCE90",
+    "https://p26-sign.douyinpic.com/tos-cn-i-dy/05509e739e6b454c8d54d8c0a56ae60c~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781020800&x-signature=zxjUAx7qkh3gpg7MzbuvvsK1DAU%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605270045350AE45E82FD8F73ADCE90",
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/05509e739e6b454c8d54d8c0a56ae60c~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1781020800&x-signature=f9HUkf6E63DdwFCJPCf8CTD6Fao%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605270045350AE45E82FD8F73ADCE90"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000d8ao7mfog65moenje5l0&ratio=720p&line=0"
+  ]
+}

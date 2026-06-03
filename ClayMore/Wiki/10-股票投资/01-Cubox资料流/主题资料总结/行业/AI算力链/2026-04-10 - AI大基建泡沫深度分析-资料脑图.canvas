@@ -1,0 +1,343 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "text",
+      "text": "# 2026-04-10 - AI大基建泡沫深度分析\n\n资料脑图｜按原文结构生成",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 170,
+      "color": "1",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n2",
+      "type": "text",
+      "text": "## 风险提示\n- 这是一条22分钟深度视频，但仍是短视频平台投研内容。\n- \"泡沫\"是高风险词汇，视频观点不代表客观事实。",
+      "x": 0,
+      "y": -460,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n3",
+      "type": "text",
+      "text": "所有环节数据和公司判断需回到财报和研报核验。",
+      "x": -79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n4",
+      "type": "text",
+      "text": "当前没有完整正文，不能把标题和简介当作视频总结。",
+      "x": 79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n5",
+      "type": "text",
+      "text": "## 视频信息\n- 作者：坤元财研\n- 时长：22分51秒（长视频深度分析）",
+      "x": 563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n6",
+      "type": "text",
+      "text": "发布：2026-04-10",
+      "x": 789,
+      "y": -451,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n7",
+      "type": "text",
+      "text": "互动：31474赞 / 1099评 / 8061分享（高热度）",
+      "x": 887,
+      "y": -379,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n8",
+      "type": "text",
+      "text": "## 视频声称\n",
+      "x": 702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n9",
+      "type": "text",
+      "text": "## 提取状态\n- 当前只有 metadata / notes 模板，尚无完整转写稿。\n- 2026-05-13 曾尝试下载并转写该 22分51秒长视频，命令运行约30分钟后超时，只保留 metadata，已删除不…",
+      "x": 312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n10",
+      "type": "text",
+      "text": "因未取得正文，本页只能保留研究框架和待补提取清单，不能写成视频结论。",
+      "x": 535,
+      "y": 579,
+      "width": 330,
+      "height": 110,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n11",
+      "type": "text",
+      "text": "## 关键主题\n- 芯片：GPU/ASIC/CPU分工\n- PCB：高多层、HDI趋势",
+      "x": -312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n12",
+      "type": "text",
+      "text": "光模块：速率升级",
+      "x": -394,
+      "y": 619,
+      "width": 330,
+      "height": 110,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n13",
+      "type": "text",
+      "text": "交换机：数据中心网络",
+      "x": -535,
+      "y": 579,
+      "width": 330,
+      "height": 110,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n14",
+      "type": "text",
+      "text": "## 已补转写，待分析（22分钟长视频）\n- 从转写稿提炼 AI大基建泡沫论的核心论据与反驳论据。\n- 六大环节中哪个环节\"泡沫最大\"vs\"最扎实\"？",
+      "x": -702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n15",
+      "type": "text",
+      "text": "各环节龙头公司有哪些？",
+      "x": -1027,
+      "y": 192,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n16",
+      "type": "text",
+      "text": "视频对2026年AI资本开支的判断是什么？",
+      "x": -1062,
+      "y": 103,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n17",
+      "type": "text",
+      "text": "## 可先建立的核验框架\n- 环节 / 需要从视频提取 / 需要外部核验\n- 芯片 / GPU/ASIC/CPU如何分工，国产替代和供给瓶颈 / 海外GPU供给、国产芯片出货、客户验证",
+      "x": -563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n18",
+      "type": "text",
+      "text": "PCB / 高多层板、HDI、AI服务器价值量 / 单机价值量、扩产、毛利率",
+      "x": -887,
+      "y": -379,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n19",
+      "type": "text",
+      "text": "光模块 / 800G/1.6T升级和需求弹性 / 出货量、价格、客户集中度",
+      "x": -789,
+      "y": -451,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "toNode": "n2"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n2",
+      "toNode": "n3"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n2",
+      "toNode": "n4"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n1",
+      "toNode": "n5"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n5",
+      "toNode": "n6"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n5",
+      "toNode": "n7"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n1",
+      "toNode": "n8"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n1",
+      "toNode": "n9"
+    },
+    {
+      "id": "e9",
+      "fromNode": "n9",
+      "toNode": "n10"
+    },
+    {
+      "id": "e10",
+      "fromNode": "n1",
+      "toNode": "n11"
+    },
+    {
+      "id": "e11",
+      "fromNode": "n11",
+      "toNode": "n12"
+    },
+    {
+      "id": "e12",
+      "fromNode": "n11",
+      "toNode": "n13"
+    },
+    {
+      "id": "e13",
+      "fromNode": "n1",
+      "toNode": "n14"
+    },
+    {
+      "id": "e14",
+      "fromNode": "n14",
+      "toNode": "n15"
+    },
+    {
+      "id": "e15",
+      "fromNode": "n14",
+      "toNode": "n16"
+    },
+    {
+      "id": "e16",
+      "fromNode": "n1",
+      "toNode": "n17"
+    },
+    {
+      "id": "e17",
+      "fromNode": "n17",
+      "toNode": "n18"
+    },
+    {
+      "id": "e18",
+      "fromNode": "n17",
+      "toNode": "n19"
+    }
+  ]
+}

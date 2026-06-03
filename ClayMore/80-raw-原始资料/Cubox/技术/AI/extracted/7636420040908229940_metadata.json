@@ -1,0 +1,35 @@
+{
+  "video_id": "7636420040908229940",
+  "source_url": "https://www.douyin.com/video/7636420040908229940",
+  "desc": "Day29-12个agent原理一口气版 | 知识点                |\n| ------------------ |\n| **messages 数组**    |\n| **上下文窗口**          |\n| **系统提示**           |\n| **思维链 CoT**        |\n| **Few-Shot 多样本**   |\n| **预填充 Prefill**    |\n| **停止序列**           |\n| **Tool Use 协议**    |\n| **RAG 检索增强**       |\n| **ReAct 模式**       |\n| **自回归生成**          |\n| **Multi-Agent 编排** |",
+  "created_at": "2026-05-05T22:50:12",
+  "create_time": 1777992612,
+  "author": {
+    "nickname": "学习AI的1000天",
+    "short_id": "92204070128",
+    "signature": "笔记+资料在下方公开群自动领\n#工具箱里还有1000个待更新🧰\n🛰：szqshan（或去粉丝群找我）"
+  },
+  "duration_ms": 546553,
+  "width": 1920,
+  "height": 1080,
+  "statistics": {
+    "digg_count": 34857,
+    "comment_count": 433,
+    "share_count": 5348,
+    "collect_count": 25842
+  },
+  "hashtags": [],
+  "music": {
+    "title": "CRUISING一松巴音乐",
+    "author": "松巴音乐"
+  },
+  "cover_urls": [
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/28be8aaa0d7241108b8477304d8abd7d~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780401600&x-signature=sqRlYWeWG9dkjbUa1LClQt9JNh4%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026051920345561EDD0E6DB54A0E5B72C",
+    "https://p11-sign.douyinpic.com/tos-cn-i-dy/28be8aaa0d7241108b8477304d8abd7d~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780401600&x-signature=fG691ugw5%2Fb3ph%2FRYseiYFWq1LM%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026051920345561EDD0E6DB54A0E5B72C",
+    "https://p26-sign.douyinpic.com/tos-cn-i-dy/28be8aaa0d7241108b8477304d8abd7d~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780401600&x-signature=3xyjhXUA%2FBhQA5V9wIwQtMiKjwY%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026051920345561EDD0E6DB54A0E5B72C",
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/28be8aaa0d7241108b8477304d8abd7d~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1780401600&x-signature=0ZvAd014cuMVqxB2NorgRoIQM6A%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026051920345561EDD0E6DB54A0E5B72C"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v0200fg10000d7t05ovog65t1oin9ue0"
+  ]
+}

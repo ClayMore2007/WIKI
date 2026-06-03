@@ -1,0 +1,343 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "text",
+      "text": "# 2026-05-10 - 字节加码算力-8家核心企业\n\n资料脑图｜按原文结构生成",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 170,
+      "color": "1",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n2",
+      "type": "text",
+      "text": "## 风险提示\n- 本视频为短视频投研内容，未核验公司数据。\n- 公司名称来自视频口播和机器转写校正，不代表已核验事实。",
+      "x": 0,
+      "y": -460,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n3",
+      "type": "text",
+      "text": "“字节2000亿AI资本开支”是本页最高优先级核验项；若该前提不成立，整条推导需要降权。",
+      "x": -79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n4",
+      "type": "text",
+      "text": "所有结论需回到公司公告和财报核实。",
+      "x": 79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n5",
+      "type": "text",
+      "text": "## 视频信息\n- 作者：蜗牛景气研\n- 时长：4分19秒",
+      "x": 563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n6",
+      "type": "text",
+      "text": "发布：2026-05-10",
+      "x": 789,
+      "y": -451,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n7",
+      "type": "text",
+      "text": "互动：1050赞 / 68评 / 240分享",
+      "x": 887,
+      "y": -379,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n8",
+      "type": "text",
+      "text": "## 视频声称\n",
+      "x": 702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n9",
+      "type": "text",
+      "text": "## 本次整理结论\n- 项目 / 结论\n- 来源质量 / 社交媒体短视频，需谨慎",
+      "x": 312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n10",
+      "type": "text",
+      "text": "可用信息 / 标题、作者、发布时间、互动数据、hashtag、机器转写正文",
+      "x": 535,
+      "y": 579,
+      "width": 330,
+      "height": 110,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n11",
+      "type": "text",
+      "text": "核心声称 / 字节 2026 年 AI 基础设施资本开支从 1600 亿上调至 2000 亿，增量约 400 亿",
+      "x": 394,
+      "y": 619,
+      "width": 330,
+      "height": 110,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n12",
+      "type": "text",
+      "text": "## 提取状态\n- 完整转写：80-raw-原始资料/Cubox/股票/extracted/7638038101960997227_trans…\n- 作者在视频开头明确提示“字节资本开支上调”尚未官方证实，因此本页所有公司受益逻辑只能作为线索。",
+      "x": -312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n13",
+      "type": "text",
+      "text": "8家公司名单已按转写和上下文校正，但仍需逐项核验供应关系和收入占比。",
+      "x": -394,
+      "y": 619,
+      "width": 330,
+      "height": 110,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n14",
+      "type": "text",
+      "text": "## 初步核验：字节资本开支前提\n- 项目 / 结论\n- 是否有外部来源支持 / 有。SCMP 2026-05-09 报道称，两名知情人士表示字节将2026年资本开支计划提高至少25%…",
+      "x": -702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n15",
+      "type": "text",
+      "text": "是否为官方披露 / 否。暂未看到字节跳动官方公告或财务披露。",
+      "x": -1027,
+      "y": 192,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n16",
+      "type": "text",
+      "text": "当前可信度 / medium-low：可作为“媒体报道的产业线索”，不能作为确定事实。",
+      "x": -1062,
+      "y": 103,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n17",
+      "type": "text",
+      "text": "## 关键主题\n- 字节跳动加码算力资本开支\n- 大厂跟进预期（阿里、腾讯等）",
+      "x": -563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n18",
+      "type": "text",
+      "text": "8家产业链核心受益企业",
+      "x": -887,
+      "y": -379,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n19",
+      "type": "text",
+      "text": "AI 芯片、芯片 IP、网络设备、光模块、AI 服务器、IDC/算力运营、液冷、PCB",
+      "x": -789,
+      "y": -451,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "toNode": "n2"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n2",
+      "toNode": "n3"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n2",
+      "toNode": "n4"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n1",
+      "toNode": "n5"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n5",
+      "toNode": "n6"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n5",
+      "toNode": "n7"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n1",
+      "toNode": "n8"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n1",
+      "toNode": "n9"
+    },
+    {
+      "id": "e9",
+      "fromNode": "n9",
+      "toNode": "n10"
+    },
+    {
+      "id": "e10",
+      "fromNode": "n9",
+      "toNode": "n11"
+    },
+    {
+      "id": "e11",
+      "fromNode": "n1",
+      "toNode": "n12"
+    },
+    {
+      "id": "e12",
+      "fromNode": "n12",
+      "toNode": "n13"
+    },
+    {
+      "id": "e13",
+      "fromNode": "n1",
+      "toNode": "n14"
+    },
+    {
+      "id": "e14",
+      "fromNode": "n14",
+      "toNode": "n15"
+    },
+    {
+      "id": "e15",
+      "fromNode": "n14",
+      "toNode": "n16"
+    },
+    {
+      "id": "e16",
+      "fromNode": "n1",
+      "toNode": "n17"
+    },
+    {
+      "id": "e17",
+      "fromNode": "n17",
+      "toNode": "n18"
+    },
+    {
+      "id": "e18",
+      "fromNode": "n17",
+      "toNode": "n19"
+    }
+  ]
+}

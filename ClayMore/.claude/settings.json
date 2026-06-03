@@ -1,0 +1,14 @@
+{
+  "env": {
+    "CLAUDE_PLUGIN_ROOT": "E:/华为云盘/Wiki/Obsidia/ClayMore/.claude"
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "type": "command",
+        "command": "\"E:/华为云盘/Wiki/Obsidia/ClayMore/.claude/hooks/run-hook.cmd\" session-start",
+        "async": false
+      }
+    ]
+  }
+}

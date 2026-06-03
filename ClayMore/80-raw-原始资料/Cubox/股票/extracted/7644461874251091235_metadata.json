@@ -1,0 +1,35 @@
+{
+  "video_id": "7644461874251091235",
+  "source_url": "https://www.douyin.com/video/7644461874251091235",
+  "desc": "先进封装8家订单确定性最强的玩家 ",
+  "created_at": "2026-05-27T14:56:26",
+  "create_time": 1779864986,
+  "author": {
+    "nickname": "正经的阿干",
+    "short_id": "64243458544",
+    "signature": "只讲逻辑与干货\n不推荐 不解答操作问题"
+  },
+  "duration_ms": 272743,
+  "width": 1080,
+  "height": 1920,
+  "statistics": {
+    "digg_count": 67,
+    "comment_count": 8,
+    "share_count": 16,
+    "collect_count": 63
+  },
+  "hashtags": [],
+  "music": {
+    "title": "@正经的阿干创作的原声一正经的阿干",
+    "author": "正经的阿干"
+  },
+  "cover_urls": [
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/4d95da7519994074a4b39c9b1b74890a~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781092800&x-signature=9gD6izPxtGCjqt%2Fm45kh8WF6X%2Fk%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605272010041604CC38CC52FAD9784F",
+    "https://p11-sign.douyinpic.com/tos-cn-i-dy/4d95da7519994074a4b39c9b1b74890a~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781092800&x-signature=pmzIE%2F2OmBAhWi0ulwfBkaDbFb8%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605272010041604CC38CC52FAD9784F",
+    "https://p26-sign.douyinpic.com/tos-cn-i-dy/4d95da7519994074a4b39c9b1b74890a~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781092800&x-signature=HyKjPgNokeT%2BG4U%2B0vK0RQNNrjs%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605272010041604CC38CC52FAD9784F",
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/4d95da7519994074a4b39c9b1b74890a~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1781092800&x-signature=RGEEOibh0wlbYW2E%2BAsfzvY3Xhk%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605272010041604CC38CC52FAD9784F"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000d8b97m7og65p9gdduj50&ratio=720p&line=0"
+  ]
+}

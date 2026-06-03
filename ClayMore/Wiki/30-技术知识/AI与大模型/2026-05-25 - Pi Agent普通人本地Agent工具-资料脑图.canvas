@@ -1,0 +1,19 @@
+{
+  "nodes": [
+    {"id":"page","type":"file","file":"2026-05-25 - Pi Agent普通人本地Agent工具.md","x":0,"y":0,"width":360,"height":80},
+    {"id":"center","type":"text","text":"Pi Agent\n普通人本地 Agent 工具\n待试用验证","x":420,"y":0,"width":330,"height":110},
+    {"id":"source","type":"text","text":"来源\n第四种黑猩猩\n2026-05-25\n已下载并机器转写","x":420,"y":-185,"width":300,"height":120},
+    {"id":"position","type":"text","text":"定位声称\n比代码 Agent 更偏日常任务\n适合非程序员理解 Agent","x":810,"y":-120,"width":330,"height":130},
+    {"id":"compare","type":"text","text":"对比对象\nClaude Code\nCodex\nOpenCode\nPi Agent","x":820,"y":70,"width":280,"height":140},
+    {"id":"verify","type":"text","text":"待核验\n官方功能/定价\nOpenRouter 排名\n本地文件和浏览器权限\n实际试用记录","x":420,"y":205,"width":340,"height":150},
+    {"id":"claymore","type":"text","text":"ClayMore 观察点\n资料整理\n文档生成\n网页操作\n跨应用任务","x":70,"y":180,"width":300,"height":140}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"page","fromSide":"right","toNode":"center","toSide":"left"},
+    {"id":"e2","fromNode":"center","fromSide":"top","toNode":"source","toSide":"bottom"},
+    {"id":"e3","fromNode":"center","fromSide":"right","toNode":"position","toSide":"left"},
+    {"id":"e4","fromNode":"center","fromSide":"right","toNode":"compare","toSide":"left"},
+    {"id":"e5","fromNode":"center","fromSide":"bottom","toNode":"verify","toSide":"top"},
+    {"id":"e6","fromNode":"center","fromSide":"left","toNode":"claymore","toSide":"right"}
+  ]
+}

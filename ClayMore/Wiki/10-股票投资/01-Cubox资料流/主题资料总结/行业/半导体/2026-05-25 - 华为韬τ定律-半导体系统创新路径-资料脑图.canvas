@@ -1,0 +1,425 @@
+﻿{
+    "nodes":  [
+                  {
+                      "id":  "n1",
+                      "type":  "text",
+                      "text":  "# 2026-05-25 - 华为韬τ定律-半导体系统创新路径\n\n资料脑图｜按原文结构生成",
+                      "x":  0,
+                      "y":  0,
+                      "width":  420,
+                      "height":  170,
+                      "color":  "1",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n2",
+                      "type":  "text",
+                      "text":  "## 来源信息\n- 来源平台 / 小红书\n- 来源日期 / 2026-05-25",
+                      "x":  0,
+                      "y":  -460,
+                      "width":  430,
+                      "height":  170,
+                      "color":  "2",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n3",
+                      "type":  "text",
+                      "text":  "原始标题 / 华为“韬τ定律”｜半导体新路径看懂了吗",
+                      "x":  -79,
+                      "y":  -665,
+                      "width":  330,
+                      "height":  110,
+                      "color":  "2",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n4",
+                      "type":  "text",
+                      "text":  "原始摘要 / 华为在 ISCAS 上提出“韬τ定律”；资料称半导体发展不再只依赖几何缩微，而转向系统创新",
+                      "x":  79,
+                      "y":  -665,
+                      "width":  330,
+                      "height":  110,
+                      "color":  "2",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n5",
+                      "type":  "text",
+                      "text":  "## 候选主题\n- 半导体系统创新路径\n- 时间缩微 / 几何缩微放缓后的性能提升路线",
+                      "x":  563,
+                      "y":  -287,
+                      "width":  430,
+                      "height":  170,
+                      "color":  "3",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n6",
+                      "type":  "text",
+                      "text":  "逻辑折叠",
+                      "x":  789,
+                      "y":  -451,
+                      "width":  330,
+                      "height":  110,
+                      "color":  "3",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n7",
+                      "type":  "text",
+                      "text":  "器件、电路、芯片、系统多层级协同",
+                      "x":  887,
+                      "y":  -379,
+                      "width":  330,
+                      "height":  110,
+                      "color":  "3",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n8",
+                      "type":  "text",
+                      "text":  "## 待核验问题\n- 除华为官网新闻外，是否有 ISCAS 会议论文、ChinaXiv 预印本或演讲全文可交叉核验？\n- “系统创新”与先进封装、Chiplet、3D 堆叠的关系是否由华为原文明确提出，还是二级解读扩展？",
+                      "x":  702,
+                      "y":  102,
+                      "width":  430,
+                      "height":  170,
+                      "color":  "4",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n9",
+                      "type":  "text",
+                      "text":  "该线索与先进封装、Chiplet、3D 堆叠或国产半导体供应链是否有可验证关联？",
+                      "x":  1062,
+                      "y":  103,
+                      "width":  330,
+                      "height":  110,
+                      "color":  "4",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n10",
+                      "type":  "text",
+                      "text":  "小红书原图与华为官网图的内容差异是否会影响对“韬τ定律”的理解？",
+                      "x":  1027,
+                      "y":  192,
+                      "width":  330,
+                      "height":  110,
+                      "color":  "4",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n11",
+                      "type":  "text",
+                      "text":  "## 附图\n- !90-assets-附件/Cubox/2026-05-25-小红书-华为韬tau定律-原图.jpg\n- 图片来源：小红书原文页面。",
+                      "x":  312,
+                      "y":  414,
+                      "width":  430,
+                      "height":  170,
+                      "color":  "5",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n12",
+                      "type":  "text",
+                      "text":  "!90-assets-附件/Cubox/2026-05-25-华为韬tau定律-ISCAS.jpg",
+                      "x":  535,
+                      "y":  579,
+                      "width":  330,
+                      "height":  110,
+                      "color":  "5",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n13",
+                      "type":  "text",
+                      "text":  "## 已核验基础事实\n- 2026-05-25，华为官网发布新闻称：何庭波在 IEEE ISCAS 2026 上发表“半导体新路径探索与实践”主旨演…\n- 华为官网表述：韬(τ)定律以“时间(τ)缩微”替代“几何缩微”，并通过逻辑折叠等技术压缩信号传播时延、提升晶体管密度。",
+                      "x":  -312,
+                      "y":  414,
+                      "width":  430,
+                      "height":  170,
+                      "color":  "6",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n14",
+                      "type":  "text",
+                      "text":  "华为官网列出四个协同层级：器件、电路、芯片、系统。",
+                      "x":  -394,
+                      "y":  619,
+                      "width":  330,
+                      "height":  110,
+                      "color":  "6",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n15",
+                      "type":  "text",
+                      "text":  "## 图片内容整理\n- 突破传统平面布局边界。\n- 缩短关键路径走线。",
+                      "x":  -702,
+                      "y":  102,
+                      "width":  430,
+                      "height":  170,
+                      "color":  "7",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n16",
+                      "type":  "text",
+                      "text":  "降低信号传播的电阻和电容负载，压缩时间常数 τ。",
+                      "x":  -1027,
+                      "y":  192,
+                      "width":  330,
+                      "height":  110,
+                      "color":  "7",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n17",
+                      "type":  "text",
+                      "text":  "结合 3D 封装、Chiplet 等技术，提升单位面积晶体管密度。",
+                      "x":  -1062,
+                      "y":  103,
+                      "width":  330,
+                      "height":  110,
+                      "color":  "7",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n18",
+                      "type":  "text",
+                      "text":  "## 图中产业机会清单\n- 逻辑板块 / 图中逻辑 / 图中列出的公司\n- 先进封装 / 3D IC / Chiplet / 逻辑折叠和 3D 堆叠的核心载体，突破制程限制，提升性能密度 / \u003cspan…",
+                      "x":  -563,
+                      "y":  -287,
+                      "width":  430,
+                      "height":  170,
+                      "color":  "2",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n19",
+                      "type":  "text",
+                      "text":  "EDA / IP 设计工具链 / 支撑多层次协同设计、3D 布局、异构集成、时序/功耗仿真等需求 / \u003cspan style=…",
+                      "x":  -887,
+                      "y":  -379,
+                      "width":  330,
+                      "height":  110,
+                      "color":  "2",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n20",
+                      "type":  "text",
+                      "text":  "半导体设备 / 刻蚀、薄膜、清洗、键合、量测等设备需求提升 / \u003cspan style=\"color:#d6a100\"\u003e北方华…",
+                      "x":  -789,
+                      "y":  -451,
+                      "width":  330,
+                      "height":  110,
+                      "color":  "2",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  },
+                  {
+                      "id":  "n21",
+                      "type":  "text",
+                      "text":  "2026-05-28 抖音补充：产业影响推演\\n设备、材料、EDA/IP、国产算力均为低置信映射",
+                      "x":  -40,
+                      "y":  760,
+                      "width":  430,
+                      "height":  150,
+                      "color":  "4",
+                      "styleAttributes":  {
+                                              "shape":  "rounded-rectangle"
+                                          }
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "e1",
+                      "fromNode":  "n1",
+                      "toNode":  "n2",
+                      "fromSide":  "top",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e2",
+                      "fromNode":  "n2",
+                      "toNode":  "n3",
+                      "fromSide":  "top",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e3",
+                      "fromNode":  "n2",
+                      "toNode":  "n4",
+                      "fromSide":  "top",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e4",
+                      "fromNode":  "n1",
+                      "toNode":  "n5",
+                      "fromSide":  "top",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e5",
+                      "fromNode":  "n5",
+                      "toNode":  "n6",
+                      "fromSide":  "top",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e6",
+                      "fromNode":  "n5",
+                      "toNode":  "n7",
+                      "fromSide":  "top",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e7",
+                      "fromNode":  "n1",
+                      "toNode":  "n8",
+                      "fromSide":  "right",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e8",
+                      "fromNode":  "n8",
+                      "toNode":  "n9",
+                      "fromSide":  "right",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e9",
+                      "fromNode":  "n8",
+                      "toNode":  "n10",
+                      "fromSide":  "right",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e10",
+                      "fromNode":  "n1",
+                      "toNode":  "n11",
+                      "fromSide":  "bottom",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e11",
+                      "fromNode":  "n11",
+                      "toNode":  "n12",
+                      "fromSide":  "bottom",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e12",
+                      "fromNode":  "n1",
+                      "toNode":  "n13",
+                      "fromSide":  "bottom",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e13",
+                      "fromNode":  "n13",
+                      "toNode":  "n14",
+                      "fromSide":  "bottom",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e14",
+                      "fromNode":  "n1",
+                      "toNode":  "n15",
+                      "fromSide":  "left",
+                      "toSide":  "right"
+                  },
+                  {
+                      "id":  "e15",
+                      "fromNode":  "n15",
+                      "toNode":  "n16",
+                      "fromSide":  "left",
+                      "toSide":  "right"
+                  },
+                  {
+                      "id":  "e16",
+                      "fromNode":  "n15",
+                      "toNode":  "n17",
+                      "fromSide":  "left",
+                      "toSide":  "right"
+                  },
+                  {
+                      "id":  "e17",
+                      "fromNode":  "n1",
+                      "toNode":  "n18",
+                      "fromSide":  "top",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e18",
+                      "fromNode":  "n18",
+                      "toNode":  "n19",
+                      "fromSide":  "left",
+                      "toSide":  "right"
+                  },
+                  {
+                      "id":  "e19",
+                      "fromNode":  "n18",
+                      "toNode":  "n20",
+                      "fromSide":  "top",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e20",
+                      "fromNode":  "n1",
+                      "toNode":  "n21",
+                      "fromSide":  "bottom",
+                      "toSide":  "top"
+                  }
+              ],
+    "metadata":  {
+                     "version":  "1.0-1.0",
+                     "frontmatter":  {
+
+                                     }
+                 }
+}

@@ -1,0 +1,39 @@
+{
+  "video_id": "7646724349428305187",
+  "source_url": "https://www.douyin.com/video/7646724349428305187",
+  "desc": "腾讯将推出微信AI agent #腾讯 #AIagent #涨知识",
+  "created_at": "2026-06-02T17:15:58",
+  "create_time": 1780391758,
+  "author": {
+    "nickname": "老炮投研",
+    "short_id": "83405789629",
+    "signature": "盈利源于认知，认知源于深度研究"
+  },
+  "duration_ms": 324546,
+  "width": 1440,
+  "height": 2560,
+  "statistics": {
+    "digg_count": 1736,
+    "comment_count": 294,
+    "share_count": 919,
+    "collect_count": 920
+  },
+  "hashtags": [
+    "腾讯",
+    "AIagent",
+    "涨知识"
+  ],
+  "music": {
+    "title": "@老炮投研创作的原声一老炮投研",
+    "author": "老炮投研"
+  },
+  "cover_urls": [
+    "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-dy/f86caf6ae4114698919bf7d1a4b39317~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781658000&x-signature=Raj5%2FwfArc9u6AnNyi5lRTEaQjM%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026060309121468748B50823A473543DF",
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/f86caf6ae4114698919bf7d1a4b39317~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781658000&x-signature=q9q8vj1uoKfNBBdDRQmQ7w8PXB8%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026060309121468748B50823A473543DF",
+    "https://p26-sign.douyinpic.com/tos-cn-i-dy/f86caf6ae4114698919bf7d1a4b39317~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1781658000&x-signature=J1b6pG1i5Qn7WMPeLlzzQwgA2fM%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026060309121468748B50823A473543DF",
+    "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-dy/f86caf6ae4114698919bf7d1a4b39317~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1781658000&x-signature=ZbZ5nPnTom45PlGrAyein7lvW9M%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026060309121468748B50823A473543DF"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000d8f9u07og65hm04ak0kg&ratio=720p&line=0"
+  ]
+}

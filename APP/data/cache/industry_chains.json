@@ -1,0 +1,1509 @@
+[
+  {
+    "id": "ai算力链",
+    "name": "AI算力链",
+    "bottleneckLevel": "待核验",
+    "stages": [
+      {
+        "id": "ai算力链-ai芯片-gpu-cpu",
+        "chainId": "ai算力链",
+        "name": "AI芯片/GPU/CPU",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "海光信息",
+            "code": "SH688041",
+            "priority": "P0",
+            "heat": 6
+          },
+          {
+            "name": "寒武纪",
+            "code": "SH688256",
+            "priority": "P0",
+            "heat": 10
+          }
+        ]
+      },
+      {
+        "id": "ai算力链-内存接口-互联芯片",
+        "chainId": "ai算力链",
+        "name": "内存接口/互联芯片",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "澜起科技",
+            "code": "SH688008",
+            "priority": "P0",
+            "heat": 12
+          }
+        ]
+      },
+      {
+        "id": "ai算力链-ai服务器-oem",
+        "chainId": "ai算力链",
+        "name": "AI服务器/OEM",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "工业富联",
+            "code": "SH601138",
+            "priority": "P0",
+            "heat": 6
+          },
+          {
+            "name": "华勤技术",
+            "code": "SH603296",
+            "priority": "P1",
+            "heat": 4
+          }
+        ]
+      },
+      {
+        "id": "ai算力链-服务器-整机-算力平台",
+        "chainId": "ai算力链",
+        "name": "服务器/整机/算力平台",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "中科曙光",
+            "code": "SH603019",
+            "priority": "P1",
+            "heat": 5
+          },
+          {
+            "name": "浪潮信息",
+            "code": "SZ000977",
+            "priority": "P1",
+            "heat": 11
+          }
+        ]
+      },
+      {
+        "id": "ai算力链-网络设备-ict",
+        "chainId": "ai算力链",
+        "name": "网络设备/ICT",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "紫光股份",
+            "code": "SZ000938",
+            "priority": "P1",
+            "heat": 3
+          }
+        ]
+      },
+      {
+        "id": "ai算力链-信创-ai服务器",
+        "chainId": "ai算力链",
+        "name": "信创/AI服务器",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "中国长城",
+            "code": "SZ000066",
+            "priority": "P1",
+            "heat": 3
+          }
+        ]
+      },
+      {
+        "id": "ai算力链-整机-云-渠道",
+        "chainId": "ai算力链",
+        "name": "整机/云/渠道",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "神州数码",
+            "code": "SZ000034",
+            "priority": "P2",
+            "heat": 1
+          }
+        ]
+      },
+      {
+        "id": "ai算力链-ai应用-边缘算力",
+        "chainId": "ai算力链",
+        "name": "AI应用/边缘算力",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "云天励飞-U",
+            "code": "SH688343",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "ai算力链-ai软件-行业数字化",
+        "chainId": "ai算力链",
+        "name": "AI软件/行业数字化",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "东方国信",
+            "code": "SZ300166",
+            "priority": "P2",
+            "heat": 4
+          }
+        ]
+      },
+      {
+        "id": "ai算力链-ai软件-企业服务",
+        "chainId": "ai算力链",
+        "name": "AI软件/企业服务",
+        "priority": "P3",
+        "companies": [
+          {
+            "name": "汉得信息",
+            "code": "SZ300170",
+            "priority": "P3",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "ai算力链-数据中心-idc",
+        "chainId": "ai算力链",
+        "name": "数据中心/IDC",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "润泽科技",
+            "code": "SZ300442",
+            "priority": "P0",
+            "heat": 16
+          },
+          {
+            "name": "数据港",
+            "code": "SH603881",
+            "priority": "P1",
+            "heat": 4
+          }
+        ]
+      },
+      {
+        "id": "ai算力链-数据中心电源-ups",
+        "chainId": "ai算力链",
+        "name": "数据中心电源/UPS",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "科华数据",
+            "code": "SZ002335",
+            "priority": "P1",
+            "heat": 1
+          }
+        ]
+      },
+      {
+        "id": "ai算力链-数据中心电源-储能",
+        "chainId": "ai算力链",
+        "name": "数据中心电源/储能",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "科士达",
+            "code": "SZ002518",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "ai算力链-液冷-温控",
+        "chainId": "ai算力链",
+        "name": "液冷/温控",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "英维克",
+            "code": "SZ002837",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "ai算力链-通信运维-算力运维",
+        "chainId": "ai算力链",
+        "name": "通信运维/算力运维",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "润建股份",
+            "code": "SZ002929",
+            "priority": "P2",
+            "heat": 4
+          }
+        ]
+      }
+    ],
+    "heatByMonth": {
+      "2026-05": 28,
+      "2026-04": 6
+    }
+  },
+  {
+    "id": "pcb-连接器",
+    "name": "PCB/连接器",
+    "bottleneckLevel": "待核验",
+    "stages": [
+      {
+        "id": "pcb-连接器-高速pcb",
+        "chainId": "pcb-连接器",
+        "name": "高速PCB",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "沪电股份",
+            "code": "SZ002463",
+            "priority": "P0",
+            "heat": 12
+          },
+          {
+            "name": "深南电路",
+            "code": "SZ002916",
+            "priority": "P0",
+            "heat": 1
+          }
+        ]
+      },
+      {
+        "id": "pcb-连接器-pcb-消费电子",
+        "chainId": "pcb-连接器",
+        "name": "PCB/消费电子",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "鹏鼎控股",
+            "code": "SZ002938",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "pcb-连接器-fpc-精密制造",
+        "chainId": "pcb-连接器",
+        "name": "FPC/精密制造",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "东山精密",
+            "code": "SZ002384",
+            "priority": "P1",
+            "heat": 5
+          }
+        ]
+      },
+      {
+        "id": "pcb-连接器-pcb-先进封装载板",
+        "chainId": "pcb-连接器",
+        "name": "PCB/先进封装载板",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "兴森科技",
+            "code": "SZ002436",
+            "priority": "P1",
+            "heat": 1
+          }
+        ]
+      },
+      {
+        "id": "pcb-连接器-连接器",
+        "chainId": "pcb-连接器",
+        "name": "连接器",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "航天电器",
+            "code": "SZ002025",
+            "priority": "P1",
+            "heat": 6
+          },
+          {
+            "name": "华丰科技",
+            "code": "SH688629",
+            "priority": "P1",
+            "heat": 4
+          }
+        ]
+      },
+      {
+        "id": "pcb-连接器-模组-封装代工",
+        "chainId": "pcb-连接器",
+        "name": "模组/封装代工",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "环旭电子",
+            "code": "SH601231",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      }
+    ],
+    "heatByMonth": {
+      "2026-05": 6,
+      "2026-04": 3
+    }
+  },
+  {
+    "id": "先进封装-封测",
+    "name": "先进封装/封测",
+    "bottleneckLevel": "待核验",
+    "stages": [
+      {
+        "id": "先进封装-封测-封测龙头",
+        "chainId": "先进封装-封测",
+        "name": "封测龙头",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "长电科技",
+            "code": "SH600584",
+            "priority": "P0",
+            "heat": 14
+          }
+        ]
+      },
+      {
+        "id": "先进封装-封测-封测弹性",
+        "chainId": "先进封装-封测",
+        "name": "封测弹性",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "通富微电",
+            "code": "SZ002156",
+            "priority": "P0",
+            "heat": 18
+          }
+        ]
+      },
+      {
+        "id": "先进封装-封测-封测",
+        "chainId": "先进封装-封测",
+        "name": "封测",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "华天科技",
+            "code": "SZ002185",
+            "priority": "P1",
+            "heat": 4
+          }
+        ]
+      },
+      {
+        "id": "先进封装-封测-cis封装-先进封装",
+        "chainId": "先进封装-封测",
+        "name": "CIS封装/先进封装",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "晶方科技",
+            "code": "SH603005",
+            "priority": "P1",
+            "heat": 1
+          }
+        ]
+      },
+      {
+        "id": "先进封装-封测-先进封装",
+        "chainId": "先进封装-封测",
+        "name": "先进封装",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "盛合晶微",
+            "code": "SH688820",
+            "priority": "P0",
+            "heat": 22
+          }
+        ]
+      },
+      {
+        "id": "先进封装-封测-封测-配套",
+        "chainId": "先进封装-封测",
+        "name": "封测/配套",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "太极实业",
+            "code": "SH600667",
+            "priority": "P1",
+            "heat": 4
+          }
+        ]
+      },
+      {
+        "id": "先进封装-封测-封测-电子制造",
+        "chainId": "先进封装-封测",
+        "name": "封测/电子制造",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "深科技",
+            "code": "SZ000021",
+            "priority": "P1",
+            "heat": 1
+          }
+        ]
+      }
+    ],
+    "heatByMonth": {
+      "2026-05": 20,
+      "2026-04": 3
+    }
+  },
+  {
+    "id": "光模块-cpo",
+    "name": "光模块/CPO",
+    "bottleneckLevel": "待核验",
+    "stages": [
+      {
+        "id": "光模块-cpo-光模块龙头",
+        "chainId": "光模块-cpo",
+        "name": "光模块龙头",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "中际旭创",
+            "code": "SZ300308",
+            "priority": "P0",
+            "heat": 15
+          },
+          {
+            "name": "新易盛",
+            "code": "SZ300502",
+            "priority": "P0",
+            "heat": 7
+          }
+        ]
+      },
+      {
+        "id": "光模块-cpo-光器件",
+        "chainId": "光模块-cpo",
+        "name": "光器件",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "天孚通信",
+            "code": "SZ300394",
+            "priority": "P0",
+            "heat": 6
+          }
+        ]
+      },
+      {
+        "id": "光模块-cpo-光模块-光芯片",
+        "chainId": "光模块-cpo",
+        "name": "光模块/光芯片",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "光迅科技",
+            "code": "SZ002281",
+            "priority": "P0",
+            "heat": 14
+          }
+        ]
+      },
+      {
+        "id": "光模块-cpo-激光-光通信",
+        "chainId": "光模块-cpo",
+        "name": "激光/光通信",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "华工科技",
+            "code": "SZ000988",
+            "priority": "P1",
+            "heat": 7
+          }
+        ]
+      },
+      {
+        "id": "光模块-cpo-光通信器件",
+        "chainId": "光模块-cpo",
+        "name": "光通信器件",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "太辰光",
+            "code": "SZ300570",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "光模块-cpo-光纤光缆",
+        "chainId": "光模块-cpo",
+        "name": "光纤光缆",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "亨通光电",
+            "code": "SH600487",
+            "priority": "P0",
+            "heat": 0
+          },
+          {
+            "name": "中天科技",
+            "code": "SH600522",
+            "priority": "P0",
+            "heat": 0
+          },
+          {
+            "name": "长飞光纤",
+            "code": "SH601869",
+            "priority": "P1",
+            "heat": 0
+          },
+          {
+            "name": "永鼎股份",
+            "code": "SH600105",
+            "priority": "P3",
+            "heat": 0
+          }
+        ]
+      }
+    ],
+    "heatByMonth": {
+      "2026-05": 7,
+      "2026-04": 6
+    }
+  },
+  {
+    "id": "半导体材料",
+    "name": "半导体材料",
+    "bottleneckLevel": "待核验",
+    "stages": [
+      {
+        "id": "半导体材料-电子特气",
+        "chainId": "半导体材料",
+        "name": "电子特气",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "华特气体",
+            "code": "SH688268",
+            "priority": "P0",
+            "heat": 2
+          },
+          {
+            "name": "中船特气",
+            "code": "SH688146",
+            "priority": "P0",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-光刻胶-材料",
+        "chainId": "半导体材料",
+        "name": "光刻胶/材料",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "雅克科技",
+            "code": "SZ002409",
+            "priority": "P0",
+            "heat": 3
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-cmp-抛光材料",
+        "chainId": "半导体材料",
+        "name": "CMP/抛光材料",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "鼎龙股份",
+            "code": "SZ300054",
+            "priority": "P0",
+            "heat": 2
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-电子化学品",
+        "chainId": "半导体材料",
+        "name": "电子化学品",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "兴福电子",
+            "code": "SH688545",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-前驱体-电子材料",
+        "chainId": "半导体材料",
+        "name": "前驱体/电子材料",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "中巨芯-U",
+            "code": "SH688549",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-硅材料-衬底",
+        "chainId": "半导体材料",
+        "name": "硅材料/衬底",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "西安奕材-U",
+            "code": "SH688783",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-硅片-材料",
+        "chainId": "半导体材料",
+        "name": "硅片/材料",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "中晶科技",
+            "code": "SZ003026",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-锗-稀散金属",
+        "chainId": "半导体材料",
+        "name": "锗/稀散金属",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "云南锗业",
+            "code": "SZ002428",
+            "priority": "P1",
+            "heat": 4
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-电容-电子材料",
+        "chainId": "半导体材料",
+        "name": "电容/电子材料",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "东阳光",
+            "code": "SH600673",
+            "priority": "P1",
+            "heat": 10
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-碳化硅-蓝宝石",
+        "chainId": "半导体材料",
+        "name": "碳化硅/蓝宝石",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "三安光电",
+            "code": "SH600703",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-硅片-晶体",
+        "chainId": "半导体材料",
+        "name": "硅片/晶体",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "TCL中环",
+            "code": "SZ002129",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-玻璃基板-显示材料",
+        "chainId": "半导体材料",
+        "name": "玻璃基板/显示材料",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "沃格光电",
+            "code": "SH603773",
+            "priority": "P1",
+            "heat": 2
+          },
+          {
+            "name": "凯盛科技",
+            "code": "SH600552",
+            "priority": "P1",
+            "heat": 2
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-光学玻璃-材料",
+        "chainId": "半导体材料",
+        "name": "光学玻璃/材料",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "戈碧迦",
+            "code": "BJ920438",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-晶体-压电材料",
+        "chainId": "半导体材料",
+        "name": "晶体/压电材料",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "天通股份",
+            "code": "SH600330",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-光学晶体",
+        "chainId": "半导体材料",
+        "name": "光学晶体",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "福晶科技",
+            "code": "SZ002222",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-先进材料-金属",
+        "chainId": "半导体材料",
+        "name": "先进材料/金属",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "西部材料",
+            "code": "SZ002149",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体材料-钨-硬质材料",
+        "chainId": "半导体材料",
+        "name": "钨/硬质材料",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "中钨高新",
+            "code": "SZ000657",
+            "priority": "P2",
+            "heat": 1
+          }
+        ]
+      }
+    ],
+    "heatByMonth": {
+      "2026-05": 16,
+      "2026-06": 2
+    }
+  },
+  {
+    "id": "半导体设备",
+    "name": "半导体设备",
+    "bottleneckLevel": "待核验",
+    "stages": [
+      {
+        "id": "半导体设备-综合设备",
+        "chainId": "半导体设备",
+        "name": "综合设备",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "北方华创",
+            "code": "SZ002371",
+            "priority": "P0",
+            "heat": 6
+          }
+        ]
+      },
+      {
+        "id": "半导体设备-刻蚀设备",
+        "chainId": "半导体设备",
+        "name": "刻蚀设备",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "中微公司",
+            "code": "SH688012",
+            "priority": "P0",
+            "heat": 5
+          }
+        ]
+      },
+      {
+        "id": "半导体设备-薄膜沉积",
+        "chainId": "半导体设备",
+        "name": "薄膜沉积",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "拓荆科技",
+            "code": "SH688072",
+            "priority": "P0",
+            "heat": 6
+          }
+        ]
+      },
+      {
+        "id": "半导体设备-涂胶显影-清洗",
+        "chainId": "半导体设备",
+        "name": "涂胶显影/清洗",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "芯源微",
+            "code": "SH688037",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体设备-cmp-清洗设备",
+        "chainId": "半导体设备",
+        "name": "CMP/清洗设备",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "华海清科",
+            "code": "SH688120",
+            "priority": "P1",
+            "heat": 1
+          }
+        ]
+      },
+      {
+        "id": "半导体设备-检测设备",
+        "chainId": "半导体设备",
+        "name": "检测设备",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "精测电子",
+            "code": "SZ300567",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体设备-激光设备",
+        "chainId": "半导体设备",
+        "name": "激光设备",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "大族激光",
+            "code": "SZ002008",
+            "priority": "P1",
+            "heat": 2
+          },
+          {
+            "name": "帝尔激光",
+            "code": "SZ300776",
+            "priority": "P1",
+            "heat": 2
+          }
+        ]
+      }
+    ],
+    "heatByMonth": {
+      "2026-05": 11
+    }
+  },
+  {
+    "id": "半导体设计",
+    "name": "半导体设计",
+    "bottleneckLevel": "待核验",
+    "stages": [
+      {
+        "id": "半导体设计-存储芯片",
+        "chainId": "半导体设计",
+        "name": "存储芯片",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "兆易创新",
+            "code": "SH603986",
+            "priority": "P0",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体设计-soc-aiot",
+        "chainId": "半导体设计",
+        "name": "SoC/AIoT",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "瑞芯微",
+            "code": "SH603893",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体设计-功率半导体",
+        "chainId": "半导体设计",
+        "name": "功率半导体",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "斯达半导",
+            "code": "SH603290",
+            "priority": "P0",
+            "heat": 0
+          },
+          {
+            "name": "新洁能",
+            "code": "SH605111",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "半导体设计-功率-idm",
+        "chainId": "半导体设计",
+        "name": "功率/IDM",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "士兰微",
+            "code": "SH600460",
+            "priority": "P1",
+            "heat": 1
+          }
+        ]
+      },
+      {
+        "id": "半导体设计-射频-消费电子",
+        "chainId": "半导体设计",
+        "name": "射频/消费电子",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "信维通信",
+            "code": "SZ300136",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      }
+    ],
+    "heatByMonth": {
+      "2026-05": 1
+    }
+  },
+  {
+    "id": "商业航天-军工",
+    "name": "商业航天/军工",
+    "bottleneckLevel": "待核验",
+    "stages": [
+      {
+        "id": "商业航天-军工-t-r芯片-商业航天",
+        "chainId": "商业航天-军工",
+        "name": "T/R芯片/商业航天",
+        "priority": "P3",
+        "companies": [
+          {
+            "name": "*ST铖昌",
+            "code": "SZ001270",
+            "priority": "P3",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "商业航天-军工-卫星通信",
+        "chainId": "商业航天-军工",
+        "name": "卫星通信",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "中国卫通",
+            "code": "SH601698",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "商业航天-军工-军工电子",
+        "chainId": "商业航天-军工",
+        "name": "军工电子",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "振华科技",
+            "code": "SZ000733",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "商业航天-军工-陶瓷封装-军工电子",
+        "chainId": "商业航天-军工",
+        "name": "陶瓷封装/军工电子",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "中瓷电子",
+            "code": "SZ003031",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      }
+    ],
+    "heatByMonth": {}
+  },
+  {
+    "id": "晶圆制造",
+    "name": "晶圆制造",
+    "bottleneckLevel": "待核验",
+    "stages": [
+      {
+        "id": "晶圆制造-晶圆代工",
+        "chainId": "晶圆制造",
+        "name": "晶圆代工",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "中芯国际",
+            "code": "SH688981",
+            "priority": "P0",
+            "heat": 8
+          },
+          {
+            "name": "华虹公司",
+            "code": "SH688347",
+            "priority": "P0",
+            "heat": 6
+          }
+        ]
+      },
+      {
+        "id": "晶圆制造-idm-功率",
+        "chainId": "晶圆制造",
+        "name": "IDM/功率",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "华润微",
+            "code": "SH688396",
+            "priority": "P1",
+            "heat": 1
+          }
+        ]
+      }
+    ],
+    "heatByMonth": {
+      "2026-05": 6
+    }
+  },
+  {
+    "id": "机器人-汽车链",
+    "name": "机器人/汽车链",
+    "bottleneckLevel": "待核验",
+    "stages": [
+      {
+        "id": "机器人-汽车链-热管理-机器人零部件",
+        "chainId": "机器人-汽车链",
+        "name": "热管理/机器人零部件",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "三花智控",
+            "code": "SZ002050",
+            "priority": "P0",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "机器人-汽车链-轻量化-底盘",
+        "chainId": "机器人-汽车链",
+        "name": "轻量化/底盘",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "拓普集团",
+            "code": "SH601689",
+            "priority": "P0",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "机器人-汽车链-传动系统",
+        "chainId": "机器人-汽车链",
+        "name": "传动系统",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "双环传动",
+            "code": "SZ002472",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "机器人-汽车链-汽车零部件",
+        "chainId": "机器人-汽车链",
+        "name": "汽车零部件",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "宁波华翔",
+            "code": "SZ002048",
+            "priority": "P2",
+            "heat": 0
+          },
+          {
+            "name": "圣龙股份",
+            "code": "SH603178",
+            "priority": "P3",
+            "heat": 0
+          }
+        ]
+      }
+    ],
+    "heatByMonth": {}
+  },
+  {
+    "id": "算电协同-能源",
+    "name": "算电协同/能源",
+    "bottleneckLevel": "待核验",
+    "stages": [
+      {
+        "id": "算电协同-能源-输变电-新能源材料",
+        "chainId": "算电协同-能源",
+        "name": "输变电/新能源材料",
+        "priority": "P0",
+        "companies": [
+          {
+            "name": "特变电工",
+            "code": "SH600089",
+            "priority": "P0",
+            "heat": 1
+          }
+        ]
+      },
+      {
+        "id": "算电协同-能源-电网设备",
+        "chainId": "算电协同-能源",
+        "name": "电网设备",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "中国西电",
+            "code": "SH601179",
+            "priority": "P1",
+            "heat": 1
+          },
+          {
+            "name": "许继电气",
+            "code": "SZ000400",
+            "priority": "P1",
+            "heat": 0
+          },
+          {
+            "name": "平高电气",
+            "code": "SH600312",
+            "priority": "P1",
+            "heat": 0
+          },
+          {
+            "name": "思源电气",
+            "code": "SZ002028",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "算电协同-能源-智能电网-储能",
+        "chainId": "算电协同-能源",
+        "name": "智能电网/储能",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "科陆电子",
+            "code": "SZ002121",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "算电协同-能源-光伏逆变-储能",
+        "chainId": "算电协同-能源",
+        "name": "光伏逆变/储能",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "阳光电源",
+            "code": "SZ300274",
+            "priority": "P1",
+            "heat": 1
+          }
+        ]
+      },
+      {
+        "id": "算电协同-能源-电力运营",
+        "chainId": "算电协同-能源",
+        "name": "电力运营",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "长江电力",
+            "code": "SH600900",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "算电协同-能源-核电运营",
+        "chainId": "算电协同-能源",
+        "name": "核电运营",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "中国核电",
+            "code": "SH601985",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "算电协同-能源-油气-能源",
+        "chainId": "算电协同-能源",
+        "name": "油气/能源",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "中国海油",
+            "code": "SH600938",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "算电协同-能源-煤炭",
+        "chainId": "算电协同-能源",
+        "name": "煤炭",
+        "priority": "P3",
+        "companies": [
+          {
+            "name": "中煤能源",
+            "code": "SH601898",
+            "priority": "P3",
+            "heat": 0
+          },
+          {
+            "name": "郑州煤电",
+            "code": "SH600121",
+            "priority": "P3",
+            "heat": 0
+          }
+        ]
+      }
+    ],
+    "heatByMonth": {
+      "2026-05": 3
+    }
+  },
+  {
+    "id": "金融-消费-周期",
+    "name": "金融/消费/周期",
+    "bottleneckLevel": "待核验",
+    "stages": [
+      {
+        "id": "金融-消费-周期-券商龙头",
+        "chainId": "金融-消费-周期",
+        "name": "券商龙头",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "中信证券",
+            "code": "SH600030",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "金融-消费-周期-互联网券商",
+        "chainId": "金融-消费-周期",
+        "name": "互联网券商",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "东方财富",
+            "code": "SZ300059",
+            "priority": "P1",
+            "heat": 2
+          }
+        ]
+      },
+      {
+        "id": "金融-消费-周期-白酒",
+        "chainId": "金融-消费-周期",
+        "name": "白酒",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "五粮液",
+            "code": "SZ000858",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "金融-消费-周期-饮料",
+        "chainId": "金融-消费-周期",
+        "name": "饮料",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "养元饮品",
+            "code": "SH603156",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "金融-消费-周期-有色铜",
+        "chainId": "金融-消费-周期",
+        "name": "有色铜",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "铜陵有色",
+            "code": "SZ000630",
+            "priority": "P1",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "金融-消费-周期-银锡资源",
+        "chainId": "金融-消费-周期",
+        "name": "银锡资源",
+        "priority": "P1",
+        "companies": [
+          {
+            "name": "兴业银锡",
+            "code": "SZ000426",
+            "priority": "P1",
+            "heat": 4
+          }
+        ]
+      },
+      {
+        "id": "金融-消费-周期-锂电材料",
+        "chainId": "金融-消费-周期",
+        "name": "锂电材料",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "天赐材料",
+            "code": "SZ002709",
+            "priority": "P2",
+            "heat": 0
+          },
+          {
+            "name": "多氟多",
+            "code": "SZ002407",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "金融-消费-周期-建材玻纤",
+        "chainId": "金融-消费-周期",
+        "name": "建材玻纤",
+        "priority": "P2",
+        "companies": [
+          {
+            "name": "中国巨石",
+            "code": "SH600176",
+            "priority": "P2",
+            "heat": 0
+          }
+        ]
+      },
+      {
+        "id": "金融-消费-周期-房地产",
+        "chainId": "金融-消费-周期",
+        "name": "房地产",
+        "priority": "P3",
+        "companies": [
+          {
+            "name": "合肥城建",
+            "code": "SZ002208",
+            "priority": "P3",
+            "heat": 0
+          }
+        ]
+      }
+    ],
+    "heatByMonth": {
+      "2026-05": 1
+    }
+  }
+]

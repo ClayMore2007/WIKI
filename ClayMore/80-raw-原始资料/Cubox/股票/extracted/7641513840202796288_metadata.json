@@ -1,0 +1,35 @@
+{
+  "video_id": "7641513840202796288",
+  "source_url": "https://www.douyin.com/video/7641513840202796288",
+  "desc": "算力外溢下的光通信、液冷、光纤光缆梳理 ",
+  "created_at": "2026-05-19T16:16:36",
+  "create_time": 1779178596,
+  "author": {
+    "nickname": "正经的阿干",
+    "short_id": "64243458544",
+    "signature": "私募研究员 只讲逻辑与干货"
+  },
+  "duration_ms": 441226,
+  "width": 1080,
+  "height": 1920,
+  "statistics": {
+    "digg_count": 97,
+    "comment_count": 6,
+    "share_count": 27,
+    "collect_count": 51
+  },
+  "hashtags": [],
+  "music": {
+    "title": "@正经的阿干创作的原声一正经的阿干",
+    "author": "正经的阿干"
+  },
+  "cover_urls": [
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/4699a9d33e8c4b0fad9a542da545734e~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780588800&x-signature=NY33UxvIxLVtR1tNiHofxoK212k%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605220049000813FD5FCABCC6F814ED",
+    "https://p26-sign.douyinpic.com/tos-cn-i-dy/4699a9d33e8c4b0fad9a542da545734e~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780588800&x-signature=XOJ0W2t2gqStXHy5EEGldnqEj3c%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605220049000813FD5FCABCC6F814ED",
+    "https://p9-sign.douyinpic.com/tos-cn-i-dy/4699a9d33e8c4b0fad9a542da545734e~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780588800&x-signature=oWE8M9GYe0P5CF6LQQSuD%2Bdg1fg%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605220049000813FD5FCABCC6F814ED",
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/4699a9d33e8c4b0fad9a542da545734e~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1780588800&x-signature=x%2Bqbf92vdYg3A6p7bwMJmUB7R%2BQ%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202605220049000813FD5FCABCC6F814ED"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000d861n8vog65gl4b4ekug&ratio=720p&line=0"
+  ]
+}

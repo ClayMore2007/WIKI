@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {"id": "center", "type": "text", "text": "微信 AI Agent 产业链线索\n2026-06-02\n低置信短视频线索", "x": 0, "y": 0, "width": 340, "height": 120},
+    {"id": "source", "type": "text", "text": "来源\n老炮投研\n7646724349428305187\nfull 机器转写", "x": -450, "y": -210, "width": 280, "height": 120},
+    {"id": "core", "type": "text", "text": "核心声称\n微信 Agent 是任务引擎\n可调用支付/小程序/服务生态\n不只是聊天机器人", "x": 430, "y": -210, "width": 330, "height": 140},
+    {"id": "mini", "type": "text", "text": "小程序生态服务商\n腾讯\n世纪恒通\n博思软件\n光云科技", "x": -520, "y": 90, "width": 280, "height": 140},
+    {"id": "infra", "type": "text", "text": "模型/数据/算力底座\n拓尔思\n东华软件\n浪潮信息\n数据港\n英维克", "x": -170, "y": 250, "width": 300, "height": 160},
+    {"id": "vertical", "type": "text", "text": "垂直服务\n数字政通\n恒生电子\n同花顺\n政务/金融/资讯场景", "x": 300, "y": 250, "width": 300, "height": 150},
+    {"id": "risk", "type": "text", "text": "核验重点\n产品是否正式发布\n公司是否披露合作/订单\n隐私、支付和金融监管\n区分真订单与题材映射", "x": 480, "y": 90, "width": 330, "height": 160}
+  ],
+  "edges": [
+    {"id": "e1", "fromNode": "center", "toNode": "source"},
+    {"id": "e2", "fromNode": "center", "toNode": "core"},
+    {"id": "e3", "fromNode": "center", "toNode": "mini"},
+    {"id": "e4", "fromNode": "center", "toNode": "infra"},
+    {"id": "e5", "fromNode": "center", "toNode": "vertical"},
+    {"id": "e6", "fromNode": "core", "toNode": "risk"},
+    {"id": "e7", "fromNode": "mini", "toNode": "risk"},
+    {"id": "e8", "fromNode": "infra", "toNode": "risk"},
+    {"id": "e9", "fromNode": "vertical", "toNode": "risk"}
+  ]
+}
+

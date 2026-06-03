@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"page","type":"file","file":"2026-05-27 - 先进封装8家订单确定性玩家.md","x":0,"y":0,"width":360,"height":80},
+		{"id":"center","type":"text","text":"先进封装8家订单确定性玩家\nmetadata-only / 待补转写","x":420,"y":0,"width":320,"height":100},
+		{"id":"source","type":"text","text":"来源\n正经的阿干\n2026-05-27\nvideo id: 7644461874251091235","x":420,"y":-180,"width":300,"height":120},
+		{"id":"status","type":"text","text":"当前状态\n已解析 metadata\n下载 MP4 超时\n未生成 transcript","x":800,"y":-80,"width":280,"height":120},
+		{"id":"topic","type":"text","text":"候选主题\n先进封装订单确定性\n可能延续设备/材料/封测/玻璃基板系列","x":800,"y":90,"width":320,"height":130},
+		{"id":"verify","type":"text","text":"待核验\n8家公司名单\n公司简称/代码/市场\n订单、客户、收入确认","x":420,"y":170,"width":320,"height":130},
+		{"id":"risk","type":"text","text":"风险口径\n社媒标题不能等同真实订单\n不构成投资建议","x":60,"y":170,"width":300,"height":110}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"page","fromSide":"right","toNode":"center","toSide":"left"},
+		{"id":"e2","fromNode":"center","fromSide":"top","toNode":"source","toSide":"bottom"},
+		{"id":"e3","fromNode":"center","fromSide":"right","toNode":"status","toSide":"left"},
+		{"id":"e4","fromNode":"center","fromSide":"right","toNode":"topic","toSide":"left"},
+		{"id":"e5","fromNode":"center","fromSide":"bottom","toNode":"verify","toSide":"top"},
+		{"id":"e6","fromNode":"center","fromSide":"left","toNode":"risk","toSide":"right"}
+	]
+}

@@ -1,0 +1,307 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "text",
+      "text": "# 2026-04-25 - 光模块-PCB-液冷-IDC电源-2026对比\n\n资料脑图｜按原文结构生成",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 170,
+      "color": "1",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n2",
+      "type": "text",
+      "text": "## 核心结论（来源声称）\n- 视频作者在四个方向中选择 液冷，理由是液冷同时具备“物理刚需、低渗透率、高增速、高壁垒、低市值基数、维护复购”几个特征。光…",
+      "x": 0,
+      "y": -460,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n3",
+      "type": "text",
+      "text": "## 风险提示\n- 高互动量不代表内容正确性，视频说法需核验。\n- 四大赛道均受AI资本开支预期影响，预期波动风险高。",
+      "x": 563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n4",
+      "type": "text",
+      "text": "视频是二级市场观点表达，存在选择性引用、概念外推和估值忽略风险。",
+      "x": 789,
+      "y": -451,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n5",
+      "type": "text",
+      "text": "不构成投资建议。",
+      "x": 887,
+      "y": -379,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n6",
+      "type": "text",
+      "text": "## 视频信息\n- 作者：研报聚焦\n- 时长：12分58秒",
+      "x": 702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n7",
+      "type": "text",
+      "text": "发布：2026-04-25",
+      "x": 1062,
+      "y": 103,
+      "width": 330,
+      "height": 110,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n8",
+      "type": "text",
+      "text": "互动：34386赞 / 2234评 / 9352分享（高热度）",
+      "x": 1027,
+      "y": 192,
+      "width": 330,
+      "height": 110,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n9",
+      "type": "text",
+      "text": "## 视频声称\n",
+      "x": 312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n10",
+      "type": "text",
+      "text": "## 提取状态\n- 完整转写：80-raw-原始资料/Cubox/股票/extracted/7632298682322292003_trans…\n- 本页当前只整理“视频来源声称”，尚未用公告、财报、研报或产业数据逐项核验。",
+      "x": -312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n11",
+      "type": "text",
+      "text": "股票、产业链与估值判断默认 confidence: low，不构成投资建议。",
+      "x": -394,
+      "y": 619,
+      "width": 330,
+      "height": 110,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n12",
+      "type": "text",
+      "text": "## 四大赛道对比\n- 维度 / 光模块 / PCB\n- 视频给出的结论 / 重要性高，但“翻倍潜力”被认为有限 / AI硬件升级受益，但供给扩张风险高",
+      "x": -702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n13",
+      "type": "text",
+      "text": "需求逻辑 / GPU、服务器、交换机之间的光电信号转换，受800G/1.6T升级驱动 / AI服务器、交换机、汽车高端板、IC…",
+      "x": -1027,
+      "y": 192,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n14",
+      "type": "text",
+      "text": "供给/竞争 / 视频称龙头股价和机构持仓已充分反映预期 / 视频称高端PCB产能周期18-24个月，未来2-3年集中释放",
+      "x": -1062,
+      "y": 103,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n15",
+      "type": "text",
+      "text": "## 液冷逻辑拆解（来源声称）\n- 逻辑 / 视频说法 / 核验要求\n- 物理刚需 / 高端芯片功耗接近或超过传统风冷极限，液冷从可选项变成必选项 / 核对<span style=\"color:#d6…",
+      "x": -563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n16",
+      "type": "text",
+      "text": "降本 / 数据中心电力成本占运营成本约40%-50%，冷却又占电力成本约30%-40%，液冷可降低总运营开支 / 查数据中心P…",
+      "x": -887,
+      "y": -379,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n17",
+      "type": "text",
+      "text": "渗透率 / 国内液冷服务器渗透率约20%，AI智算中心液冷渗透率向50%以上攀升 / 查IDC、赛迪、券商研报和服务器厂商披露",
+      "x": -789,
+      "y": -451,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "toNode": "n2"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n1",
+      "toNode": "n3"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n3",
+      "toNode": "n4"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n3",
+      "toNode": "n5"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n1",
+      "toNode": "n6"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n6",
+      "toNode": "n7"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n6",
+      "toNode": "n8"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n1",
+      "toNode": "n9"
+    },
+    {
+      "id": "e9",
+      "fromNode": "n1",
+      "toNode": "n10"
+    },
+    {
+      "id": "e10",
+      "fromNode": "n10",
+      "toNode": "n11"
+    },
+    {
+      "id": "e11",
+      "fromNode": "n1",
+      "toNode": "n12"
+    },
+    {
+      "id": "e12",
+      "fromNode": "n12",
+      "toNode": "n13"
+    },
+    {
+      "id": "e13",
+      "fromNode": "n12",
+      "toNode": "n14"
+    },
+    {
+      "id": "e14",
+      "fromNode": "n1",
+      "toNode": "n15"
+    },
+    {
+      "id": "e15",
+      "fromNode": "n15",
+      "toNode": "n16"
+    },
+    {
+      "id": "e16",
+      "fromNode": "n15",
+      "toNode": "n17"
+    }
+  ]
+}

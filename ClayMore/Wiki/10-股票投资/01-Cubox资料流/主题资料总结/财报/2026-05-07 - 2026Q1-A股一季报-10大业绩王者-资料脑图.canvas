@@ -1,0 +1,343 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "text",
+      "text": "# 2026-05-07 - 2026Q1-A股一季报-10大业绩王者\n\n资料脑图｜按原文结构生成",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 170,
+      "color": "1",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n2",
+      "type": "text",
+      "text": "## 风险提示\n- 这是Q1数据，Q1可能存在季节性因素。\n- \"业绩王者\"不一定等于\"投资王者\"，估值和预期同样重要。",
+      "x": 0,
+      "y": -460,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n3",
+      "type": "text",
+      "text": "需回到公司财报原文核验数据。",
+      "x": -79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n4",
+      "type": "text",
+      "text": "转写只覆盖部分榜单，不能当作完整Top10清单。",
+      "x": 79,
+      "y": -665,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n5",
+      "type": "text",
+      "text": "## 视频信息\n- 作者：研报聚焦\n- 时长：8分13秒",
+      "x": 563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n6",
+      "type": "text",
+      "text": "发布：2026-05-07",
+      "x": 789,
+      "y": -451,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n7",
+      "type": "text",
+      "text": "互动：4008赞 / 115评 / 913分享",
+      "x": 887,
+      "y": -379,
+      "width": 330,
+      "height": 110,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n8",
+      "type": "text",
+      "text": "## 视频声称\n",
+      "x": 702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n9",
+      "type": "text",
+      "text": "## 提取状态\n- 完整转写：80-raw-原始资料/Cubox/股票/extracted/7637111148357225763_trans…\n- 本页当前只整理“视频来源声称”，尚未逐项核对2026年一季报、扣非净利润、非经常性损益和行业价格数据。",
+      "x": 312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n10",
+      "type": "text",
+      "text": "视频标题是“10大业绩王者”，但本条转写只覆盖第10名到第6名，结尾预告前三和<span style=\"color:#d6…",
+      "x": 535,
+      "y": 579,
+      "width": 330,
+      "height": 110,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n11",
+      "type": "text",
+      "text": "## 已提取榜单（来源声称）\n- 排名 / 公司 / 行业/方向\n- 10 / <span style=\"color:#d6a100\">源杰科技</span> / 光通信/高端光芯片",
+      "x": -312,
+      "y": 414,
+      "width": 430,
+      "height": 170,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n12",
+      "type": "text",
+      "text": "9 / <span style=\"color:#d6a100\">湖南裕能</span> / 锂电正极材料",
+      "x": -394,
+      "y": 619,
+      "width": 330,
+      "height": 110,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n13",
+      "type": "text",
+      "text": "8 / <span style=\"color:#d6a100\">沃森生物</span> / 生物医药/疫苗",
+      "x": -535,
+      "y": 579,
+      "width": 330,
+      "height": 110,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n14",
+      "type": "text",
+      "text": "## 视频给出的共性框架\n- 共性 / 视频解释 / 核验角度\n- AI算力拉动 / <span style=\"color:#d6a100\">源杰科技</span>等受益高端光通信和AI服务器需…",
+      "x": -702,
+      "y": 102,
+      "width": 430,
+      "height": 170,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n15",
+      "type": "text",
+      "text": "周期反转 / <span style=\"color:#d6a100\">湖南裕能</span>、<span style=\"col…",
+      "x": -1027,
+      "y": 192,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n16",
+      "type": "text",
+      "text": "国产替代 / 高端光芯片、疫苗、材料等领域具备国产替代叙事 / 查技术壁垒、国产替代率、海外竞争格局",
+      "x": -1062,
+      "y": 103,
+      "width": 330,
+      "height": 110,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n17",
+      "type": "text",
+      "text": "## 待研究问题\n- 10大业绩王者完整名单和关键财务数据；本条转写只覆盖第10到第6名。\n- 业绩增速的可持续性：一次性因素 vs 趋势性增长",
+      "x": -563,
+      "y": -287,
+      "width": 430,
+      "height": 170,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n18",
+      "type": "text",
+      "text": "业绩发布后的股价表现（市场是否已price in）？",
+      "x": -887,
+      "y": -379,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n19",
+      "type": "text",
+      "text": "哪些公司是真正的业绩拐点？",
+      "x": -789,
+      "y": -451,
+      "width": 330,
+      "height": 110,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "toNode": "n2"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n2",
+      "toNode": "n3"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n2",
+      "toNode": "n4"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n1",
+      "toNode": "n5"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n5",
+      "toNode": "n6"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n5",
+      "toNode": "n7"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n1",
+      "toNode": "n8"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n1",
+      "toNode": "n9"
+    },
+    {
+      "id": "e9",
+      "fromNode": "n9",
+      "toNode": "n10"
+    },
+    {
+      "id": "e10",
+      "fromNode": "n1",
+      "toNode": "n11"
+    },
+    {
+      "id": "e11",
+      "fromNode": "n11",
+      "toNode": "n12"
+    },
+    {
+      "id": "e12",
+      "fromNode": "n11",
+      "toNode": "n13"
+    },
+    {
+      "id": "e13",
+      "fromNode": "n1",
+      "toNode": "n14"
+    },
+    {
+      "id": "e14",
+      "fromNode": "n14",
+      "toNode": "n15"
+    },
+    {
+      "id": "e15",
+      "fromNode": "n14",
+      "toNode": "n16"
+    },
+    {
+      "id": "e16",
+      "fromNode": "n1",
+      "toNode": "n17"
+    },
+    {
+      "id": "e17",
+      "fromNode": "n17",
+      "toNode": "n18"
+    },
+    {
+      "id": "e18",
+      "fromNode": "n17",
+      "toNode": "n19"
+    }
+  ]
+}

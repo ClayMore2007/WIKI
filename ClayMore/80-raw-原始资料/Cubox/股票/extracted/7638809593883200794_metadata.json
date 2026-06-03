@@ -1,0 +1,39 @@
+{
+  "video_id": "7638809593883200794",
+  "source_url": "https://www.douyin.com/share/video/7638809593883200794",
+  "desc": "AI还能走多远？如何把握内部节奏？ #AI #市场 #财经",
+  "created_at": "2026-05-12T11:30:00",
+  "create_time": 1778556600,
+  "author": {
+    "nickname": "汪侠向阳飞",
+    "short_id": "30539998074",
+    "signature": "🎓 双一流财经硕士 | 10年+ 投研老兵 \n🔭 全域视野 | 宏观·TMT·硬科技·消费\n🚫 不聊情绪 | 只讲逻辑与趋势\n👇 资料答疑 |  仅限专属会员群 \n⚠️  只此一号 | 谨防受骗"
+  },
+  "duration_ms": 1433299,
+  "width": 1080,
+  "height": 1920,
+  "statistics": {
+    "digg_count": 173,
+    "comment_count": 30,
+    "share_count": 53,
+    "collect_count": 118
+  },
+  "hashtags": [
+    "AI",
+    "市场",
+    "财经"
+  ],
+  "music": {
+    "title": "@汪侠向阳飞创作的原声一汪侠向阳飞",
+    "author": "汪侠向阳飞"
+  },
+  "cover_urls": [
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/3ee05e7bc5f64ab59185e408802c05cd~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780066800&x-signature=6EMAGdPeAH0MXbQbGjzKKbin2DE%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260515230109040185F443118021DB9E",
+    "https://p26-sign.douyinpic.com/tos-cn-i-dy/3ee05e7bc5f64ab59185e408802c05cd~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780066800&x-signature=m%2F2%2FJl98%2FImVBkML9pFfd8Z%2F2No%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260515230109040185F443118021DB9E",
+    "https://p11-sign.douyinpic.com/tos-cn-i-dy/3ee05e7bc5f64ab59185e408802c05cd~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780066800&x-signature=Og5NomjFG2477CzhGiAZCWq1nIk%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260515230109040185F443118021DB9E",
+    "https://p3-sign.douyinpic.com/tos-cn-i-dy/3ee05e7bc5f64ab59185e408802c05cd~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1780066800&x-signature=X17ACFAUj11AwY7zZVgfK8L%2Bbq4%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260515230109040185F443118021DB9E"
+  ],
+  "play_urls": [
+    "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000d817vnfog65ohtn6d150&ratio=720p&line=0"
+  ]
+}

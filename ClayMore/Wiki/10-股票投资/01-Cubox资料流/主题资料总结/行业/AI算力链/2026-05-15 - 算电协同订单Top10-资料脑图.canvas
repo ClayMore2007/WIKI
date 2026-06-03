@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {"id":"center","type":"text","text":"算电协同订单Top10\n低置信 / 视频声称","x":0,"y":0,"width":320,"height":90},
+    {"id":"source","type":"file","file":"Wiki/10-股票投资/01-Cubox资料流/主题资料总结/行业/AI算力链/2026-05-15 - 算电协同订单Top10.md","x":0,"y":-220,"width":360,"height":80},
+    {"id":"power","type":"text","text":"电力侧\n特高压 / 调度 / 虚拟电厂 / 绿电","x":-440,"y":40,"width":300,"height":110},
+    {"id":"companies","type":"text","text":"公司线索\n协鑫能科 / 阳光电源 / 宝信软件 / 四方股份 / 科华数据 / 特变电工 / 中国西电 / 国网信通 / 国电南瑞","x":440,"y":40,"width":360,"height":150},
+    {"id":"risk","type":"text","text":"待核验\n订单金额、排期、客户、算力相关度、南网数字主体","x":0,"y":230,"width":360,"height":110}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"center","toNode":"source"},
+    {"id":"e2","fromNode":"center","toNode":"power"},
+    {"id":"e3","fromNode":"center","toNode":"companies"},
+    {"id":"e4","fromNode":"center","toNode":"risk"}
+  ]
+}

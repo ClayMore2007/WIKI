@@ -1,0 +1,58 @@
+<h2>自动投研系统架构路线</h2>
+<p class="subtitle">都保留你锁定的主界面：左导航 + 产业链时间轴画布 + 右侧详情。区别在于数据如何进入、更新和沉淀。</p>
+
+<div class="cards">
+  <div class="card" data-choice="cache-pipeline" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div class="mockup">
+        <div class="mockup-header">A. 缓存管线优先（推荐）</div>
+        <div class="mockup-body">
+          <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px">
+            <div class="placeholder" style="height:90px">Obsidian Markdown<br>同花顺本地缓存<br>公开行情/财报</div>
+            <div class="placeholder" style="height:90px">解析/归一化<br>产业链映射<br>行情热度计算</div>
+            <div class="placeholder" style="height:90px">SQLite/JSON 缓存<br>App 查询接口<br>每日任务日志</div>
+          </div>
+          <div class="placeholder" style="height:90px;margin-top:12px">Wiki 只保留人工确认入口和来源，不被自动更新大量改写</div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>A. 缓存管线优先</h3>
+      <p>最适合“自动更新但不污染 Wiki”。先把数据模型跑稳，再决定哪些摘要回写。</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="wiki-first" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div class="mockup">
+        <div class="mockup-header">B. Wiki 作为数据库</div>
+        <div class="mockup-body">
+          <div class="placeholder" style="height:90px">所有更新直接写回 Markdown 表格、公司卡、主题卡</div>
+          <div class="placeholder" style="height:90px;margin-top:12px">App 只负责读取和展示 Obsidian 最新状态</div>
+          <div class="placeholder" style="height:70px;margin-top:12px">优点：Obsidian 永远最新；缺点：冲突和噪声多</div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>B. Wiki 作为数据库</h3>
+      <p>Obsidian 体验强，但自动更新会频繁改动 Markdown，和你的“来源/不确定性”规则容易打架。</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="dashboard-only" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div class="mockup">
+        <div class="mockup-header">C. 前端看板优先</div>
+        <div class="mockup-body">
+          <div class="placeholder" style="height:90px">先做漂亮交互和产业链画布</div>
+          <div class="placeholder" style="height:90px;margin-top:12px">数据解析只做最小可用，更新逻辑后补</div>
+          <div class="placeholder" style="height:70px;margin-top:12px">优点：最快看到界面；缺点：自动投研能力会被延后</div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>C. 前端看板优先</h3>
+      <p>适合先验证视觉交互，但不符合你刚刚选择的“自动投研更新优先”。</p>
+    </div>
+  </div>
+</div>

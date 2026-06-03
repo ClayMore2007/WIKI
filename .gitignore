@@ -1,0 +1,18 @@
+# Private wiki content
+ClayMore-Private-Wiki/
+
+# Local app dependencies and build output
+APP/node_modules/
+APP/dist/
+
+# Python caches
+**/__pycache__/
+*.pyc
+
+# Local runtime logs
+*.log
+Tools-工具/openclaw-logs/
+
+# Local machine / assistant runtime state
+.openclaw/
+**/.git/

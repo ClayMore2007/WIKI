@@ -1,0 +1,325 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "text",
+      "text": "# TradingAgents 多智能体投研架构\n\n资料脑图｜按原文结构生成",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 160,
+      "color": "1",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n2",
+      "type": "text",
+      "text": "## 一句话结论\n- TradingAgents 的核心价值不是“AI 自动炒股”，而是展示了如何用多个 Agent 模拟一个投研组织：…",
+      "x": 0,
+      "y": -430,
+      "width": 420,
+      "height": 160,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n3",
+      "type": "text",
+      "text": "## 提取状态\n- 完整转写已归档在 AI 与股票两个 raw 目录，因主题同时涉及“AI架构”和“投研流程”。\n- 当前页面按 AI 系统设计案例处理，不进入股票资料的个股或交易判断。",
+      "x": 532,
+      "y": -268,
+      "width": 420,
+      "height": 160,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n4",
+      "type": "text",
+      "text": "视频中的 Star 数、项目实现细节和 Amazon 示例数字仍需回 GitHub 仓库与真实数据核验。",
+      "x": 739,
+      "y": -424,
+      "width": 320,
+      "height": 100,
+      "color": "3",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n5",
+      "type": "text",
+      "text": "## 五层流程\n- 层级 / 角色 / 功能\n- 信息采集 / 4 个分析师 / 技术分析、新闻/舆情、基本面、宏观或其他数据源，通过 API 拉取数据",
+      "x": 663,
+      "y": 96,
+      "width": 420,
+      "height": 160,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n6",
+      "type": "text",
+      "text": "多空辩论 / 多头 / 空头 / 基于分析报告分别给出看多和看空理由",
+      "x": 993,
+      "y": 97,
+      "width": 320,
+      "height": 100,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n7",
+      "type": "text",
+      "text": "裁判判定 / Judge / 阅读多空辩论记录，判断哪一方更有说服力",
+      "x": 961,
+      "y": 182,
+      "width": 320,
+      "height": 100,
+      "color": "4",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n8",
+      "type": "text",
+      "text": "## 设计亮点\n- 通过多角色对抗减少单 Agent “输入数据、直接出结论”的黑箱感。\n- 把分析、辩论、裁判、风控、拍板拆开，让每个角色只承担一类职责。",
+      "x": 295,
+      "y": 387,
+      "width": 420,
+      "height": 160,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n9",
+      "type": "text",
+      "text": "使用双模型思路：前面的信息收集和初步讨论可用便宜模型，最后拍板角色使用更强模型。",
+      "x": 500,
+      "y": 544,
+      "width": 320,
+      "height": 100,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n10",
+      "type": "text",
+      "text": "引入记忆和反思：不是每次都从零开始，而是让系统根据历史结果修正。",
+      "x": 370,
+      "y": 582,
+      "width": 320,
+      "height": 100,
+      "color": "5",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n11",
+      "type": "text",
+      "text": "## 风险与边界\n- 视频转写中项目名被识别为 Tradeen Agents，结合标题判断应为 TradingAgents，需核验。\n- 视频中的示例分析对象包含 Amazon 等公司，具体财务数字和判断均需核验。",
+      "x": -295,
+      "y": 387,
+      "width": 420,
+      "height": 160,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n12",
+      "type": "text",
+      "text": "多 Agent 辩论能提升可解释性，但不能保证结论正确。",
+      "x": -370,
+      "y": 582,
+      "width": 320,
+      "height": 100,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n13",
+      "type": "text",
+      "text": "金融数据、新闻、基本面、技术指标的源质量会直接影响最终输出。",
+      "x": -500,
+      "y": 544,
+      "width": 320,
+      "height": 100,
+      "color": "6",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n14",
+      "type": "text",
+      "text": "## 可迁移到 ClayMore 的用法\n- 用“多角色结构”改造资料整理：提取者负责拿内容，整理者负责结构化，审查者负责风险和待核验。\n- 对投资资料可以固定拆成：资料来源、视频声称、数据核验、风险反驳、最终观察。",
+      "x": -663,
+      "y": 96,
+      "width": 420,
+      "height": 160,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n15",
+      "type": "text",
+      "text": "对复杂 AI 资料可以引入“支持观点 / 反对观点 / 待核验问题”三段式，避免单一总结过早定论。",
+      "x": -961,
+      "y": 182,
+      "width": 320,
+      "height": 100,
+      "color": "7",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n16",
+      "type": "text",
+      "text": "## 待核验\n- TradingAgents 仓库地址、Star 数和最新架构。\n- 12 个 Agent 的准确角色名。",
+      "x": -532,
+      "y": -268,
+      "width": 420,
+      "height": 160,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n17",
+      "type": "text",
+      "text": "视频中 Amazon 案例的财务数字、新闻数据和风险判断。",
+      "x": -829,
+      "y": -356,
+      "width": 320,
+      "height": 100,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    },
+    {
+      "id": "n18",
+      "type": "text",
+      "text": "双模型、记忆反思机制在项目代码中的真实实现方式。",
+      "x": -739,
+      "y": -424,
+      "width": 320,
+      "height": 100,
+      "color": "2",
+      "styleAttributes": {
+        "shape": "rounded-rectangle"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "toNode": "n2"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n1",
+      "toNode": "n3"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n3",
+      "toNode": "n4"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n1",
+      "toNode": "n5"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n5",
+      "toNode": "n6"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n5",
+      "toNode": "n7"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n1",
+      "toNode": "n8"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n8",
+      "toNode": "n9"
+    },
+    {
+      "id": "e9",
+      "fromNode": "n8",
+      "toNode": "n10"
+    },
+    {
+      "id": "e10",
+      "fromNode": "n1",
+      "toNode": "n11"
+    },
+    {
+      "id": "e11",
+      "fromNode": "n11",
+      "toNode": "n12"
+    },
+    {
+      "id": "e12",
+      "fromNode": "n11",
+      "toNode": "n13"
+    },
+    {
+      "id": "e13",
+      "fromNode": "n1",
+      "toNode": "n14"
+    },
+    {
+      "id": "e14",
+      "fromNode": "n14",
+      "toNode": "n15"
+    },
+    {
+      "id": "e15",
+      "fromNode": "n1",
+      "toNode": "n16"
+    },
+    {
+      "id": "e16",
+      "fromNode": "n16",
+      "toNode": "n17"
+    },
+    {
+      "id": "e17",
+      "fromNode": "n16",
+      "toNode": "n18"
+    }
+  ]
+}

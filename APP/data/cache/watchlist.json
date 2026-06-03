@@ -1,0 +1,4286 @@
+[
+  {
+    "code": "SH601138",
+    "name": "工业富联",
+    "price": "65.01",
+    "priceDate": "20260424",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P0",
+    "heat": 6,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH688041",
+    "name": "海光信息",
+    "price": "289.00",
+    "priceDate": "20260428",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P0",
+    "heat": 6,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ300442",
+    "name": "润泽科技",
+    "price": "97.91",
+    "priceDate": "20260511",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P0",
+    "heat": 16,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH688008",
+    "name": "澜起科技",
+    "price": "258.80",
+    "priceDate": "20260513",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P0",
+    "heat": 12,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603019",
+    "name": "XD中科曙",
+    "price": "92.96",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P1",
+    "heat": 5,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000066",
+    "name": "中国长城",
+    "price": "18.68",
+    "priceDate": "20260601",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P1",
+    "heat": 3,
+    "change5d": {
+      "status": "ok",
+      "fromDate": "20260526",
+      "percent": -4.11
+    },
+    "change10d": {
+      "status": "ok",
+      "fromDate": "20260521",
+      "percent": -4.11
+    }
+  },
+  {
+    "code": "SZ000066",
+    "name": "中国长城",
+    "price": "18.68",
+    "priceDate": "20260601",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P1",
+    "heat": 3,
+    "change5d": {
+      "status": "ok",
+      "fromDate": "20260526",
+      "percent": -4.11
+    },
+    "change10d": {
+      "status": "ok",
+      "fromDate": "20260521",
+      "percent": -4.11
+    }
+  },
+  {
+    "code": "SH603296",
+    "name": "华勤技术",
+    "price": "114.85",
+    "priceDate": "20260512",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P1",
+    "heat": 4,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603881",
+    "name": "数据港",
+    "price": "38.79",
+    "priceDate": "20260424",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P1",
+    "heat": 4,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000977",
+    "name": "浪潮信息",
+    "price": "69.75",
+    "priceDate": "20260430",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P1",
+    "heat": 11,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002335",
+    "name": "科华数据",
+    "price": "69.16",
+    "priceDate": "20260508",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P1",
+    "heat": 1,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000938",
+    "name": "紫光股份",
+    "price": "31.32",
+    "priceDate": "20260424",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P1",
+    "heat": 3,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002837",
+    "name": "英维克",
+    "price": "100.49",
+    "priceDate": "20260515",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ300166",
+    "name": "东方国信",
+    "price": "19.35",
+    "priceDate": "20260508",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P2",
+    "heat": 4,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH688343",
+    "name": "云天励飞-U",
+    "price": "88.00",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002929",
+    "name": "润建股份",
+    "price": "71.12",
+    "priceDate": "20260508",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P2",
+    "heat": 4,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000034",
+    "name": "神州数码",
+    "price": "37.53",
+    "priceDate": "20260424",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P2",
+    "heat": 1,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002518",
+    "name": "科士达",
+    "price": "46.55",
+    "priceDate": "20260430",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ300170",
+    "name": "汉得信息",
+    "price": "22.89",
+    "priceDate": "20260513",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "ai算力链"
+    ],
+    "chains": [
+      "AI算力链"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002463",
+    "name": "沪电股份",
+    "price": "108.68",
+    "priceDate": "20260511",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "pcb-连接器"
+    ],
+    "chains": [
+      "PCB/连接器"
+    ],
+    "priority": "P0",
+    "heat": 12,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002916",
+    "name": "深南电路",
+    "price": "301.36",
+    "priceDate": "20260424",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "pcb-连接器"
+    ],
+    "chains": [
+      "PCB/连接器"
+    ],
+    "priority": "P0",
+    "heat": 1,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002384",
+    "name": "东山精密",
+    "price": "211.07",
+    "priceDate": "20260507",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "pcb-连接器"
+    ],
+    "chains": [
+      "PCB/连接器"
+    ],
+    "priority": "P1",
+    "heat": 5,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002436",
+    "name": "兴森科技",
+    "price": "33.54",
+    "priceDate": "20260520",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "pcb-连接器"
+    ],
+    "chains": [
+      "PCB/连接器"
+    ],
+    "priority": "P1",
+    "heat": 1,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH688629",
+    "name": "华丰科技",
+    "price": "141.67",
+    "priceDate": "20260424",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "pcb-连接器"
+    ],
+    "chains": [
+      "PCB/连接器"
+    ],
+    "priority": "P1",
+    "heat": 4,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002025",
+    "name": "航天电器",
+    "price": "76.81",
+    "priceDate": "20260424",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "pcb-连接器"
+    ],
+    "chains": [
+      "PCB/连接器"
+    ],
+    "priority": "P1",
+    "heat": 6,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002938",
+    "name": "鹏鼎控股",
+    "price": "103.93",
+    "priceDate": "20260522",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "pcb-连接器"
+    ],
+    "chains": [
+      "PCB/连接器"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH601231",
+    "name": "环旭电子",
+    "price": "43.43",
+    "priceDate": "20260527",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "pcb-连接器"
+    ],
+    "chains": [
+      "PCB/连接器"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH688820",
+    "name": "盛合晶微",
+    "price": "107.10",
+    "priceDate": "20260507",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "先进封装-封测"
+    ],
+    "chains": [
+      "先进封装/封测"
+    ],
+    "priority": "P0",
+    "heat": 22,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002156",
+    "name": "通富微电",
+    "price": "48.42",
+    "priceDate": "20260424",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "先进封装-封测"
+    ],
+    "chains": [
+      "先进封装/封测"
+    ],
+    "priority": "P0",
+    "heat": 18,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600584",
+    "name": "长电科技",
+    "price": "44.89",
+    "priceDate": "20260424",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "先进封装-封测"
+    ],
+    "chains": [
+      "先进封装/封测"
+    ],
+    "priority": "P0",
+    "heat": 14,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002185",
+    "name": "华天科技",
+    "price": "12.45",
+    "priceDate": "20260424",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "先进封装-封测"
+    ],
+    "chains": [
+      "先进封装/封测"
+    ],
+    "priority": "P1",
+    "heat": 4,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002185",
+    "name": "华天科技",
+    "price": "12.45",
+    "priceDate": "20260424",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "先进封装-封测"
+    ],
+    "chains": [
+      "先进封装/封测"
+    ],
+    "priority": "P1",
+    "heat": 4,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600667",
+    "name": "太极实业",
+    "price": "13.61",
+    "priceDate": "20260528",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "先进封装-封测"
+    ],
+    "chains": [
+      "先进封装/封测"
+    ],
+    "priority": "P1",
+    "heat": 4,
+    "change5d": {
+      "status": "ok",
+      "fromDate": "20260519",
+      "percent": 33.96
+    },
+    "change10d": {
+      "status": "ok",
+      "fromDate": "20260518",
+      "percent": 33.96
+    }
+  },
+  {
+    "code": "SH600667",
+    "name": "太极实业",
+    "price": "13.61",
+    "priceDate": "20260528",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "先进封装-封测"
+    ],
+    "chains": [
+      "先进封装/封测"
+    ],
+    "priority": "P1",
+    "heat": 4,
+    "change5d": {
+      "status": "ok",
+      "fromDate": "20260519",
+      "percent": 33.96
+    },
+    "change10d": {
+      "status": "ok",
+      "fromDate": "20260518",
+      "percent": 33.96
+    }
+  },
+  {
+    "code": "SH603005",
+    "name": "晶方科技",
+    "price": "45.60",
+    "priceDate": "20260528",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "先进封装-封测"
+    ],
+    "chains": [
+      "先进封装/封测"
+    ],
+    "priority": "P1",
+    "heat": 1,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000021",
+    "name": "深科技",
+    "price": "37.03",
+    "priceDate": "20260518",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "先进封装-封测"
+    ],
+    "chains": [
+      "先进封装/封测"
+    ],
+    "priority": "P1",
+    "heat": 1,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600522",
+    "name": "中天科技",
+    "price": "33.12",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "光模块-cpo"
+    ],
+    "chains": [
+      "光模块/CPO"
+    ],
+    "priority": "P0",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600522",
+    "name": "中天科技",
+    "price": "33.12",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "光模块-cpo"
+    ],
+    "chains": [
+      "光模块/CPO"
+    ],
+    "priority": "P0",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600487",
+    "name": "亨通光电",
+    "price": "65.70",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "光模块-cpo"
+    ],
+    "chains": [
+      "光模块/CPO"
+    ],
+    "priority": "P0",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002281",
+    "name": "光迅科技",
+    "price": "164.29",
+    "priceDate": "20260507",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "光模块-cpo"
+    ],
+    "chains": [
+      "光模块/CPO"
+    ],
+    "priority": "P0",
+    "heat": 14,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ300394",
+    "name": "天孚通信",
+    "price": "378.19",
+    "priceDate": "20260513",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "光模块-cpo"
+    ],
+    "chains": [
+      "光模块/CPO"
+    ],
+    "priority": "P0",
+    "heat": 6,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ300502",
+    "name": "新易盛",
+    "price": "628.99",
+    "priceDate": "20260513",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "光模块-cpo"
+    ],
+    "chains": [
+      "光模块/CPO"
+    ],
+    "priority": "P0",
+    "heat": 7,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000988",
+    "name": "华工科技",
+    "price": "136.69",
+    "priceDate": "20260508",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "光模块-cpo"
+    ],
+    "chains": [
+      "光模块/CPO"
+    ],
+    "priority": "P1",
+    "heat": 7,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ300570",
+    "name": "太辰光",
+    "price": "178.33",
+    "priceDate": "20260513",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "光模块-cpo"
+    ],
+    "chains": [
+      "光模块/CPO"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH601869",
+    "name": "长飞光纤",
+    "price": "375.00",
+    "priceDate": "20260424",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "光模块-cpo"
+    ],
+    "chains": [
+      "光模块/CPO"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600105",
+    "name": "永鼎股份",
+    "price": "42.41",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "光模块-cpo"
+    ],
+    "chains": [
+      "光模块/CPO"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH688146",
+    "name": "中船特气",
+    "price": "76.11",
+    "priceDate": "20260429",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P0",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH688268",
+    "name": "华特气体",
+    "price": "188.30",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P0",
+    "heat": 2,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002409",
+    "name": "雅克科技",
+    "price": "106.90",
+    "priceDate": "20260514",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P0",
+    "heat": 3,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ300054",
+    "name": "鼎龙股份",
+    "price": "77.00",
+    "priceDate": "20260525",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P0",
+    "heat": 2,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002129",
+    "name": "TCL中环",
+    "price": "9.83",
+    "priceDate": "20260515",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600703",
+    "name": "三安光电",
+    "price": "16.84",
+    "priceDate": "20260513",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600673",
+    "name": "东阳光",
+    "price": "35.40",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P1",
+    "heat": 10,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH688549",
+    "name": "中巨芯-U",
+    "price": "12.29",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002428",
+    "name": "云南锗业",
+    "price": "80.20",
+    "priceDate": "20260507",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P1",
+    "heat": 4,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH688545",
+    "name": "兴福电子",
+    "price": "54.89",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600552",
+    "name": "凯盛科技",
+    "price": "19.67",
+    "priceDate": "20260526",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P1",
+    "heat": 2,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603773",
+    "name": "沃格光电",
+    "price": "88.10",
+    "priceDate": "20260513",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P1",
+    "heat": 2,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH688783",
+    "name": "西安奕材-U",
+    "price": "33.97",
+    "priceDate": "20260515",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ003026",
+    "name": "中晶科技",
+    "price": "46.05",
+    "priceDate": "20260521",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000657",
+    "name": "中钨高新",
+    "price": "57.31",
+    "priceDate": "20260429",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P2",
+    "heat": 1,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600330",
+    "name": "天通股份",
+    "price": "27.98",
+    "priceDate": "20260507",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "920438",
+    "name": "戈碧迦",
+    "price": "74.51",
+    "priceDate": "20260528",
+    "market": "151",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002222",
+    "name": "福晶科技",
+    "price": "116.32",
+    "priceDate": "20260513",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002149",
+    "name": "西部材料",
+    "price": "69.00",
+    "priceDate": "20260514",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体材料"
+    ],
+    "chains": [
+      "半导体材料"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH688012",
+    "name": "中微公司",
+    "price": "362.27",
+    "priceDate": "20260428",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体设备"
+    ],
+    "chains": [
+      "半导体设备"
+    ],
+    "priority": "P0",
+    "heat": 5,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002371",
+    "name": "北方华创",
+    "price": "517.21",
+    "priceDate": "20260428",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体设备"
+    ],
+    "chains": [
+      "半导体设备"
+    ],
+    "priority": "P0",
+    "heat": 6,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH688120",
+    "name": "华海清科",
+    "price": "194.44",
+    "priceDate": "20260428",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体设备"
+    ],
+    "chains": [
+      "半导体设备"
+    ],
+    "priority": "P1",
+    "heat": 1,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002008",
+    "name": "大族激光",
+    "price": "146.28",
+    "priceDate": "20260522",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体设备"
+    ],
+    "chains": [
+      "半导体设备"
+    ],
+    "priority": "P1",
+    "heat": 2,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ300776",
+    "name": "帝尔激光",
+    "price": "155.50",
+    "priceDate": "20260526",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体设备"
+    ],
+    "chains": [
+      "半导体设备"
+    ],
+    "priority": "P1",
+    "heat": 2,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ300567",
+    "name": "精测电子",
+    "price": "145.05",
+    "priceDate": "20260430",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体设备"
+    ],
+    "chains": [
+      "半导体设备"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH688037",
+    "name": "芯源微",
+    "price": "201.50",
+    "priceDate": "20260428",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体设备"
+    ],
+    "chains": [
+      "半导体设备"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603986",
+    "name": "兆易创新",
+    "price": "312.99",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体设计"
+    ],
+    "chains": [
+      "半导体设计"
+    ],
+    "priority": "P0",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603290",
+    "name": "斯达半导",
+    "price": "124.44",
+    "priceDate": "20260513",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体设计"
+    ],
+    "chains": [
+      "半导体设计"
+    ],
+    "priority": "P0",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600460",
+    "name": "士兰微",
+    "price": "31.05",
+    "priceDate": "20260519",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "半导体设计"
+    ],
+    "chains": [
+      "半导体设计"
+    ],
+    "priority": "P1",
+    "heat": 1,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600460",
+    "name": "士兰微",
+    "price": "31.05",
+    "priceDate": "20260519",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "半导体设计"
+    ],
+    "chains": [
+      "半导体设计"
+    ],
+    "priority": "P1",
+    "heat": 1,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH605111",
+    "name": "新洁能",
+    "price": "50.24",
+    "priceDate": "20260519",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体设计"
+    ],
+    "chains": [
+      "半导体设计"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603893",
+    "name": "瑞芯微",
+    "price": "182.44",
+    "priceDate": "20260428",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体设计"
+    ],
+    "chains": [
+      "半导体设计"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ300136",
+    "name": "信维通信",
+    "price": "98.65",
+    "priceDate": "20260529",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "半导体设计"
+    ],
+    "chains": [
+      "半导体设计"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH601698",
+    "name": "中国卫通",
+    "price": "35.70",
+    "priceDate": "20260514",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "商业航天-军工"
+    ],
+    "chains": [
+      "商业航天/军工"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ003031",
+    "name": "中瓷电子",
+    "price": "153.68",
+    "priceDate": "20260522",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "商业航天-军工"
+    ],
+    "chains": [
+      "商业航天/军工"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000733",
+    "name": "振华科技",
+    "price": "49.17",
+    "priceDate": "20260522",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "商业航天-军工"
+    ],
+    "chains": [
+      "商业航天/军工"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ001270",
+    "name": "铖昌科技",
+    "price": "145.80",
+    "priceDate": "20260529",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "商业航天-军工"
+    ],
+    "chains": [
+      "商业航天/军工"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH688981",
+    "name": "中芯国际",
+    "price": "110.96",
+    "priceDate": "20260424",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "晶圆制造"
+    ],
+    "chains": [
+      "晶圆制造"
+    ],
+    "priority": "P0",
+    "heat": 8,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH688347",
+    "name": "华虹公司",
+    "price": "138.08",
+    "priceDate": "20260428",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "晶圆制造"
+    ],
+    "chains": [
+      "晶圆制造"
+    ],
+    "priority": "P0",
+    "heat": 6,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603663",
+    "name": "三祥新材",
+    "price": "55.54",
+    "priceDate": "20260525",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000672",
+    "name": "上峰水泥",
+    "price": "18.90",
+    "priceDate": "20260518",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH601088",
+    "name": "中国神华",
+    "price": "48.64",
+    "priceDate": "20260601",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002080",
+    "name": "中材科技",
+    "price": "71.28",
+    "priceDate": "20260522",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002298",
+    "name": "中电鑫龙",
+    "price": "11.73",
+    "priceDate": "20260518",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ300684",
+    "name": "中石科技",
+    "price": "56.16",
+    "priceDate": "20260529",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH513310",
+    "name": "中韩半导体ETF华泰柏瑞",
+    "price": "6.237",
+    "priceDate": "20260514",
+    "market": "20",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH605090",
+    "name": "九丰能源",
+    "price": "43.62",
+    "priceDate": "20260420",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000725",
+    "name": "京东方Ａ",
+    "price": "5.68",
+    "priceDate": "20260526",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000725",
+    "name": "京东方Ａ",
+    "price": "5.68",
+    "priceDate": "20260526",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ001314",
+    "name": "亿道信息",
+    "price": "58.60",
+    "priceDate": "20260529",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002741",
+    "name": "光华科技",
+    "price": "21.70",
+    "priceDate": "20260430",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ159246",
+    "name": "创业板人工智能ETF富国",
+    "price": "1.350",
+    "priceDate": "20260514",
+    "market": "36",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603629",
+    "name": "利通电子",
+    "price": "144.41",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ159842",
+    "name": "券商ETF银华",
+    "price": "0.972",
+    "priceDate": "20260528",
+    "market": "36",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ159842",
+    "name": "券商ETF银华",
+    "price": "0.972",
+    "priceDate": "20260528",
+    "market": "36",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "008888",
+    "name": "半导体C",
+    "price": "--",
+    "priceDate": "20260515",
+    "market": "UOFJ",
+    "ownership": "自选",
+    "note": "价格或日期缺失",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "159665",
+    "name": "半导体龙头ETF工银",
+    "price": "--",
+    "priceDate": "20260515",
+    "market": "UOFJ",
+    "ownership": "自选",
+    "note": "价格或日期缺失",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603186",
+    "name": "华正新材",
+    "price": "100.91",
+    "priceDate": "20260515",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600396",
+    "name": "华电辽能",
+    "price": "12.00",
+    "priceDate": "20260507",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600410",
+    "name": "华胜天成",
+    "price": "21.92",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600863",
+    "name": "华能蒙电",
+    "price": "4.64",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600863",
+    "name": "华能蒙电",
+    "price": "4.64",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002015",
+    "name": "协鑫能科",
+    "price": "17.75",
+    "priceDate": "20260430",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002506",
+    "name": "协鑫集成",
+    "price": "3.64",
+    "priceDate": "20260528",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002506",
+    "name": "协鑫集成",
+    "price": "3.64",
+    "priceDate": "20260528",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600545",
+    "name": "卓郎智能",
+    "price": "7.88",
+    "priceDate": "20260529",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603636",
+    "name": "南威软件",
+    "price": "10.10",
+    "priceDate": "20260508",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH605376",
+    "name": "博迁新材",
+    "price": "153.30",
+    "priceDate": "20260522",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ300179",
+    "name": "四方达",
+    "price": "43.13",
+    "priceDate": "20260529",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600589",
+    "name": "大位科技",
+    "price": "10.07",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603256",
+    "name": "宏和科技",
+    "price": "159.37",
+    "priceDate": "20260522",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ301396",
+    "name": "宏景科技",
+    "price": "356.99",
+    "priceDate": "20260508",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000690",
+    "name": "宝新能源",
+    "price": "5.14",
+    "priceDate": "20260330",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000983",
+    "name": "山西焦煤",
+    "price": "7.25",
+    "priceDate": "20260601",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002261",
+    "name": "拓维信息",
+    "price": "35.44",
+    "priceDate": "20260430",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600378",
+    "name": "昊华科技",
+    "price": "35.67",
+    "priceDate": "20260429",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ301171",
+    "name": "易点天下",
+    "price": "46.43",
+    "priceDate": "20260601",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603890",
+    "name": "春秋电子",
+    "price": "24.81",
+    "priceDate": "20260529",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH601778",
+    "name": "晶科科技",
+    "price": "6.26",
+    "priceDate": "20260528",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ159168",
+    "name": "有色ETF富国",
+    "price": "0.928",
+    "priceDate": "20260528",
+    "market": "36",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600884",
+    "name": "杉杉股份",
+    "price": "15.25",
+    "priceDate": "20260528",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH601133",
+    "name": "柏诚股份",
+    "price": "32.99",
+    "priceDate": "20260522",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002251",
+    "name": "步步高",
+    "price": "4.88",
+    "priceDate": "20260529",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH605020",
+    "name": "永和股份",
+    "price": "31.75",
+    "priceDate": "20260514",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002484",
+    "name": "江海股份",
+    "price": "77.85",
+    "priceDate": "20260529",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ003036",
+    "name": "泰坦股份",
+    "price": "50.89",
+    "priceDate": "20260522",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603738",
+    "name": "泰晶科技",
+    "price": "52.50",
+    "priceDate": "20260520",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH515650",
+    "name": "消费50ETF富国",
+    "price": "1.051",
+    "priceDate": "20260529",
+    "market": "20",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000062",
+    "name": "深圳华强",
+    "price": "34.34",
+    "priceDate": "20260424",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603678",
+    "name": "火炬电子",
+    "price": "37.68",
+    "priceDate": "20260522",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002568",
+    "name": "百润股份",
+    "price": "19.74",
+    "priceDate": "20260529",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000967",
+    "name": "盈峰环境",
+    "price": "13.85",
+    "priceDate": "20260512",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603026",
+    "name": "石大胜华",
+    "price": "99.00",
+    "priceDate": "20260424",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH588060",
+    "name": "科创50ETF广发",
+    "price": "1.095",
+    "priceDate": "20260514",
+    "market": "20",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH588170",
+    "name": "科创半导体ETF华夏",
+    "price": "1.899",
+    "priceDate": "20260429",
+    "market": "20",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH588200",
+    "name": "科创芯片ETF嘉实",
+    "price": "3.769",
+    "priceDate": "20260526",
+    "market": "20",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "ok",
+      "fromDate": "20260521",
+      "percent": 10.14
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH588810",
+    "name": "科创芯片ETF富国",
+    "price": "2.475",
+    "priceDate": "20260514",
+    "market": "20",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH589130",
+    "name": "科创芯片ETF易方达",
+    "price": "1.377",
+    "priceDate": "20260514",
+    "market": "20",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600367",
+    "name": "红星发展",
+    "price": "27.07",
+    "priceDate": "20260525",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600367",
+    "name": "红星发展",
+    "price": "27.07",
+    "priceDate": "20260525",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603459",
+    "name": "红板科技",
+    "price": "105.61",
+    "priceDate": "20260522",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002575",
+    "name": "群兴玩具",
+    "price": "7.47",
+    "priceDate": "20260508",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "850101",
+    "name": "能源",
+    "price": "128.39",
+    "priceDate": "20260415",
+    "market": "64",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ159930",
+    "name": "能源ETF汇添富",
+    "price": "1.691",
+    "priceDate": "20260415",
+    "market": "36",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "017470",
+    "name": "芯片C",
+    "price": "--",
+    "priceDate": "20260515",
+    "market": "UOFJ",
+    "ownership": "自选",
+    "note": "价格或日期缺失",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ300433",
+    "name": "蓝思科技",
+    "price": "32.69",
+    "priceDate": "20260514",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002491",
+    "name": "通鼎互联",
+    "price": "15.80",
+    "priceDate": "20260430",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600821",
+    "name": "金开新能",
+    "price": "7.80",
+    "priceDate": "20260430",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002617",
+    "name": "露笑科技",
+    "price": "10.26",
+    "priceDate": "20260528",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000636",
+    "name": "风华高科",
+    "price": "37.62",
+    "priceDate": "20260522",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000636",
+    "name": "风华高科",
+    "price": "37.62",
+    "priceDate": "20260522",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603267",
+    "name": "鸿远电子",
+    "price": "64.89",
+    "priceDate": "20260522",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600172",
+    "name": "黄河旋风",
+    "price": "13.30",
+    "priceDate": "20260526",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600172",
+    "name": "黄河旋风",
+    "price": "13.30",
+    "priceDate": "20260526",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [],
+    "chains": [
+      "未归类"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002050",
+    "name": "三花智控",
+    "price": "52.06",
+    "priceDate": "20260515",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "机器人-汽车链"
+    ],
+    "chains": [
+      "机器人/汽车链"
+    ],
+    "priority": "P0",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH601689",
+    "name": "拓普集团",
+    "price": "71.59",
+    "priceDate": "20260515",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "机器人-汽车链"
+    ],
+    "chains": [
+      "机器人/汽车链"
+    ],
+    "priority": "P0",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002472",
+    "name": "双环传动",
+    "price": "41.86",
+    "priceDate": "20260508",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "机器人-汽车链"
+    ],
+    "chains": [
+      "机器人/汽车链"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002048",
+    "name": "宁波华翔",
+    "price": "29.21",
+    "priceDate": "20260515",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "机器人-汽车链"
+    ],
+    "chains": [
+      "机器人/汽车链"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603178",
+    "name": "圣龙股份",
+    "price": "23.76",
+    "priceDate": "20260519",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "机器人-汽车链"
+    ],
+    "chains": [
+      "机器人/汽车链"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600089",
+    "name": "特变电工",
+    "price": "26.96",
+    "priceDate": "20260424",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "算电协同-能源"
+    ],
+    "chains": [
+      "算电协同/能源"
+    ],
+    "priority": "P0",
+    "heat": 1,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600089",
+    "name": "特变电工",
+    "price": "26.96",
+    "priceDate": "20260424",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "算电协同-能源"
+    ],
+    "chains": [
+      "算电协同/能源"
+    ],
+    "priority": "P0",
+    "heat": 1,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH601985",
+    "name": "中国核电",
+    "price": "8.77",
+    "priceDate": "20260415",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "算电协同-能源"
+    ],
+    "chains": [
+      "算电协同/能源"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH601179",
+    "name": "中国西电",
+    "price": "17.21",
+    "priceDate": "20260424",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "算电协同-能源"
+    ],
+    "chains": [
+      "算电协同/能源"
+    ],
+    "priority": "P1",
+    "heat": 1,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH601179",
+    "name": "中国西电",
+    "price": "17.21",
+    "priceDate": "20260424",
+    "market": "17",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "算电协同-能源"
+    ],
+    "chains": [
+      "算电协同/能源"
+    ],
+    "priority": "P1",
+    "heat": 1,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600312",
+    "name": "平高电气",
+    "price": "21.88",
+    "priceDate": "20260424",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "算电协同-能源"
+    ],
+    "chains": [
+      "算电协同/能源"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002028",
+    "name": "思源电气",
+    "price": "222.13",
+    "priceDate": "20260424",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "算电协同-能源"
+    ],
+    "chains": [
+      "算电协同/能源"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000400",
+    "name": "许继电气",
+    "price": "25.80",
+    "priceDate": "20260424",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "算电协同-能源"
+    ],
+    "chains": [
+      "算电协同/能源"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600900",
+    "name": "长江电力",
+    "price": "26.81",
+    "priceDate": "20260424",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "算电协同-能源"
+    ],
+    "chains": [
+      "算电协同/能源"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ300274",
+    "name": "阳光电源",
+    "price": "133.79",
+    "priceDate": "20260424",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "算电协同-能源"
+    ],
+    "chains": [
+      "算电协同/能源"
+    ],
+    "priority": "P1",
+    "heat": 1,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600938",
+    "name": "中国海油",
+    "price": "38.38",
+    "priceDate": "20260424",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "算电协同-能源"
+    ],
+    "chains": [
+      "算电协同/能源"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002121",
+    "name": "科陆电子",
+    "price": "8.52",
+    "priceDate": "20260529",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "算电协同-能源"
+    ],
+    "chains": [
+      "算电协同/能源"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002121",
+    "name": "科陆电子",
+    "price": "8.52",
+    "priceDate": "20260529",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "算电协同-能源"
+    ],
+    "chains": [
+      "算电协同/能源"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH601898",
+    "name": "中煤能源",
+    "price": "17.91",
+    "priceDate": "20260330",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "算电协同-能源"
+    ],
+    "chains": [
+      "算电协同/能源"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600121",
+    "name": "郑州煤电",
+    "price": "5.32",
+    "priceDate": "20260330",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "算电协同-能源"
+    ],
+    "chains": [
+      "算电协同/能源"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ300059",
+    "name": "东方财富",
+    "price": "19.16",
+    "priceDate": "20260529",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "金融-消费-周期"
+    ],
+    "chains": [
+      "金融/消费/周期"
+    ],
+    "priority": "P1",
+    "heat": 2,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600030",
+    "name": "中信证券",
+    "price": "26.05",
+    "priceDate": "20260529",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "金融-消费-周期"
+    ],
+    "chains": [
+      "金融/消费/周期"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000858",
+    "name": "五 粮 液",
+    "price": "84.89",
+    "priceDate": "20260529",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "金融-消费-周期"
+    ],
+    "chains": [
+      "金融/消费/周期"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000426",
+    "name": "兴业银锡",
+    "price": "45.18",
+    "priceDate": "20260506",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "金融-消费-周期"
+    ],
+    "chains": [
+      "金融/消费/周期"
+    ],
+    "priority": "P1",
+    "heat": 4,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ000630",
+    "name": "铜陵有色",
+    "price": "6.90",
+    "priceDate": "20260529",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "金融-消费-周期"
+    ],
+    "chains": [
+      "金融/消费/周期"
+    ],
+    "priority": "P1",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH600176",
+    "name": "中国巨石",
+    "price": "33.86",
+    "priceDate": "20260515",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "金融-消费-周期"
+    ],
+    "chains": [
+      "金融/消费/周期"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SH603156",
+    "name": "养元饮品",
+    "price": "48.36",
+    "priceDate": "20260519",
+    "market": "17",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "金融-消费-周期"
+    ],
+    "chains": [
+      "金融/消费/周期"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002407",
+    "name": "多氟多",
+    "price": "35.87",
+    "priceDate": "20260429",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "金融-消费-周期"
+    ],
+    "chains": [
+      "金融/消费/周期"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002407",
+    "name": "多氟多",
+    "price": "35.87",
+    "priceDate": "20260429",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "金融-消费-周期"
+    ],
+    "chains": [
+      "金融/消费/周期"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002709",
+    "name": "天赐材料",
+    "price": "59.32",
+    "priceDate": "20260429",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "金融-消费-周期"
+    ],
+    "chains": [
+      "金融/消费/周期"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002709",
+    "name": "天赐材料",
+    "price": "59.32",
+    "priceDate": "20260429",
+    "market": "33",
+    "ownership": "持仓 + 自选",
+    "note": "",
+    "chainIds": [
+      "金融-消费-周期"
+    ],
+    "chains": [
+      "金融/消费/周期"
+    ],
+    "priority": "P2",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  },
+  {
+    "code": "SZ002208",
+    "name": "合肥城建",
+    "price": "19.80",
+    "priceDate": "20260514",
+    "market": "33",
+    "ownership": "自选",
+    "note": "",
+    "chainIds": [
+      "金融-消费-周期"
+    ],
+    "chains": [
+      "金融/消费/周期"
+    ],
+    "priority": "P3",
+    "heat": 0,
+    "change5d": {
+      "status": "本地快照不足"
+    },
+    "change10d": {
+      "status": "本地快照不足"
+    }
+  }
+]
