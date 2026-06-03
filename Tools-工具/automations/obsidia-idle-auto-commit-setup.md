@@ -1,10 +1,19 @@
-# Obsidia 空闲自动提交安装说明
+# Obsidia / Obsidian 空闲自动提交安装说明
 
 本文记录当前电脑的自动提交方案，供公司/家里其他 Windows 电脑复刻。目标是在键盘/鼠标空闲 30 分钟后，将 `Obsidia` 仓库的全部 Git 变更提交并推送到 `origin/main`，提交成功后通过 OpenClaw Weixin 给 Claw Bot 发通知。
 
+## 当前机器状态（2026-06-03）
+
+- 当前仓库：`D:\ClayMore\WorkSpace\Obsidian`
+- Windows 计划任务：`Obsidian Idle Git Snapshot`
+- 触发方式：空闲 `30` 分钟后触发
+- 本机脚本：`%USERPROFILE%\.codex\local-tasks\obsidian-idle-commit.ps1`
+- 通知脚本：`%USERPROFILE%\.codex\local-tasks\send-obsidian-weixin-notification.mjs`
+- 当前限制：这台机器的 PATH 中未找到 `openclaw.cmd`，也未配置 `OPENCLAW_WEIXIN_ACCOUNT` / `OPENCLAW_WEIXIN_TARGET` 环境变量；因此提交和推送正常执行，微信通知会跳过并写入日志。
+
 ## 行为边界
 
-- 工作仓库：`E:\WorkSpace\Obsidia`
+- 工作仓库：按机器实际路径配置；当前机器为 `D:\ClayMore\WorkSpace\Obsidian`
 - 触发方式：Windows Task Scheduler `ONIDLE`，空闲 `30` 分钟后触发
 - 提交范围：整个 Git 仓库，执行 `git add -A`，遵守 `.gitignore`
 - 私有 Wiki：包含 `ClayMore-Private-Wiki/` 的变更

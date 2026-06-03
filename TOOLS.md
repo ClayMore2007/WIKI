@@ -6,8 +6,13 @@
 
 ## 本机自动化
 
-- Obsidia 空闲自动提交、推送、微信 Claw Bot 通知：
+- Obsidian 空闲自动提交、推送、微信 Claw Bot 通知：
   `Tools-工具/automations/obsidia-idle-auto-commit-setup.md`
+  - 当前机器任务名：`Obsidian Idle Git Snapshot`
+  - 当前仓库路径：`D:\ClayMore\WorkSpace\Obsidian`
+  - 本机脚本：`%USERPROFILE%\.codex\local-tasks\obsidian-idle-commit.ps1`
+  - 微信通知脚本：`%USERPROFILE%\.codex\local-tasks\send-obsidian-weixin-notification.mjs`
+  - 说明：当前机器未配置 `openclaw.cmd` / Weixin 账号环境变量时，自动提交和推送仍会执行，微信通知会跳过并写入日志。
 
 ## OpenClaw / Weixin
 
