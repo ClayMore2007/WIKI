@@ -1,6 +1,3 @@
-# Private wiki content
-ClayMore-Private-Wiki/
-
 # Local app dependencies and build output
 APP/node_modules/
 APP/dist/
