@@ -1,9 +1,12 @@
-```markdown
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
+# HEARTBEAT.md - 周期唤醒说明
 
-# Add tasks below when you want the agent to check something periodically.
-```
+当前没有需要周期检查的任务。
 
-## Related
+保持本文件为空或只写说明文字时，OpenClaw heartbeat 唤醒后应判断为“无待办”，不要主动打扰用户。
 
-- [Heartbeat config](/gateway/config-agents)
+如果以后需要 Agent 定期检查某件事，把任务写在下面，并注明：
+
+- 检查目标
+- 检查频率
+- 需要通知用户的条件
+- 不需要通知时的处理方式
