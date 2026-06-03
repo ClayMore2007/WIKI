@@ -10,3 +10,7 @@
 以 `ClayMore/AGENTS.md` 作为权威 Agent 工作流说明。
 
 除非用户明确要求，否则不要操作 `ClayMore-Private-Wiki/`。
+
+## 股票 App 入口
+
+用户说“打开股票”“查看股票”或类似指令时，按 `APP/README.md` 中的股票 App 入口处理。

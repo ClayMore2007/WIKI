@@ -206,7 +206,7 @@
       "AI算力链"
     ],
     "priority": "P1",
-    "heat": 4,
+    "heat": 5,
     "change5d": {
       "status": "本地快照不足"
     },
@@ -229,7 +229,7 @@
       "AI算力链"
     ],
     "priority": "P1",
-    "heat": 11,
+    "heat": 12,
     "change5d": {
       "status": "本地快照不足"
     },
@@ -298,7 +298,7 @@
       "AI算力链"
     ],
     "priority": "P1",
-    "heat": 0,
+    "heat": 2,
     "change5d": {
       "status": "本地快照不足"
     },
@@ -505,7 +505,7 @@
       "PCB/连接器"
     ],
     "priority": "P1",
-    "heat": 5,
+    "heat": 6,
     "change5d": {
       "status": "本地快照不足"
     },
@@ -927,7 +927,7 @@
       "光模块/CPO"
     ],
     "priority": "P0",
-    "heat": 14,
+    "heat": 15,
     "change5d": {
       "status": "本地快照不足"
     },
@@ -950,7 +950,7 @@
       "光模块/CPO"
     ],
     "priority": "P0",
-    "heat": 6,
+    "heat": 8,
     "change5d": {
       "status": "本地快照不足"
     },
@@ -973,7 +973,7 @@
       "光模块/CPO"
     ],
     "priority": "P0",
-    "heat": 7,
+    "heat": 9,
     "change5d": {
       "status": "本地快照不足"
     },

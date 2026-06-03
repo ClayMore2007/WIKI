@@ -11,7 +11,7 @@ from typing import Any
 
 
 APP_ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_WIKI_ROOT = APP_ROOT.parent / "ClayMore"
+DEFAULT_WIKI_ROOT = APP_ROOT.parent.parent / "ClayMore"
 STOCK_ROOT = Path("Wiki/10-股票投资")
 
 

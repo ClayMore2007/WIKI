@@ -85,7 +85,7 @@ class SnapshotChangeTests(unittest.TestCase):
 
 class PathFormattingTests(unittest.TestCase):
     def test_display_path_uses_app_relative_path_for_default_wiki_root(self):
-        self.assertEqual(display_path(DEFAULT_WIKI_ROOT), "../ClayMore")
+        self.assertEqual(display_path(DEFAULT_WIKI_ROOT), "../../ClayMore")
 
 
 if __name__ == "__main__":

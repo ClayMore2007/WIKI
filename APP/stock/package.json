@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "open": "powershell -ExecutionPolicy Bypass -File ../open-stock.ps1",
     "build:cache": "python scripts/build_stock_cache.py",
     "dev": "vite --host 127.0.0.1",
     "build": "tsc && vite build",
