@@ -56,7 +56,7 @@ Expected: registry contains `packageChannel.id = openclaw-weixin`.
 - [x] **Step 1: Fix the OpenClaw workspace**
 
 ```powershell
-openclaw.cmd config set --batch-file 'Tools-工具\openclaw-config-set.batch.json'
+openclaw.cmd config set --batch-file 'Tools-工具\openclaw\openclaw-config-set.batch.json'
 ```
 
 - [x] **Step 2: Select the Codex runtime model route**

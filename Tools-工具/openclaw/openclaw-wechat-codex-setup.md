@@ -50,7 +50,7 @@ OpenClaw 2026.5.7
 ## Current OpenClaw Config
 
 ```powershell
-openclaw.cmd config set --batch-file 'Tools-工具\openclaw-config-set.batch.json'
+openclaw.cmd config set --batch-file 'Tools-工具\openclaw\openclaw-config-set.batch.json'
 openclaw.cmd config set agents.defaults.model.primary openai/gpt-5.5
 openclaw.cmd config set agents.defaults.agentRuntime.id codex
 openclaw.cmd config set channels.openclaw-weixin.enabled true --strict-json
@@ -67,7 +67,7 @@ The batch file is used because direct PowerShell argv passing can corrupt Chines
 The official channel login path produced QR/login trouble in this Windows shell, so this helper was used:
 
 ```powershell
-node .\Tools-工具\openclaw-weixin-manual-login.mjs
+node .\Tools-工具\openclaw\openclaw-weixin-manual-login.mjs
 ```
 
 The WeChat account was saved locally under:
@@ -83,13 +83,13 @@ Do not print or commit account token files.
 If OpenClaw reports `device identity required` or `metadata change pending approval`, refresh the local operator token:
 
 ```powershell
-node .\Tools-工具\openclaw-refresh-device-operator.mjs
+node .\Tools-工具\openclaw\openclaw-refresh-device-operator.mjs
 ```
 
 If OpenClaw gives a specific pending request id:
 
 ```powershell
-node .\Tools-工具\openclaw-refresh-device-operator.mjs <request-id>
+node .\Tools-工具\openclaw\openclaw-refresh-device-operator.mjs <request-id>
 ```
 
 ## Start and Verify

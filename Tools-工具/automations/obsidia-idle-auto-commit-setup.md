@@ -34,7 +34,7 @@ node.exe --version
 4. OpenClaw 和 Weixin 通道已配置。可参考：
 
 ```text
-Tools-工具\openclaw-wechat-codex-setup.md
+Tools-工具\openclaw\openclaw-wechat-codex-setup.md
 ```
 
 验证 OpenClaw：

@@ -10,6 +10,11 @@ APP/dist/
 *.log
 Tools-工具/openclaw-logs/
 
+# Local/rotating plugin backups
+ClayMore/.obsidian/plugins/cubox-sync/data(*).json
+
 # Local machine / assistant runtime state
 .openclaw/
+.superpowers/
+APP/.superpowers/
 **/.git/

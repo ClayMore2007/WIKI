@@ -7,12 +7,17 @@
 ## 本机自动化
 
 - Obsidia 空闲自动提交、推送、微信 Claw Bot 通知：
-  `Tools-工具/obsidia-idle-auto-commit-setup.md`
+  `Tools-工具/automations/obsidia-idle-auto-commit-setup.md`
 
 ## OpenClaw / Weixin
 
 - WeChat Claw Bot 与 Codex/OpenClaw 的配置说明：
-  `Tools-工具/openclaw-wechat-codex-setup.md`
+  `Tools-工具/openclaw/openclaw-wechat-codex-setup.md`
+
+## 股票脚本
+
+- 同花顺自选股/持仓更新脚本仍保留在 `Tools-工具/` 根目录，以兼容 `ClayMore/AGENTS.md` 中的固定命令。
+- 后续如果移动这些脚本，必须同步更新 `ClayMore/AGENTS.md` 和对应 Wiki 规则。
 
 ## 记录原则
 
