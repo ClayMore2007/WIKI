@@ -114,19 +114,14 @@ Select-String -Path "$HOME\.openclaw\openclaw-weixin\accounts\*.context-tokens.j
 创建 `%USERPROFILE%\.codex\local-tasks\send-obsidia-weixin-notification.mjs`：
 
 ```js
-import { spawnSync } from "node:child_process";
-import { join } from "node:path";
+import fs from "node:fs";
+import os from "node:os";
+import path from "node:path";
 
-const channel = "openclaw-weixin";
 const account = "<account-id>";
 const target = "<user-id@im.wechat>";
-const openClawEntrypoint = join(
-  process.env.APPDATA ?? "C:\\Users\\Administrator\\AppData\\Roaming",
-  "npm",
-  "node_modules",
-  "openclaw",
-  "openclaw.mjs",
-);
+const defaultBaseUrl = "https://ilinkai.weixin.qq.com";
+const timeoutMs = 30000;
 
 const commit = process.argv[2] ?? "unknown";
 const subject = process.argv.slice(3).join(" ") || "unknown";
@@ -143,42 +138,84 @@ const message = [
   `说明：${subject}`,
 ].join("\n");
 
-const result = spawnSync(
-  process.execPath,
-  [
-    openClawEntrypoint,
-    "message",
-    "send",
-    "--channel",
-    channel,
-    "--account",
-    account,
-    "--target",
-    target,
-    "--message",
-    message,
-    "--json",
-  ],
-  {
-    encoding: "utf8",
-    windowsHide: true,
-  },
-);
-
-if (result.error) {
-  process.stderr.write(`${result.error.stack ?? result.error.message}\n`);
-}
-if (result.stdout) {
-  process.stdout.write(result.stdout);
-}
-if (result.stderr) {
-  process.stderr.write(result.stderr);
+function readJson(filePath) {
+  return JSON.parse(fs.readFileSync(filePath, "utf8"));
 }
 
-process.exit(result.status ?? 1);
+function loadAccount(accountId) {
+  const accountDir = path.join(os.homedir(), ".openclaw", "openclaw-weixin", "accounts");
+  const accountPath = path.join(accountDir, `${accountId}.json`);
+  const contextsPath = path.join(accountDir, `${accountId}.context-tokens.json`);
+  return {
+    account: readJson(accountPath),
+    contextToken: fs.existsSync(contextsPath) ? readJson(contextsPath)[target] : undefined,
+  };
+}
+
+function buildMessageBody(contextToken) {
+  return {
+    msg: {
+      from_user_id: "",
+      to_user_id: target,
+      client_id: `obsidia-auto-commit-${Date.now()}`,
+      message_type: 2,
+      message_state: 3,
+      item_list: [{ type: 1, text_item: { text: message } }],
+      context_token: contextToken,
+    },
+    base_info: {
+      device_id: "obsidia-idle-commit",
+      client_version: "2026.5.7",
+      os_type: "windows",
+    },
+  };
+}
+
+const { account: accountInfo, contextToken } = loadAccount(account);
+if (!accountInfo.token) {
+  throw new Error(`Weixin account ${account} is missing token.`);
+}
+
+const controller = new AbortController();
+const timeout = setTimeout(() => controller.abort(), timeoutMs);
+
+try {
+  const response = await fetch(new URL("ilink/bot/sendmessage", accountInfo.baseUrl ?? defaultBaseUrl), {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${accountInfo.token}`,
+      "Authorization-Type": "ilink_bot_token",
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(buildMessageBody(contextToken)),
+    signal: controller.signal,
+  });
+
+  const rawBody = await response.text();
+  let body;
+  try {
+    body = rawBody ? JSON.parse(rawBody) : {};
+  } catch {
+    body = { rawBody };
+  }
+
+  const success =
+    response.ok &&
+    (body.errcode === undefined || body.errcode === 0) &&
+    (body.ret === undefined || body.ret === 0);
+
+  process.stdout.write(`${JSON.stringify({ action: "send", channel: "openclaw-weixin", target, httpStatus: response.status, ok: response.ok, body }, null, 2)}\n`);
+
+  if (!success) {
+    process.stderr.write(`Weixin notification failed: ${JSON.stringify(body)}\n`);
+    process.exit(1);
+  }
+} finally {
+  clearTimeout(timeout);
+}
 ```
 
-注意：不要在 PowerShell 中直接把中文正文传给 `openclaw.cmd --message`，容易出现微信乱码。中文正文应由 Node 脚本内部构造，并直接调用 `openclaw.mjs`。
+注意：不要在 PowerShell 中直接把中文正文传给 `openclaw.cmd --message`，容易出现微信乱码。中文正文应由 Node 脚本内部构造，并直连 Weixin 接口检查业务响应；只看 HTTP 200 或 OpenClaw `messageId` 可能会误判，例如会话超时时接口可能返回 `errcode: -14`。
 
 测试通知：
 
