@@ -144,8 +144,8 @@ const message = [
 ].join("\n");
 
 const prompt = [
-  "请使用 message 工具把下面这段通知原样发送到当前指定的微信会话。",
-  "只发送通知正文，不要添加解释、前后缀或 Markdown 代码块。",
+  "请只原样输出下面这段通知正文。",
+  "不要调用任何工具，不要添加解释、前后缀或 Markdown 代码块。",
   "",
   message,
 ].join("\n");
@@ -202,7 +202,7 @@ try {
 }
 ```
 
-注意：不要在 PowerShell 中直接把中文正文传给 `openclaw.cmd --message`，容易出现微信乱码。中文正文应由 Node 脚本内部构造，并通过 `openclaw agent --deliver` 复用当前微信会话里的 `message` 工具发送。只看 HTTP 200 或 OpenClaw `messageId` 可能会误判，例如会话超时时接口可能返回 `errcode: -14`。
+注意：不要在 PowerShell 中直接把中文正文传给 `openclaw.cmd --message`，容易出现微信乱码。中文正文应由 Node 脚本内部构造，并通过 `openclaw agent --deliver` 投递最终回复。不要再提示 agent 调用 `message` 工具，否则会与 `--deliver` 叠加，导致同一条通知发送两次。只看 HTTP 200 或 OpenClaw `messageId` 可能会误判，例如会话超时时接口可能返回 `errcode: -14`。
 
 测试通知：
 
