@@ -201,7 +201,9 @@ if (Get-Variable -Name PSNativeCommandUseErrorActionPreference -ErrorAction Sile
 $repo = "E:\WorkSpace\Obsidia"
 $logPath = Join-Path $env:USERPROFILE ".codex\logs\obsidia-idle-commit.log"
 $lockPath = Join-Path $env:TEMP "obsidia-idle-commit.lock"
+$statePath = Join-Path $env:USERPROFILE ".codex\local-tasks\obsidia-idle-commit-state.txt"
 $notifyScript = Join-Path $env:USERPROFILE ".codex\local-tasks\send-obsidia-weixin-notification.mjs"
+$minimumCommitIntervalMinutes = 30
 
 function Write-Log {
     param([string]$Message)
@@ -229,6 +231,32 @@ function Invoke-Git {
         throw "git $($Arguments -join ' ') failed with exit code $exitCode"
     }
     return $output
+}
+
+function Get-LastSuccessfulIdleCommitTime {
+    if (Test-Path -LiteralPath $statePath) {
+        $raw = (Get-Content -LiteralPath $statePath -Raw).Trim()
+        if ($raw) {
+            try {
+                return [datetime]::Parse($raw)
+            }
+            catch {
+                Write-Log "Ignoring unreadable state timestamp: $raw"
+            }
+        }
+    }
+
+    $rawUnixTime = (& git log -1 --format=%ct --grep="^chore: idle snapshot " 2>$null)
+    if ($LASTEXITCODE -eq 0 -and $rawUnixTime) {
+        return [DateTimeOffset]::FromUnixTimeSeconds([int64]$rawUnixTime.Trim()).LocalDateTime
+    }
+
+    return $null
+}
+
+function Set-LastSuccessfulIdleCommitTime {
+    New-Item -ItemType Directory -Force -Path (Split-Path -Parent $statePath) | Out-Null
+    Set-Content -LiteralPath $statePath -Value (Get-Date -Format "o")
 }
 
 function Sync-OriginMain {
@@ -278,6 +306,15 @@ try {
         $gitDir = Join-Path $repo $gitDir
     }
 
+    $lastSuccessfulIdleCommit = Get-LastSuccessfulIdleCommitTime
+    if ($lastSuccessfulIdleCommit) {
+        $elapsedSinceCommit = (Get-Date) - $lastSuccessfulIdleCommit
+        if ($elapsedSinceCommit.TotalMinutes -lt $minimumCommitIntervalMinutes) {
+            Write-Log ("Skipped because last successful idle commit was {0:N1} minutes ago, below {1} minutes." -f $elapsedSinceCommit.TotalMinutes, $minimumCommitIntervalMinutes)
+            exit 0
+        }
+    }
+
     $blockedStates = @(
         "MERGE_HEAD",
         "CHERRY_PICK_HEAD",
@@ -315,6 +352,7 @@ try {
     $stamp = Get-Date -Format "yyyy-MM-dd HH:mm"
     Invoke-Git @("commit", "-m", "chore: idle snapshot $stamp") | Out-Null
     Sync-OriginMain
+    Set-LastSuccessfulIdleCommitTime
     $commit = (& git rev-parse --short HEAD).Trim()
     $subject = (& git log -1 --pretty=%s).Trim()
     Send-WeixinNotification -Commit $commit -Subject $subject
@@ -371,6 +409,7 @@ schtasks /Create /SC ONIDLE /I 30 /TN $taskName /TR $tr /F
 ```powershell
 $settings = New-ScheduledTaskSettingsSet `
   -MultipleInstances IgnoreNew `
+  -RunOnlyIfIdle `
   -IdleDuration (New-TimeSpan -Minutes 30) `
   -IdleWaitTimeout (New-TimeSpan -Hours 1) `
   -DontStopOnIdleEnd `
@@ -392,6 +431,7 @@ XML 中应包含：
 
 ```xml
 <IdleTrigger>
+<RunOnlyIfIdle>true</RunOnlyIfIdle>
 <Duration>PT30M</Duration>
 <StopOnIdleEnd>false</StopOnIdleEnd>
 ```
