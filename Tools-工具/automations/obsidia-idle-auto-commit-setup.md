@@ -8,6 +8,7 @@
 - Windows 计划任务：`Obsidian Idle Git Snapshot`
 - 触发方式：空闲 `30` 分钟后触发
 - 本机脚本：`%USERPROFILE%\.codex\local-tasks\obsidian-idle-commit.ps1`
+- 隐藏启动包装器：`%USERPROFILE%\.codex\local-tasks\run-obsidian-idle-commit-hidden.vbs`
 - 通知脚本：`%USERPROFILE%\.codex\local-tasks\send-obsidian-weixin-notification.mjs`
 - 当前限制：这台机器的 PATH 中未找到 `openclaw.cmd`，也未配置 `OPENCLAW_WEIXIN_ACCOUNT` / `OPENCLAW_WEIXIN_TARGET` 环境变量；因此提交和推送正常执行，微信通知会跳过并写入日志。
 
@@ -61,6 +62,7 @@ openclaw.cmd status --timeout 30000
 
 ```text
 %USERPROFILE%\.codex\local-tasks\obsidia-idle-commit.ps1
+%USERPROFILE%\.codex\local-tasks\run-obsidian-idle-commit-hidden.vbs
 %USERPROFILE%\.codex\local-tasks\send-obsidia-weixin-notification.mjs
 %USERPROFILE%\.codex\logs\obsidia-idle-commit.log
 ```
@@ -419,12 +421,33 @@ git -C E:\WorkSpace\Obsidia status --short --branch
 
 ## 创建 Windows 计划任务
 
+先创建隐藏启动包装器 `%USERPROFILE%\.codex\local-tasks\run-obsidian-idle-commit-hidden.vbs`，避免计划任务直接拉起可见 PowerShell 窗口：
+
+```vbscript
+Option Explicit
+
+Dim shell
+Dim scriptPath
+Dim powershellPath
+Dim command
+Dim exitCode
+
+Set shell = CreateObject("WScript.Shell")
+scriptPath = shell.ExpandEnvironmentStrings("%USERPROFILE%") & "\.codex\local-tasks\obsidian-idle-commit.ps1"
+powershellPath = shell.ExpandEnvironmentStrings("%SystemRoot%") & "\System32\WindowsPowerShell\v1.0\powershell.exe"
+
+command = """" & powershellPath & """ -NoLogo -NoProfile -NonInteractive -ExecutionPolicy Bypass -WindowStyle Hidden -File """ & scriptPath & """"
+exitCode = shell.Run(command, 0, True)
+
+WScript.Quit exitCode
+```
+
 创建空闲任务：
 
 ```powershell
-$taskName = "Obsidia Idle Git Snapshot"
-$script = Join-Path $HOME ".codex\local-tasks\obsidia-idle-commit.ps1"
-$tr = "`"$env:SystemRoot\System32\WindowsPowerShell\v1.0\powershell.exe`" -NoProfile -ExecutionPolicy Bypass -File `"$script`""
+$taskName = "Obsidian Idle Git Snapshot"
+$wrapper = Join-Path $HOME ".codex\local-tasks\run-obsidian-idle-commit-hidden.vbs"
+$tr = "`"$env:SystemRoot\System32\wscript.exe`" //B //Nologo `"$wrapper`""
 schtasks /Create /SC ONIDLE /I 30 /TN $taskName /TR $tr /F
 ```
 
@@ -441,14 +464,15 @@ $settings = New-ScheduledTaskSettingsSet `
   -DontStopIfGoingOnBatteries `
   -ExecutionTimeLimit (New-TimeSpan -Minutes 30)
 
-Set-ScheduledTask -TaskName "Obsidia Idle Git Snapshot" -Settings $settings | Out-Null
+$settings.Hidden = $true
+Set-ScheduledTask -TaskName "Obsidian Idle Git Snapshot" -Settings $settings | Out-Null
 ```
 
 验证任务：
 
 ```powershell
-schtasks /Query /TN "Obsidia Idle Git Snapshot" /V /FO LIST
-schtasks /Query /TN "Obsidia Idle Git Snapshot" /XML
+schtasks /Query /TN "Obsidian Idle Git Snapshot" /V /FO LIST
+schtasks /Query /TN "Obsidian Idle Git Snapshot" /XML
 ```
 
 XML 中应包含：
@@ -456,8 +480,10 @@ XML 中应包含：
 ```xml
 <IdleTrigger>
 <RunOnlyIfIdle>true</RunOnlyIfIdle>
+<Hidden>true</Hidden>
 <Duration>PT30M</Duration>
 <StopOnIdleEnd>false</StopOnIdleEnd>
+<Command>C:\Windows\System32\wscript.exe</Command>
 ```
 
 ## 日常检查

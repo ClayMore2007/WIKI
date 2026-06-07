@@ -11,7 +11,9 @@
   - 当前机器任务名：`Obsidian Idle Git Snapshot`
   - 当前仓库路径：`D:\ClayMore\WorkSpace\Obsidian`
   - 本机脚本：`%USERPROFILE%\.codex\local-tasks\obsidian-idle-commit.ps1`
+  - 隐藏启动包装器：`%USERPROFILE%\.codex\local-tasks\run-obsidian-idle-commit-hidden.vbs`
   - 微信通知脚本：`%USERPROFILE%\.codex\local-tasks\send-obsidian-weixin-notification.mjs`
+  - 计划任务应执行 `wscript.exe //B //Nologo` 调用隐藏包装器，避免空闲自动提交时弹出 PowerShell 窗口。
   - 说明：当前机器未配置 `openclaw.cmd` / Weixin 账号环境变量时，自动提交和推送仍会执行，微信通知会跳过并写入日志。
 
 ## OpenClaw / Weixin
