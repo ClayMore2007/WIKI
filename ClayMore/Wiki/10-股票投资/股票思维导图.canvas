@@ -4,7 +4,7 @@
 			"id":"bf71618ca70164ac",
 			"type":"text",
 			"text":"六氟化钨",
-			"styleAttributes":{"textAlign":"center"},
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
 			"x":-435,
 			"y":-250,
 			"width":160,
@@ -15,7 +15,7 @@
 			"id":"2ddcb0d4ca3811a0",
 			"type":"text",
 			"text":"内存\n",
-			"styleAttributes":{"textAlign":"center"},
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
 			"x":-435,
 			"y":110,
 			"width":165,
@@ -25,7 +25,7 @@
 		{
 			"id":"194f01778a2c333b",
 			"type":"text",
-			"text":"算力内存HBM",
+			"text":"1.算力HBM 强需求",
 			"styleAttributes":{},
 			"x":-800,
 			"y":110,
@@ -33,35 +33,14 @@
 			"height":60
 		},
 		{
-			"id":"4fd8172b3bff00a3",
-			"type":"text",
-			"text":"短期",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1220,
-			"y":-300,
-			"width":260,
-			"height":520
-		},
-		{
 			"id":"f10ada06eb6722b6",
 			"type":"text",
-			"text":"6月底-7月永久初断供",
+			"text":"1.6月底-7月永久初断供\n2.半导体不可替代的特殊其他",
 			"styleAttributes":{},
 			"x":-848,
 			"y":-250,
 			"width":260,
 			"height":60
-		},
-		{
-			"id":"78edc833870a1691",
-			"type":"text",
-			"text":"1.中船特气\n2.昊华科技\n3.多氟多",
-			"styleAttributes":{},
-			"x":45,
-			"y":-345,
-			"width":260,
-			"height":250,
-			"color":"6"
 		},
 		{
 			"id":"893e73acabd135e6",
@@ -75,28 +54,86 @@
 			"color":"6"
 		},
 		{
-			"id":"b3ba1b2deb244426",
+			"id":"78edc833870a1691",
 			"type":"text",
-			"text":"海力士",
+			"text":"1.中船特气\n2.昊华科技\n3.多氟多",
 			"styleAttributes":{},
-			"x":128,
-			"y":0,
-			"width":95,
+			"x":45,
+			"y":-282,
+			"width":260,
+			"height":125,
+			"color":"6"
+		},
+		{
+			"id":"742a148fbefb3915",
+			"type":"text",
+			"text":"AI",
+			"styleAttributes":{
+				"shape":null,
+				"textAlign":"center",
+				"border":null
+			},
+			"x":-1800,
+			"y":-282,
+			"width":60,
+			"height":1360,
+			"color":"1"
+		},
+		{
+			"id":"4fd8172b3bff00a3",
+			"type":"text",
+			"text":"长期",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1600,
+			"y":-282,
+			"width":60,
+			"height":520
+		},
+		{
+			"id":"1f9d1de0a3ac687d",
+			"type":"text",
+			"text":"半导体",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-1440,
+			"y":-52,
+			"width":260,
 			"height":60,
-			"color":"4"
+			"color":"2"
+		},
+		{
+			"id":"9164ab4801780b0d",
+			"type":"text",
+			"text":"物理AI\n",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-1440,
+			"y":480,
+			"width":165,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"93be4110993c7613",
+			"type":"text",
+			"text":"机器人",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-435,
+			"y":480,
+			"width":155,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"363ee4ad3ef0232d",
+			"type":"text",
+			"text":"种重科技",
+			"styleAttributes":{},
+			"x":45,
+			"y":480,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
-		{
-			"id":"1428dd556b6ef19f",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"bf71618ca70164ac",
-			"fromSide":"right",
-			"toNode":"78edc833870a1691",
-			"toSide":"left",
-			"label":"股票"
-		},
 		{
 			"id":"0ee9c05559e3f8b3",
 			"styleAttributes":{},
@@ -128,16 +165,43 @@
 			"fromSide":"right",
 			"toNode":"893e73acabd135e6",
 			"toSide":"left",
-			"label":"股票"
+			"label":"海力士"
 		},
 		{
-			"id":"69edfe707621ede2",
+			"id":"169c0b93a9ad2f43",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"893e73acabd135e6",
-			"fromSide":"top",
-			"toNode":"b3ba1b2deb244426",
-			"toSide":"bottom"
+			"fromNode":"bf71618ca70164ac",
+			"fromSide":"right",
+			"toNode":"78edc833870a1691",
+			"toSide":"left"
+		},
+		{
+			"id":"fb1d4827de44601b",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"1f9d1de0a3ac687d",
+			"fromSide":"right",
+			"toNode":"bf71618ca70164ac",
+			"toSide":"left"
+		},
+		{
+			"id":"e200f1d92007e716",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9164ab4801780b0d",
+			"fromSide":"right",
+			"toNode":"93be4110993c7613",
+			"toSide":"left"
+		},
+		{
+			"id":"d8c03def3f966b1b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"93be4110993c7613",
+			"fromSide":"right",
+			"toNode":"363ee4ad3ef0232d",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
