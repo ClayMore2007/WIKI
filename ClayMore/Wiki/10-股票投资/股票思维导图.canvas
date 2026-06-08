@@ -23,50 +23,6 @@
 			"color":"3"
 		},
 		{
-			"id":"f2d1eb9cd6734db7",
-			"type":"text",
-			"text":"1.云南锗业",
-			"styleAttributes":{},
-			"x":-2194,
-			"y":-2310,
-			"width":260,
-			"height":140,
-			"color":"6"
-		},
-		{
-			"id":"6700c63020ad5473",
-			"type":"text",
-			"text":"1.烽火通信\n2.永鼎股份",
-			"styleAttributes":{},
-			"x":18,
-			"y":-1580,
-			"width":260,
-			"height":180,
-			"color":"6"
-		},
-		{
-			"id":"fcbe49482d06ed9b",
-			"type":"text",
-			"text":"AI应用",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":2000,
-			"y":-1828,
-			"width":130,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"544e992a705bd155",
-			"type":"text",
-			"text":"1.达实智能",
-			"styleAttributes":{},
-			"x":2345,
-			"y":-1875,
-			"width":260,
-			"height":175,
-			"color":"6"
-		},
-		{
 			"id":"1f9d1de0a3ac687d",
 			"type":"text",
 			"text":"半导体",
@@ -112,7 +68,7 @@
 		{
 			"id":"78edc833870a1691",
 			"type":"text",
-			"text":"1.中船特气\n2.昊华科技\n3.多氟多",
+			"text":"1.中船特气\n2.==昊华科技==\n3.多氟多",
 			"styleAttributes":{},
 			"x":-2194,
 			"y":-1940,
@@ -140,17 +96,6 @@
 			"y":-1919,
 			"width":260,
 			"height":88
-		},
-		{
-			"id":"37ab90c8f8c7b44b",
-			"type":"text",
-			"text":"1.石英股份\n2.菲利华\n3.飞凯材料",
-			"styleAttributes":{},
-			"x":-2194,
-			"y":-1660,
-			"width":260,
-			"height":130,
-			"color":"6"
 		},
 		{
 			"id":"6fe197fa533557f5",
@@ -197,50 +142,15 @@
 			"color":"3"
 		},
 		{
-			"id":"363ee4ad3ef0232d",
-			"type":"text",
-			"text":"2.中重科技",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":-33,
-			"y":617,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"a6077e7d6742f04f",
 			"type":"text",
-			"text":"==达实智能==（刚启动一个月）",
+			"text":"==中超控股== ！！！（潜力）\n埃斯顿\n达实智能（龙头？）\n中重科技（龙头？）\n",
 			"styleAttributes":{},
 			"x":-33,
 			"y":475,
 			"width":260,
-			"height":60,
+			"height":105,
 			"color":"6"
-		},
-		{
-			"id":"93be4110993c7613",
-			"type":"text",
-			"text":"机器人",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-430,
-			"y":606,
-			"width":155,
-			"height":82,
-			"color":"2"
-		},
-		{
-			"id":"9164ab4801780b0d",
-			"type":"text",
-			"text":"物理AI\n",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-1196,
-			"y":440,
-			"width":140,
-			"height":131,
-			"color":"3"
 		},
 		{
 			"id":"d4d2470d41893e6c",
@@ -259,20 +169,9 @@
 			"text":"1.太极实业",
 			"styleAttributes":{},
 			"x":453,
-			"y":-851,
+			"y":-806,
 			"width":260,
-			"height":105,
-			"color":"6"
-		},
-		{
-			"id":"f544a4965a22197e",
-			"type":"text",
-			"text":"1.晶方科技",
-			"styleAttributes":{},
-			"x":453,
-			"y":-406,
-			"width":260,
-			"height":140,
+			"height":60,
 			"color":"6"
 		},
 		{
@@ -408,19 +307,6 @@
 			"color":"3"
 		},
 		{
-			"id":"c35aa7a540ce3a3c",
-			"type":"text",
-			"text":"1.大族激光",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":-33,
-			"y":-20,
-			"width":213,
-			"height":61,
-			"color":"6"
-		},
-		{
 			"id":"6b02ddc97089940b",
 			"type":"text",
 			"text":"1.彩虹股份\n2.凯盛科技\n华工科技",
@@ -434,11 +320,11 @@
 		{
 			"id":"2d86d590a11b65dc",
 			"type":"text",
-			"text":"1.沃格光电\n2.红星发展\n3==.京东方A==（中军）\n4.凯盛科技",
+			"text":"1.沃格光电\n2.红星发展\n3==.京东方A==（中军）（散户多，等洗）\n4.凯盛科技",
 			"styleAttributes":{},
 			"x":-33,
 			"y":300,
-			"width":220,
+			"width":333,
 			"height":120,
 			"color":"6"
 		},
@@ -454,14 +340,128 @@
 			"color":"2"
 		},
 		{
+			"id":"93be4110993c7613",
+			"type":"text",
+			"text":"机器人",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-435,
+			"y":539,
+			"width":155,
+			"height":82,
+			"color":"2"
+		},
+		{
+			"id":"544e992a705bd155",
+			"type":"text",
+			"text":"\n1.==天娱数科==（中位）\n2.能科科技（中位）",
+			"styleAttributes":{},
+			"x":-33,
+			"y":740,
+			"width":293,
+			"height":100,
+			"color":"6"
+		},
+		{
+			"id":"363ee4ad3ef0232d",
+			"type":"text",
+			"text":"中大力德",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":-33,
+			"y":621,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"9164ab4801780b0d",
+			"type":"text",
+			"text":"物理AI\n",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-820,
+			"y":629,
+			"width":140,
+			"height":131,
+			"color":"3"
+		},
+		{
+			"id":"fcbe49482d06ed9b",
+			"type":"text",
+			"text":"AI应用",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-422,
+			"y":790,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"c35aa7a540ce3a3c",
+			"type":"text",
+			"text":"1.大族激光",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":-33,
+			"y":0,
+			"width":213,
+			"height":61,
+			"color":"6"
+		},
+		{
 			"id":"99660e2e22e6f43b",
 			"type":"text",
-			"text":"==神剑股份==（龙头？）\n==巨力索具==\n\n1.凯盛科技\n2.中超控股\n3.航天电子\n4.再升科技",
+			"text":"神剑股份（暴雷？）\n巨力索具 ？\n\n1.凯盛科技\n2.中超控股\n3.航天电子\n4.再升科技",
 			"styleAttributes":{},
-			"x":-28,
-			"y":740,
-			"width":260,
+			"x":-33,
+			"y":980,
+			"width":333,
 			"height":220,
+			"color":"6"
+		},
+		{
+			"id":"69445d49a67030c0",
+			"type":"text",
+			"text":"==豫能控股==\n==大唐发电==\n京能电力\n华能蒙电",
+			"styleAttributes":{},
+			"x":-26,
+			"y":1240,
+			"width":260,
+			"height":170,
+			"color":"6"
+		},
+		{
+			"id":"7df7215665d9fbf4",
+			"type":"text",
+			"text":"SST",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-400,
+			"y":1520,
+			"width":130,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"5fdd1b9ac73d071c",
+			"type":"text",
+			"text":"电力",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-720,
+			"y":1285,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"1512709ec93b6ffc",
+			"type":"text",
+			"text":"1.==四方股份==！！！（龙头？）\n2.阳光电源",
+			"styleAttributes":{},
+			"x":-26,
+			"y":1500,
+			"width":260,
+			"height":100,
 			"color":"6"
 		},
 		{
@@ -469,33 +469,77 @@
 			"type":"text",
 			"text":"航天",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-418,
-			"y":810,
+			"x":-423,
+			"y":1050,
 			"width":130,
 			"height":80,
 			"color":"2"
 		},
 		{
-			"id":"69445d49a67030c0",
+			"id":"f544a4965a22197e",
 			"type":"text",
-			"text":"==豫能控股==\n==大唐发电==\n京能电力\n华能蒙电",
+			"text":"1.晶方科技",
 			"styleAttributes":{},
-			"x":-21,
-			"y":1000,
+			"x":453,
+			"y":-371,
 			"width":260,
-			"height":170,
+			"height":70,
 			"color":"6"
 		},
 		{
-			"id":"5fdd1b9ac73d071c",
+			"id":"6700c63020ad5473",
 			"type":"text",
-			"text":"电力",
+			"text":"1.烽火通信\n2.永鼎股份",
+			"styleAttributes":{},
+			"x":18,
+			"y":-1560,
+			"width":260,
+			"height":140,
+			"color":"6"
+		},
+		{
+			"id":"37ab90c8f8c7b44b",
+			"type":"text",
+			"text":"1.石英股份\n",
+			"styleAttributes":{},
+			"x":-2194,
+			"y":-1655,
+			"width":260,
+			"height":120,
+			"color":"6"
+		},
+		{
+			"id":"f2d1eb9cd6734db7",
+			"type":"text",
+			"text":"1.==云南锗业==",
+			"styleAttributes":{},
+			"x":-2194,
+			"y":-2300,
+			"width":260,
+			"height":120,
+			"color":"6"
+		},
+		{
+			"id":"0245fc293b690224",
+			"type":"text",
+			"text":"MLCC",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-405,
-			"y":1045,
-			"width":130,
-			"height":80,
+			"x":-383,
+			"y":-2000,
+			"width":160,
+			"height":90,
 			"color":"2"
+		},
+		{
+			"id":"c08db444f5711212",
+			"type":"text",
+			"text":"风华高科\n火炬电子",
+			"styleAttributes":{},
+			"x":18,
+			"y":-2027,
+			"width":260,
+			"height":145,
+			"color":"6"
 		}
 	],
 	"edges":[
@@ -760,10 +804,58 @@
 			"id":"8e9cc3996541cee7",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"5fdd1b9ac73d071c",
 			"fromSide":"right",
 			"toNode":"69445d49a67030c0",
 			"toSide":"left"
+		},
+		{
+			"id":"b57b7ee5601ff14f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"93be4110993c7613",
+			"fromSide":"right",
+			"toNode":"a6077e7d6742f04f",
+			"toSide":"left"
+		},
+		{
+			"id":"963304ba05af2910",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9164ab4801780b0d",
+			"fromSide":"right",
+			"toNode":"544e992a705bd155",
+			"toSide":"left"
+		},
+		{
+			"id":"29fa2ca8cba68d7a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5fdd1b9ac73d071c",
+			"fromSide":"right",
+			"toNode":"7df7215665d9fbf4",
+			"toSide":"left"
+		},
+		{
+			"id":"2fe46d176f3e81c8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7df7215665d9fbf4",
+			"fromSide":"right",
+			"toNode":"1512709ec93b6ffc",
+			"toSide":"left"
+		},
+		{
+			"id":"fd849509db62e8ae",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"0245fc293b690224",
+			"fromSide":"right",
+			"toNode":"c08db444f5711212",
+			"toSide":"left",
+			"label":"超级MLCC"
 		}
 	],
 	"metadata":{
