@@ -1,4 +1,4 @@
-﻿---
+---
 status: active
 updated: 2026-05-12
 confidence: medium
