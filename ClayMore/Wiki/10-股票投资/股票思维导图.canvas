@@ -34,28 +34,6 @@
 			"color":"6"
 		},
 		{
-			"id":"78edc833870a1691",
-			"type":"text",
-			"text":"1.中船特气\n2.昊华科技\n3.多氟多",
-			"styleAttributes":{},
-			"x":-2212,
-			"y":-2000,
-			"width":260,
-			"height":125,
-			"color":"6"
-		},
-		{
-			"id":"bf71618ca70164ac",
-			"type":"text",
-			"text":"六氟化钨",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-2602,
-			"y":-1984,
-			"width":160,
-			"height":93,
-			"color":"1"
-		},
-		{
 			"id":"6700c63020ad5473",
 			"type":"text",
 			"text":"1.烽火通信\n2.永鼎股份",
@@ -64,28 +42,6 @@
 			"y":-1580,
 			"width":260,
 			"height":180,
-			"color":"6"
-		},
-		{
-			"id":"6fe197fa533557f5",
-			"type":"text",
-			"text":"材料",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-2589,
-			"y":-1555,
-			"width":135,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"37ab90c8f8c7b44b",
-			"type":"text",
-			"text":"1.石英股份\n2.菲利华\n3.飞凯材料",
-			"styleAttributes":{},
-			"x":-2199,
-			"y":-1580,
-			"width":260,
-			"height":130,
 			"color":"6"
 		},
 		{
@@ -133,87 +89,6 @@
 			"color":"6"
 		},
 		{
-			"id":"baca6b66e0656ac7",
-			"type":"text",
-			"text":"玻璃基板",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-430,
-			"y":-120,
-			"width":165,
-			"height":82,
-			"color":"2"
-		},
-		{
-			"id":"c35aa7a540ce3a3c",
-			"type":"text",
-			"text":"1.大族激光",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":5,
-			"y":-280,
-			"width":213,
-			"height":61,
-			"color":"6"
-		},
-		{
-			"id":"6b02ddc97089940b",
-			"type":"text",
-			"text":"1.彩虹股份\n2.凯盛科技\n华工科技",
-			"styleAttributes":{},
-			"x":5,
-			"y":-139,
-			"width":220,
-			"height":120,
-			"color":"6"
-		},
-		{
-			"id":"2d86d590a11b65dc",
-			"type":"text",
-			"text":"1.沃格光电\n2.红星发展\n3.京东方A（中军）",
-			"styleAttributes":{},
-			"x":5,
-			"y":20,
-			"width":220,
-			"height":140,
-			"color":"6"
-		},
-		{
-			"id":"9164ab4801780b0d",
-			"type":"text",
-			"text":"物理AI\n",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-1186,
-			"y":280,
-			"width":140,
-			"height":131,
-			"color":"3"
-		},
-		{
-			"id":"363ee4ad3ef0232d",
-			"type":"text",
-			"text":"中重科技",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":-23,
-			"y":457,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"a6077e7d6742f04f",
-			"type":"text",
-			"text":"达实智能",
-			"styleAttributes":{},
-			"x":-23,
-			"y":315,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"fcbe49482d06ed9b",
 			"type":"text",
 			"text":"AI应用",
@@ -234,61 +109,6 @@
 			"width":260,
 			"height":175,
 			"color":"6"
-		},
-		{
-			"id":"b0c7f01a6c757e3c",
-			"type":"text",
-			"text":"煤炭",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-2589,
-			"y":-1278,
-			"width":185,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"893e73acabd135e6",
-			"type":"text",
-			"text":"1.太极实业",
-			"styleAttributes":{},
-			"x":3,
-			"y":-604,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"825a316ea92f40ac",
-			"type":"text",
-			"text":"HBM",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-1316,
-			"y":-1020,
-			"width":130,
-			"height":135,
-			"color":"3"
-		},
-		{
-			"id":"99660e2e22e6f43b",
-			"type":"text",
-			"text":"1.凯盛科技\n2.中超控股\n3.航天电子\n4.再升科技",
-			"styleAttributes":{},
-			"x":-35,
-			"y":740,
-			"width":260,
-			"height":170,
-			"color":"6"
-		},
-		{
-			"id":"bf55d2ad95e9eb66",
-			"type":"text",
-			"text":"光模块",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":263,
-			"y":-3200,
-			"width":167,
-			"height":160,
-			"color":"3"
 		},
 		{
 			"id":"1f9d1de0a3ac687d",
@@ -313,49 +133,6 @@
 			"color":"2"
 		},
 		{
-			"id":"b285c6971c4c210f",
-			"type":"text",
-			"text":"1.大有能源",
-			"styleAttributes":{},
-			"x":-2199,
-			"y":-1278,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"f10ada06eb6722b6",
-			"type":"text",
-			"text":"1.6月底-7月永久初断供\n2.半导体不可替代的特殊其他",
-			"styleAttributes":{},
-			"x":-3000,
-			"y":-1979,
-			"width":260,
-			"height":88
-		},
-		{
-			"id":"93be4110993c7613",
-			"type":"text",
-			"text":"机器人",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-420,
-			"y":446,
-			"width":155,
-			"height":82,
-			"color":"2"
-		},
-		{
-			"id":"ee3f373e3dc28eb6",
-			"type":"text",
-			"text":"航天",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-420,
-			"y":785,
-			"width":130,
-			"height":80,
-			"color":"2"
-		},
-		{
 			"id":"784951aee9e86de7",
 			"type":"text",
 			"text":"材料",
@@ -364,17 +141,6 @@
 			"y":-2310,
 			"width":167,
 			"height":160,
-			"color":"3"
-		},
-		{
-			"id":"e05639bbbef55dbd",
-			"type":"text",
-			"text":"能源",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-3000,
-			"y":-1318,
-			"width":140,
-			"height":140,
 			"color":"3"
 		},
 		{
@@ -430,6 +196,284 @@
 			"width":160,
 			"height":90,
 			"color":"2"
+		},
+		{
+			"id":"bf55d2ad95e9eb66",
+			"type":"text",
+			"text":"光模块",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":8,
+			"y":-3240,
+			"width":167,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"78edc833870a1691",
+			"type":"text",
+			"text":"1.中船特气\n2.昊华科技\n3.多氟多",
+			"styleAttributes":{},
+			"x":-2194,
+			"y":-1940,
+			"width":260,
+			"height":125,
+			"color":"6"
+		},
+		{
+			"id":"bf71618ca70164ac",
+			"type":"text",
+			"text":"六氟化钨",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-2584,
+			"y":-1924,
+			"width":160,
+			"height":93,
+			"color":"1"
+		},
+		{
+			"id":"f10ada06eb6722b6",
+			"type":"text",
+			"text":"1.6月底-7月永久初断供\n2.半导体不可替代的特殊其他",
+			"styleAttributes":{},
+			"x":-2982,
+			"y":-1919,
+			"width":260,
+			"height":88
+		},
+		{
+			"id":"37ab90c8f8c7b44b",
+			"type":"text",
+			"text":"1.石英股份\n2.菲利华\n3.飞凯材料",
+			"styleAttributes":{},
+			"x":-2194,
+			"y":-1660,
+			"width":260,
+			"height":130,
+			"color":"6"
+		},
+		{
+			"id":"6fe197fa533557f5",
+			"type":"text",
+			"text":"材料",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-2554,
+			"y":-1635,
+			"width":135,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"b285c6971c4c210f",
+			"type":"text",
+			"text":"1.大有能源",
+			"styleAttributes":{},
+			"x":-2189,
+			"y":-1380,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"b0c7f01a6c757e3c",
+			"type":"text",
+			"text":"煤炭",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-2579,
+			"y":-1380,
+			"width":185,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"e05639bbbef55dbd",
+			"type":"text",
+			"text":"能源",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-2990,
+			"y":-1420,
+			"width":140,
+			"height":140,
+			"color":"3"
+		},
+		{
+			"id":"825a316ea92f40ac",
+			"type":"text",
+			"text":"HBM",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-880,
+			"y":-885,
+			"width":130,
+			"height":135,
+			"color":"3"
+		},
+		{
+			"id":"363ee4ad3ef0232d",
+			"type":"text",
+			"text":"中重科技",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":-33,
+			"y":617,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"a6077e7d6742f04f",
+			"type":"text",
+			"text":"达实智能",
+			"styleAttributes":{},
+			"x":-33,
+			"y":475,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"99660e2e22e6f43b",
+			"type":"text",
+			"text":"1.凯盛科技\n2.中超控股\n3.航天电子\n4.再升科技",
+			"styleAttributes":{},
+			"x":-45,
+			"y":900,
+			"width":260,
+			"height":170,
+			"color":"6"
+		},
+		{
+			"id":"c35aa7a540ce3a3c",
+			"type":"text",
+			"text":"1.大族激光",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":13,
+			"y":-120,
+			"width":213,
+			"height":61,
+			"color":"6"
+		},
+		{
+			"id":"6b02ddc97089940b",
+			"type":"text",
+			"text":"1.彩虹股份\n2.凯盛科技\n华工科技",
+			"styleAttributes":{},
+			"x":13,
+			"y":21,
+			"width":220,
+			"height":120,
+			"color":"6"
+		},
+		{
+			"id":"2d86d590a11b65dc",
+			"type":"text",
+			"text":"1.沃格光电\n2.红星发展\n3.京东方A（中军）",
+			"styleAttributes":{},
+			"x":13,
+			"y":200,
+			"width":220,
+			"height":120,
+			"color":"6"
+		},
+		{
+			"id":"93be4110993c7613",
+			"type":"text",
+			"text":"机器人",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-430,
+			"y":606,
+			"width":155,
+			"height":82,
+			"color":"2"
+		},
+		{
+			"id":"ee3f373e3dc28eb6",
+			"type":"text",
+			"text":"航天",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-430,
+			"y":945,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"baca6b66e0656ac7",
+			"type":"text",
+			"text":"玻璃基板",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-422,
+			"y":40,
+			"width":165,
+			"height":82,
+			"color":"2"
+		},
+		{
+			"id":"9164ab4801780b0d",
+			"type":"text",
+			"text":"物理AI\n",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-1196,
+			"y":440,
+			"width":140,
+			"height":131,
+			"color":"3"
+		},
+		{
+			"id":"d4d2470d41893e6c",
+			"type":"text",
+			"text":"1.长电科技\n2.通富微电\n3.华天科技",
+			"styleAttributes":{},
+			"x":453,
+			"y":-648,
+			"width":260,
+			"height":148,
+			"color":"6"
+		},
+		{
+			"id":"893e73acabd135e6",
+			"type":"text",
+			"text":"1.太极实业",
+			"styleAttributes":{},
+			"x":453,
+			"y":-851,
+			"width":260,
+			"height":105,
+			"color":"6"
+		},
+		{
+			"id":"f544a4965a22197e",
+			"type":"text",
+			"text":"1.晶方科技",
+			"styleAttributes":{},
+			"x":453,
+			"y":-406,
+			"width":260,
+			"height":140,
+			"color":"6"
+		},
+		{
+			"id":"3bff65ee98719d4a",
+			"type":"text",
+			"text":"先进封装",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":13,
+			"y":-614,
+			"width":140,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"e68cfff06540f58b",
+			"type":"text",
+			"text":"先进封装",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":13,
+			"y":-376,
+			"width":140,
+			"height":80,
+			"color":"2"
 		}
 	],
 	"edges":[
@@ -460,7 +504,7 @@
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"2ddcb0d4ca3811a0",
+			"fromNode":"3bff65ee98719d4a",
 			"fromSide":"right",
 			"toNode":"893e73acabd135e6",
 			"toSide":"left",
@@ -545,7 +589,7 @@
 		},
 		{
 			"id":"bf10772f8114ba3d",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"9164ab4801780b0d",
@@ -595,6 +639,7 @@
 			"id":"e50226f62cf3eaae",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"4f907361a42ff142",
 			"fromSide":"right",
 			"toNode":"6700c63020ad5473",
@@ -620,8 +665,9 @@
 		},
 		{
 			"id":"e643a02a84953e55",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"825a316ea92f40ac",
 			"fromSide":"right",
 			"toNode":"2ddcb0d4ca3811a0",
@@ -658,6 +704,35 @@
 			"toNode":"6b02ddc97089940b",
 			"toSide":"left",
 			"label":"全链条"
+		},
+		{
+			"id":"2f14538f43ead577",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2ddcb0d4ca3811a0",
+			"fromSide":"right",
+			"toNode":"3bff65ee98719d4a",
+			"toSide":"left"
+		},
+		{
+			"id":"12d32d5c48971cc7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3bff65ee98719d4a",
+			"fromSide":"right",
+			"toNode":"d4d2470d41893e6c",
+			"toSide":"left"
+		},
+		{
+			"id":"cb4a256996c2417a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"e68cfff06540f58b",
+			"fromSide":"right",
+			"toNode":"f544a4965a22197e",
+			"toSide":"left",
+			"label":"集成电路"
 		}
 	],
 	"metadata":{
