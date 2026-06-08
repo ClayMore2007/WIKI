@@ -45,50 +45,6 @@
 			"color":"6"
 		},
 		{
-			"id":"68eb265ffa9cd133",
-			"type":"text",
-			"text":"PCB",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-382,
-			"y":-1195,
-			"width":130,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"bd1e5386a9118ce5",
-			"type":"text",
-			"text":"1.宝鼎科技",
-			"styleAttributes":{},
-			"x":-7,
-			"y":-1220,
-			"width":260,
-			"height":130,
-			"color":"6"
-		},
-		{
-			"id":"c1e89f3875b388ad",
-			"type":"text",
-			"text":"光纤",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-382,
-			"y":-885,
-			"width":130,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"aff20309ac08ac45",
-			"type":"text",
-			"text":"1.泰和新材\n2.中天科技\n3.亨通光电",
-			"styleAttributes":{},
-			"x":-7,
-			"y":-900,
-			"width":260,
-			"height":110,
-			"color":"6"
-		},
-		{
 			"id":"fcbe49482d06ed9b",
 			"type":"text",
 			"text":"AI应用",
@@ -133,17 +89,6 @@
 			"color":"2"
 		},
 		{
-			"id":"784951aee9e86de7",
-			"type":"text",
-			"text":"材料",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-2857,
-			"y":-2310,
-			"width":167,
-			"height":160,
-			"color":"3"
-		},
-		{
 			"id":"194f01778a2c333b",
 			"type":"text",
 			"text":"1.算力HBM 强需求",
@@ -163,50 +108,6 @@
 			"width":165,
 			"height":91,
 			"color":"1"
-		},
-		{
-			"id":"4f907361a42ff142",
-			"type":"text",
-			"text":"通信",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-382,
-			"y":-1530,
-			"width":132,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"9f281e678407014d",
-			"type":"text",
-			"text":"1.祥和实业",
-			"styleAttributes":{},
-			"x":8,
-			"y":-1845,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"c7bc7a9b0ea8162f",
-			"type":"text",
-			"text":"超级电容",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-382,
-			"y":-1860,
-			"width":160,
-			"height":90,
-			"color":"2"
-		},
-		{
-			"id":"bf55d2ad95e9eb66",
-			"type":"text",
-			"text":"光模块",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":8,
-			"y":-3240,
-			"width":167,
-			"height":160,
-			"color":"3"
 		},
 		{
 			"id":"78edc833870a1691",
@@ -263,17 +164,6 @@
 			"color":"2"
 		},
 		{
-			"id":"b285c6971c4c210f",
-			"type":"text",
-			"text":"1.大有能源",
-			"styleAttributes":{},
-			"x":-2189,
-			"y":-1380,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"b0c7f01a6c757e3c",
 			"type":"text",
 			"text":"煤炭",
@@ -309,7 +199,7 @@
 		{
 			"id":"363ee4ad3ef0232d",
 			"type":"text",
-			"text":"中重科技",
+			"text":"2.中重科技",
 			"styleAttributes":{
 				"textAlign":null
 			},
@@ -322,58 +212,12 @@
 		{
 			"id":"a6077e7d6742f04f",
 			"type":"text",
-			"text":"达实智能",
+			"text":"==达实智能==（刚启动一个月）",
 			"styleAttributes":{},
 			"x":-33,
 			"y":475,
 			"width":260,
 			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"99660e2e22e6f43b",
-			"type":"text",
-			"text":"1.凯盛科技\n2.中超控股\n3.航天电子\n4.再升科技",
-			"styleAttributes":{},
-			"x":-45,
-			"y":900,
-			"width":260,
-			"height":170,
-			"color":"6"
-		},
-		{
-			"id":"c35aa7a540ce3a3c",
-			"type":"text",
-			"text":"1.大族激光",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":13,
-			"y":-120,
-			"width":213,
-			"height":61,
-			"color":"6"
-		},
-		{
-			"id":"6b02ddc97089940b",
-			"type":"text",
-			"text":"1.彩虹股份\n2.凯盛科技\n华工科技",
-			"styleAttributes":{},
-			"x":13,
-			"y":21,
-			"width":220,
-			"height":120,
-			"color":"6"
-		},
-		{
-			"id":"2d86d590a11b65dc",
-			"type":"text",
-			"text":"1.沃格光电\n2.红星发展\n3.京东方A（中军）",
-			"styleAttributes":{},
-			"x":13,
-			"y":200,
-			"width":220,
-			"height":120,
 			"color":"6"
 		},
 		{
@@ -384,28 +228,6 @@
 			"x":-430,
 			"y":606,
 			"width":155,
-			"height":82,
-			"color":"2"
-		},
-		{
-			"id":"ee3f373e3dc28eb6",
-			"type":"text",
-			"text":"航天",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-430,
-			"y":945,
-			"width":130,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"baca6b66e0656ac7",
-			"type":"text",
-			"text":"玻璃基板",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-422,
-			"y":40,
-			"width":165,
 			"height":82,
 			"color":"2"
 		},
@@ -472,6 +294,206 @@
 			"x":13,
 			"y":-376,
 			"width":140,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"bd1e5386a9118ce5",
+			"type":"text",
+			"text":"1.宝鼎科技",
+			"styleAttributes":{},
+			"x":21,
+			"y":-1320,
+			"width":260,
+			"height":130,
+			"color":"6"
+		},
+		{
+			"id":"aff20309ac08ac45",
+			"type":"text",
+			"text":"1.泰和新材\n2.中天科技\n3.亨通光电",
+			"styleAttributes":{},
+			"x":23,
+			"y":-1120,
+			"width":260,
+			"height":110,
+			"color":"6"
+		},
+		{
+			"id":"c1e89f3875b388ad",
+			"type":"text",
+			"text":"光纤",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-352,
+			"y":-1105,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"68eb265ffa9cd133",
+			"type":"text",
+			"text":"PCB",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-354,
+			"y":-1295,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"9f281e678407014d",
+			"type":"text",
+			"text":"1.祥和实业",
+			"styleAttributes":{},
+			"x":18,
+			"y":-1725,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"c7bc7a9b0ea8162f",
+			"type":"text",
+			"text":"超级电容",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-372,
+			"y":-1740,
+			"width":160,
+			"height":90,
+			"color":"2"
+		},
+		{
+			"id":"4f907361a42ff142",
+			"type":"text",
+			"text":"通信",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-355,
+			"y":-1532,
+			"width":132,
+			"height":85,
+			"color":"2"
+		},
+		{
+			"id":"b285c6971c4c210f",
+			"type":"text",
+			"text":"1.大有能源",
+			"styleAttributes":{},
+			"x":-2194,
+			"y":-1380,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"bf55d2ad95e9eb66",
+			"type":"text",
+			"text":"光模块",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":20,
+			"y":-3200,
+			"width":167,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"784951aee9e86de7",
+			"type":"text",
+			"text":"材料",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-2990,
+			"y":-2320,
+			"width":167,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"c35aa7a540ce3a3c",
+			"type":"text",
+			"text":"1.大族激光",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":-33,
+			"y":-20,
+			"width":213,
+			"height":61,
+			"color":"6"
+		},
+		{
+			"id":"6b02ddc97089940b",
+			"type":"text",
+			"text":"1.彩虹股份\n2.凯盛科技\n华工科技",
+			"styleAttributes":{},
+			"x":-33,
+			"y":121,
+			"width":220,
+			"height":120,
+			"color":"6"
+		},
+		{
+			"id":"2d86d590a11b65dc",
+			"type":"text",
+			"text":"1.沃格光电\n2.红星发展\n3==.京东方A==（中军）\n4.凯盛科技",
+			"styleAttributes":{},
+			"x":-33,
+			"y":300,
+			"width":220,
+			"height":120,
+			"color":"6"
+		},
+		{
+			"id":"baca6b66e0656ac7",
+			"type":"text",
+			"text":"玻璃基板",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-468,
+			"y":140,
+			"width":165,
+			"height":82,
+			"color":"2"
+		},
+		{
+			"id":"99660e2e22e6f43b",
+			"type":"text",
+			"text":"==神剑股份==（龙头？）\n==巨力索具==\n\n1.凯盛科技\n2.中超控股\n3.航天电子\n4.再升科技",
+			"styleAttributes":{},
+			"x":-28,
+			"y":740,
+			"width":260,
+			"height":220,
+			"color":"6"
+		},
+		{
+			"id":"ee3f373e3dc28eb6",
+			"type":"text",
+			"text":"航天",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-418,
+			"y":810,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"69445d49a67030c0",
+			"type":"text",
+			"text":"==豫能控股==\n==大唐发电==\n京能电力\n华能蒙电",
+			"styleAttributes":{},
+			"x":-21,
+			"y":1000,
+			"width":260,
+			"height":170,
+			"color":"6"
+		},
+		{
+			"id":"5fdd1b9ac73d071c",
+			"type":"text",
+			"text":"电力",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-405,
+			"y":1045,
+			"width":130,
 			"height":80,
 			"color":"2"
 		}
@@ -733,6 +755,15 @@
 			"toNode":"f544a4965a22197e",
 			"toSide":"left",
 			"label":"集成电路"
+		},
+		{
+			"id":"8e9cc3996541cee7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5fdd1b9ac73d071c",
+			"fromSide":"right",
+			"toNode":"69445d49a67030c0",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
