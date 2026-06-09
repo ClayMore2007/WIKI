@@ -47,24 +47,13 @@
 		{
 			"id":"78edc833870a1691",
 			"type":"text",
-			"text":"1.中船特气\n2.==昊华科技==\n3.多氟多",
+			"text":"1.中船特气\n2.==昊华科技==（这周卖掉？）\n3.多氟多",
 			"styleAttributes":{},
 			"x":-2194,
 			"y":-1940,
 			"width":260,
 			"height":125,
 			"color":"6"
-		},
-		{
-			"id":"bf71618ca70164ac",
-			"type":"text",
-			"text":"六氟化钨",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-2584,
-			"y":-1924,
-			"width":160,
-			"height":93,
-			"color":"1"
 		},
 		{
 			"id":"f10ada06eb6722b6",
@@ -143,17 +132,6 @@
 			"color":"6"
 		},
 		{
-			"id":"6fe197fa533557f5",
-			"type":"text",
-			"text":"材料",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-2559,
-			"y":-1300,
-			"width":135,
-			"height":80,
-			"color":"2"
-		},
-		{
 			"id":"e05639bbbef55dbd",
 			"type":"text",
 			"text":"能源",
@@ -220,17 +198,6 @@
 			"color":"6"
 		},
 		{
-			"id":"2ab903496b161f37",
-			"type":"text",
-			"text":"钨",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-2584,
-			"y":-1740,
-			"width":160,
-			"height":93,
-			"color":"1"
-		},
-		{
 			"id":"f42099aaf388480a",
 			"type":"text",
 			"text":"==厦门钨业==（看能不能过前高 67）",
@@ -242,37 +209,15 @@
 			"color":"6"
 		},
 		{
-			"id":"15c03bf55698c404",
-			"type":"text",
-			"text":"稀土永磁",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-2584,
-			"y":-1580,
-			"width":160,
-			"height":93,
-			"color":"1"
-		},
-		{
 			"id":"cbc17fd15ec26725",
 			"type":"text",
-			"text":"盛和资源（后续）",
+			"text":"==盛和资源==（快启动了）",
 			"styleAttributes":{},
 			"x":-2194,
 			"y":-1563,
 			"width":260,
 			"height":60,
 			"color":"6"
-		},
-		{
-			"id":"f087a666f01dc6a3",
-			"type":"text",
-			"text":"碳酸钡",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-2584,
-			"y":-1453,
-			"width":160,
-			"height":93,
-			"color":"2"
 		},
 		{
 			"id":"7984409ea3d9c49d",
@@ -692,6 +637,72 @@
 			"y":-2467,
 			"width":60,
 			"height":4163
+		},
+		{
+			"id":"15c03bf55698c404",
+			"type":"text",
+			"text":"稀土永磁",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-2584,
+			"y":-1563,
+			"width":160,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"2ab903496b161f37",
+			"type":"text",
+			"text":"钨",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-2584,
+			"y":-1723,
+			"width":160,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"bf71618ca70164ac",
+			"type":"text",
+			"text":"六氟化钨",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-2584,
+			"y":-1905,
+			"width":160,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"f087a666f01dc6a3",
+			"type":"text",
+			"text":"碳酸钡",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-2571,
+			"y":-1420,
+			"width":160,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"6fe197fa533557f5",
+			"type":"text",
+			"text":"材料",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-2571,
+			"y":-1290,
+			"width":135,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"e1dbbd59f324b2a8",
+			"type":"text",
+			"text":"兴森科技",
+			"styleAttributes":{},
+			"x":685,
+			"y":-1032,
+			"width":260,
+			"height":60,
+			"color":"6"
 		}
 	],
 	"edges":[
@@ -833,16 +844,6 @@
 			"fromNode":"68eb265ffa9cd133",
 			"fromSide":"right",
 			"toNode":"bd1e5386a9118ce5",
-			"toSide":"left"
-		},
-		{
-			"id":"5b4a4e123c8cd5c4",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"6fe197fa533557f5",
-			"fromSide":"right",
-			"toNode":"37ab90c8f8c7b44b",
 			"toSide":"left"
 		},
 		{
@@ -1031,15 +1032,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"7d270b7fbe672c6e",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromNode":"784951aee9e86de7",
-			"fromSide":"right",
-			"toNode":"37ab90c8f8c7b44b",
-			"toSide":"left"
-		},
-		{
 			"id":"7be17164ca262ccd",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
@@ -1088,15 +1080,18 @@
 			"id":"8e3d01f25a5b9a4e",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"15c03bf55698c404",
 			"fromSide":"right",
 			"toNode":"cbc17fd15ec26725",
-			"toSide":"left"
+			"toSide":"left",
+			"label":"氧化镝"
 		},
 		{
 			"id":"78ef5f845da6f828",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"15c03bf55698c404",
 			"fromSide":"right",
 			"toNode":"f42099aaf388480a",
@@ -1133,11 +1128,40 @@
 			"id":"7764bd01effd4f15",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"f087a666f01dc6a3",
 			"fromSide":"right",
 			"toNode":"0245fc293b690224",
 			"toSide":"left",
 			"label":"上游"
+		},
+		{
+			"id":"c524b73c57234b86",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"6fe197fa533557f5",
+			"fromSide":"right",
+			"toNode":"37ab90c8f8c7b44b",
+			"toSide":"left"
+		},
+		{
+			"id":"6de8f8cd373dd16f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"68eb265ffa9cd133",
+			"fromSide":"right",
+			"toNode":"e1dbbd59f324b2a8",
+			"toSide":"left"
+		},
+		{
+			"id":"6ed1f64904fa6390",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3bff65ee98719d4a",
+			"fromSide":"right",
+			"toNode":"e1dbbd59f324b2a8",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
