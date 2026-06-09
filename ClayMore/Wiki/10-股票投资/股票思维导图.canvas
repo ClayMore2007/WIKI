@@ -296,17 +296,6 @@
 			"color":"3"
 		},
 		{
-			"id":"784951aee9e86de7",
-			"type":"text",
-			"text":"材料",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-2990,
-			"y":-2320,
-			"width":167,
-			"height":160,
-			"color":"3"
-		},
-		{
 			"id":"6b02ddc97089940b",
 			"type":"text",
 			"text":"1.彩虹股份\n2.凯盛科技\n华工科技",
@@ -540,6 +529,72 @@
 			"width":260,
 			"height":145,
 			"color":"6"
+		},
+		{
+			"id":"9ea748bb9bfa78af",
+			"type":"text",
+			"text":"锂矿",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-2584,
+			"y":-1180,
+			"width":185,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"fe2119749e173c91",
+			"type":"text",
+			"text":"==赣锋锂业==",
+			"styleAttributes":{},
+			"x":-2194,
+			"y":-1230,
+			"width":260,
+			"height":160,
+			"color":"6"
+		},
+		{
+			"id":"784951aee9e86de7",
+			"type":"text",
+			"text":"材料",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3003,
+			"y":-2180,
+			"width":167,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"8f9c7cfc4e6b7dac",
+			"type":"text",
+			"text":"国产替代",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":1760,
+			"y":-3200,
+			"width":167,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"bc9950e53a43ddb7",
+			"type":"text",
+			"text":"半导体",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":1780,
+			"y":-1900,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"d81e76e339a56468",
+			"type":"text",
+			"text":"==中科曙光==",
+			"styleAttributes":{},
+			"x":2120,
+			"y":-1925,
+			"width":260,
+			"height":130,
+			"color":"6"
 		}
 	],
 	"edges":[
@@ -722,8 +777,9 @@
 		},
 		{
 			"id":"119fa99e13a06ced",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"784951aee9e86de7",
 			"fromSide":"right",
 			"toNode":"f2d1eb9cd6734db7",
@@ -859,12 +915,48 @@
 			"label":"超级MLCC"
 		},
 		{
-			"id":"89cd625705b786b2",
+			"id":"b1e45abb91949e4d",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"2ddcb0d4ca3811a0",
+			"fromNode":"e05639bbbef55dbd",
 			"fromSide":"right",
-			"toNode":"3acf7e9798dcdd72",
+			"toNode":"9ea748bb9bfa78af",
+			"toSide":"left"
+		},
+		{
+			"id":"fc55b70cbd7fdcab",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9ea748bb9bfa78af",
+			"fromSide":"right",
+			"toNode":"fe2119749e173c91",
+			"toSide":"left"
+		},
+		{
+			"id":"7d270b7fbe672c6e",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"784951aee9e86de7",
+			"fromSide":"right",
+			"toNode":"37ab90c8f8c7b44b",
+			"toSide":"left"
+		},
+		{
+			"id":"7be17164ca262ccd",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"8f9c7cfc4e6b7dac",
+			"fromSide":"bottom",
+			"toNode":"bc9950e53a43ddb7",
+			"toSide":"top"
+		},
+		{
+			"id":"54f9dd3bbf74f2da",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"bc9950e53a43ddb7",
+			"fromSide":"right",
+			"toNode":"d81e76e339a56468",
 			"toSide":"left"
 		}
 	],
