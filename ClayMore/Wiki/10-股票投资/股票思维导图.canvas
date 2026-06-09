@@ -459,28 +459,6 @@
 			"color":"6"
 		},
 		{
-			"id":"471ff60a6edc1ae2",
-			"type":"text",
-			"text":"电子布",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-152,
-			"y":-2320,
-			"width":160,
-			"height":90,
-			"color":"2"
-		},
-		{
-			"id":"1a24da6bea0133d8",
-			"type":"text",
-			"text":"XD宏和科",
-			"styleAttributes":{},
-			"x":250,
-			"y":-2305,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"b0c7f01a6c757e3c",
 			"type":"text",
 			"text":"煤炭",
@@ -879,6 +857,61 @@
 			"width":135,
 			"height":80,
 			"color":"2"
+		},
+		{
+			"id":"471ff60a6edc1ae2",
+			"type":"text",
+			"text":"电子布",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-152,
+			"y":-2380,
+			"width":160,
+			"height":90,
+			"color":"2"
+		},
+		{
+			"id":"1a24da6bea0133d8",
+			"type":"text",
+			"text":"XD宏和科 （龙头）\n",
+			"styleAttributes":{},
+			"x":250,
+			"y":-2365,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"7dd015a597669a29",
+			"type":"text",
+			"text":"菲力华",
+			"styleAttributes":{},
+			"x":250,
+			"y":-2240,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"a2ba923e20e14603",
+			"type":"text",
+			"text":"中国巨石\n",
+			"styleAttributes":{},
+			"x":250,
+			"y":-2480,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"a88c680cd534f261",
+			"type":"text",
+			"text":"快启动了",
+			"styleAttributes":{"shape":"document"},
+			"x":600,
+			"y":-2240,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[
@@ -1208,15 +1241,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"7be17164ca262ccd",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromNode":"8f9c7cfc4e6b7dac",
-			"fromSide":"bottom",
-			"toNode":"bc9950e53a43ddb7",
-			"toSide":"top"
-		},
-		{
 			"id":"54f9dd3bbf74f2da",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -1455,7 +1479,8 @@
 			"fromNode":"471ff60a6edc1ae2",
 			"fromSide":"right",
 			"toNode":"1a24da6bea0133d8",
-			"toSide":"left"
+			"toSide":"left",
+			"label":"2代布"
 		},
 		{
 			"id":"3dba110330d07174",
@@ -1566,6 +1591,56 @@
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
 			"color":"2"
+		},
+		{
+			"id":"a8cbef5e7be9cd6e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"471ff60a6edc1ae2",
+			"fromSide":"right",
+			"toNode":"7dd015a597669a29",
+			"toSide":"left",
+			"label":"Q布"
+		},
+		{
+			"id":"8199fffbdc884118",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"471ff60a6edc1ae2",
+			"fromSide":"right",
+			"toNode":"a2ba923e20e14603",
+			"toSide":"left",
+			"label":"普通布"
+		},
+		{
+			"id":"7b37baadbeaed7d1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7dd015a597669a29",
+			"fromSide":"right",
+			"toNode":"a88c680cd534f261",
+			"toSide":"left"
+		},
+		{
+			"id":"a7b643f363dc27d6",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"7dd015a597669a29",
+			"fromSide":"left",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"right",
+			"color":"2"
+		},
+		{
+			"id":"94a93315c66d2bc2",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"1a24da6bea0133d8",
+			"fromSide":"left",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"right",
+			"color":"1"
 		}
 	],
 	"metadata":{
