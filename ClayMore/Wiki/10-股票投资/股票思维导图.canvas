@@ -57,7 +57,7 @@
 		{
 			"id":"2ddcb0d4ca3811a0",
 			"type":"text",
-			"text":"内存\n",
+			"text":"存储\n",
 			"styleAttributes":{"textAlign":"center","shape":"pill"},
 			"x":-399,
 			"y":-619,
@@ -775,6 +775,7 @@
 			"id":"2f14538f43ead577",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"2ddcb0d4ca3811a0",
 			"fromSide":"right",
 			"toNode":"3bff65ee98719d4a",
@@ -856,6 +857,15 @@
 			"toNode":"c08db444f5711212",
 			"toSide":"left",
 			"label":"超级MLCC"
+		},
+		{
+			"id":"89cd625705b786b2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2ddcb0d4ca3811a0",
+			"fromSide":"right",
+			"toNode":"3acf7e9798dcdd72",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
