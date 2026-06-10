@@ -23,17 +23,6 @@
 			"color":"2"
 		},
 		{
-			"id":"bf55d2ad95e9eb66",
-			"type":"text",
-			"text":"光模块",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":20,
-			"y":-3200,
-			"width":167,
-			"height":160,
-			"color":"3"
-		},
-		{
 			"id":"6700c63020ad5473",
 			"type":"text",
 			"text":"1.烽火通信\n2.永鼎股份",
@@ -41,19 +30,8 @@
 			"x":250,
 			"y":-1650,
 			"width":260,
-			"height":140,
+			"height":90,
 			"color":"6"
-		},
-		{
-			"id":"4f907361a42ff142",
-			"type":"text",
-			"text":"通信",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-123,
-			"y":-1622,
-			"width":132,
-			"height":85,
-			"color":"2"
 		},
 		{
 			"id":"0245fc293b690224",
@@ -131,27 +109,6 @@
 			"color":"1"
 		},
 		{
-			"id":"f10ada06eb6722b6",
-			"type":"text",
-			"text":"1.6月底-7月永久初断供\n2.半导体不可替代的特殊其他",
-			"styleAttributes":{},
-			"x":-3562,
-			"y":-1926,
-			"width":260,
-			"height":88
-		},
-		{
-			"id":"bf71618ca70164ac",
-			"type":"text",
-			"text":"六氟化钨",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3164,
-			"y":-1912,
-			"width":160,
-			"height":60,
-			"color":"1"
-		},
-		{
 			"id":"2ab903496b161f37",
 			"type":"text",
 			"text":"钨",
@@ -161,17 +118,6 @@
 			"width":160,
 			"height":60,
 			"color":"1"
-		},
-		{
-			"id":"78edc833870a1691",
-			"type":"text",
-			"text":"1.中船特气\n2.==昊华科技==（这周卖掉？）\n3.==和远气体==\n4.多氟多",
-			"styleAttributes":{},
-			"x":-2774,
-			"y":-1947,
-			"width":260,
-			"height":125,
-			"color":"6"
 		},
 		{
 			"id":"f42099aaf388480a",
@@ -204,17 +150,6 @@
 			"y":-1443,
 			"width":260,
 			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"f2d1eb9cd6734db7",
-			"type":"text",
-			"text":"1.==云南锗业==",
-			"styleAttributes":{},
-			"x":-2774,
-			"y":-2147,
-			"width":260,
-			"height":120,
 			"color":"6"
 		},
 		{
@@ -379,17 +314,6 @@
 			"y":-740,
 			"width":260,
 			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"bd1e5386a9118ce5",
-			"type":"text",
-			"text":"1.宝鼎科技",
-			"styleAttributes":{},
-			"x":253,
-			"y":-1377,
-			"width":260,
-			"height":65,
 			"color":"6"
 		},
 		{
@@ -615,17 +539,6 @@
 			"width":160,
 			"height":60,
 			"color":"1"
-		},
-		{
-			"id":"784951aee9e86de7",
-			"type":"text",
-			"text":"材料",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3983,
-			"y":-2160,
-			"width":167,
-			"height":160,
-			"color":"3"
 		},
 		{
 			"id":"650b02eef2211403",
@@ -859,17 +772,6 @@
 			"color":"6"
 		},
 		{
-			"id":"68eb265ffa9cd133",
-			"type":"text",
-			"text":"PCB",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-125,
-			"y":-1180,
-			"width":130,
-			"height":80,
-			"color":"2"
-		},
-		{
 			"id":"e1dbbd59f324b2a8",
 			"type":"text",
 			"text":"兴森科技",
@@ -967,6 +869,199 @@
 			"width":427,
 			"height":400,
 			"color":"1"
+		},
+		{
+			"id":"bf55d2ad95e9eb66",
+			"type":"text",
+			"text":"光模块",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":8,
+			"y":-3200,
+			"width":167,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"4f907361a42ff142",
+			"type":"text",
+			"text":"通信",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-112,
+			"y":-1647,
+			"width":132,
+			"height":85,
+			"color":"2"
+		},
+		{
+			"id":"68eb265ffa9cd133",
+			"type":"text",
+			"text":"PCB",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-110,
+			"y":-1036,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"bd1e5386a9118ce5",
+			"type":"text",
+			"text":"1.宝鼎科技",
+			"styleAttributes":{},
+			"x":253,
+			"y":-1085,
+			"width":260,
+			"height":65,
+			"color":"6"
+		},
+		{
+			"id":"95b7e596e01a4fc6",
+			"type":"text",
+			"text":"NPO",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-110,
+			"y":-1432,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"5171345418a1f7f2",
+			"type":"text",
+			"text":"光互连，板载近芯片布置",
+			"styleAttributes":{},
+			"x":-473,
+			"y":-1422,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"776ead666b09643c",
+			"type":"text",
+			"text":"CPO",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-110,
+			"y":-1258,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"64cd7f659249b5ec",
+			"type":"text",
+			"text":"和芯片共封装，脱离光模块",
+			"styleAttributes":{},
+			"x":-473,
+			"y":-1248,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"700308db3442425a",
+			"type":"text",
+			"text":"后期空间大，现在良率底",
+			"styleAttributes":{},
+			"x":-473,
+			"y":-1053,
+			"width":260,
+			"height":115
+		},
+		{
+			"id":"f2d1eb9cd6734db7",
+			"type":"text",
+			"text":"1.==云南锗业==",
+			"styleAttributes":{},
+			"x":-2774,
+			"y":-2247,
+			"width":260,
+			"height":120,
+			"color":"6"
+		},
+		{
+			"id":"78edc833870a1691",
+			"type":"text",
+			"text":"1.中船特气\n2.==昊华科技==（这周卖掉？）\n3.==和远气体==\n4.多氟多",
+			"styleAttributes":{},
+			"x":-2774,
+			"y":-2047,
+			"width":260,
+			"height":125,
+			"color":"6"
+		},
+		{
+			"id":"bf71618ca70164ac",
+			"type":"text",
+			"text":"六氟化钨",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3164,
+			"y":-2012,
+			"width":160,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"784951aee9e86de7",
+			"type":"text",
+			"text":"材料",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3983,
+			"y":-2260,
+			"width":167,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"40d8fecd163e8103",
+			"type":"text",
+			"text":"氦气",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3164,
+			"y":-1880,
+			"width":160,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"f10ada06eb6722b6",
+			"type":"text",
+			"text":"1.6月底-7月永久初断供\n2.半导体不可替代的特殊其他",
+			"styleAttributes":{},
+			"x":-3580,
+			"y":-2019,
+			"width":260,
+			"height":74
+		},
+		{
+			"id":"025aed51989234a1",
+			"type":"text",
+			"text":"电子特气",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3960,
+			"y":-1960,
+			"width":167,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"cfaca9143ddc99d4",
+			"type":"text",
+			"text":"和海峡相关，无法运输",
+			"styleAttributes":{},
+			"x":-3580,
+			"y":-1880,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"105401b2e2a91ffa",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-2774,
+			"y":-1880,
+			"width":260,
+			"height":60,
+			"color":"6"
 		}
 	],
 	"edges":[
@@ -1509,6 +1604,7 @@
 			"id":"4a2d642b5559a106",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"784951aee9e86de7",
 			"fromSide":"right",
 			"toNode":"e3cb6a004c9d778f",
@@ -1518,6 +1614,7 @@
 			"id":"c1821ae93ee8c642",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"784951aee9e86de7",
 			"fromSide":"right",
 			"toNode":"a9718de53b119e3f",
@@ -1754,6 +1851,71 @@
 			"fromNode":"9ec95bd1a1a40d0e",
 			"fromSide":"right",
 			"toNode":"68eb265ffa9cd133",
+			"toSide":"left"
+		},
+		{
+			"id":"b002e709d02e8d92",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"68eb265ffa9cd133",
+			"fromSide":"left",
+			"toNode":"700308db3442425a",
+			"toSide":"right"
+		},
+		{
+			"id":"e93535e9b75a4b61",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"95b7e596e01a4fc6",
+			"fromSide":"left",
+			"toNode":"5171345418a1f7f2",
+			"toSide":"right"
+		},
+		{
+			"id":"92d8c40e2351eed0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"776ead666b09643c",
+			"fromSide":"left",
+			"toNode":"64cd7f659249b5ec",
+			"toSide":"right"
+		},
+		{
+			"id":"6fb641f60815d7a9",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"025aed51989234a1",
+			"fromSide":"right",
+			"toNode":"bf71618ca70164ac",
+			"toSide":"left"
+		},
+		{
+			"id":"d5d462510d54d19b",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"025aed51989234a1",
+			"fromSide":"right",
+			"toNode":"40d8fecd163e8103",
+			"toSide":"left"
+		},
+		{
+			"id":"9a508525702f2ad9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"40d8fecd163e8103",
+			"fromSide":"left",
+			"toNode":"cfaca9143ddc99d4",
+			"toSide":"right"
+		},
+		{
+			"id":"c5bbb67ff0ae247d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"40d8fecd163e8103",
+			"fromSide":"right",
+			"toNode":"105401b2e2a91ffa",
 			"toSide":"left"
 		}
 	],
