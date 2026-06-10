@@ -514,17 +514,6 @@
 			"color":"3"
 		},
 		{
-			"id":"9ec95bd1a1a40d0e",
-			"type":"text",
-			"text":"合成树脂",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3151,
-			"y":-1000,
-			"width":160,
-			"height":60,
-			"color":"2"
-		},
-		{
 			"id":"372c8ea67ebea6f9",
 			"type":"text",
 			"text":"==圣泉股份==",
@@ -550,7 +539,7 @@
 		{
 			"id":"20fd843cad61dc3a",
 			"type":"text",
-			"text":"东材科技",
+			"text":"==东材科技==",
 			"styleAttributes":{},
 			"x":-2780,
 			"y":-840,
@@ -848,17 +837,6 @@
 			"color":"2"
 		},
 		{
-			"id":"f13361cd17bfdcad",
-			"type":"text",
-			"text":"电池",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-1700,
-			"y":-980,
-			"width":135,
-			"height":80,
-			"color":"2"
-		},
-		{
 			"id":"471ff60a6edc1ae2",
 			"type":"text",
 			"text":"电子布",
@@ -912,6 +890,28 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"f13361cd17bfdcad",
+			"type":"text",
+			"text":"电池",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-1600,
+			"y":-780,
+			"width":135,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"9ec95bd1a1a40d0e",
+			"type":"text",
+			"text":"合成树脂",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3164,
+			"y":-1000,
+			"width":160,
+			"height":60,
+			"color":"2"
 		}
 	],
 	"edges":[
@@ -1346,7 +1346,7 @@
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
 			"color":"1",
-			"label":"1"
+			"label":"\n"
 		},
 		{
 			"id":"b16b916186c332e0",
@@ -1527,7 +1527,8 @@
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
-			"color":"1"
+			"color":"1",
+			"label":"+"
 		},
 		{
 			"id":"384e0aa378180df9",
@@ -1596,7 +1597,8 @@
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
-			"color":"2"
+			"color":"2",
+			"label":"+"
 		},
 		{
 			"id":"a8cbef5e7be9cd6e",
