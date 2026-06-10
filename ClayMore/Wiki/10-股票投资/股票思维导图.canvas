@@ -208,38 +208,6 @@
 			"color":"2"
 		},
 		{
-			"id":"194f01778a2c333b",
-			"type":"text",
-			"text":"1.算力HBM 强需求",
-			"styleAttributes":{},
-			"x":-1100,
-			"y":-580,
-			"width":212,
-			"height":60
-		},
-		{
-			"id":"e68cfff06540f58b",
-			"type":"text",
-			"text":"先进封装",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-187,
-			"y":-352,
-			"width":140,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"f544a4965a22197e",
-			"type":"text",
-			"text":"1.晶方科技",
-			"styleAttributes":{},
-			"x":253,
-			"y":-347,
-			"width":260,
-			"height":70,
-			"color":"6"
-		},
-		{
 			"id":"2a09d00905a8bc5d",
 			"type":"text",
 			"text":"月底启动？",
@@ -249,28 +217,6 @@
 			"width":150,
 			"height":60,
 			"color":"4"
-		},
-		{
-			"id":"d81e76e339a56468",
-			"type":"text",
-			"text":"==中科曙光==",
-			"styleAttributes":{},
-			"x":253,
-			"y":-206,
-			"width":260,
-			"height":130,
-			"color":"6"
-		},
-		{
-			"id":"bc9950e53a43ddb7",
-			"type":"text",
-			"text":"半导体",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-177,
-			"y":-181,
-			"width":130,
-			"height":80,
-			"color":"2"
 		},
 		{
 			"id":"825a316ea92f40ac",
@@ -293,17 +239,6 @@
 			"width":260,
 			"height":148,
 			"color":"6"
-		},
-		{
-			"id":"2ddcb0d4ca3811a0",
-			"type":"text",
-			"text":"存储\n",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-540,
-			"y":-590,
-			"width":165,
-			"height":91,
-			"color":"1"
 		},
 		{
 			"id":"893e73acabd135e6",
@@ -336,197 +271,6 @@
 			"y":-1160,
 			"width":260,
 			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"93be4110993c7613",
-			"type":"text",
-			"text":"机器人",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-190,
-			"y":1015,
-			"width":155,
-			"height":82,
-			"color":"2"
-		},
-		{
-			"id":"9164ab4801780b0d",
-			"type":"text",
-			"text":"物理AI\n",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-575,
-			"y":1105,
-			"width":140,
-			"height":131,
-			"color":"3"
-		},
-		{
-			"id":"1512709ec93b6ffc",
-			"type":"text",
-			"text":"1.==四方股份==！！！（龙头？）等后续\n2.阳光电源",
-			"styleAttributes":{},
-			"x":219,
-			"y":1976,
-			"width":354,
-			"height":100,
-			"color":"6"
-		},
-		{
-			"id":"7df7215665d9fbf4",
-			"type":"text",
-			"text":"SST",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-155,
-			"y":1996,
-			"width":130,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"99660e2e22e6f43b",
-			"type":"text",
-			"text":"神剑股份（暴雷？）\n巨力索具 （跌到底了？）\n\n1.凯盛科技\n2.中超控股\n3.航天电子\n4.再升科技",
-			"styleAttributes":{},
-			"x":212,
-			"y":1386,
-			"width":333,
-			"height":220,
-			"color":"6"
-		},
-		{
-			"id":"ee3f373e3dc28eb6",
-			"type":"text",
-			"text":"航天",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-178,
-			"y":1456,
-			"width":130,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"69445d49a67030c0",
-			"type":"text",
-			"text":"==豫能控股==\n==大唐发电==\n京能电力\n华能蒙电",
-			"styleAttributes":{},
-			"x":219,
-			"y":1706,
-			"width":260,
-			"height":170,
-			"color":"6"
-		},
-		{
-			"id":"5fdd1b9ac73d071c",
-			"type":"text",
-			"text":"电力",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-475,
-			"y":1751,
-			"width":130,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"6f1d38923a458157",
-			"type":"text",
-			"text":"巨力 关注K线",
-			"styleAttributes":{"shape":"document"},
-			"x":635,
-			"y":1466,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"a6077e7d6742f04f",
-			"type":"text",
-			"text":"==中超控股== ！！！（潜力）\n埃斯顿\n达实智能（龙头？）\n中重科技（龙头？）\n",
-			"styleAttributes":{},
-			"x":212,
-			"y":951,
-			"width":260,
-			"height":105,
-			"color":"6"
-		},
-		{
-			"id":"363ee4ad3ef0232d",
-			"type":"text",
-			"text":"中大力德",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":212,
-			"y":1097,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"544e992a705bd155",
-			"type":"text",
-			"text":"\n1.==天娱数科==（中位）\n2.能科科技（中位）",
-			"styleAttributes":{},
-			"x":212,
-			"y":1216,
-			"width":293,
-			"height":100,
-			"color":"6"
-		},
-		{
-			"id":"fcbe49482d06ed9b",
-			"type":"text",
-			"text":"AI应用",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-177,
-			"y":1266,
-			"width":130,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"c35aa7a540ce3a3c",
-			"type":"text",
-			"text":"1.大族激光",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":248,
-			"y":380,
-			"width":213,
-			"height":61,
-			"color":"6"
-		},
-		{
-			"id":"6b02ddc97089940b",
-			"type":"text",
-			"text":"1.彩虹股份\n2.凯盛科技\n华工科技",
-			"styleAttributes":{},
-			"x":248,
-			"y":501,
-			"width":220,
-			"height":120,
-			"color":"6"
-		},
-		{
-			"id":"baca6b66e0656ac7",
-			"type":"text",
-			"text":"玻璃基板",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-187,
-			"y":520,
-			"width":165,
-			"height":82,
-			"color":"2"
-		},
-		{
-			"id":"2d86d590a11b65dc",
-			"type":"text",
-			"text":"1.沃格光电\n2.红星发展\n3==.京东方A==（中军）（散户多，等洗）\n4.凯盛科技",
-			"styleAttributes":{},
-			"x":248,
-			"y":690,
-			"width":333,
-			"height":120,
 			"color":"6"
 		},
 		{
@@ -661,16 +405,6 @@
 			"color":"2"
 		},
 		{
-			"id":"fd32d3e5d4a1b6e9",
-			"type":"text",
-			"text":"中东停产断货",
-			"styleAttributes":{},
-			"x":-3562,
-			"y":-860,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"372c8ea67ebea6f9",
 			"type":"text",
 			"text":"==圣泉股份==",
@@ -725,50 +459,6 @@
 			"y":-1020,
 			"width":260,
 			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"aff20309ac08ac45",
-			"type":"text",
-			"text":"1.泰和新材\n2.中天科技\n3.亨通光电",
-			"styleAttributes":{},
-			"x":245,
-			"y":40,
-			"width":260,
-			"height":110,
-			"color":"6"
-		},
-		{
-			"id":"c1e89f3875b388ad",
-			"type":"text",
-			"text":"光纤",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-182,
-			"y":55,
-			"width":130,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"6cbad0b1fc5bb088",
-			"type":"text",
-			"text":"金刚石",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-182,
-			"y":200,
-			"width":130,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"db952ec59d6a9635",
-			"type":"text",
-			"text":"黄河旋风\n国机精工",
-			"styleAttributes":{},
-			"x":255,
-			"y":200,
-			"width":260,
-			"height":80,
 			"color":"6"
 		},
 		{
@@ -915,48 +605,6 @@
 			"color":"6"
 		},
 		{
-			"id":"95b7e596e01a4fc6",
-			"type":"text",
-			"text":"NPO",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-110,
-			"y":-1432,
-			"width":130,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"5171345418a1f7f2",
-			"type":"text",
-			"text":"光互连，板载近芯片布置",
-			"styleAttributes":{},
-			"x":-473,
-			"y":-1422,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"776ead666b09643c",
-			"type":"text",
-			"text":"CPO",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-110,
-			"y":-1258,
-			"width":130,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"64cd7f659249b5ec",
-			"type":"text",
-			"text":"和芯片共封装，脱离光模块",
-			"styleAttributes":{},
-			"x":-473,
-			"y":-1248,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"700308db3442425a",
 			"type":"text",
 			"text":"后期空间大，现在良率底",
@@ -1043,16 +691,6 @@
 			"color":"3"
 		},
 		{
-			"id":"cfaca9143ddc99d4",
-			"type":"text",
-			"text":"和海峡相关，无法运输",
-			"styleAttributes":{},
-			"x":-3580,
-			"y":-1880,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"105401b2e2a91ffa",
 			"type":"text",
 			"text":"",
@@ -1062,6 +700,431 @@
 			"width":260,
 			"height":60,
 			"color":"6"
+		},
+		{
+			"id":"cfaca9143ddc99d4",
+			"type":"text",
+			"text":"和海峡相关，无法运输\n我国产量低",
+			"styleAttributes":{},
+			"x":-3580,
+			"y":-1887,
+			"width":260,
+			"height":75
+		},
+		{
+			"id":"fd32d3e5d4a1b6e9",
+			"type":"text",
+			"text":"中东停产断货",
+			"styleAttributes":{},
+			"x":-3580,
+			"y":-860,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9d4468d651b1c358",
+			"type":"text",
+			"text":"HBF",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-187,
+			"y":-440,
+			"width":140,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"9543c9f02d0b3214",
+			"type":"text",
+			"text":"快克智能",
+			"styleAttributes":{},
+			"x":255,
+			"y":-430,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"c35aa7a540ce3a3c",
+			"type":"text",
+			"text":"1.大族激光",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":253,
+			"y":520,
+			"width":213,
+			"height":61,
+			"color":"6"
+		},
+		{
+			"id":"6b02ddc97089940b",
+			"type":"text",
+			"text":"1.彩虹股份\n2.凯盛科技\n华工科技",
+			"styleAttributes":{},
+			"x":253,
+			"y":641,
+			"width":220,
+			"height":120,
+			"color":"6"
+		},
+		{
+			"id":"baca6b66e0656ac7",
+			"type":"text",
+			"text":"玻璃基板",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-182,
+			"y":660,
+			"width":165,
+			"height":82,
+			"color":"2"
+		},
+		{
+			"id":"2d86d590a11b65dc",
+			"type":"text",
+			"text":"1.沃格光电\n2.红星发展\n3==.京东方A==（中军）（散户多，等洗）\n4.凯盛科技",
+			"styleAttributes":{},
+			"x":253,
+			"y":830,
+			"width":333,
+			"height":120,
+			"color":"6"
+		},
+		{
+			"id":"d81e76e339a56468",
+			"type":"text",
+			"text":"==中科曙光==",
+			"styleAttributes":{},
+			"x":266,
+			"y":-14,
+			"width":260,
+			"height":130,
+			"color":"6"
+		},
+		{
+			"id":"bc9950e53a43ddb7",
+			"type":"text",
+			"text":"半导体",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-164,
+			"y":11,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"aff20309ac08ac45",
+			"type":"text",
+			"text":"1.泰和新材\n2.中天科技\n3.亨通光电",
+			"styleAttributes":{},
+			"x":256,
+			"y":180,
+			"width":260,
+			"height":110,
+			"color":"6"
+		},
+		{
+			"id":"c1e89f3875b388ad",
+			"type":"text",
+			"text":"光纤",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-171,
+			"y":195,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"e68cfff06540f58b",
+			"type":"text",
+			"text":"先进封装",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-174,
+			"y":-160,
+			"width":140,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"f544a4965a22197e",
+			"type":"text",
+			"text":"1.晶方科技",
+			"styleAttributes":{},
+			"x":266,
+			"y":-155,
+			"width":260,
+			"height":70,
+			"color":"6"
+		},
+		{
+			"id":"6cbad0b1fc5bb088",
+			"type":"text",
+			"text":"金刚石",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-171,
+			"y":340,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"db952ec59d6a9635",
+			"type":"text",
+			"text":"黄河旋风\n国机精工",
+			"styleAttributes":{},
+			"x":266,
+			"y":340,
+			"width":260,
+			"height":80,
+			"color":"6"
+		},
+		{
+			"id":"9164ab4801780b0d",
+			"type":"text",
+			"text":"物理AI\n",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-544,
+			"y":1235,
+			"width":140,
+			"height":131,
+			"color":"3"
+		},
+		{
+			"id":"93be4110993c7613",
+			"type":"text",
+			"text":"机器人",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-159,
+			"y":1145,
+			"width":155,
+			"height":82,
+			"color":"2"
+		},
+		{
+			"id":"363ee4ad3ef0232d",
+			"type":"text",
+			"text":"中大力德",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":243,
+			"y":1227,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"544e992a705bd155",
+			"type":"text",
+			"text":"\n1.==天娱数科==（中位）\n2.能科科技（中位）",
+			"styleAttributes":{},
+			"x":243,
+			"y":1346,
+			"width":293,
+			"height":100,
+			"color":"6"
+		},
+		{
+			"id":"fcbe49482d06ed9b",
+			"type":"text",
+			"text":"AI应用",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-146,
+			"y":1396,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"a6077e7d6742f04f",
+			"type":"text",
+			"text":"==中超控股== ！！！（潜力）\n埃斯顿\n达实智能（龙头？）\n中重科技（龙头？）\n",
+			"styleAttributes":{},
+			"x":243,
+			"y":1081,
+			"width":260,
+			"height":105,
+			"color":"6"
+		},
+		{
+			"id":"99660e2e22e6f43b",
+			"type":"text",
+			"text":"神剑股份（暴雷？）\n巨力索具 （跌到底了？）\n\n1.凯盛科技\n2.中超控股\n3.航天电子\n4.再升科技",
+			"styleAttributes":{},
+			"x":243,
+			"y":1516,
+			"width":333,
+			"height":220,
+			"color":"6"
+		},
+		{
+			"id":"ee3f373e3dc28eb6",
+			"type":"text",
+			"text":"航天",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-147,
+			"y":1586,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"6f1d38923a458157",
+			"type":"text",
+			"text":"巨力 关注K线",
+			"styleAttributes":{"shape":"document"},
+			"x":666,
+			"y":1596,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"1512709ec93b6ffc",
+			"type":"text",
+			"text":"1.==四方股份==！！！（龙头？）等后续\n2.阳光电源",
+			"styleAttributes":{},
+			"x":250,
+			"y":2106,
+			"width":354,
+			"height":100,
+			"color":"6"
+		},
+		{
+			"id":"7df7215665d9fbf4",
+			"type":"text",
+			"text":"SST",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-124,
+			"y":2126,
+			"width":130,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"69445d49a67030c0",
+			"type":"text",
+			"text":"==豫能控股==\n==大唐发电==\n京能电力\n华能蒙电",
+			"styleAttributes":{},
+			"x":250,
+			"y":1836,
+			"width":260,
+			"height":170,
+			"color":"6"
+		},
+		{
+			"id":"5fdd1b9ac73d071c",
+			"type":"text",
+			"text":"电力",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-444,
+			"y":1881,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"fbfc13760caaf493",
+			"type":"text",
+			"text":"RCD 06芯片",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-120,
+			"y":-1522,
+			"width":140,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"776ead666b09643c",
+			"type":"text",
+			"text":"CPO",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-110,
+			"y":-1188,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"64cd7f659249b5ec",
+			"type":"text",
+			"text":"和芯片共封装，脱离光模块",
+			"styleAttributes":{},
+			"x":-473,
+			"y":-1178,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5171345418a1f7f2",
+			"type":"text",
+			"text":"光互连，板载近芯片布置",
+			"styleAttributes":{},
+			"x":-473,
+			"y":-1310,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"95b7e596e01a4fc6",
+			"type":"text",
+			"text":"NPO",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-110,
+			"y":-1320,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"48e670e0eb32ad2d",
+			"type":"text",
+			"text":"澜起科技（科创）",
+			"styleAttributes":{},
+			"x":250,
+			"y":-1512,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"32e9b1aa99ce9e72",
+			"type":"text",
+			"text":"支持9200MT/秒传输速率",
+			"styleAttributes":{},
+			"x":-473,
+			"y":-1512,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1d932289c0b0bbf2",
+			"type":"text",
+			"text":"后期很看好",
+			"styleAttributes":{"shape":"document"},
+			"x":600,
+			"y":-1512,
+			"width":140,
+			"height":60
+		},
+		{
+			"id":"2ddcb0d4ca3811a0",
+			"type":"text",
+			"text":"存储\n",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-555,
+			"y":-595,
+			"width":165,
+			"height":91,
+			"color":"1"
+		},
+		{
+			"id":"194f01778a2c333b",
+			"type":"text",
+			"text":"1.算力HBM 强需求",
+			"styleAttributes":{},
+			"x":-1080,
+			"y":-579,
+			"width":212,
+			"height":60
 		}
 	],
 	"edges":[
@@ -1473,6 +1536,7 @@
 			"id":"6de8f8cd373dd16f",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"68eb265ffa9cd133",
 			"fromSide":"right",
 			"toNode":"e1dbbd59f324b2a8",
@@ -1907,7 +1971,8 @@
 			"fromNode":"40d8fecd163e8103",
 			"fromSide":"left",
 			"toNode":"cfaca9143ddc99d4",
-			"toSide":"right"
+			"toSide":"right",
+			"label":"逻辑"
 		},
 		{
 			"id":"c5bbb67ff0ae247d",
@@ -1916,6 +1981,64 @@
 			"fromNode":"40d8fecd163e8103",
 			"fromSide":"right",
 			"toNode":"105401b2e2a91ffa",
+			"toSide":"left"
+		},
+		{
+			"id":"450cc414f51daaf8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2ddcb0d4ca3811a0",
+			"fromSide":"right",
+			"toNode":"9d4468d651b1c358",
+			"toSide":"left"
+		},
+		{
+			"id":"23f014f83f3752f8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"9d4468d651b1c358",
+			"fromSide":"right",
+			"toNode":"9543c9f02d0b3214",
+			"toSide":"left",
+			"label":"TCB"
+		},
+		{
+			"id":"aed53d594d31aeba",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"9543c9f02d0b3214",
+			"fromSide":"left",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"right",
+			"color":"1"
+		},
+		{
+			"id":"693509242e5cd1f4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"fbfc13760caaf493",
+			"fromSide":"right",
+			"toNode":"48e670e0eb32ad2d",
+			"toSide":"left"
+		},
+		{
+			"id":"803edd949b6ece37",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"fbfc13760caaf493",
+			"fromSide":"left",
+			"toNode":"32e9b1aa99ce9e72",
+			"toSide":"right"
+		},
+		{
+			"id":"f4096f36f897b409",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"48e670e0eb32ad2d",
+			"fromSide":"right",
+			"toNode":"1d932289c0b0bbf2",
 			"toSide":"left"
 		}
 	],
