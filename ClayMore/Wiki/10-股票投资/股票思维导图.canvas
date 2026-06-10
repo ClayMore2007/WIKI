@@ -16,9 +16,9 @@
 			"type":"text",
 			"text":"中游",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-752,
+			"x":-1079,
 			"y":-2620,
-			"width":1800,
+			"width":2599,
 			"height":60,
 			"color":"2"
 		},
@@ -28,7 +28,7 @@
 			"text":"1.烽火通信\n2.永鼎股份",
 			"styleAttributes":{},
 			"x":250,
-			"y":-1650,
+			"y":-1720,
 			"width":260,
 			"height":90,
 			"color":"6"
@@ -50,7 +50,7 @@
 			"text":"超级电容",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
 			"x":-140,
-			"y":-1830,
+			"y":-1900,
 			"width":160,
 			"height":90,
 			"color":"2"
@@ -72,7 +72,7 @@
 			"text":"1.祥和实业",
 			"styleAttributes":{},
 			"x":250,
-			"y":-1815,
+			"y":-1885,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -122,12 +122,12 @@
 		{
 			"id":"f42099aaf388480a",
 			"type":"text",
-			"text":"==厦门钨业==（看能不能过前高 67）",
+			"text":"==厦门钨业==（看能不能过前高 67\n中钨高新",
 			"styleAttributes":{},
 			"x":-2774,
-			"y":-1730,
+			"y":-1745,
 			"width":294,
-			"height":60,
+			"height":90,
 			"color":"6"
 		},
 		{
@@ -202,7 +202,7 @@
 			"text":"先进封装",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
 			"x":-187,
-			"y":-590,
+			"y":-392,
 			"width":140,
 			"height":80,
 			"color":"2"
@@ -213,21 +213,10 @@
 			"text":"月底启动？",
 			"styleAttributes":{"shape":"document"},
 			"x":608,
-			"y":-580,
-			"width":150,
+			"y":-382,
+			"width":192,
 			"height":60,
 			"color":"4"
-		},
-		{
-			"id":"825a316ea92f40ac",
-			"type":"text",
-			"text":"HBM",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-1059,
-			"y":-886,
-			"width":130,
-			"height":135,
-			"color":"3"
 		},
 		{
 			"id":"d4d2470d41893e6c",
@@ -235,7 +224,7 @@
 			"text":"1.长电科技\n2.通富微电\n3.华天科技",
 			"styleAttributes":{},
 			"x":253,
-			"y":-624,
+			"y":-426,
 			"width":260,
 			"height":148,
 			"color":"6"
@@ -246,7 +235,7 @@
 			"text":"1.太极实业",
 			"styleAttributes":{},
 			"x":253,
-			"y":-740,
+			"y":-542,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -453,7 +442,7 @@
 		{
 			"id":"21d7bbe8f742c8c9",
 			"type":"text",
-			"text":"有研新材（半导体靶材龙头）",
+			"text":"==有研新材==（半导体靶材龙头）",
 			"styleAttributes":{},
 			"x":-2780,
 			"y":-1020,
@@ -467,7 +456,7 @@
 			"text":"兴森科技",
 			"styleAttributes":{},
 			"x":253,
-			"y":-916,
+			"y":-718,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -478,7 +467,7 @@
 			"text":"煤炭",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
 			"x":-3165,
-			"y":-120,
+			"y":-320,
 			"width":185,
 			"height":60,
 			"color":"2"
@@ -489,7 +478,7 @@
 			"text":"1.大有能源",
 			"styleAttributes":{},
 			"x":-2780,
-			"y":-120,
+			"y":-320,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -500,7 +489,7 @@
 			"text":"==赣锋锂业==",
 			"styleAttributes":{},
 			"x":-2780,
-			"y":70,
+			"y":-130,
 			"width":260,
 			"height":80,
 			"color":"6"
@@ -511,7 +500,7 @@
 			"text":"锂矿",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
 			"x":-3170,
-			"y":80,
+			"y":-120,
 			"width":185,
 			"height":60,
 			"color":"2"
@@ -522,7 +511,7 @@
 			"text":"能源",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
 			"x":-3769,
-			"y":-160,
+			"y":-360,
 			"width":140,
 			"height":140,
 			"color":"3"
@@ -566,7 +555,7 @@
 			"text":"通信",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
 			"x":-112,
-			"y":-1647,
+			"y":-1717,
 			"width":132,
 			"height":85,
 			"color":"2"
@@ -577,7 +566,7 @@
 			"text":"PCB",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
 			"x":-110,
-			"y":-1036,
+			"y":-798,
 			"width":130,
 			"height":80,
 			"color":"2"
@@ -587,8 +576,8 @@
 			"type":"text",
 			"text":"1.宝鼎科技",
 			"styleAttributes":{},
-			"x":253,
-			"y":-1085,
+			"x":250,
+			"y":-853,
 			"width":260,
 			"height":65,
 			"color":"6"
@@ -598,10 +587,10 @@
 			"type":"text",
 			"text":"后期空间大，现在良率底",
 			"styleAttributes":{},
-			"x":-473,
-			"y":-1053,
+			"x":-472,
+			"y":-788,
 			"width":260,
-			"height":115
+			"height":60
 		},
 		{
 			"id":"78edc833870a1691",
@@ -682,7 +671,7 @@
 		{
 			"id":"cfaca9143ddc99d4",
 			"type":"text",
-			"text":"和海峡相关，无法运输\n我国产量低",
+			"text":"和海峡相关，无法运输\n我国产量低。",
 			"styleAttributes":{},
 			"x":-3580,
 			"y":-1887,
@@ -704,8 +693,8 @@
 			"type":"text",
 			"text":"HBF",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-187,
-			"y":-440,
+			"x":-185,
+			"y":-110,
 			"width":140,
 			"height":80,
 			"color":"1"
@@ -715,8 +704,8 @@
 			"type":"text",
 			"text":"快克智能",
 			"styleAttributes":{},
-			"x":255,
-			"y":-430,
+			"x":253,
+			"y":-100,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -728,8 +717,8 @@
 			"styleAttributes":{
 				"textAlign":null
 			},
-			"x":253,
-			"y":520,
+			"x":228,
+			"y":939,
 			"width":213,
 			"height":61,
 			"color":"6"
@@ -739,8 +728,8 @@
 			"type":"text",
 			"text":"1.彩虹股份\n2.凯盛科技\n华工科技",
 			"styleAttributes":{},
-			"x":253,
-			"y":641,
+			"x":228,
+			"y":1060,
 			"width":220,
 			"height":120,
 			"color":"6"
@@ -750,8 +739,8 @@
 			"type":"text",
 			"text":"玻璃基板",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-182,
-			"y":660,
+			"x":-207,
+			"y":1079,
 			"width":165,
 			"height":82,
 			"color":"2"
@@ -761,8 +750,8 @@
 			"type":"text",
 			"text":"1.沃格光电\n2.红星发展\n3==.京东方A==（中军）（散户多，等洗）\n4.凯盛科技",
 			"styleAttributes":{},
-			"x":253,
-			"y":830,
+			"x":228,
+			"y":1249,
 			"width":333,
 			"height":120,
 			"color":"6"
@@ -772,8 +761,8 @@
 			"type":"text",
 			"text":"==中科曙光==",
 			"styleAttributes":{},
-			"x":266,
-			"y":-14,
+			"x":241,
+			"y":405,
 			"width":260,
 			"height":130,
 			"color":"6"
@@ -783,8 +772,8 @@
 			"type":"text",
 			"text":"半导体",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-164,
-			"y":11,
+			"x":-189,
+			"y":430,
 			"width":130,
 			"height":80,
 			"color":"2"
@@ -794,8 +783,8 @@
 			"type":"text",
 			"text":"1.泰和新材\n2.中天科技\n3.亨通光电",
 			"styleAttributes":{},
-			"x":256,
-			"y":180,
+			"x":231,
+			"y":599,
 			"width":260,
 			"height":110,
 			"color":"6"
@@ -805,8 +794,8 @@
 			"type":"text",
 			"text":"光纤",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-171,
-			"y":195,
+			"x":-196,
+			"y":614,
 			"width":130,
 			"height":80,
 			"color":"2"
@@ -816,8 +805,8 @@
 			"type":"text",
 			"text":"先进封装",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-174,
-			"y":-160,
+			"x":-199,
+			"y":259,
 			"width":140,
 			"height":80,
 			"color":"2"
@@ -827,8 +816,8 @@
 			"type":"text",
 			"text":"1.晶方科技",
 			"styleAttributes":{},
-			"x":266,
-			"y":-155,
+			"x":241,
+			"y":264,
 			"width":260,
 			"height":70,
 			"color":"6"
@@ -838,8 +827,8 @@
 			"type":"text",
 			"text":"金刚石",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-171,
-			"y":340,
+			"x":-196,
+			"y":759,
 			"width":130,
 			"height":80,
 			"color":"2"
@@ -849,8 +838,8 @@
 			"type":"text",
 			"text":"黄河旋风\n国机精工",
 			"styleAttributes":{},
-			"x":266,
-			"y":340,
+			"x":241,
+			"y":759,
 			"width":260,
 			"height":80,
 			"color":"6"
@@ -860,8 +849,8 @@
 			"type":"text",
 			"text":"物理AI\n",
 			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-544,
-			"y":1235,
+			"x":-569,
+			"y":1654,
 			"width":140,
 			"height":131,
 			"color":"3"
@@ -871,8 +860,8 @@
 			"type":"text",
 			"text":"机器人",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-159,
-			"y":1145,
+			"x":-184,
+			"y":1564,
 			"width":155,
 			"height":82,
 			"color":"2"
@@ -884,8 +873,8 @@
 			"styleAttributes":{
 				"textAlign":null
 			},
-			"x":243,
-			"y":1227,
+			"x":218,
+			"y":1646,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -895,8 +884,8 @@
 			"type":"text",
 			"text":"\n1.==天娱数科==（中位）\n2.能科科技（中位）",
 			"styleAttributes":{},
-			"x":243,
-			"y":1346,
+			"x":218,
+			"y":1765,
 			"width":293,
 			"height":100,
 			"color":"6"
@@ -906,8 +895,8 @@
 			"type":"text",
 			"text":"AI应用",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-146,
-			"y":1396,
+			"x":-171,
+			"y":1815,
 			"width":130,
 			"height":80,
 			"color":"2"
@@ -917,8 +906,8 @@
 			"type":"text",
 			"text":"==中超控股== ！！！（潜力）\n埃斯顿\n达实智能（龙头？）\n中重科技（龙头？）\n",
 			"styleAttributes":{},
-			"x":243,
-			"y":1081,
+			"x":218,
+			"y":1500,
 			"width":260,
 			"height":105,
 			"color":"6"
@@ -928,8 +917,8 @@
 			"type":"text",
 			"text":"神剑股份（暴雷？）\n巨力索具 （跌到底了？）\n\n1.凯盛科技\n2.中超控股\n3.航天电子\n4.再升科技",
 			"styleAttributes":{},
-			"x":243,
-			"y":1516,
+			"x":218,
+			"y":1935,
 			"width":333,
 			"height":220,
 			"color":"6"
@@ -939,8 +928,8 @@
 			"type":"text",
 			"text":"航天",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-147,
-			"y":1586,
+			"x":-172,
+			"y":2005,
 			"width":130,
 			"height":80,
 			"color":"2"
@@ -950,8 +939,8 @@
 			"type":"text",
 			"text":"巨力 关注K线",
 			"styleAttributes":{"shape":"document"},
-			"x":666,
-			"y":1596,
+			"x":641,
+			"y":2015,
 			"width":260,
 			"height":60,
 			"color":"4"
@@ -961,9 +950,9 @@
 			"type":"text",
 			"text":"1.==四方股份==！！！（龙头？）等后续\n2.阳光电源",
 			"styleAttributes":{},
-			"x":250,
-			"y":2106,
-			"width":354,
+			"x":225,
+			"y":2525,
+			"width":326,
 			"height":100,
 			"color":"6"
 		},
@@ -972,8 +961,8 @@
 			"type":"text",
 			"text":"SST",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-124,
-			"y":2126,
+			"x":-149,
+			"y":2545,
 			"width":130,
 			"height":60,
 			"color":"2"
@@ -983,8 +972,8 @@
 			"type":"text",
 			"text":"==豫能控股==\n==大唐发电==\n京能电力\n华能蒙电",
 			"styleAttributes":{},
-			"x":250,
-			"y":1836,
+			"x":225,
+			"y":2255,
 			"width":260,
 			"height":170,
 			"color":"6"
@@ -994,8 +983,8 @@
 			"type":"text",
 			"text":"电力",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-444,
-			"y":1881,
+			"x":-469,
+			"y":2300,
 			"width":130,
 			"height":80,
 			"color":"2"
@@ -1006,10 +995,10 @@
 			"text":"RCD 06芯片",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
 			"x":-120,
-			"y":-1522,
+			"y":-1592,
 			"width":140,
 			"height":80,
-			"color":"1"
+			"color":"2"
 		},
 		{
 			"id":"776ead666b09643c",
@@ -1017,7 +1006,7 @@
 			"text":"CPO",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
 			"x":-110,
-			"y":-1188,
+			"y":-990,
 			"width":130,
 			"height":80,
 			"color":"2"
@@ -1028,17 +1017,17 @@
 			"text":"和芯片共封装，脱离光模块",
 			"styleAttributes":{},
 			"x":-473,
-			"y":-1178,
+			"y":-980,
 			"width":260,
 			"height":60
 		},
 		{
 			"id":"5171345418a1f7f2",
 			"type":"text",
-			"text":"光互连，板载近芯片布置",
+			"text":"近封装光学",
 			"styleAttributes":{},
 			"x":-473,
-			"y":-1310,
+			"y":-1112,
 			"width":260,
 			"height":60
 		},
@@ -1048,10 +1037,10 @@
 			"text":"NPO",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
 			"x":-110,
-			"y":-1320,
+			"y":-1122,
 			"width":130,
 			"height":80,
-			"color":"2"
+			"color":"1"
 		},
 		{
 			"id":"48e670e0eb32ad2d",
@@ -1059,9 +1048,10 @@
 			"text":"澜起科技（科创）",
 			"styleAttributes":{},
 			"x":250,
-			"y":-1512,
+			"y":-1582,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"5"
 		},
 		{
 			"id":"32e9b1aa99ce9e72",
@@ -1069,7 +1059,7 @@
 			"text":"支持9200MT/秒传输速率",
 			"styleAttributes":{},
 			"x":-473,
-			"y":-1512,
+			"y":-1582,
 			"width":260,
 			"height":60
 		},
@@ -1079,7 +1069,7 @@
 			"text":"后期很看好",
 			"styleAttributes":{"shape":"document"},
 			"x":600,
-			"y":-1512,
+			"y":-1582,
 			"width":140,
 			"height":60
 		},
@@ -1089,7 +1079,7 @@
 			"text":"存储\n",
 			"styleAttributes":{"textAlign":"center","shape":"pill"},
 			"x":-555,
-			"y":-595,
+			"y":-397,
 			"width":165,
 			"height":91,
 			"color":"1"
@@ -1100,7 +1090,7 @@
 			"text":"1.算力HBM 强需求",
 			"styleAttributes":{},
 			"x":-1080,
-			"y":-579,
+			"y":-381,
 			"width":212,
 			"height":60
 		},
@@ -1158,6 +1148,146 @@
 			"width":167,
 			"height":160,
 			"color":"3"
+		},
+		{
+			"id":"8c0ac6fb05dbc038",
+			"type":"text",
+			"text":"还有库存，等回调",
+			"styleAttributes":{"shape":"document"},
+			"x":-2420,
+			"y":-1880,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"3298653d7fb31ca0",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":254,
+			"y":-1450,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"fbb00ee81dd24f91",
+			"type":"text",
+			"text":"光模块",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-110,
+			"y":-1460,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"f85d71b2fb4b4c17",
+			"type":"text",
+			"text":"光迅科技\n华工科技",
+			"styleAttributes":{},
+			"x":250,
+			"y":-1127,
+			"width":260,
+			"height":90,
+			"color":"6"
+		},
+		{
+			"id":"f0bb7bda906dfd1d",
+			"type":"text",
+			"text":"CPO不理想，利好NPO",
+			"styleAttributes":{"shape":"document"},
+			"x":580,
+			"y":-1112,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"4548ebeaf30b001c",
+			"type":"text",
+			"text":"扩产延期，良率19%，要承压",
+			"styleAttributes":{"shape":"document"},
+			"x":580,
+			"y":-980,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"804d465c1e53f38d",
+			"type":"text",
+			"text":"光纤/光缆",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-111,
+			"y":-1320,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"2ef1425fe9aa8e05",
+			"type":"text",
+			"text":"中天科技",
+			"styleAttributes":{},
+			"x":259,
+			"y":-1310,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"5ee447d780d66439",
+			"type":"text",
+			"text":"光",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-760,
+			"y":-1440,
+			"width":167,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"b8975b7db5e6a0d3",
+			"type":"text",
+			"text":"个人长期看好",
+			"styleAttributes":{"shape":"document"},
+			"x":580,
+			"y":-1310,
+			"width":220,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"5d8d98e39a1f7b3f",
+			"type":"text",
+			"text":"雅克科技",
+			"styleAttributes":{},
+			"x":255,
+			"y":-238,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"ea992024feb8dac1",
+			"type":"text",
+			"text":"HBM",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-187,
+			"y":-248,
+			"width":140,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"44c164b1f792bfe1",
+			"type":"text",
+			"text":"800v高压直流供电 DC扩产延期推迟了，等",
+			"styleAttributes":{"shape":"document"},
+			"x":660,
+			"y":2528,
+			"width":285,
+			"height":95
 		}
 	],
 	"edges":[
@@ -1337,16 +1467,6 @@
 			"fromNode":"784951aee9e86de7",
 			"fromSide":"right",
 			"toNode":"f2d1eb9cd6734db7",
-			"toSide":"left"
-		},
-		{
-			"id":"e643a02a84953e55",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"825a316ea92f40ac",
-			"fromSide":"right",
-			"toNode":"2ddcb0d4ca3811a0",
 			"toSide":"left"
 		},
 		{
@@ -1654,9 +1774,9 @@
 			"fromFloating":false,
 			"fromNode":"1512709ec93b6ffc",
 			"fromSide":"left",
-			"toNode":"efbc2be777a9d24f",
+			"toNode":"3e82d0b5d777695f",
 			"toSide":"right",
-			"color":"2"
+			"color":"4"
 		},
 		{
 			"id":"3228109545217a94",
@@ -1783,7 +1903,7 @@
 		},
 		{
 			"id":"ce5d3ba3cb4ff9b5",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"78edc833870a1691",
@@ -2040,6 +2160,7 @@
 			"id":"693509242e5cd1f4",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"fbfc13760caaf493",
 			"fromSide":"right",
 			"toNode":"48e670e0eb32ad2d",
@@ -2120,6 +2241,159 @@
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
 			"color":"1"
+		},
+		{
+			"id":"0820cd32cf929de6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"105401b2e2a91ffa",
+			"fromSide":"right",
+			"toNode":"8c0ac6fb05dbc038",
+			"toSide":"left"
+		},
+		{
+			"id":"d7f71efcf8fc1cb5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1512709ec93b6ffc",
+			"fromSide":"right",
+			"toNode":"44c164b1f792bfe1",
+			"toSide":"left"
+		},
+		{
+			"id":"e62fcd05c9d4a6a3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"776ead666b09643c",
+			"fromSide":"right",
+			"toNode":"4548ebeaf30b001c",
+			"toSide":"left"
+		},
+		{
+			"id":"d785417691b8b590",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"fbb00ee81dd24f91",
+			"fromSide":"right",
+			"toNode":"3298653d7fb31ca0",
+			"toSide":"left",
+			"label":"可插拔"
+		},
+		{
+			"id":"278b0397d1815fef",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"95b7e596e01a4fc6",
+			"fromSide":"right",
+			"toNode":"f85d71b2fb4b4c17",
+			"toSide":"left"
+		},
+		{
+			"id":"c2e02d996b4e8b76",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f85d71b2fb4b4c17",
+			"fromSide":"right",
+			"toNode":"f0bb7bda906dfd1d",
+			"toSide":"left"
+		},
+		{
+			"id":"a382243e6a7d7a90",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"804d465c1e53f38d",
+			"fromSide":"right",
+			"toNode":"2ef1425fe9aa8e05",
+			"toSide":"left"
+		},
+		{
+			"id":"bcbec9e0ade82a90",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"5ee447d780d66439",
+			"fromSide":"right",
+			"toNode":"804d465c1e53f38d",
+			"toSide":"left"
+		},
+		{
+			"id":"2869851ca3e6a438",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"5ee447d780d66439",
+			"fromSide":"right",
+			"toNode":"fbb00ee81dd24f91",
+			"toSide":"left"
+		},
+		{
+			"id":"d3da02f3a0f960bb",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"5ee447d780d66439",
+			"fromSide":"right",
+			"toNode":"95b7e596e01a4fc6",
+			"toSide":"left"
+		},
+		{
+			"id":"632ed4cd429818f7",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"5ee447d780d66439",
+			"fromSide":"right",
+			"toNode":"776ead666b09643c",
+			"toSide":"left"
+		},
+		{
+			"id":"9c91e0b8b16e6127",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2ef1425fe9aa8e05",
+			"fromSide":"right",
+			"toNode":"b8975b7db5e6a0d3",
+			"toSide":"left"
+		},
+		{
+			"id":"421b8cb6bef6c6e3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2ddcb0d4ca3811a0",
+			"fromSide":"right",
+			"toNode":"ea992024feb8dac1",
+			"toSide":"left"
+		},
+		{
+			"id":"af47dc3deeb778e5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ea992024feb8dac1",
+			"fromSide":"right",
+			"toNode":"d4d2470d41893e6c",
+			"toSide":"left"
+		},
+		{
+			"id":"55e457840c912a00",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ea992024feb8dac1",
+			"fromSide":"right",
+			"toNode":"5d8d98e39a1f7b3f",
+			"toSide":"left",
+			"label":"材料"
+		},
+		{
+			"id":"7f07ae244c028d01",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4548ebeaf30b001c",
+			"fromSide":"top",
+			"toNode":"f0bb7bda906dfd1d",
+			"toSide":"bottom"
 		}
 	],
 	"metadata":{
