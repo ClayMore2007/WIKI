@@ -45,17 +45,6 @@
 			"color":"6"
 		},
 		{
-			"id":"aff20309ac08ac45",
-			"type":"text",
-			"text":"1.泰和新材\n2.中天科技\n3.亨通光电",
-			"styleAttributes":{},
-			"x":255,
-			"y":-1210,
-			"width":260,
-			"height":110,
-			"color":"6"
-		},
-		{
 			"id":"4f907361a42ff142",
 			"type":"text",
 			"text":"通信",
@@ -64,28 +53,6 @@
 			"y":-1622,
 			"width":132,
 			"height":85,
-			"color":"2"
-		},
-		{
-			"id":"68eb265ffa9cd133",
-			"type":"text",
-			"text":"PCB",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-122,
-			"y":-1385,
-			"width":130,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"c1e89f3875b388ad",
-			"type":"text",
-			"text":"光纤",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-120,
-			"y":-1195,
-			"width":130,
-			"height":80,
 			"color":"2"
 		},
 		{
@@ -415,17 +382,6 @@
 			"color":"6"
 		},
 		{
-			"id":"e1dbbd59f324b2a8",
-			"type":"text",
-			"text":"兴森科技",
-			"styleAttributes":{},
-			"x":253,
-			"y":-860,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"bd1e5386a9118ce5",
 			"type":"text",
 			"text":"1.宝鼎科技",
@@ -454,95 +410,6 @@
 			"styleAttributes":{},
 			"x":-2780,
 			"y":-1160,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"b0c7f01a6c757e3c",
-			"type":"text",
-			"text":"煤炭",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-3189,
-			"y":-120,
-			"width":185,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"b285c6971c4c210f",
-			"type":"text",
-			"text":"1.大有能源",
-			"styleAttributes":{},
-			"x":-2804,
-			"y":-120,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"fe2119749e173c91",
-			"type":"text",
-			"text":"==赣锋锂业==",
-			"styleAttributes":{},
-			"x":-2804,
-			"y":70,
-			"width":260,
-			"height":80,
-			"color":"6"
-		},
-		{
-			"id":"9ea748bb9bfa78af",
-			"type":"text",
-			"text":"锂矿",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-3194,
-			"y":80,
-			"width":185,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"e05639bbbef55dbd",
-			"type":"text",
-			"text":"能源",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-3793,
-			"y":-160,
-			"width":140,
-			"height":140,
-			"color":"3"
-		},
-		{
-			"id":"372c8ea67ebea6f9",
-			"type":"text",
-			"text":"==圣泉股份==",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":-2780,
-			"y":-1000,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"fd32d3e5d4a1b6e9",
-			"type":"text",
-			"text":"中东停产断货",
-			"styleAttributes":{},
-			"x":-3562,
-			"y":-1000,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"20fd843cad61dc3a",
-			"type":"text",
-			"text":"==东材科技==",
-			"styleAttributes":{},
-			"x":-2780,
-			"y":-840,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -739,28 +606,6 @@
 			"color":"6"
 		},
 		{
-			"id":"6cbad0b1fc5bb088",
-			"type":"text",
-			"text":"金刚石",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-177,
-			"y":120,
-			"width":130,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"db952ec59d6a9635",
-			"type":"text",
-			"text":"黄河旋风\n国机精工",
-			"styleAttributes":{},
-			"x":260,
-			"y":120,
-			"width":260,
-			"height":80,
-			"color":"6"
-		},
-		{
 			"id":"15c03bf55698c404",
 			"type":"text",
 			"text":"稀土永磁",
@@ -903,15 +748,225 @@
 			"color":"2"
 		},
 		{
+			"id":"fd32d3e5d4a1b6e9",
+			"type":"text",
+			"text":"中东停产断货",
+			"styleAttributes":{},
+			"x":-3562,
+			"y":-860,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"372c8ea67ebea6f9",
+			"type":"text",
+			"text":"==圣泉股份==",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":-2780,
+			"y":-860,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"20fd843cad61dc3a",
+			"type":"text",
+			"text":"==东材科技==",
+			"styleAttributes":{},
+			"x":-2780,
+			"y":-700,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
 			"id":"9ec95bd1a1a40d0e",
 			"type":"text",
 			"text":"合成树脂",
 			"styleAttributes":{"textAlign":"center","shape":"pill"},
 			"x":-3164,
-			"y":-1000,
+			"y":-860,
 			"width":160,
 			"height":60,
 			"color":"2"
+		},
+		{
+			"id":"79c6cc17a57875d7",
+			"type":"text",
+			"text":"锗",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3164,
+			"y":-1020,
+			"width":160,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"21d7bbe8f742c8c9",
+			"type":"text",
+			"text":"有研新材（半导体靶材龙头）",
+			"styleAttributes":{},
+			"x":-2780,
+			"y":-1020,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"aff20309ac08ac45",
+			"type":"text",
+			"text":"1.泰和新材\n2.中天科技\n3.亨通光电",
+			"styleAttributes":{},
+			"x":245,
+			"y":40,
+			"width":260,
+			"height":110,
+			"color":"6"
+		},
+		{
+			"id":"c1e89f3875b388ad",
+			"type":"text",
+			"text":"光纤",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-182,
+			"y":55,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"6cbad0b1fc5bb088",
+			"type":"text",
+			"text":"金刚石",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-182,
+			"y":200,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"db952ec59d6a9635",
+			"type":"text",
+			"text":"黄河旋风\n国机精工",
+			"styleAttributes":{},
+			"x":255,
+			"y":200,
+			"width":260,
+			"height":80,
+			"color":"6"
+		},
+		{
+			"id":"68eb265ffa9cd133",
+			"type":"text",
+			"text":"PCB",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-125,
+			"y":-1180,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"e1dbbd59f324b2a8",
+			"type":"text",
+			"text":"兴森科技",
+			"styleAttributes":{},
+			"x":253,
+			"y":-916,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"b0c7f01a6c757e3c",
+			"type":"text",
+			"text":"煤炭",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-3165,
+			"y":-120,
+			"width":185,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"b285c6971c4c210f",
+			"type":"text",
+			"text":"1.大有能源",
+			"styleAttributes":{},
+			"x":-2780,
+			"y":-120,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"fe2119749e173c91",
+			"type":"text",
+			"text":"==赣锋锂业==",
+			"styleAttributes":{},
+			"x":-2780,
+			"y":70,
+			"width":260,
+			"height":80,
+			"color":"6"
+		},
+		{
+			"id":"9ea748bb9bfa78af",
+			"type":"text",
+			"text":"锂矿",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-3170,
+			"y":80,
+			"width":185,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"e05639bbbef55dbd",
+			"type":"text",
+			"text":"能源",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-3769,
+			"y":-160,
+			"width":140,
+			"height":140,
+			"color":"3"
+		},
+		{
+			"id":"def0ba0c404cf200",
+			"type":"text",
+			"text":"长江存储",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-2240,
+			"y":-3540,
+			"width":280,
+			"height":280,
+			"color":"2"
+		},
+		{
+			"id":"35f63650a38038c1",
+			"type":"text",
+			"text":"长鑫存储",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-467,
+			"y":-3540,
+			"width":280,
+			"height":280,
+			"color":"2"
+		},
+		{
+			"id":"1d76925bbfe75507",
+			"type":"text",
+			"text":"韬定律",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-1363,
+			"y":-4040,
+			"width":427,
+			"height":400,
+			"color":"1"
 		}
 	],
 	"edges":[
@@ -1225,7 +1280,7 @@
 		},
 		{
 			"id":"b1e45abb91949e4d",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
 			"fromNode":"e05639bbbef55dbd",
 			"fromSide":"right",
@@ -1264,6 +1319,7 @@
 			"id":"09a09c4cec717186",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"2ab903496b161f37",
 			"fromSide":"right",
 			"toNode":"f42099aaf388480a",
@@ -1443,6 +1499,7 @@
 			"id":"fb8be39c33492332",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"e3cb6a004c9d778f",
 			"fromSide":"right",
 			"toNode":"37ab90c8f8c7b44b",
@@ -1649,6 +1706,55 @@
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"right",
 			"color":"1"
+		},
+		{
+			"id":"22580885290ad540",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"15c03bf55698c404",
+			"fromSide":"right",
+			"toNode":"79c6cc17a57875d7",
+			"toSide":"left"
+		},
+		{
+			"id":"29cd56346e66765a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"79c6cc17a57875d7",
+			"fromSide":"right",
+			"toNode":"21d7bbe8f742c8c9",
+			"toSide":"left"
+		},
+		{
+			"id":"948ef81b9e8bd6e2",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"def0ba0c404cf200",
+			"fromSide":"bottom",
+			"toNode":"21d7bbe8f742c8c9",
+			"toSide":"right"
+		},
+		{
+			"id":"ff6baf5c9922ab30",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"20fd843cad61dc3a",
+			"fromSide":"right",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"e47f6060fc331932",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"9ec95bd1a1a40d0e",
+			"fromSide":"right",
+			"toNode":"68eb265ffa9cd133",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
