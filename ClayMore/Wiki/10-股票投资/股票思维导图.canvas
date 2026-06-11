@@ -18,7 +18,7 @@
 			"styleAttributes":{"textAlign":"center"},
 			"x":-1079,
 			"y":-2620,
-			"width":2599,
+			"width":3599,
 			"height":60,
 			"color":"2"
 		},
@@ -149,7 +149,7 @@
 			"styleAttributes":{"textAlign":"center"},
 			"x":-4080,
 			"y":-2627,
-			"width":2431,
+			"width":2717,
 			"height":60,
 			"color":"1"
 		},
@@ -583,17 +583,6 @@
 			"color":"2"
 		},
 		{
-			"id":"025aed51989234a1",
-			"type":"text",
-			"text":"电子特气",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3960,
-			"y":-1960,
-			"width":167,
-			"height":160,
-			"color":"3"
-		},
-		{
 			"id":"cfaca9143ddc99d4",
 			"type":"text",
 			"text":"和海峡相关，无法运输\n我国产量低。",
@@ -623,17 +612,6 @@
 			"width":140,
 			"height":80,
 			"color":"1"
-		},
-		{
-			"id":"9543c9f02d0b3214",
-			"type":"text",
-			"text":"快克智能",
-			"styleAttributes":{},
-			"x":253,
-			"y":-100,
-			"width":260,
-			"height":60,
-			"color":"6"
 		},
 		{
 			"id":"c35aa7a540ce3a3c",
@@ -1290,17 +1268,6 @@
 			"color":"2"
 		},
 		{
-			"id":"59adc359a84ab9a4",
-			"type":"text",
-			"text":"斯达半导",
-			"styleAttributes":{},
-			"x":1600,
-			"y":-1884,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"f2d1eb9cd6734db7",
 			"type":"text",
 			"text":"1.==云南锗业==",
@@ -1310,6 +1277,72 @@
 			"width":260,
 			"height":90,
 			"color":"6"
+		},
+		{
+			"id":"025aed51989234a1",
+			"type":"text",
+			"text":"电子特气",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3983,
+			"y":-1960,
+			"width":167,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"9543c9f02d0b3214",
+			"type":"text",
+			"text":"快克智能",
+			"styleAttributes":{},
+			"x":259,
+			"y":-100,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"ac85a7766456d97e",
+			"type":"text",
+			"text":"硅片",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":1240,
+			"y":-1667,
+			"width":132,
+			"height":85,
+			"color":"2"
+		},
+		{
+			"id":"59adc359a84ab9a4",
+			"type":"text",
+			"text":"斯达半导",
+			"styleAttributes":{},
+			"x":1580,
+			"y":-1884,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"c4852a631f72281e",
+			"type":"text",
+			"text":"立昂微",
+			"styleAttributes":{},
+			"x":1580,
+			"y":-1654,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"95e013b3fb77fed4",
+			"type":"text",
+			"text":"后面看好",
+			"styleAttributes":{"shape":"document"},
+			"x":1960,
+			"y":-1654,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[
@@ -1479,16 +1512,6 @@
 			"fromNode":"ee3f373e3dc28eb6",
 			"fromSide":"right",
 			"toNode":"99660e2e22e6f43b",
-			"toSide":"left"
-		},
-		{
-			"id":"119fa99e13a06ced",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"784951aee9e86de7",
-			"fromSide":"right",
-			"toNode":"f2d1eb9cd6734db7",
 			"toSide":"left"
 		},
 		{
@@ -1747,7 +1770,8 @@
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
-			"color":"1"
+			"color":"1",
+			"label":"已买"
 		},
 		{
 			"id":"b252e69ec8a07db2",
@@ -1921,7 +1945,7 @@
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
 			"color":"2",
-			"label":"+"
+			"label":"已买"
 		},
 		{
 			"id":"384e0aa378180df9",
@@ -1991,12 +2015,13 @@
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
 			"color":"1",
-			"label":"+"
+			"label":"已买"
 		},
 		{
 			"id":"a8cbef5e7be9cd6e",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"471ff60a6edc1ae2",
 			"fromSide":"right",
 			"toNode":"7dd015a597669a29",
@@ -2168,7 +2193,8 @@
 			"fromSide":"left",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"right",
-			"color":"1"
+			"color":"1",
+			"label":"已买"
 		},
 		{
 			"id":"693509242e5cd1f4",
@@ -2455,6 +2481,33 @@
 			"fromNode":"1f9d1de0a3ac687d",
 			"fromSide":"bottom",
 			"toNode":"d4d2470d41893e6c",
+			"toSide":"left"
+		},
+		{
+			"id":"2ad84540a53d263a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ac85a7766456d97e",
+			"fromSide":"right",
+			"toNode":"c4852a631f72281e",
+			"toSide":"left"
+		},
+		{
+			"id":"918ea42c32eaf1d6",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"1f9d1de0a3ac687d",
+			"fromSide":"bottom",
+			"toNode":"ac85a7766456d97e",
+			"toSide":"left"
+		},
+		{
+			"id":"2719b646a72e7008",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c4852a631f72281e",
+			"fromSide":"right",
+			"toNode":"95e013b3fb77fed4",
 			"toSide":"left"
 		}
 	],
