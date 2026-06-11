@@ -2405,6 +2405,17 @@
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
 			"color":"1"
+		},
+		{
+			"id":"46c7d9f66739c0e8",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"21d7bbe8f742c8c9",
+			"fromSide":"right",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"left",
+			"color":"1"
 		}
 	],
 	"metadata":{
