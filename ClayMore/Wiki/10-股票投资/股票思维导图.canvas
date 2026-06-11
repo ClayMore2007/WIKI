@@ -78,16 +78,6 @@
 			"color":"6"
 		},
 		{
-			"id":"5da5ae32a5ad55cb",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":1680,
-			"y":-2610,
-			"width":60,
-			"height":4316
-		},
-		{
 			"id":"4cb352e4b33cedbd",
 			"type":"text",
 			"text":"",
@@ -162,17 +152,6 @@
 			"width":2431,
 			"height":60,
 			"color":"1"
-		},
-		{
-			"id":"8c7f2b824b30af59",
-			"type":"text",
-			"text":"下游",
-			"styleAttributes":{"textAlign":"center"},
-			"x":2320,
-			"y":-2604,
-			"width":1840,
-			"height":60,
-			"color":"3"
 		},
 		{
 			"id":"8f9c7cfc4e6b7dac",
@@ -381,17 +360,6 @@
 			"width":260,
 			"height":60,
 			"color":"4"
-		},
-		{
-			"id":"f13361cd17bfdcad",
-			"type":"text",
-			"text":"电池",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-1600,
-			"y":-780,
-			"width":135,
-			"height":80,
-			"color":"2"
 		},
 		{
 			"id":"372c8ea67ebea6f9",
@@ -1247,17 +1215,6 @@
 			"color":"2"
 		},
 		{
-			"id":"f2d1eb9cd6734db7",
-			"type":"text",
-			"text":"1.==云南锗业==",
-			"styleAttributes":{},
-			"x":-2774,
-			"y":-2383,
-			"width":260,
-			"height":120,
-			"color":"6"
-		},
-		{
 			"id":"f10ada06eb6722b6",
 			"type":"text",
 			"text":"1.6月底-7月永久初断供\n2.半导体不可替代的特殊其他",
@@ -1287,6 +1244,71 @@
 			"y":-1880,
 			"width":260,
 			"height":61,
+			"color":"6"
+		},
+		{
+			"id":"f13361cd17bfdcad",
+			"type":"text",
+			"text":"电池",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-1640,
+			"y":-738,
+			"width":135,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"8c7f2b824b30af59",
+			"type":"text",
+			"text":"下游",
+			"styleAttributes":{"textAlign":"center"},
+			"x":3680,
+			"y":-2604,
+			"width":1840,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"5da5ae32a5ad55cb",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":3040,
+			"y":-2610,
+			"width":60,
+			"height":4316
+		},
+		{
+			"id":"f8559b7e17820e8c",
+			"type":"text",
+			"text":"IGBT",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":1240,
+			"y":-1897,
+			"width":132,
+			"height":85,
+			"color":"2"
+		},
+		{
+			"id":"59adc359a84ab9a4",
+			"type":"text",
+			"text":"斯达半导",
+			"styleAttributes":{},
+			"x":1600,
+			"y":-1884,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"f2d1eb9cd6734db7",
+			"type":"text",
+			"text":"1.==云南锗业==",
+			"styleAttributes":{},
+			"x":-2774,
+			"y":-2368,
+			"width":260,
+			"height":90,
 			"color":"6"
 		}
 	],
@@ -1370,7 +1392,7 @@
 			"fromNode":"1f9d1de0a3ac687d",
 			"fromSide":"bottom",
 			"toNode":"c7bc7a9b0ea8162f",
-			"toSide":"top"
+			"toSide":"left"
 		},
 		{
 			"id":"7d041f06429227ce",
@@ -2031,16 +2053,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"948ef81b9e8bd6e2",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"def0ba0c404cf200",
-			"fromSide":"bottom",
-			"toNode":"21d7bbe8f742c8c9",
-			"toSide":"right"
-		},
-		{
 			"id":"ff6baf5c9922ab30",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
@@ -2055,6 +2067,7 @@
 			"id":"e47f6060fc331932",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"9ec95bd1a1a40d0e",
 			"fromSide":"right",
 			"toNode":"68eb265ffa9cd133",
@@ -2416,6 +2429,33 @@
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
 			"color":"1"
+		},
+		{
+			"id":"a265886a8ce26e5f",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"1f9d1de0a3ac687d",
+			"fromSide":"bottom",
+			"toNode":"f8559b7e17820e8c",
+			"toSide":"left"
+		},
+		{
+			"id":"f5ffb156e8adf264",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f8559b7e17820e8c",
+			"fromSide":"right",
+			"toNode":"59adc359a84ab9a4",
+			"toSide":"left"
+		},
+		{
+			"id":"1a5e3feca41b2097",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"1f9d1de0a3ac687d",
+			"fromSide":"bottom",
+			"toNode":"d4d2470d41893e6c",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
