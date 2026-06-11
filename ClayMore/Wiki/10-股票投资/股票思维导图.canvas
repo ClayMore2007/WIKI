@@ -593,28 +593,6 @@
 			"height":60
 		},
 		{
-			"id":"78edc833870a1691",
-			"type":"text",
-			"text":"1.中船特气\n2.==昊华科技==（这周卖掉？）\n3.==和远气体==\n4.多氟多",
-			"styleAttributes":{},
-			"x":-2774,
-			"y":-2047,
-			"width":260,
-			"height":125,
-			"color":"6"
-		},
-		{
-			"id":"bf71618ca70164ac",
-			"type":"text",
-			"text":"六氟化钨",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3164,
-			"y":-2012,
-			"width":160,
-			"height":60,
-			"color":"1"
-		},
-		{
 			"id":"784951aee9e86de7",
 			"type":"text",
 			"text":"材料",
@@ -637,16 +615,6 @@
 			"color":"2"
 		},
 		{
-			"id":"f10ada06eb6722b6",
-			"type":"text",
-			"text":"1.6月底-7月永久初断供\n2.半导体不可替代的特殊其他",
-			"styleAttributes":{},
-			"x":-3580,
-			"y":-2019,
-			"width":260,
-			"height":74
-		},
-		{
 			"id":"025aed51989234a1",
 			"type":"text",
 			"text":"电子特气",
@@ -656,17 +624,6 @@
 			"width":167,
 			"height":160,
 			"color":"3"
-		},
-		{
-			"id":"105401b2e2a91ffa",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-2774,
-			"y":-1880,
-			"width":260,
-			"height":60,
-			"color":"6"
 		},
 		{
 			"id":"cfaca9143ddc99d4",
@@ -1095,50 +1052,6 @@
 			"height":60
 		},
 		{
-			"id":"1d921c4505ae216a",
-			"type":"text",
-			"text":"硫磺",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3164,
-			"y":-2160,
-			"width":160,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"8715840d1684ca69",
-			"type":"text",
-			"text":"兴发集团",
-			"styleAttributes":{},
-			"x":-2774,
-			"y":-2160,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"e3d3312a94da47e6",
-			"type":"text",
-			"text":"锗",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3164,
-			"y":-2330,
-			"width":160,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"f2d1eb9cd6734db7",
-			"type":"text",
-			"text":"1.==云南锗业==",
-			"styleAttributes":{},
-			"x":-2774,
-			"y":-2360,
-			"width":260,
-			"height":120,
-			"color":"6"
-		},
-		{
 			"id":"bf55d2ad95e9eb66",
 			"type":"text",
 			"text":"光模块",
@@ -1288,6 +1201,93 @@
 			"y":2528,
 			"width":285,
 			"height":95
+		},
+		{
+			"id":"78edc833870a1691",
+			"type":"text",
+			"text":"1.中船特气\n2.==昊华科技==（这周卖掉？）\n3.==和远气体==\n4.多氟多",
+			"styleAttributes":{},
+			"x":-2774,
+			"y":-2070,
+			"width":260,
+			"height":125,
+			"color":"6"
+		},
+		{
+			"id":"bf71618ca70164ac",
+			"type":"text",
+			"text":"六氟化钨",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3164,
+			"y":-2035,
+			"width":160,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"1d921c4505ae216a",
+			"type":"text",
+			"text":"硫磺",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3164,
+			"y":-2183,
+			"width":160,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"e3d3312a94da47e6",
+			"type":"text",
+			"text":"锗",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3164,
+			"y":-2353,
+			"width":160,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"f2d1eb9cd6734db7",
+			"type":"text",
+			"text":"1.==云南锗业==",
+			"styleAttributes":{},
+			"x":-2774,
+			"y":-2383,
+			"width":260,
+			"height":120,
+			"color":"6"
+		},
+		{
+			"id":"f10ada06eb6722b6",
+			"type":"text",
+			"text":"1.6月底-7月永久初断供\n2.半导体不可替代的特殊其他",
+			"styleAttributes":{},
+			"x":-3580,
+			"y":-2042,
+			"width":260,
+			"height":74
+		},
+		{
+			"id":"8715840d1684ca69",
+			"type":"text",
+			"text":"粤桂股份",
+			"styleAttributes":{},
+			"x":-2774,
+			"y":-2183,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"105401b2e2a91ffa",
+			"type":"text",
+			"text":"兴发集团\n",
+			"styleAttributes":{},
+			"x":-2774,
+			"y":-1880,
+			"width":260,
+			"height":61,
+			"color":"6"
 		}
 	],
 	"edges":[
@@ -1713,7 +1713,7 @@
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
-			"color":"1",
+			"color":"2",
 			"label":"\n"
 		},
 		{
@@ -1722,6 +1722,17 @@
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"cbc17fd15ec26725",
+			"fromSide":"right",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"b252e69ec8a07db2",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f42099aaf388480a",
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
@@ -1887,7 +1898,7 @@
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
-			"color":"1",
+			"color":"2",
 			"label":"+"
 		},
 		{
@@ -1957,7 +1968,7 @@
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
-			"color":"2",
+			"color":"1",
 			"label":"+"
 		},
 		{
@@ -1988,16 +1999,6 @@
 			"fromSide":"right",
 			"toNode":"a88c680cd534f261",
 			"toSide":"left"
-		},
-		{
-			"id":"a7b643f363dc27d6",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromNode":"7dd015a597669a29",
-			"fromSide":"left",
-			"toNode":"efbc2be777a9d24f",
-			"toSide":"right",
-			"color":"2"
 		},
 		{
 			"id":"94a93315c66d2bc2",
@@ -2048,7 +2049,7 @@
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
-			"color":"1"
+			"color":"2"
 		},
 		{
 			"id":"e47f6060fc331932",
@@ -2185,6 +2186,16 @@
 			"toSide":"left"
 		},
 		{
+			"id":"a7b643f363dc27d6",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"7dd015a597669a29",
+			"fromSide":"left",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"right",
+			"color":"2"
+		},
+		{
 			"id":"6dd11158f5d3b596",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
@@ -2226,17 +2237,6 @@
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"8715840d1684ca69",
-			"fromSide":"right",
-			"toNode":"efbc2be777a9d24f",
-			"toSide":"left",
-			"color":"2"
-		},
-		{
-			"id":"b252e69ec8a07db2",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"f42099aaf388480a",
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
@@ -2394,6 +2394,17 @@
 			"fromSide":"top",
 			"toNode":"f0bb7bda906dfd1d",
 			"toSide":"bottom"
+		},
+		{
+			"id":"3ca75b11f4ede6e2",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"105401b2e2a91ffa",
+			"fromSide":"right",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"left",
+			"color":"1"
 		}
 	],
 	"metadata":{
