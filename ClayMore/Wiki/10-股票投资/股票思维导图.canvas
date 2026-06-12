@@ -1151,7 +1151,7 @@
 		{
 			"id":"78edc833870a1691",
 			"type":"text",
-			"text":"1.中船特气\n2.==昊华科技==（这周卖掉？）\n3.==和远气体==\n4.多氟多",
+			"text":"1.中船特气\n2.==昊华科技==（这周卖掉？）\n3.==和远气体==\n4.==多氟多==",
 			"styleAttributes":{},
 			"x":-2774,
 			"y":-2070,
@@ -1171,28 +1171,6 @@
 			"color":"1"
 		},
 		{
-			"id":"1d921c4505ae216a",
-			"type":"text",
-			"text":"硫磺",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3164,
-			"y":-2183,
-			"width":160,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"e3d3312a94da47e6",
-			"type":"text",
-			"text":"锗",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3164,
-			"y":-2353,
-			"width":160,
-			"height":60,
-			"color":"2"
-		},
-		{
 			"id":"f10ada06eb6722b6",
 			"type":"text",
 			"text":"1.6月底-7月永久初断供\n2.半导体不可替代的特殊其他",
@@ -1201,17 +1179,6 @@
 			"y":-2042,
 			"width":260,
 			"height":74
-		},
-		{
-			"id":"8715840d1684ca69",
-			"type":"text",
-			"text":"粤桂股份",
-			"styleAttributes":{},
-			"x":-2774,
-			"y":-2183,
-			"width":260,
-			"height":60,
-			"color":"6"
 		},
 		{
 			"id":"105401b2e2a91ffa",
@@ -1266,17 +1233,6 @@
 			"width":132,
 			"height":85,
 			"color":"2"
-		},
-		{
-			"id":"f2d1eb9cd6734db7",
-			"type":"text",
-			"text":"1.==云南锗业==",
-			"styleAttributes":{},
-			"x":-2774,
-			"y":-2368,
-			"width":260,
-			"height":90,
-			"color":"6"
 		},
 		{
 			"id":"025aed51989234a1",
@@ -1349,8 +1305,8 @@
 			"type":"text",
 			"text":"光",
 			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-5760,
-			"y":1845,
+			"x":-4350,
+			"y":1066,
 			"width":660,
 			"height":160,
 			"color":"3"
@@ -1360,8 +1316,8 @@
 			"type":"text",
 			"text":"芯片",
 			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-5760,
-			"y":2085,
+			"x":-4350,
+			"y":1306,
 			"width":660,
 			"height":160,
 			"color":"3"
@@ -1371,11 +1327,118 @@
 			"type":"text",
 			"text":"存储",
 			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-5760,
-			"y":2325,
+			"x":-4350,
+			"y":1546,
 			"width":660,
 			"height":160,
 			"color":"3"
+		},
+		{
+			"id":"de078e0c53cbbf6e",
+			"type":"text",
+			"text":"涨过",
+			"styleAttributes":{},
+			"x":-3450,
+			"y":1226,
+			"width":100,
+			"height":65
+		},
+		{
+			"id":"572d6c16bdf8bd1c",
+			"type":"text",
+			"text":"涨的不多",
+			"styleAttributes":{},
+			"x":-3450,
+			"y":1594,
+			"width":120,
+			"height":65
+		},
+		{
+			"id":"dbafb7e7bb65897d",
+			"type":"text",
+			"text":"鼎泰高科（龙头）",
+			"styleAttributes":{},
+			"x":253,
+			"y":-620,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"ee33f367c9bbfd94",
+			"type":"text",
+			"text":"耗材，消耗量极大",
+			"styleAttributes":{},
+			"x":-117,
+			"y":-620,
+			"width":202,
+			"height":60
+		},
+		{
+			"id":"1d921c4505ae216a",
+			"type":"text",
+			"text":"硫磺",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3164,
+			"y":-2315,
+			"width":160,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"e3d3312a94da47e6",
+			"type":"text",
+			"text":"锗",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3164,
+			"y":-2485,
+			"width":160,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"f2d1eb9cd6734db7",
+			"type":"text",
+			"text":"1.==云南锗业==",
+			"styleAttributes":{},
+			"x":-2774,
+			"y":-2500,
+			"width":260,
+			"height":90,
+			"color":"6"
+		},
+		{
+			"id":"8715840d1684ca69",
+			"type":"text",
+			"text":"粤桂股份",
+			"styleAttributes":{},
+			"x":-2774,
+			"y":-2315,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"80a563c77994fbfe",
+			"type":"text",
+			"text":"氢氟酸",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3164,
+			"y":-2180,
+			"width":160,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"b407cdfbee71685a",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-2780,
+			"y":-2180,
+			"width":266,
+			"height":60,
+			"color":"6"
 		}
 	],
 	"edges":[
@@ -2105,6 +2168,7 @@
 			"id":"29cd56346e66765a",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"79c6cc17a57875d7",
 			"fromSide":"right",
 			"toNode":"21d7bbe8f742c8c9",
@@ -2542,6 +2606,79 @@
 			"fromNode":"c4852a631f72281e",
 			"fromSide":"right",
 			"toNode":"95e013b3fb77fed4",
+			"toSide":"left"
+		},
+		{
+			"id":"79a58e1af2e6601e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8c549156d95ba304",
+			"fromSide":"right",
+			"toNode":"de078e0c53cbbf6e",
+			"toSide":"left"
+		},
+		{
+			"id":"39ef7dacd3a6e983",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"780089cdd1a6cee1",
+			"fromSide":"right",
+			"toNode":"de078e0c53cbbf6e",
+			"toSide":"left"
+		},
+		{
+			"id":"3b589132d25f807b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3d8782eff9c7d665",
+			"fromSide":"right",
+			"toNode":"572d6c16bdf8bd1c",
+			"toSide":"left"
+		},
+		{
+			"id":"079f19bc9f4df7a3",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"3d8782eff9c7d665",
+			"fromSide":"right",
+			"toNode":"2ddcb0d4ca3811a0",
+			"toSide":"left"
+		},
+		{
+			"id":"03087d1d928df7e1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"68eb265ffa9cd133",
+			"fromSide":"right",
+			"toNode":"dbafb7e7bb65897d",
+			"toSide":"left",
+			"label":"钻针"
+		},
+		{
+			"id":"ab1f2f3f34c88f07",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"dbafb7e7bb65897d",
+			"fromSide":"left",
+			"toNode":"ee33f367c9bbfd94",
+			"toSide":"right"
+		},
+		{
+			"id":"5188ced5dffac35d",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"784951aee9e86de7",
+			"fromSide":"right",
+			"toNode":"80a563c77994fbfe",
+			"toSide":"left"
+		},
+		{
+			"id":"913fbab0d692a942",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"80a563c77994fbfe",
+			"fromSide":"right",
+			"toNode":"b407cdfbee71685a",
 			"toSide":"left"
 		}
 	],
