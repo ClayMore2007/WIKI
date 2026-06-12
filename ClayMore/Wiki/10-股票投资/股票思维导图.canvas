@@ -1349,9 +1349,31 @@
 			"type":"text",
 			"text":"光",
 			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":640,
-			"y":-4493,
-			"width":167,
+			"x":-5760,
+			"y":1845,
+			"width":660,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"780089cdd1a6cee1",
+			"type":"text",
+			"text":"芯片",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-5760,
+			"y":2085,
+			"width":660,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"3d8782eff9c7d665",
+			"type":"text",
+			"text":"存储",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-5760,
+			"y":2325,
+			"width":660,
 			"height":160,
 			"color":"3"
 		}
