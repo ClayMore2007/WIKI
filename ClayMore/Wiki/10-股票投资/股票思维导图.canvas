@@ -2410,6 +2410,7 @@
 			"id":"af47dc3deeb778e5",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"ea992024feb8dac1",
 			"fromSide":"right",
 			"toNode":"d4d2470d41893e6c",
