@@ -1343,6 +1343,17 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"8c549156d95ba304",
+			"type":"text",
+			"text":"光",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":640,
+			"y":-4493,
+			"width":167,
+			"height":160,
+			"color":"3"
 		}
 	],
 	"edges":[
