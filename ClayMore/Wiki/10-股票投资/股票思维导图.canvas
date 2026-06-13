@@ -107,7 +107,7 @@
 			"y":-1730,
 			"width":160,
 			"height":60,
-			"color":"2"
+			"color":"1"
 		},
 		{
 			"id":"f42099aaf388480a",
@@ -127,17 +127,6 @@
 			"styleAttributes":{},
 			"x":-2774,
 			"y":-1570,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"7984409ea3d9c49d",
-			"type":"text",
-			"text":"红星发展",
-			"styleAttributes":{},
-			"x":-2774,
-			"y":-1443,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -286,17 +275,6 @@
 			"color":"5"
 		},
 		{
-			"id":"784951aee9e86de7",
-			"type":"text",
-			"text":"材料",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3983,
-			"y":-2260,
-			"width":167,
-			"height":160,
-			"color":"3"
-		},
-		{
 			"id":"40d8fecd163e8103",
 			"type":"text",
 			"text":"氦气",
@@ -318,30 +296,6 @@
 			"height":75
 		},
 		{
-			"id":"c35aa7a540ce3a3c",
-			"type":"text",
-			"text":"1.大族激光",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":228,
-			"y":939,
-			"width":213,
-			"height":61,
-			"color":"6"
-		},
-		{
-			"id":"6b02ddc97089940b",
-			"type":"text",
-			"text":"1.彩虹股份\n2.凯盛科技\n华工科技",
-			"styleAttributes":{},
-			"x":228,
-			"y":1060,
-			"width":220,
-			"height":120,
-			"color":"6"
-		},
-		{
 			"id":"baca6b66e0656ac7",
 			"type":"text",
 			"text":"玻璃基板",
@@ -353,17 +307,6 @@
 			"color":"5"
 		},
 		{
-			"id":"2d86d590a11b65dc",
-			"type":"text",
-			"text":"1.沃格光电\n2.红星发展\n3==.京东方A==（中军）（散户多，等洗）\n4.凯盛科技",
-			"styleAttributes":{},
-			"x":228,
-			"y":1249,
-			"width":333,
-			"height":120,
-			"color":"6"
-		},
-		{
 			"id":"bc9950e53a43ddb7",
 			"type":"text",
 			"text":"半导体",
@@ -373,17 +316,6 @@
 			"width":130,
 			"height":80,
 			"color":"5"
-		},
-		{
-			"id":"aff20309ac08ac45",
-			"type":"text",
-			"text":"1.泰和新材\n2.中天科技\n3.亨通光电",
-			"styleAttributes":{},
-			"x":231,
-			"y":599,
-			"width":260,
-			"height":110,
-			"color":"6"
 		},
 		{
 			"id":"c1e89f3875b388ad",
@@ -417,17 +349,6 @@
 			"width":130,
 			"height":80,
 			"color":"5"
-		},
-		{
-			"id":"db952ec59d6a9635",
-			"type":"text",
-			"text":"黄河旋风\n国机精工",
-			"styleAttributes":{},
-			"x":241,
-			"y":759,
-			"width":260,
-			"height":80,
-			"color":"6"
 		},
 		{
 			"id":"9164ab4801780b0d",
@@ -950,60 +871,6 @@
 			"color":"6"
 		},
 		{
-			"id":"e3d3312a94da47e6",
-			"type":"text",
-			"text":"锗",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3164,
-			"y":-2465,
-			"width":160,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"f2d1eb9cd6734db7",
-			"type":"text",
-			"text":"1.==云南锗业==",
-			"styleAttributes":{},
-			"x":-2774,
-			"y":-2480,
-			"width":260,
-			"height":90,
-			"color":"6"
-		},
-		{
-			"id":"c29969c291d435dc",
-			"type":"text",
-			"text":"壁垒不高，扩产时间不长，国产替代",
-			"styleAttributes":{"shape":"document"},
-			"x":-2420,
-			"y":-2180,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"8c0ac6fb05dbc038",
-			"type":"text",
-			"text":"还有库存，等回调",
-			"styleAttributes":{"shape":"document"},
-			"x":-2420,
-			"y":-1879,
-			"width":200,
-			"height":60
-		},
-		{
-			"id":"b2ec613494bfb60f",
-			"type":"text",
-			"text":"安集科技",
-			"styleAttributes":{},
-			"x":1560,
-			"y":-2252,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"85f530d09e6f7a95",
 			"type":"text",
 			"text":"抛光液",
@@ -1125,28 +992,6 @@
 			"color":"5"
 		},
 		{
-			"id":"94643c324cfb7538",
-			"type":"text",
-			"text":"雅克科技",
-			"styleAttributes":{},
-			"x":1574,
-			"y":-2002,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"59adc359a84ab9a4",
-			"type":"text",
-			"text":"斯达半导",
-			"styleAttributes":{},
-			"x":1594,
-			"y":-1782,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"c4852a631f72281e",
 			"type":"text",
 			"text":"立昂微",
@@ -1200,17 +1045,6 @@
 			"width":132,
 			"height":85,
 			"color":"5"
-		},
-		{
-			"id":"99bab89617a71d5c",
-			"type":"text",
-			"text":"鼎龙股份",
-			"styleAttributes":{},
-			"x":1574,
-			"y":-2140,
-			"width":260,
-			"height":60,
-			"color":"6"
 		},
 		{
 			"id":"3bff65ee98719d4a",
@@ -1333,28 +1167,6 @@
 			"color":"#ff0000"
 		},
 		{
-			"id":"342adcce3270b51b",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{"shape":"document"},
-			"x":-2350,
-			"y":-2465,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"700308db3442425a",
-			"type":"text",
-			"text":"后期空间大，现在良率底",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":640,
-			"y":-600,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"5ee447d780d66439",
 			"type":"text",
 			"text":"光",
@@ -1468,7 +1280,11 @@
 			"id":"9ec95bd1a1a40d0e",
 			"type":"text",
 			"text":"合成树脂",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
 			"x":1879,
 			"y":-101,
 			"width":160,
@@ -1487,27 +1303,6 @@
 			"width":260,
 			"height":60,
 			"color":"6"
-		},
-		{
-			"id":"aaede63fe73a4db3",
-			"type":"text",
-			"text":"待验证，需要长期跟踪，暂时只能抄不能投资",
-			"styleAttributes":{},
-			"x":2677,
-			"y":-101,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"20fd843cad61dc3a",
-			"type":"text",
-			"text":"东材科技",
-			"styleAttributes":{},
-			"x":2257,
-			"y":-51,
-			"width":260,
-			"height":60,
-			"color":"2"
 		},
 		{
 			"id":"a2ba923e20e14603",
@@ -1587,28 +1382,6 @@
 			"color":"4"
 		},
 		{
-			"id":"fb12c9bdeae22dca",
-			"type":"text",
-			"text":"华正新材",
-			"styleAttributes":{},
-			"x":1814,
-			"y":240,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"644bff531a1da38c",
-			"type":"text",
-			"text":"K线走势好",
-			"styleAttributes":{"shape":"document"},
-			"x":2165,
-			"y":240,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"28b393b0127cca43",
 			"type":"text",
 			"text":"三代通过台系认证，四代送样",
@@ -1640,17 +1413,6 @@
 			"height":60
 		},
 		{
-			"id":"471ff60a6edc1ae2",
-			"type":"text",
-			"text":"电子布",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":1458,
-			"y":-790,
-			"width":160,
-			"height":90,
-			"color":"2"
-		},
-		{
 			"id":"68eb265ffa9cd133",
 			"type":"text",
 			"text":"PCB",
@@ -1659,7 +1421,7 @@
 			"y":-671,
 			"width":196,
 			"height":192,
-			"color":"1"
+			"color":"#ff0000"
 		},
 		{
 			"id":"650b02eef2211403",
@@ -1681,6 +1443,280 @@
 			"width":188,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"accafd80c34d3be4",
+			"type":"text",
+			"text":"磷化铟",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3164,
+			"y":-900,
+			"width":160,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"a2e6b67b941d9146",
+			"type":"text",
+			"text":"锡业股份（龙头）",
+			"styleAttributes":{},
+			"x":-2780,
+			"y":-900,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"a703deb73a1557bd",
+			"type":"text",
+			"text":"高纯度红磷被主要依赖日本进口，国产正在突破",
+			"styleAttributes":{},
+			"x":-3540,
+			"y":-900,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"471ff60a6edc1ae2",
+			"type":"text",
+			"text":"电子布",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":1458,
+			"y":-790,
+			"width":160,
+			"height":90,
+			"color":"2"
+		},
+		{
+			"id":"fb12c9bdeae22dca",
+			"type":"text",
+			"text":"华正新材",
+			"styleAttributes":{},
+			"x":1879,
+			"y":240,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"644bff531a1da38c",
+			"type":"text",
+			"text":"K线走势好",
+			"styleAttributes":{"shape":"document"},
+			"x":2230,
+			"y":240,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"700308db3442425a",
+			"type":"text",
+			"text":"后期空间大，现在良率底",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":640,
+			"y":-605,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c29969c291d435dc",
+			"type":"text",
+			"text":"壁垒不高，扩产时间不长，国产替代",
+			"styleAttributes":{"shape":"document"},
+			"x":-2350,
+			"y":-2180,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"8c0ac6fb05dbc038",
+			"type":"text",
+			"text":"还有库存，等回调",
+			"styleAttributes":{"shape":"document"},
+			"x":-2350,
+			"y":-1879,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"7984409ea3d9c49d",
+			"type":"text",
+			"text":"红星发展",
+			"styleAttributes":{},
+			"x":-2771,
+			"y":-1427,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"b2ec613494bfb60f",
+			"type":"text",
+			"text":"安集科技",
+			"styleAttributes":{},
+			"x":1611,
+			"y":-2252,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"99bab89617a71d5c",
+			"type":"text",
+			"text":"鼎龙股份",
+			"styleAttributes":{},
+			"x":1611,
+			"y":-2140,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"94643c324cfb7538",
+			"type":"text",
+			"text":"雅克科技",
+			"styleAttributes":{},
+			"x":1611,
+			"y":-2002,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"59adc359a84ab9a4",
+			"type":"text",
+			"text":"斯达半导",
+			"styleAttributes":{},
+			"x":1611,
+			"y":-1782,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"aff20309ac08ac45",
+			"type":"text",
+			"text":"1.泰和新材\n2.中天科技\n3.亨通光电",
+			"styleAttributes":{},
+			"x":265,
+			"y":599,
+			"width":260,
+			"height":110,
+			"color":"6"
+		},
+		{
+			"id":"db952ec59d6a9635",
+			"type":"text",
+			"text":"黄河旋风\n国机精工",
+			"styleAttributes":{},
+			"x":265,
+			"y":759,
+			"width":260,
+			"height":80,
+			"color":"6"
+		},
+		{
+			"id":"c35aa7a540ce3a3c",
+			"type":"text",
+			"text":"1.大族激光",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":258,
+			"y":939,
+			"width":213,
+			"height":61,
+			"color":"6"
+		},
+		{
+			"id":"6b02ddc97089940b",
+			"type":"text",
+			"text":"1.彩虹股份\n2.凯盛科技\n华工科技",
+			"styleAttributes":{},
+			"x":258,
+			"y":1060,
+			"width":220,
+			"height":120,
+			"color":"6"
+		},
+		{
+			"id":"2d86d590a11b65dc",
+			"type":"text",
+			"text":"1.沃格光电\n2.红星发展\n3==.京东方A==（中军）（散户多，等洗）\n4.凯盛科技",
+			"styleAttributes":{},
+			"x":258,
+			"y":1249,
+			"width":333,
+			"height":120,
+			"color":"6"
+		},
+		{
+			"id":"784951aee9e86de7",
+			"type":"text",
+			"text":"材料",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3983,
+			"y":-2230,
+			"width":167,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"20fd843cad61dc3a",
+			"type":"text",
+			"text":"东材科技",
+			"styleAttributes":{},
+			"x":2257,
+			"y":-41,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"aaede63fe73a4db3",
+			"type":"text",
+			"text":"待验证，需要长期跟踪，暂时只能抄不能投资",
+			"styleAttributes":{},
+			"x":2680,
+			"y":-81,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e3d3312a94da47e6",
+			"type":"text",
+			"text":"锗",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3170,
+			"y":-768,
+			"width":160,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"f2d1eb9cd6734db7",
+			"type":"text",
+			"text":"1.==云南锗业==",
+			"styleAttributes":{},
+			"x":-2780,
+			"y":-768,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"342adcce3270b51b",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"document"},
+			"x":-2360,
+			"y":-768,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -2088,18 +2124,6 @@
 			"fromSide":"right",
 			"toNode":"e1dbbd59f324b2a8",
 			"toSide":"left"
-		},
-		{
-			"id":"f9d428cc863b18b1",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"fe2119749e173c91",
-			"fromSide":"right",
-			"toNode":"efbc2be777a9d24f",
-			"toSide":"left",
-			"color":"2",
-			"label":"\n"
 		},
 		{
 			"id":"b252e69ec8a07db2",
@@ -3164,6 +3188,62 @@
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"right",
 			"color":"2"
+		},
+		{
+			"id":"5794926ee7d3c01d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"15c03bf55698c404",
+			"fromSide":"right",
+			"toNode":"accafd80c34d3be4",
+			"toSide":"left"
+		},
+		{
+			"id":"11359cab1ac5b52a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"accafd80c34d3be4",
+			"fromSide":"right",
+			"toNode":"a2e6b67b941d9146",
+			"toSide":"left"
+		},
+		{
+			"id":"2de993875461e581",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"accafd80c34d3be4",
+			"fromSide":"left",
+			"toNode":"a703deb73a1557bd",
+			"toSide":"right"
+		},
+		{
+			"id":"a9cd4ca4bbf7d2f9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"accafd80c34d3be4",
+			"fromSide":"right",
+			"toNode":"f2d1eb9cd6734db7",
+			"toSide":"left"
+		},
+		{
+			"id":"4ed322b444393565",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f2d1eb9cd6734db7",
+			"fromSide":"right",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"left",
+			"color":"2"
+		},
+		{
+			"id":"b7eea4e7644179e5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a2e6b67b941d9146",
+			"fromSide":"right",
+			"toNode":"ff311cd31e94985a",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
