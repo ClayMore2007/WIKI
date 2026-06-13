@@ -198,27 +198,6 @@
 			"color":"6"
 		},
 		{
-			"id":"15c03bf55698c404",
-			"type":"text",
-			"text":"稀土永磁",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3562,
-			"y":-1570,
-			"width":160,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"650b02eef2211403",
-			"type":"text",
-			"text":"断供日本",
-			"styleAttributes":{},
-			"x":-3920,
-			"y":-1570,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"7193dc9ab71a1759",
 			"type":"text",
 			"text":"氧化镝",
@@ -261,61 +240,6 @@
 			"width":160,
 			"height":60,
 			"color":"2"
-		},
-		{
-			"id":"471ff60a6edc1ae2",
-			"type":"text",
-			"text":"电子布",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-152,
-			"y":-2380,
-			"width":160,
-			"height":90,
-			"color":"2"
-		},
-		{
-			"id":"1a24da6bea0133d8",
-			"type":"text",
-			"text":"XD宏和科 （龙头）\n",
-			"styleAttributes":{},
-			"x":250,
-			"y":-2365,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"7dd015a597669a29",
-			"type":"text",
-			"text":"菲力华",
-			"styleAttributes":{},
-			"x":250,
-			"y":-2240,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"a2ba923e20e14603",
-			"type":"text",
-			"text":"中国巨石\n",
-			"styleAttributes":{},
-			"x":250,
-			"y":-2480,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"a88c680cd534f261",
-			"type":"text",
-			"text":"快启动了",
-			"styleAttributes":{"shape":"document"},
-			"x":600,
-			"y":-2240,
-			"width":260,
-			"height":60,
-			"color":"4"
 		},
 		{
 			"id":"372c8ea67ebea6f9",
@@ -373,17 +297,6 @@
 			"width":132,
 			"height":85,
 			"color":"2"
-		},
-		{
-			"id":"bd1e5386a9118ce5",
-			"type":"text",
-			"text":"1.宝鼎科技",
-			"styleAttributes":{},
-			"x":250,
-			"y":-853,
-			"width":260,
-			"height":65,
-			"color":"6"
 		},
 		{
 			"id":"784951aee9e86de7",
@@ -1133,7 +1046,7 @@
 			"y":-2465,
 			"width":160,
 			"height":60,
-			"color":"2"
+			"color":"1"
 		},
 		{
 			"id":"f2d1eb9cd6734db7",
@@ -1198,7 +1111,7 @@
 			"y":-2450,
 			"width":160,
 			"height":60,
-			"color":"2"
+			"color":"1"
 		},
 		{
 			"id":"d2f398c8efd2d727",
@@ -1476,103 +1389,6 @@
 			"color":"6"
 		},
 		{
-			"id":"e1dbbd59f324b2a8",
-			"type":"text",
-			"text":"兴森科技",
-			"styleAttributes":{},
-			"x":266,
-			"y":-520,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"dbafb7e7bb65897d",
-			"type":"text",
-			"text":"鼎泰高科（龙头）",
-			"styleAttributes":{},
-			"x":994,
-			"y":-798,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"ee33f367c9bbfd94",
-			"type":"text",
-			"text":"耗材，消耗量极大",
-			"styleAttributes":{},
-			"x":460,
-			"y":-738,
-			"width":202,
-			"height":60
-		},
-		{
-			"id":"b8f7b5a246cc149a",
-			"type":"text",
-			"text":"中钨高新",
-			"styleAttributes":{},
-			"x":994,
-			"y":-708,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"6cff4d12320b8be9",
-			"type":"text",
-			"text":"钻针",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":767,
-			"y":-738,
-			"width":147,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"700308db3442425a",
-			"type":"text",
-			"text":"后期空间大，现在良率底",
-			"styleAttributes":{},
-			"x":-472,
-			"y":-708,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"68eb265ffa9cd133",
-			"type":"text",
-			"text":"PCB",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-110,
-			"y":-718,
-			"width":130,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"44fe4cc489f437a8",
-			"type":"text",
-			"text":"铜箔",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":767,
-			"y":-580,
-			"width":147,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"d97e9d47707c50a7",
-			"type":"text",
-			"text":"诺的股份",
-			"styleAttributes":{},
-			"x":994,
-			"y":-580,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"f0017f1ed88247be",
 			"type":"text",
 			"text":"存储\n",
@@ -1591,6 +1407,200 @@
 			"x":-1140,
 			"y":-57,
 			"width":212,
+			"height":60
+		},
+		{
+			"id":"15c03bf55698c404",
+			"type":"text",
+			"text":"稀土永磁",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3680,
+			"y":-1603,
+			"width":200,
+			"height":190,
+			"color":"#ff0000"
+		},
+		{
+			"id":"650b02eef2211403",
+			"type":"text",
+			"text":"断供日本",
+			"styleAttributes":{},
+			"x":-4020,
+			"y":-1538,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"342adcce3270b51b",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"document"},
+			"x":-2350,
+			"y":-2465,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ee33f367c9bbfd94",
+			"type":"text",
+			"text":"耗材，消耗量极大",
+			"styleAttributes":{},
+			"x":1712,
+			"y":-728,
+			"width":202,
+			"height":60
+		},
+		{
+			"id":"44fe4cc489f437a8",
+			"type":"text",
+			"text":"铜箔",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":2019,
+			"y":-570,
+			"width":147,
+			"height":90,
+			"color":"1"
+		},
+		{
+			"id":"e1dbbd59f324b2a8",
+			"type":"text",
+			"text":"兴森科技",
+			"styleAttributes":{},
+			"x":1518,
+			"y":-510,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"bd1e5386a9118ce5",
+			"type":"text",
+			"text":"1.宝鼎科技",
+			"styleAttributes":{},
+			"x":1502,
+			"y":-843,
+			"width":260,
+			"height":65,
+			"color":"6"
+		},
+		{
+			"id":"7dd015a597669a29",
+			"type":"text",
+			"text":"菲力华",
+			"styleAttributes":{},
+			"x":2376,
+			"y":-160,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"a88c680cd534f261",
+			"type":"text",
+			"text":"快启动了",
+			"styleAttributes":{"shape":"document"},
+			"x":2726,
+			"y":-160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a2ba923e20e14603",
+			"type":"text",
+			"text":"中国巨石\n",
+			"styleAttributes":{},
+			"x":2376,
+			"y":-400,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"1a24da6bea0133d8",
+			"type":"text",
+			"text":"XD宏和科 （龙头）\n",
+			"styleAttributes":{},
+			"x":2376,
+			"y":-285,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"471ff60a6edc1ae2",
+			"type":"text",
+			"text":"电子布",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":1974,
+			"y":-300,
+			"width":160,
+			"height":90,
+			"color":"2"
+		},
+		{
+			"id":"6cff4d12320b8be9",
+			"type":"text",
+			"text":"钻针",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":2019,
+			"y":-743,
+			"width":147,
+			"height":90,
+			"color":"1"
+		},
+		{
+			"id":"dbafb7e7bb65897d",
+			"type":"text",
+			"text":"鼎泰高科（龙头）",
+			"styleAttributes":{},
+			"x":2280,
+			"y":-773,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"b8f7b5a246cc149a",
+			"type":"text",
+			"text":"中钨高新",
+			"styleAttributes":{},
+			"x":2280,
+			"y":-683,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"d97e9d47707c50a7",
+			"type":"text",
+			"text":"诺的股份",
+			"styleAttributes":{},
+			"x":2280,
+			"y":-555,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"68eb265ffa9cd133",
+			"type":"text",
+			"text":"PCB",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":1000,
+			"y":-728,
+			"width":196,
+			"height":192,
+			"color":"1"
+		},
+		{
+			"id":"700308db3442425a",
+			"type":"text",
+			"text":"后期空间大，现在良率底",
+			"styleAttributes":{},
+			"x":640,
+			"y":-600,
+			"width":260,
 			"height":60
 		}
 	],
@@ -1993,6 +2003,7 @@
 			"id":"6ed1f64904fa6390",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"3bff65ee98719d4a",
 			"fromSide":"right",
 			"toNode":"e1dbbd59f324b2a8",
@@ -2011,18 +2022,6 @@
 			"label":"\n"
 		},
 		{
-			"id":"b16b916186c332e0",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"cbc17fd15ec26725",
-			"fromSide":"right",
-			"toNode":"efbc2be777a9d24f",
-			"toSide":"left",
-			"color":"1",
-			"label":"已买"
-		},
-		{
 			"id":"b252e69ec8a07db2",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
@@ -2031,7 +2030,7 @@
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
-			"color":"1"
+			"color":"2"
 		},
 		{
 			"id":"b2b3045449f2232b",
@@ -2255,18 +2254,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"711220274f947b6f",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"78edc833870a1691",
-			"fromSide":"right",
-			"toNode":"efbc2be777a9d24f",
-			"toSide":"left",
-			"color":"1",
-			"label":"已买"
-		},
-		{
 			"id":"a8cbef5e7be9cd6e",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -2305,7 +2292,7 @@
 			"fromSide":"left",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"right",
-			"color":"1"
+			"color":"2"
 		},
 		{
 			"id":"22580885290ad540",
@@ -2531,7 +2518,7 @@
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
-			"color":"1"
+			"color":"2"
 		},
 		{
 			"id":"0820cd32cf929de6",
@@ -2698,7 +2685,7 @@
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
-			"color":"1"
+			"color":"2"
 		},
 		{
 			"id":"46c7d9f66739c0e8",
@@ -2709,7 +2696,7 @@
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
-			"color":"1"
+			"color":"2"
 		},
 		{
 			"id":"a265886a8ce26e5f",
@@ -2899,6 +2886,7 @@
 			"id":"e5749dfcc82de50d",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"35f63650a38038c1",
 			"fromSide":"bottom",
 			"toNode":"97c2e2fd0779b300",
@@ -2927,6 +2915,7 @@
 			"id":"e8912ced6835d9f2",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"68eb265ffa9cd133",
 			"fromSide":"right",
 			"toNode":"6cff4d12320b8be9",
@@ -2976,6 +2965,48 @@
 			"fromNode":"44fe4cc489f437a8",
 			"fromSide":"right",
 			"toNode":"d97e9d47707c50a7",
+			"toSide":"left"
+		},
+		{
+			"id":"e0b7dcdaec5727c2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f2d1eb9cd6734db7",
+			"fromSide":"right",
+			"toNode":"342adcce3270b51b",
+			"toSide":"left"
+		},
+		{
+			"id":"711220274f947b6f",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"78edc833870a1691",
+			"fromSide":"right",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"left",
+			"color":"1",
+			"label":"已买"
+		},
+		{
+			"id":"b16b916186c332e0",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"cbc17fd15ec26725",
+			"fromSide":"right",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"left",
+			"color":"1",
+			"label":"已买"
+		},
+		{
+			"id":"dffee4a79f98d210",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"68eb265ffa9cd133",
+			"fromSide":"right",
+			"toNode":"471ff60a6edc1ae2",
 			"toSide":"left"
 		}
 	],
