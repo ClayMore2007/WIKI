@@ -56,17 +56,6 @@
 			"color":"5"
 		},
 		{
-			"id":"c08db444f5711212",
-			"type":"text",
-			"text":"==风华高科==\n火炬电子",
-			"styleAttributes":{},
-			"x":250,
-			"y":-2117,
-			"width":260,
-			"height":145,
-			"color":"6"
-		},
-		{
 			"id":"9f281e678407014d",
 			"type":"text",
 			"text":"1.祥和实业",
@@ -454,11 +443,11 @@
 		{
 			"id":"1512709ec93b6ffc",
 			"type":"text",
-			"text":"1.==四方股份==！！！（龙头？）等后续\n2.阳光电源",
+			"text":"1.==四方股份==（龙头？）等后续（==关注K线==）\n2.阳光电源（==K线底部==）",
 			"styleAttributes":{},
 			"x":225,
 			"y":2525,
-			"width":326,
+			"width":375,
 			"height":100,
 			"color":"6"
 		},
@@ -476,7 +465,7 @@
 		{
 			"id":"69445d49a67030c0",
 			"type":"text",
-			"text":"==豫能控股==\n==大唐发电==\n京能电力\n华能蒙电",
+			"text":"==豫能控股==\n==大唐发电==\n京能电力\n华能蒙电（==K线底部==）",
 			"styleAttributes":{},
 			"x":225,
 			"y":2255,
@@ -871,17 +860,6 @@
 			"color":"6"
 		},
 		{
-			"id":"85f530d09e6f7a95",
-			"type":"text",
-			"text":"抛光液",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":1240,
-			"y":-2265,
-			"width":132,
-			"height":85,
-			"color":"5"
-		},
-		{
 			"id":"2abca6784d4871d8",
 			"type":"text",
 			"text":"硅片",
@@ -895,12 +873,12 @@
 		{
 			"id":"d2f398c8efd2d727",
 			"type":"text",
-			"text":"立昂微\nTCL中环（散户大本营）",
+			"text":"立昂微\n",
 			"styleAttributes":{},
 			"x":1611,
 			"y":-2405,
 			"width":260,
-			"height":95,
+			"height":60,
 			"color":"6"
 		},
 		{
@@ -1005,13 +983,13 @@
 		{
 			"id":"95e013b3fb77fed4",
 			"type":"text",
-			"text":"后面看好",
+			"text":"后面看好（买100股）6/13",
 			"styleAttributes":{"shape":"document"},
 			"x":1974,
 			"y":-1552,
 			"width":260,
 			"height":60,
-			"color":"4"
+			"color":"1"
 		},
 		{
 			"id":"71ee0a277e83c629",
@@ -1044,7 +1022,7 @@
 			"y":-1565,
 			"width":132,
 			"height":85,
-			"color":"5"
+			"color":"2"
 		},
 		{
 			"id":"3bff65ee98719d4a",
@@ -1077,7 +1055,7 @@
 			"y":81,
 			"width":140,
 			"height":80,
-			"color":"5"
+			"color":"1"
 		},
 		{
 			"id":"d4d2470d41893e6c",
@@ -1189,17 +1167,6 @@
 			"color":"6"
 		},
 		{
-			"id":"d81e76e339a56468",
-			"type":"text",
-			"text":"==中科曙光==",
-			"styleAttributes":{},
-			"x":260,
-			"y":405,
-			"width":260,
-			"height":130,
-			"color":"6"
-		},
-		{
 			"id":"bd1e5386a9118ce5",
 			"type":"text",
 			"text":"1.宝鼎科技",
@@ -1294,7 +1261,7 @@
 		{
 			"id":"372c8ea67ebea6f9",
 			"type":"text",
-			"text":"圣泉股份 ",
+			"text":"圣泉集团",
 			"styleAttributes":{
 				"textAlign":null
 			},
@@ -1554,28 +1521,6 @@
 			"color":"6"
 		},
 		{
-			"id":"b2ec613494bfb60f",
-			"type":"text",
-			"text":"安集科技",
-			"styleAttributes":{},
-			"x":1611,
-			"y":-2252,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"99bab89617a71d5c",
-			"type":"text",
-			"text":"鼎龙股份",
-			"styleAttributes":{},
-			"x":1611,
-			"y":-2140,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"94643c324cfb7538",
 			"type":"text",
 			"text":"雅克科技",
@@ -1611,7 +1556,7 @@
 		{
 			"id":"db952ec59d6a9635",
 			"type":"text",
-			"text":"黄河旋风\n国机精工",
+			"text":"黄河旋风 （==K线 低点==）\n国机精工",
 			"styleAttributes":{},
 			"x":265,
 			"y":759,
@@ -1717,6 +1662,94 @@
 			"y":-768,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"c08db444f5711212",
+			"type":"text",
+			"text":"==风华高科==\n火炬电子",
+			"styleAttributes":{},
+			"x":250,
+			"y":-2081,
+			"width":260,
+			"height":72,
+			"color":"6"
+		},
+		{
+			"id":"4bccf82f77a71373",
+			"type":"text",
+			"text":"TCL中环（散户大本营）",
+			"styleAttributes":{},
+			"x":1611,
+			"y":-2325,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"b2ec613494bfb60f",
+			"type":"text",
+			"text":"安集科技",
+			"styleAttributes":{},
+			"x":1611,
+			"y":-2227,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"99bab89617a71d5c",
+			"type":"text",
+			"text":"鼎龙股份",
+			"styleAttributes":{},
+			"x":1611,
+			"y":-2115,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"85f530d09e6f7a95",
+			"type":"text",
+			"text":"抛光液",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":1240,
+			"y":-2240,
+			"width":132,
+			"height":85,
+			"color":"5"
+		},
+		{
+			"id":"95c753a84e1a5037",
+			"type":"text",
+			"text":"K线走势好",
+			"styleAttributes":{"shape":"document"},
+			"x":1980,
+			"y":-2405,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"41ba61a23b9c5451",
+			"type":"text",
+			"text":"K线低点 （可以买100股）6/13",
+			"styleAttributes":{"shape":"document"},
+			"x":1980,
+			"y":-1782,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"d81e76e339a56468",
+			"type":"text",
+			"text":"==中科曙光==",
+			"styleAttributes":{},
+			"x":262,
+			"y":445,
+			"width":260,
+			"height":65,
+			"color":"6"
 		}
 	],
 	"edges":[
@@ -2175,17 +2208,6 @@
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"right",
 			"color":"2"
-		},
-		{
-			"id":"1d3c83f1cf651d1f",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"1512709ec93b6ffc",
-			"fromSide":"left",
-			"toNode":"3e82d0b5d777695f",
-			"toSide":"right",
-			"color":"4"
 		},
 		{
 			"id":"3228109545217a94",
@@ -2823,6 +2845,7 @@
 			"id":"918ea42c32eaf1d6",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"1f9d1de0a3ac687d",
 			"fromSide":"bottom",
 			"toNode":"ac85a7766456d97e",
@@ -3055,7 +3078,7 @@
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
 			"color":"1",
-			"label":"已买"
+			"label":"已买，低位"
 		},
 		{
 			"id":"dffee4a79f98d210",
@@ -3234,16 +3257,77 @@
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
-			"color":"2"
+			"color":"2",
+			"label":"看好"
 		},
 		{
-			"id":"b7eea4e7644179e5",
-			"styleAttributes":{},
+			"id":"fc79c73e8ee3b85a",
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"a2e6b67b941d9146",
 			"fromSide":"right",
-			"toNode":"ff311cd31e94985a",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"left",
+			"color":"2",
+			"label":"低位"
+		},
+		{
+			"id":"98d44694f3d45ed6",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"fe2119749e173c91",
+			"fromSide":"right",
+			"toNode":"efbc2be777a9d24f",
 			"toSide":"left"
+		},
+		{
+			"id":"c734a29712d30b16",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"d97e9d47707c50a7",
+			"fromSide":"left",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"right"
+		},
+		{
+			"id":"d393e298523d4997",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2abca6784d4871d8",
+			"fromSide":"right",
+			"toNode":"4bccf82f77a71373",
+			"toSide":"left"
+		},
+		{
+			"id":"62b554b4007656fa",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d2f398c8efd2d727",
+			"fromSide":"right",
+			"toNode":"95c753a84e1a5037",
+			"toSide":"left"
+		},
+		{
+			"id":"5e6f2038a891a12d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"59adc359a84ab9a4",
+			"fromSide":"right",
+			"toNode":"41ba61a23b9c5451",
+			"toSide":"left"
+		},
+		{
+			"id":"e1b11c4d73881340",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"ac85a7766456d97e",
+			"fromSide":"left",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"right",
+			"color":"2"
 		}
 	],
 	"metadata":{
