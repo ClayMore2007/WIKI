@@ -1025,39 +1025,6 @@
 			"color":"2"
 		},
 		{
-			"id":"3bff65ee98719d4a",
-			"type":"text",
-			"text":"先进封装",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-180,
-			"y":-201,
-			"width":140,
-			"height":80,
-			"color":"5"
-		},
-		{
-			"id":"ea992024feb8dac1",
-			"type":"text",
-			"text":"HBM",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-180,
-			"y":-57,
-			"width":140,
-			"height":80,
-			"color":"5"
-		},
-		{
-			"id":"9d4468d651b1c358",
-			"type":"text",
-			"text":"HBF",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-178,
-			"y":81,
-			"width":140,
-			"height":80,
-			"color":"1"
-		},
-		{
 			"id":"d4d2470d41893e6c",
 			"type":"text",
 			"text":"1.长电科技\n2.通富微电\n3.华天科技",
@@ -1750,6 +1717,39 @@
 			"width":260,
 			"height":65,
 			"color":"6"
+		},
+		{
+			"id":"9d4468d651b1c358",
+			"type":"text",
+			"text":"HBF",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-194,
+			"y":81,
+			"width":140,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"ea992024feb8dac1",
+			"type":"text",
+			"text":"HBM",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-189,
+			"y":-57,
+			"width":140,
+			"height":80,
+			"color":"5"
+		},
+		{
+			"id":"3bff65ee98719d4a",
+			"type":"text",
+			"text":"先进封装",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-194,
+			"y":-201,
+			"width":140,
+			"height":80,
+			"color":"5"
 		}
 	],
 	"edges":[
