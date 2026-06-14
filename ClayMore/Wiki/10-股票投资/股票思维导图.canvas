@@ -1087,7 +1087,7 @@
 			"y":-479,
 			"width":260,
 			"height":60,
-			"color":"6"
+			"color":"2"
 		},
 		{
 			"id":"b8f7b5a246cc149a",
@@ -1114,7 +1114,7 @@
 		{
 			"id":"d97e9d47707c50a7",
 			"type":"text",
-			"text":"诺的股份",
+			"text":"诺德股份",
 			"styleAttributes":{},
 			"x":2140,
 			"y":-251,
@@ -1219,7 +1219,7 @@
 		{
 			"id":"23d12b9f06bd3866",
 			"type":"text",
-			"text":"耗材，消耗量极大",
+			"text":"耗材，消耗量极大，K线很好",
 			"styleAttributes":{"shape":"document"},
 			"x":2477,
 			"y":-479,
@@ -1304,7 +1304,7 @@
 		{
 			"id":"a2e6b67b941d9146",
 			"type":"text",
-			"text":"锡业股份（龙头）",
+			"text":"锡业股份（龙头）\n兴发集团",
 			"styleAttributes":{},
 			"x":-2780,
 			"y":-900,
@@ -1621,16 +1621,6 @@
 			"color":"6"
 		},
 		{
-			"id":"aaede63fe73a4db3",
-			"type":"text",
-			"text":"待验证，需要长期跟踪，暂时只能抄不能投资.\n可以长期投资",
-			"styleAttributes":{"shape":"document"},
-			"x":2680,
-			"y":-122,
-			"width":260,
-			"height":141
-		},
-		{
 			"id":"5ee447d780d66439",
 			"type":"text",
 			"text":"光",
@@ -1651,17 +1641,6 @@
 			"width":130,
 			"height":80,
 			"color":"5"
-		},
-		{
-			"id":"aff20309ac08ac45",
-			"type":"text",
-			"text":"1.亨通光电 （自主研发）\n2.中天科技（接单）\n3.泰和新材\n\n",
-			"styleAttributes":{},
-			"x":260,
-			"y":-1327,
-			"width":260,
-			"height":110,
-			"color":"6"
 		},
 		{
 			"id":"99bab89617a71d5c",
@@ -1714,6 +1693,71 @@
 			"styleAttributes":{"shape":"document"},
 			"x":1960,
 			"y":-2417,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"aaede63fe73a4db3",
+			"type":"text",
+			"text":"待验证，需要长期跟踪，暂时只能抄不能投资.\n可以长期投资",
+			"styleAttributes":{"shape":"document"},
+			"x":2660,
+			"y":-126,
+			"width":260,
+			"height":141
+		},
+		{
+			"id":"04406415667dab0b",
+			"type":"text",
+			"text":"K线走势好",
+			"styleAttributes":{"shape":"document"},
+			"x":2660,
+			"y":46,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"e1808ad26243f8c2",
+			"type":"text",
+			"text":"K线走势好",
+			"styleAttributes":{"shape":"document"},
+			"x":1870,
+			"y":-1142,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"aff20309ac08ac45",
+			"type":"text",
+			"text":"1.亨通光电 （自主研发）\n\n\n",
+			"styleAttributes":{},
+			"x":254,
+			"y":-1342,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"41fcd3c2cea934ce",
+			"type":"text",
+			"text":"\n2.中天科技（接单）\n3.泰和新材\n\n",
+			"styleAttributes":{},
+			"x":254,
+			"y":-1232,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"ce97b138a512101b",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"document"},
+			"x":580,
+			"y":-1342,
 			"width":260,
 			"height":60,
 			"color":"4"
@@ -3276,6 +3320,53 @@
 			"fromNode":"5ee447d780d66439",
 			"fromSide":"right",
 			"toNode":"c1e89f3875b388ad",
+			"toSide":"left"
+		},
+		{
+			"id":"ff19509312183338",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"dbafb7e7bb65897d",
+			"fromSide":"left",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"right",
+			"color":"2"
+		},
+		{
+			"id":"891182685bffb298",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"20fd843cad61dc3a",
+			"fromSide":"right",
+			"toNode":"04406415667dab0b",
+			"toSide":"left"
+		},
+		{
+			"id":"39e2eb694df31145",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"bd1e5386a9118ce5",
+			"fromSide":"right",
+			"toNode":"e1808ad26243f8c2",
+			"toSide":"left"
+		},
+		{
+			"id":"ad9fc59040644f89",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c1e89f3875b388ad",
+			"fromSide":"right",
+			"toNode":"41fcd3c2cea934ce",
+			"toSide":"left"
+		},
+		{
+			"id":"00892636e40ed3f8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"aff20309ac08ac45",
+			"fromSide":"right",
+			"toNode":"ce97b138a512101b",
 			"toSide":"left"
 		}
 	],
