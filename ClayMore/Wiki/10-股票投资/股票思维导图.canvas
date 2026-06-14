@@ -1238,38 +1238,6 @@
 			"height":60
 		},
 		{
-			"id":"f30f22fe7ea5cecd",
-			"type":"text",
-			"text":"覆铜板 / CCL",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":1408,
-			"y":-111,
-			"width":160,
-			"height":90,
-			"color":"2"
-		},
-		{
-			"id":"939f9a8f81ffede8",
-			"type":"text",
-			"text":"看到2700亿",
-			"styleAttributes":{},
-			"x":1358,
-			"y":76,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"68eb265ffa9cd133",
-			"type":"text",
-			"text":"PCB",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":1000,
-			"y":-671,
-			"width":196,
-			"height":192,
-			"color":"#ff0000"
-		},
-		{
 			"id":"650b02eef2211403",
 			"type":"text",
 			"text":"断供日本",
@@ -1754,10 +1722,53 @@
 		{
 			"id":"ce97b138a512101b",
 			"type":"text",
-			"text":"",
+			"text":"K线走势好",
 			"styleAttributes":{"shape":"document"},
-			"x":600,
+			"x":580,
 			"y":-1342,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"68eb265ffa9cd133",
+			"type":"text",
+			"text":"PCB",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":1020,
+			"y":-671,
+			"width":196,
+			"height":192,
+			"color":"#ff0000"
+		},
+		{
+			"id":"f30f22fe7ea5cecd",
+			"type":"text",
+			"text":"覆铜板 / CCL",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":1458,
+			"y":-101,
+			"width":160,
+			"height":90,
+			"color":"2"
+		},
+		{
+			"id":"939f9a8f81ffede8",
+			"type":"text",
+			"text":"看到2700亿",
+			"styleAttributes":{},
+			"x":1408,
+			"y":86,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"aeafbafa990c4b10",
+			"type":"text",
+			"text":"走势好，刚起",
+			"styleAttributes":{"shape":"document"},
+			"x":-2350,
+			"y":-1730,
 			"width":260,
 			"height":60,
 			"color":"4"
@@ -2691,6 +2702,7 @@
 			"id":"c2e02d996b4e8b76",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"f85d71b2fb4b4c17",
 			"fromSide":"right",
 			"toNode":"f0bb7bda906dfd1d",
@@ -3367,6 +3379,15 @@
 			"fromNode":"aff20309ac08ac45",
 			"fromSide":"right",
 			"toNode":"ce97b138a512101b",
+			"toSide":"left"
+		},
+		{
+			"id":"31955b60c2047b0f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f42099aaf388480a",
+			"fromSide":"right",
+			"toNode":"aeafbafa990c4b10",
 			"toSide":"left"
 		}
 	],
