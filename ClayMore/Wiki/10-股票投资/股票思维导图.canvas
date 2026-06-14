@@ -849,61 +849,6 @@
 			"color":"2"
 		},
 		{
-			"id":"b285c6971c4c210f",
-			"type":"text",
-			"text":"1.大有能源",
-			"styleAttributes":{},
-			"x":-2775,
-			"y":-560,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"fe2119749e173c91",
-			"type":"text",
-			"text":"==赣锋锂业==",
-			"styleAttributes":{},
-			"x":-2775,
-			"y":-370,
-			"width":260,
-			"height":80,
-			"color":"6"
-		},
-		{
-			"id":"e05639bbbef55dbd",
-			"type":"text",
-			"text":"能源",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-3764,
-			"y":-600,
-			"width":140,
-			"height":140,
-			"color":"3"
-		},
-		{
-			"id":"b0c7f01a6c757e3c",
-			"type":"text",
-			"text":"煤炭",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-3160,
-			"y":-560,
-			"width":185,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"9ea748bb9bfa78af",
-			"type":"text",
-			"text":"锂矿",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-3165,
-			"y":-360,
-			"width":185,
-			"height":60,
-			"color":"5"
-		},
-		{
 			"id":"95e013b3fb77fed4",
 			"type":"text",
 			"text":"后面看好（买100股）6/13",
@@ -1769,6 +1714,94 @@
 			"styleAttributes":{"shape":"document"},
 			"x":-2350,
 			"y":-1730,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"b285c6971c4c210f",
+			"type":"text",
+			"text":"1.大有能源",
+			"styleAttributes":{},
+			"x":-2780,
+			"y":-360,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"fe2119749e173c91",
+			"type":"text",
+			"text":"==赣锋锂业==",
+			"styleAttributes":{},
+			"x":-2780,
+			"y":-170,
+			"width":260,
+			"height":80,
+			"color":"6"
+		},
+		{
+			"id":"e05639bbbef55dbd",
+			"type":"text",
+			"text":"能源",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-3769,
+			"y":-400,
+			"width":140,
+			"height":140,
+			"color":"3"
+		},
+		{
+			"id":"b0c7f01a6c757e3c",
+			"type":"text",
+			"text":"煤炭",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-3165,
+			"y":-360,
+			"width":185,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"9ea748bb9bfa78af",
+			"type":"text",
+			"text":"锂矿",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-3170,
+			"y":-160,
+			"width":185,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"9a10e70406c388fb",
+			"type":"text",
+			"text":"铜",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3170,
+			"y":-640,
+			"width":160,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"7e389417908c97fb",
+			"type":"text",
+			"text":"云南铜业\n铜陵有色",
+			"styleAttributes":{},
+			"x":-2780,
+			"y":-640,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"9a7a151fa40e4b1c",
+			"type":"text",
+			"text":"关注K线走势",
+			"styleAttributes":{"shape":"document"},
+			"x":-2360,
+			"y":-640,
 			"width":260,
 			"height":60,
 			"color":"4"
@@ -3388,6 +3421,34 @@
 			"fromNode":"f42099aaf388480a",
 			"fromSide":"right",
 			"toNode":"aeafbafa990c4b10",
+			"toSide":"left"
+		},
+		{
+			"id":"8ed872c39b561a28",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"9a10e70406c388fb",
+			"fromSide":"right",
+			"toNode":"7e389417908c97fb",
+			"toSide":"left"
+		},
+		{
+			"id":"50ed48aad943597e",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"784951aee9e86de7",
+			"fromSide":"right",
+			"toNode":"9a10e70406c388fb",
+			"toSide":"left"
+		},
+		{
+			"id":"8f3d3ac6652937e2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7e389417908c97fb",
+			"fromSide":"right",
+			"toNode":"9a7a151fa40e4b1c",
 			"toSide":"left"
 		}
 	],
