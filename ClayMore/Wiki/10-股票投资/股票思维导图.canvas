@@ -1031,8 +1031,7 @@
 			"x":2131,
 			"y":-479,
 			"width":260,
-			"height":60,
-			"color":"2"
+			"height":60
 		},
 		{
 			"id":"b8f7b5a246cc149a",
@@ -1820,17 +1819,6 @@
 			"label":"逻辑"
 		},
 		{
-			"id":"36e54aeb15b2f113",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"f0017f1ed88247be",
-			"fromSide":"left",
-			"toNode":"194f01778a2c333b",
-			"toSide":"right",
-			"label":"逻辑"
-		},
-		{
 			"id":"a36e76d2dd294696",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -2008,16 +1996,6 @@
 			"toNode":"6b02ddc97089940b",
 			"toSide":"left",
 			"label":"全链条"
-		},
-		{
-			"id":"2f14538f43ead577",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"f0017f1ed88247be",
-			"fromSide":"right",
-			"toNode":"3bff65ee98719d4a",
-			"toSide":"left"
 		},
 		{
 			"id":"12d32d5c48971cc7",
@@ -2214,15 +2192,16 @@
 			"toSide":"left"
 		},
 		{
-			"id":"b252e69ec8a07db2",
+			"id":"b16b916186c332e0",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"f42099aaf388480a",
+			"fromNode":"cbc17fd15ec26725",
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
-			"color":"2"
+			"color":"1",
+			"label":"已买，低位"
 		},
 		{
 			"id":"b2b3045449f2232b",
@@ -2412,6 +2391,18 @@
 			"toSide":"left"
 		},
 		{
+			"id":"711220274f947b6f",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"78edc833870a1691",
+			"fromSide":"right",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"left",
+			"color":"1",
+			"label":"已买"
+		},
+		{
 			"id":"a8cbef5e7be9cd6e",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -2441,6 +2432,17 @@
 			"fromSide":"right",
 			"toNode":"a88c680cd534f261",
 			"toSide":"left"
+		},
+		{
+			"id":"a7b643f363dc27d6",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"7dd015a597669a29",
+			"fromSide":"left",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"right",
+			"color":"2"
 		},
 		{
 			"id":"94a93315c66d2bc2",
@@ -2562,17 +2564,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"450cc414f51daaf8",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"f0017f1ed88247be",
-			"fromSide":"right",
-			"toNode":"9d4468d651b1c358",
-			"toSide":"left",
-			"label":"海力士"
-		},
-		{
 			"id":"23f014f83f3752f8",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -2624,17 +2615,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"a7b643f363dc27d6",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"7dd015a597669a29",
-			"fromSide":"left",
-			"toNode":"efbc2be777a9d24f",
-			"toSide":"right",
-			"color":"2"
-		},
-		{
 			"id":"6dd11158f5d3b596",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
@@ -2677,6 +2657,17 @@
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"8715840d1684ca69",
+			"fromSide":"right",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"left",
+			"color":"2"
+		},
+		{
+			"id":"b252e69ec8a07db2",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f42099aaf388480a",
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
@@ -2769,16 +2760,6 @@
 			"fromNode":"5ee447d780d66439",
 			"fromSide":"right",
 			"toNode":"776ead666b09643c",
-			"toSide":"left"
-		},
-		{
-			"id":"421b8cb6bef6c6e3",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"f0017f1ed88247be",
-			"fromSide":"right",
-			"toNode":"ea992024feb8dac1",
 			"toSide":"left"
 		},
 		{
@@ -2886,6 +2867,48 @@
 			"fromNode":"c4852a631f72281e",
 			"fromSide":"right",
 			"toNode":"95e013b3fb77fed4",
+			"toSide":"left"
+		},
+		{
+			"id":"36e54aeb15b2f113",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f0017f1ed88247be",
+			"fromSide":"left",
+			"toNode":"194f01778a2c333b",
+			"toSide":"right",
+			"label":"逻辑"
+		},
+		{
+			"id":"2f14538f43ead577",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f0017f1ed88247be",
+			"fromSide":"right",
+			"toNode":"3bff65ee98719d4a",
+			"toSide":"left"
+		},
+		{
+			"id":"450cc414f51daaf8",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f0017f1ed88247be",
+			"fromSide":"right",
+			"toNode":"9d4468d651b1c358",
+			"toSide":"left",
+			"label":"海力士"
+		},
+		{
+			"id":"421b8cb6bef6c6e3",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f0017f1ed88247be",
+			"fromSide":"right",
+			"toNode":"ea992024feb8dac1",
 			"toSide":"left"
 		},
 		{
@@ -3083,30 +3106,6 @@
 			"fromSide":"right",
 			"toNode":"342adcce3270b51b",
 			"toSide":"left"
-		},
-		{
-			"id":"711220274f947b6f",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"78edc833870a1691",
-			"fromSide":"right",
-			"toNode":"efbc2be777a9d24f",
-			"toSide":"left",
-			"color":"1",
-			"label":"已买"
-		},
-		{
-			"id":"b16b916186c332e0",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"cbc17fd15ec26725",
-			"fromSide":"right",
-			"toNode":"efbc2be777a9d24f",
-			"toSide":"left",
-			"color":"1",
-			"label":"已买，低位"
 		},
 		{
 			"id":"dffee4a79f98d210",
@@ -3391,6 +3390,7 @@
 			"id":"39e2eb694df31145",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"bd1e5386a9118ce5",
 			"fromSide":"right",
 			"toNode":"e1808ad26243f8c2",
