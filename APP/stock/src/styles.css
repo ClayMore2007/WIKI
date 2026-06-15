@@ -554,6 +554,310 @@ summary b {
   font-size: 12px;
 }
 
+.companyTagButton {
+  max-width: 100%;
+  padding: 5px 7px;
+  border: 1px solid rgba(106, 223, 240, 0.35);
+  border-radius: 5px;
+  background: rgba(106, 223, 240, 0.12);
+  color: #d9fbff;
+  font-size: 12px;
+}
+
+.companyTagButton:hover {
+  border-color: #6adff0;
+  background: rgba(106, 223, 240, 0.2);
+}
+
+.mindmapLayout {
+  display: grid;
+  grid-template-columns: minmax(520px, 1fr) 340px;
+  gap: 8px;
+  align-items: start;
+}
+
+.mindmapLayout.tableMode {
+  grid-template-columns: minmax(620px, 1fr) 340px;
+}
+
+.mindmapCanvasPanel {
+  overflow: hidden;
+  border: 1px solid #263248;
+  border-radius: 7px;
+  background: rgba(16, 22, 34, 0.96);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.2);
+}
+
+.mindmapPanelHeader {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: stretch;
+  border-bottom: 1px solid #263248;
+  background: #121a28;
+}
+
+.mindmapPanelHeader .panelTitle {
+  border-bottom: 0;
+}
+
+.mindmapModeSwitch {
+  align-self: center;
+  margin-right: 8px;
+}
+
+.mindmapCanvas {
+  height: calc(100vh - 176px);
+  min-height: 560px;
+  background:
+    linear-gradient(90deg, rgba(255, 255, 255, 0.035) 1px, transparent 1px) 0 0 / 32px 32px,
+    linear-gradient(180deg, rgba(255, 255, 255, 0.028) 1px, transparent 1px) 0 0 / 32px 32px,
+    #0c121d;
+}
+
+.mindmapFlowNode {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border: 2px solid #40506f;
+  border-radius: 8px;
+  color: #f6f7ff;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.26);
+}
+
+.mindmapFlowNode.selected,
+.mindmapFlowNode.companySelected {
+  box-shadow:
+    0 0 0 2px rgba(106, 223, 240, 0.85),
+    0 14px 28px rgba(0, 0, 0, 0.32);
+}
+
+.mindmapKind-topic {
+  font-weight: 800;
+}
+
+.mindmapKind-action {
+  border-radius: 999px;
+}
+
+.mindmapKind-company {
+  border-style: solid;
+}
+
+.mindmapKind-note {
+  border-style: dashed;
+}
+
+.mindmapNodeLabel {
+  display: grid;
+  gap: 5px;
+  width: 100%;
+  padding: 8px;
+  text-align: center;
+  white-space: pre-line;
+}
+
+.mindmapNodeLabel span {
+  overflow: hidden;
+  color: #f6f7ff;
+  font-size: 12px;
+  line-height: 1.35;
+}
+
+.mindmapNodeLabel small {
+  overflow: hidden;
+  color: #ffd36a;
+  font-size: 10px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.mindmapEdge {
+  stroke: #53617d;
+}
+
+.mindmapDetailPanel {
+  top: 12px;
+}
+
+.mindmapNodeText,
+.mindmapMention {
+  white-space: pre-line;
+}
+
+.mindmapMention {
+  padding: 7px;
+  border: 1px solid #263248;
+  border-radius: 5px;
+  background: #121925;
+}
+
+.mindmapTableWrap {
+  display: grid;
+  gap: 10px;
+  max-height: calc(100vh - 176px);
+  min-height: 560px;
+  overflow: auto;
+  padding: 10px;
+  background: #0c121d;
+}
+
+.mindmapTableWrap::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.mindmapTableWrap::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background: #34415d;
+}
+
+.mindmapTableGroup {
+  overflow: hidden;
+  border: 1px solid #263248;
+  border-radius: 7px;
+  background: #101722;
+}
+
+.mindmapTableGroup.collapsed {
+  background: #111927;
+}
+
+.mindmapTableTitle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  min-height: 34px;
+  padding: 7px 9px;
+  border: 0;
+  border-bottom: 1px solid #263248;
+  border-left: 3px solid #6adff0;
+  background: #121a28;
+  color: #f6f7ff;
+  text-align: left;
+}
+
+.mindmapTableTitle:hover {
+  background: #172033;
+}
+
+.mindmapTableGroup.collapsed .mindmapTableTitle {
+  border-bottom: 0;
+}
+
+.mindmapGroupName {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  min-width: 0;
+}
+
+.mindmapGroupName b {
+  overflow: hidden;
+  color: #f6f7ff;
+  font-size: 13px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.mindmapTableTitle > span:last-child {
+  color: #9aa6c0;
+  font-size: 11px;
+}
+
+.mindmapTable {
+  min-width: 1180px;
+}
+
+.mindmapTableHead,
+.mindmapTableRow {
+  display: grid;
+  grid-template-columns: 88px 78px minmax(240px, 1.2fr) minmax(160px, 0.8fr) minmax(180px, 0.9fr) minmax(150px, 0.7fr) minmax(110px, 0.6fr);
+  gap: 8px;
+  align-items: center;
+}
+
+.mindmapTableHead {
+  min-height: 30px;
+  padding: 5px 9px;
+  border-bottom: 1px solid #263248;
+  color: #7d8aa8;
+  font-size: 11px;
+  font-weight: 750;
+}
+
+.mindmapTableRow {
+  width: 100%;
+  min-height: 38px;
+  padding: 6px 9px;
+  border: 0;
+  border-bottom: 1px solid #1b2435;
+  background: transparent;
+  color: #b8c1d6;
+  text-align: left;
+  font-size: 12px;
+}
+
+.mindmapTableRow:hover {
+  background: #172033;
+  color: #f6f7ff;
+}
+
+.mindmapTableRow > span,
+.mindmapTableText {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.colorCell {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.colorCell i {
+  width: 14px;
+  height: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  border-radius: 3px;
+}
+
+.importanceBadge {
+  width: fit-content;
+  padding: 3px 7px;
+  border: 1px solid #34415d;
+  border-radius: 999px;
+  color: #f6f7ff;
+  font-size: 11px;
+}
+
+.importance-最高 {
+  border-color: #ff5c5c;
+  background: rgba(255, 92, 92, 0.22);
+}
+
+.importance-高 {
+  border-color: #c58cff;
+  background: rgba(197, 140, 255, 0.18);
+}
+
+.importance-中 {
+  border-color: #6adff0;
+  background: rgba(106, 223, 240, 0.13);
+}
+
+.importance-低 {
+  border-color: #f7c85d;
+  background: rgba(247, 200, 93, 0.13);
+}
+
+.importance-未标色 {
+  color: #9aa6c0;
+  background: #111827;
+}
+
 .watchlistLayout {
   display: grid;
   align-items: start;
@@ -840,6 +1144,20 @@ summary b {
 
   .watchlistLayout {
     grid-template-columns: 1fr;
+  }
+
+  .mindmapLayout {
+    grid-template-columns: 1fr;
+  }
+
+  .mindmapCanvas {
+    height: 560px;
+    min-height: 440px;
+  }
+
+  .mindmapTableWrap {
+    min-height: 440px;
+    overflow-x: auto;
   }
 
   .watchGroupsBoard {

@@ -273,11 +273,115 @@ def extract_source_file(path: Path, stock_root: Path) -> dict[str, Any]:
     return {"title": title, "month": month, "path": rel, "companies": companies}
 
 
+def parse_canvas_mindmap(canvas: dict[str, Any], known_companies: set[str]) -> dict[str, Any]:
+    nodes = []
+    raw_nodes = canvas.get("nodes", [])
+    node_texts = {str(raw.get("id", "")): clean_canvas_text(str(raw.get("text", ""))) for raw in raw_nodes}
+    parent_ids_by_node: dict[str, list[str]] = defaultdict(list)
+    child_ids_by_node: dict[str, list[str]] = defaultdict(list)
+    edges = []
+    for raw in canvas.get("edges", []):
+        source = raw.get("fromNode")
+        target = raw.get("toNode")
+        if source and target:
+            source_id = str(source)
+            target_id = str(target)
+            edges.append({"id": str(raw.get("id", f"{source_id}-{target_id}")), "source": source_id, "target": target_id})
+            child_ids_by_node[source_id].append(target_id)
+            parent_ids_by_node[target_id].append(source_id)
+    for raw in raw_nodes:
+        node_id = str(raw.get("id", ""))
+        text = clean_canvas_text(str(raw.get("text", "")))
+        company_names = extract_canvas_companies(text, known_companies)
+        action_tags = extract_action_tags(text)
+        color = str(raw.get("color", ""))
+        importance = classify_canvas_importance(color)
+        nodes.append(
+            {
+                "id": node_id,
+                "type": str(raw.get("type", "")),
+                "text": text,
+                "x": parse_int(str(raw.get("x", "0"))),
+                "y": parse_int(str(raw.get("y", "0"))),
+                "width": parse_int(str(raw.get("width", "160")), 160),
+                "height": parse_int(str(raw.get("height", "80")), 80),
+                "color": color,
+                "importance": importance,
+                "importanceRank": importance_rank(importance),
+                "kind": classify_canvas_node(text, company_names, action_tags),
+                "companyNames": company_names,
+                "actionTags": action_tags,
+                "parentNodeIds": parent_ids_by_node.get(node_id, []),
+                "parentNodeTexts": [node_texts.get(parent_id, "") for parent_id in parent_ids_by_node.get(node_id, [])],
+                "childNodeIds": child_ids_by_node.get(node_id, []),
+                "childNodeTexts": [node_texts.get(child_id, "") for child_id in child_ids_by_node.get(node_id, [])],
+            }
+        )
+    return {"nodes": nodes, "edges": edges}
+
+
+def collect_known_company_names(
+    companies: list[dict[str, Any]], watchlist_items: list[dict[str, Any]], cards_dir: Path
+) -> set[str]:
+    names = {item.get("name", "").strip() for item in companies}
+    names.update(item.get("name", "").strip() for item in watchlist_items)
+    if cards_dir.exists():
+        names.update(path.stem.strip() for path in cards_dir.glob("*.md"))
+    return {name for name in names if name}
+
+
+def clean_canvas_text(value: str) -> str:
+    return value.replace("==", "").replace("\\n", "\n").strip()
+
+
+def extract_canvas_companies(text: str, known_companies: set[str]) -> list[str]:
+    matches = []
+    for company in known_companies:
+        if company and company in text:
+            index = text.find(company)
+            matches.append((index, company))
+    return [company for _, company in sorted(matches)]
+
+
+def extract_action_tags(text: str) -> list[str]:
+    tags = []
+    for keyword in ["买", "卖", "待验证", "长期跟踪", "K线底部", "关注K线", "快启动", "龙头", "潜力"]:
+        if keyword in text and keyword not in tags:
+            tags.append(keyword)
+    return tags
+
+
+def classify_canvas_node(text: str, company_names: list[str], action_tags: list[str]) -> str:
+    if company_names:
+        return "company"
+    if text in {"买", "卖"} or any(tag in {"待验证", "长期跟踪"} for tag in action_tags):
+        return "action"
+    if len(text) <= 12 and "\n" not in text:
+        return "topic"
+    return "note"
+
+
+def classify_canvas_importance(color: str) -> str:
+    return {
+        "#ff0000": "最高",
+        "1": "最高",
+        "2": "高",
+        "6": "中",
+        "3": "低",
+        "": "未标色",
+    }.get(color, "未标色")
+
+
+def importance_rank(importance: str) -> int:
+    return {"最高": 0, "高": 1, "中": 2, "低": 3, "未标色": 4}.get(importance, 9)
+
+
 def build_cache(wiki_root: Path, out_dir: Path) -> None:
     stock_root = wiki_root / STOCK_ROOT
     quick_path = stock_root / "02-股票研究流" / "板块优质股票速查表.md"
     stock_info_path = stock_root / "02-股票研究流" / "我的股票信息.md"
     frequency_path = stock_root / "01-Cubox资料流" / "公司名出现频率总表.md"
+    mindmap_path = stock_root / "股票思维导图.canvas"
     cards_dir = stock_root / "02-股票研究流" / "知识图谱" / "公司卡"
     sources_dir = stock_root / "01-Cubox资料流" / "主题资料总结"
 
@@ -290,11 +394,16 @@ def build_cache(wiki_root: Path, out_dir: Path) -> None:
     companies = build_companies(quick_rows, frequencies, watchlist_items, cards_dir, stock_root)
     chains = build_industry_chains(quick_rows, source_files)
     watchlist = build_watchlist(watchlist_items, companies, snapshots)
+    mindmap = {"nodes": [], "edges": []}
+    if mindmap_path.exists():
+        known_companies = collect_known_company_names(companies, watchlist_items, cards_dir)
+        mindmap = parse_canvas_mindmap(json.loads(read_text(mindmap_path)), known_companies)
 
     write_json(out_dir / "industry_chains.json", chains)
     write_json(out_dir / "companies.json", companies)
     write_json(out_dir / "watchlist.json", watchlist)
     write_json(out_dir / "sources.json", source_files)
+    write_json(out_dir / "mindmap.json", mindmap)
     write_json(
         out_dir / "meta.json",
         {

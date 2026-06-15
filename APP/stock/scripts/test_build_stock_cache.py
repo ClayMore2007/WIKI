@@ -1,10 +1,14 @@
 import unittest
+from tempfile import TemporaryDirectory
+from pathlib import Path
 
 from build_stock_cache import (
     DEFAULT_WIKI_ROOT,
     calculate_snapshot_change,
     clean_company_name,
+    collect_known_company_names,
     display_path,
+    parse_canvas_mindmap,
     parse_frequency_rows,
     parse_markdown_table,
     parse_stock_quick_rows,
@@ -81,6 +85,57 @@ class SnapshotChangeTests(unittest.TestCase):
         result = calculate_snapshot_change("SZ300502", "133.1", "20260601", snapshots, 10)
 
         self.assertEqual(result["status"], "本地快照不足")
+
+
+class MindmapParsingTests(unittest.TestCase):
+    def test_parse_canvas_mindmap_keeps_layout_and_extracts_company_tags(self):
+        canvas = {
+            "nodes": [
+                {
+                    "id": "topic",
+                    "type": "text",
+                    "text": "半导体",
+                    "x": -100,
+                    "y": 20,
+                    "width": 160,
+                    "height": 80,
+                    "color": "3",
+                },
+                {
+                    "id": "idea",
+                    "type": "text",
+                    "text": "==华能蒙电==（K线底部）\n中船特气",
+                    "x": 80,
+                    "y": 20,
+                    "width": 260,
+                    "height": 90,
+                    "color": "6",
+                },
+            ],
+            "edges": [{"id": "edge-1", "fromNode": "topic", "toNode": "idea"}],
+        }
+
+        mindmap = parse_canvas_mindmap(canvas, {"华能蒙电", "中船特气"})
+
+        self.assertEqual(mindmap["nodes"][0]["kind"], "topic")
+        self.assertEqual(mindmap["nodes"][0]["importance"], "低")
+        self.assertEqual(mindmap["nodes"][1]["companyNames"], ["华能蒙电", "中船特气"])
+        self.assertEqual(mindmap["nodes"][1]["importance"], "中")
+        self.assertEqual(mindmap["nodes"][1]["actionTags"], ["K线底部"])
+        self.assertEqual(mindmap["nodes"][0]["childNodeIds"], ["idea"])
+        self.assertEqual(mindmap["nodes"][0]["childNodeTexts"], ["华能蒙电（K线底部）\n中船特气"])
+        self.assertEqual(mindmap["nodes"][1]["parentNodeIds"], ["topic"])
+        self.assertEqual(mindmap["nodes"][1]["parentNodeTexts"], ["半导体"])
+        self.assertEqual(mindmap["edges"], [{"id": "edge-1", "source": "topic", "target": "idea"}])
+
+    def test_collect_known_company_names_includes_company_card_filenames(self):
+        with TemporaryDirectory() as folder:
+            cards_dir = Path(folder)
+            (cards_dir / "华能蒙电.md").write_text("# 华能蒙电", encoding="utf-8")
+
+            names = collect_known_company_names([{"name": "新易盛"}], [{"name": "中船特气"}], cards_dir)
+
+        self.assertEqual(names, {"新易盛", "中船特气", "华能蒙电"})
 
 
 class PathFormattingTests(unittest.TestCase):

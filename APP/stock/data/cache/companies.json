@@ -2294,7 +2294,7 @@
     "dateRange": "",
     "price": "52.06",
     "priceDate": "20260515",
-    "ownership": "自选",
+    "ownership": "持仓 + 自选",
     "cardPath": "02-股票研究流/知识图谱/公司卡/三花智控.md",
     "summary": "confidence: medium-low"
   },
@@ -2548,7 +2548,7 @@
     "dateRange": "",
     "price": "65.70",
     "priceDate": "20260430",
-    "ownership": "自选",
+    "ownership": "持仓 + 自选",
     "cardPath": "02-股票研究流/知识图谱/公司卡/亨通光电.md",
     "summary": "confidence: medium-low"
   },
@@ -4394,7 +4394,7 @@
     "dateRange": "2026-05-26",
     "price": "19.67",
     "priceDate": "20260526",
-    "ownership": "自选",
+    "ownership": "持仓 + 自选",
     "cardPath": "02-股票研究流/知识图谱/公司卡/凯盛科技.md",
     "summary": "confidence: medium-low"
   },
@@ -4480,7 +4480,7 @@
     "dateRange": "2026-05-26",
     "price": "146.28",
     "priceDate": "20260522",
-    "ownership": "自选",
+    "ownership": "持仓 + 自选",
     "cardPath": "02-股票研究流/知识图谱/公司卡/大族激光.md",
     "summary": "confidence: medium-low"
   },
@@ -5081,7 +5081,7 @@
     "dateRange": "2026-05-25",
     "price": "31.05",
     "priceDate": "20260519",
-    "ownership": "持仓 + 自选",
+    "ownership": "自选",
     "cardPath": "02-股票研究流/知识图谱/公司卡/士兰微.md",
     "summary": "confidence: medium-low"
   },
@@ -7373,7 +7373,7 @@
     "dateRange": "",
     "price": "33.86",
     "priceDate": "20260515",
-    "ownership": "自选",
+    "ownership": "持仓 + 自选",
     "cardPath": "02-股票研究流/知识图谱/公司卡/中国巨石.md",
     "summary": "confidence: medium-low"
   },
@@ -8391,7 +8391,7 @@
     "dateRange": "",
     "price": "8.52",
     "priceDate": "20260529",
-    "ownership": "持仓 + 自选",
+    "ownership": "自选",
     "cardPath": "02-股票研究流/知识图谱/公司卡/科陆电子.md",
     "summary": "confidence: medium-low"
   },

@@ -1,12 +1,14 @@
 import chainsJson from "../data/cache/industry_chains.json";
 import companiesJson from "../data/cache/companies.json";
 import metaJson from "../data/cache/meta.json";
+import mindmapJson from "../data/cache/mindmap.json";
 import sourcesJson from "../data/cache/sources.json";
 import watchlistJson from "../data/cache/watchlist.json";
-import type { Company, IndustryChain, Meta, SourceFile, WatchlistItem } from "./types";
+import type { Company, IndustryChain, Meta, Mindmap, SourceFile, WatchlistItem } from "./types";
 
 export const chains = chainsJson as IndustryChain[];
 export const companies = companiesJson as Company[];
 export const watchlist = watchlistJson as WatchlistItem[];
 export const sources = sourcesJson as SourceFile[];
+export const mindmap = mindmapJson as Mindmap;
 export const meta = metaJson as Meta;

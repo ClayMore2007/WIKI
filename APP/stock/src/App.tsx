@@ -5,18 +5,32 @@ import {
   ChevronRight,
   Database,
   FileText,
+  Map,
   RefreshCw,
   Search,
   Star,
   Table2
 } from "lucide-react";
+import { Background, Controls, MiniMap, ReactFlow, type Edge as FlowEdge, type Node as FlowNode } from "@xyflow/react";
+import "@xyflow/react/dist/style.css";
 import { useMemo, useState } from "react";
-import { chains, companies, meta, sources, watchlist } from "./data";
-import type { Company, IndustryChain, WatchlistItem } from "./types";
-import { formatChange, heatLevel, matchesSearch, matchesWatchlistSearch, priorityRank, unique } from "./utils";
+import { chains, companies, meta, mindmap, sources, watchlist } from "./data";
+import type { Company, IndustryChain, MindmapNode, WatchlistItem } from "./types";
+import {
+  formatChange,
+  heatLevel,
+  importanceRank,
+  matchesMindmapSearch,
+  matchesSearch,
+  matchesWatchlistSearch,
+  priorityRank,
+  toggleSetValue,
+  unique
+} from "./utils";
 
-type Page = "matrix" | "watchlist" | "notes";
+type Page = "matrix" | "mindmap" | "watchlist" | "notes";
 type OwnershipFilter = "all" | "holding" | "watch";
+type MindmapMode = "graph" | "table";
 
 const priorities = ["all", "P0", "P1", "P2", "P3"];
 
@@ -26,8 +40,11 @@ export function App() {
   const [priority, setPriority] = useState("all");
   const [ownership, setOwnership] = useState<OwnershipFilter>("all");
   const [selectedCompanyName, setSelectedCompanyName] = useState(companies[0]?.name ?? "");
+  const [selectedMindNodeId, setSelectedMindNodeId] = useState(mindmap.nodes[0]?.id ?? "");
+  const [mindmapMode, setMindmapMode] = useState<MindmapMode>("graph");
 
   const selectedCompany = companies.find((company) => company.name === selectedCompanyName) ?? companies[0];
+  const selectedMindNode = mindmap.nodes.find((node) => node.id === selectedMindNodeId) ?? mindmap.nodes[0];
   const filteredCompanies = useMemo(
     () =>
       companies.filter((company) => {
@@ -67,6 +84,10 @@ export function App() {
           <BarChart3 size={17} />
           产业链热力矩阵
         </button>
+        <button className={page === "mindmap" ? "active" : ""} onClick={() => setPage("mindmap")}>
+          <Map size={17} />
+          思维导图
+        </button>
         <button className={page === "watchlist" ? "active" : ""} onClick={() => setPage("watchlist")}>
           <Table2 size={17} />
           自选/持仓
@@ -90,6 +111,17 @@ export function App() {
         <MatrixPage
           selectedCompany={selectedCompany}
           filteredCompanies={filteredCompanies}
+          mindmapNodes={mindmap.nodes}
+          onSelectCompany={setSelectedCompanyName}
+        />
+      ) : page === "mindmap" ? (
+        <MindmapPage
+          query={query}
+          mode={mindmapMode}
+          setMode={setMindmapMode}
+          selectedMindNode={selectedMindNode}
+          selectedCompanyName={selectedCompany?.name ?? ""}
+          onSelectNode={setSelectedMindNodeId}
           onSelectCompany={setSelectedCompanyName}
         />
       ) : page === "watchlist" ? (
@@ -147,10 +179,12 @@ function FilterBar({
 function MatrixPage({
   selectedCompany,
   filteredCompanies,
+  mindmapNodes,
   onSelectCompany
 }: {
   selectedCompany: Company;
   filteredCompanies: Company[];
+  mindmapNodes: MindmapNode[];
   onSelectCompany: (name: string) => void;
 }) {
   const months = useMemo(() => unique(sources.map((source) => source.month)).filter((month) => month !== "日期未知").sort(), []);
@@ -203,8 +237,255 @@ function MatrixPage({
         </section>
       </section>
 
-      <CompanyDetail company={selectedCompany} />
+      <CompanyDetail company={selectedCompany} mindmapNodes={mindmapNodes} />
     </main>
+  );
+}
+
+function MindmapPage({
+  query,
+  mode,
+  setMode,
+  selectedMindNode,
+  selectedCompanyName,
+  onSelectNode,
+  onSelectCompany
+}: {
+  query: string;
+  mode: MindmapMode;
+  setMode: (value: MindmapMode) => void;
+  selectedMindNode?: MindmapNode;
+  selectedCompanyName: string;
+  onSelectNode: (id: string) => void;
+  onSelectCompany: (name: string) => void;
+}) {
+  const visibleNodes = useMemo(() => mindmap.nodes.filter((node) => matchesMindmapSearch(node, query)), [query]);
+  const visibleNodeIds = useMemo(() => new Set(visibleNodes.map((node) => node.id)), [visibleNodes]);
+  const flowNodes = useMemo<FlowNode[]>(
+    () =>
+      visibleNodes.map((node) => ({
+        id: node.id,
+        position: { x: node.x, y: node.y },
+        data: {
+          label: (
+            <div className="mindmapNodeLabel">
+              <span>{node.text || "空节点"}</span>
+              {node.companyNames.length > 0 && <small>{node.companyNames.join(" / ")}</small>}
+            </div>
+          )
+        },
+        width: node.width,
+        height: node.height,
+        className: [
+          "mindmapFlowNode",
+          `mindmapKind-${node.kind}`,
+          node.id === selectedMindNode?.id ? "selected" : "",
+          node.companyNames.includes(selectedCompanyName) ? "companySelected" : ""
+        ]
+          .filter(Boolean)
+          .join(" "),
+        style: {
+          width: node.width,
+          minHeight: node.height,
+          borderColor: canvasColor(node.color),
+          backgroundColor: canvasBackground(node.color)
+        }
+      })),
+    [selectedCompanyName, selectedMindNode?.id, visibleNodes]
+  );
+  const flowEdges = useMemo<FlowEdge[]>(
+    () =>
+      mindmap.edges
+        .filter((edge) => visibleNodeIds.has(edge.source) && visibleNodeIds.has(edge.target))
+        .map((edge) => ({ id: edge.id, source: edge.source, target: edge.target, className: "mindmapEdge" })),
+    [visibleNodeIds]
+  );
+
+  return (
+    <main className={mode === "table" ? "mindmapLayout tableMode" : "mindmapLayout"}>
+      <section className="mindmapCanvasPanel">
+        <div className="mindmapPanelHeader">
+          <PanelTitle icon={<Map size={17} />} title="股票思维导图" meta={`${visibleNodes.length} / ${mindmap.nodes.length} 节点`} />
+          <div className="mindmapModeSwitch segmented" aria-label="思维导图视图">
+            <button className={mode === "graph" ? "active" : ""} onClick={() => setMode("graph")}>
+              图谱
+            </button>
+            <button className={mode === "table" ? "active" : ""} onClick={() => setMode("table")}>
+              表格
+            </button>
+          </div>
+        </div>
+        {mode === "graph" ? (
+          <div className="mindmapCanvas">
+            <ReactFlow nodes={flowNodes} edges={flowEdges} fitView minZoom={0.12} maxZoom={1.8} onNodeClick={(_, node) => {
+              onSelectNode(node.id);
+              const raw = mindmap.nodes.find((item) => item.id === node.id);
+              if (raw?.companyNames[0]) {
+                onSelectCompany(raw.companyNames[0]);
+              }
+            }}>
+              <Background color="#2b3550" gap={32} />
+              <MiniMap pannable zoomable nodeStrokeWidth={3} />
+              <Controls />
+            </ReactFlow>
+          </div>
+        ) : (
+          <MindmapTable nodes={visibleNodes} onSelectNode={onSelectNode} onSelectCompany={onSelectCompany} />
+        )}
+      </section>
+      <MindmapDetail node={selectedMindNode} onSelectCompany={onSelectCompany} />
+    </main>
+  );
+}
+
+function MindmapTable({
+  nodes,
+  onSelectNode,
+  onSelectCompany
+}: {
+  nodes: MindmapNode[];
+  onSelectNode: (id: string) => void;
+  onSelectCompany: (name: string) => void;
+}) {
+  const grouped = useMemo(() => groupMindmapNodes(nodes), [nodes]);
+  const [collapsedGroups, setCollapsedGroups] = useState<Set<string>>(new Set());
+  return (
+    <div className="mindmapTableWrap">
+      {Object.entries(grouped).map(([kind, items]) => (
+        <section className={collapsedGroups.has(kind) ? "mindmapTableGroup collapsed" : "mindmapTableGroup"} key={kind}>
+          <button
+            className="mindmapTableTitle"
+            onClick={() => setCollapsedGroups((current) => toggleSetValue(current, kind))}
+            aria-expanded={!collapsedGroups.has(kind)}
+          >
+            <span className="mindmapGroupName">
+              {collapsedGroups.has(kind) ? <ChevronRight size={15} /> : <ChevronDown size={15} />}
+              <b>{mindmapKindLabel(kind)}</b>
+            </span>
+            <span>{items.length} 条</span>
+          </button>
+          {!collapsedGroups.has(kind) && (
+            <div className="mindmapTable">
+              <div className="mindmapTableHead">
+                <span>颜色</span>
+                <span>重要性</span>
+                <span>内容</span>
+                <span>上级包含</span>
+                <span>包含下级</span>
+                <span>公司</span>
+                <span>标签</span>
+              </div>
+              {items.map((node) => (
+                <button className="mindmapTableRow" key={node.id} onClick={() => {
+                  onSelectNode(node.id);
+                  if (node.companyNames[0]) {
+                    onSelectCompany(node.companyNames[0]);
+                  }
+                }}>
+                  <span className="colorCell">
+                    <i style={{ backgroundColor: canvasColor(node.color) }} />
+                    {node.color || "空"}
+                  </span>
+                  <b className={`importanceBadge importance-${node.importance}`}>{node.importance}</b>
+                  <span className="mindmapTableText">{node.text || "空节点"}</span>
+                  <span>{summarizeRelations(node.parentNodeTexts)}</span>
+                  <span>{summarizeRelations(node.childNodeTexts)}</span>
+                  <span>{node.companyNames.join(" / ") || "--"}</span>
+                  <span>{node.actionTags.join(" / ") || "--"}</span>
+                </button>
+              ))}
+            </div>
+          )}
+        </section>
+      ))}
+    </div>
+  );
+}
+
+function groupMindmapNodes(nodes: MindmapNode[]): Record<string, MindmapNode[]> {
+  const order = ["company", "action", "topic", "note"];
+  const groups: Record<string, MindmapNode[]> = {};
+  for (const node of nodes) {
+    groups[node.kind] ??= [];
+    groups[node.kind].push(node);
+  }
+  return Object.fromEntries(
+    Object.entries(groups)
+      .sort(([left], [right]) => order.indexOf(left) - order.indexOf(right))
+      .map(([kind, items]) => [
+        kind,
+        items.slice().sort((a, b) => importanceRank(a.importance) - importanceRank(b.importance) || a.text.localeCompare(b.text, "zh-CN"))
+      ])
+  );
+}
+
+function mindmapKindLabel(kind: string): string {
+  return { company: "公司/标的", action: "行动/判断", topic: "产业/环节", note: "备注/逻辑" }[kind] ?? kind;
+}
+
+function summarizeRelations(texts: string[]): string {
+  const visible = texts.map((text) => text.replace(/\s+/g, " ").trim()).filter(Boolean);
+  if (!visible.length) {
+    return "--";
+  }
+  const summary = visible.slice(0, 3).join(" / ");
+  return visible.length > 3 ? `${summary} +${visible.length - 3}` : summary;
+}
+
+function MindmapDetail({ node, onSelectCompany }: { node?: MindmapNode; onSelectCompany: (name: string) => void }) {
+  return (
+    <aside className="detailPanel mindmapDetailPanel">
+      <PanelTitle icon={<FileText size={17} />} title="节点详情" meta={node?.kind ?? "未选择"} />
+      {node ? (
+        <>
+          <section className="detailSection">
+            <h3>原文</h3>
+            <p className="mindmapNodeText">{node.text || "空节点"}</p>
+          </section>
+          <section className="detailSection">
+            <h3>关联公司</h3>
+            {node.companyNames.length ? (
+              <div className="refList">
+                {node.companyNames.map((name) => (
+                  <button className="companyTagButton" key={name} onClick={() => onSelectCompany(name)}>
+                    {name}
+                  </button>
+                ))}
+              </div>
+            ) : (
+              <p className="muted">未匹配到公司卡中的公司名。</p>
+            )}
+          </section>
+          <section className="detailSection">
+            <h3>判断标签</h3>
+            {node.actionTags.length ? (
+              <div className="refList">{node.actionTags.map((tag) => <span key={tag}>{tag}</span>)}</div>
+            ) : (
+              <p className="muted">暂无自动识别标签。</p>
+            )}
+          </section>
+          <section className="detailSection">
+            <h3>颜色重要性</h3>
+            <div className="refList">
+              <span>{node.color || "空"} · {node.importance}</span>
+            </div>
+          </section>
+          <section className="detailSection">
+            <h3>包含关系</h3>
+            <p>上级：{summarizeRelations(node.parentNodeTexts)}</p>
+            <p>下级：{summarizeRelations(node.childNodeTexts)}</p>
+          </section>
+          <section className="detailSection">
+            <h3>Canvas 定位</h3>
+            <p className="muted">x {node.x} · y {node.y} · {node.width}x{node.height}</p>
+          </section>
+        </>
+      ) : (
+        <section className="detailSection">
+          <p className="muted">未找到思维导图缓存。运行缓存构建后会显示 Canvas 节点。</p>
+        </section>
+      )}
+    </aside>
   );
 }
 
@@ -281,7 +562,8 @@ function HeatRow({
   );
 }
 
-function CompanyDetail({ company }: { company: Company }) {
+function CompanyDetail({ company, mindmapNodes = [] }: { company: Company; mindmapNodes?: MindmapNode[] }) {
+  const companyMindmapNodes = mindmapNodes.filter((node) => node.companyNames.includes(company.name));
   return (
     <aside className="detailPanel">
       <PanelTitle icon={<Star size={17} />} title="公司详情" meta={company.ownership} />
@@ -328,6 +610,18 @@ function CompanyDetail({ company }: { company: Company }) {
           ))}
           {company.cardPath && <span>公司卡：{company.cardPath}</span>}
         </div>
+      </section>
+      <section className="detailSection">
+        <h3>思维导图记录</h3>
+        {companyMindmapNodes.length ? (
+          companyMindmapNodes.slice(0, 4).map((node) => (
+            <p className="mindmapMention" key={node.id}>
+              {node.text}
+            </p>
+          ))
+        ) : (
+          <p className="muted">Canvas 中暂未匹配到这个公司。</p>
+        )}
       </section>
     </aside>
   );
@@ -569,4 +863,22 @@ function Metric({ label, value }: { label: string; value: string }) {
       <b>{value}</b>
     </div>
   );
+}
+
+function canvasColor(color: string): string {
+  return (
+    {
+      "1": "#ff7b7b",
+      "2": "#f7c85d",
+      "3": "#68d391",
+      "4": "#6adff0",
+      "5": "#9db8ff",
+      "6": "#c58cff",
+      "#ff0000": "#ff5c5c"
+    }[color] ?? "#40506f"
+  );
+}
+
+function canvasBackground(color: string): string {
+  return `${canvasColor(color)}22`;
 }

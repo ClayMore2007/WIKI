@@ -1,0 +1,5433 @@
+{
+  "nodes": [
+    {
+      "id": "1f9d1de0a3ac687d",
+      "type": "text",
+      "text": "半导体",
+      "x": -1251,
+      "y": -3200,
+      "width": 167,
+      "height": 160,
+      "color": "3",
+      "importance": "低",
+      "importanceRank": 3,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "bf71618ca70164ac",
+        "c7bc7a9b0ea8162f",
+        "f8559b7e17820e8c",
+        "d4d2470d41893e6c",
+        "ac85a7766456d97e"
+      ],
+      "childNodeTexts": [
+        "六氟化钨",
+        "超级电容",
+        "IGBT",
+        "1.长电科技\n2.通富微电\n3.华天科技",
+        "硅片"
+      ]
+    },
+    {
+      "id": "03eda69527749c01",
+      "type": "text",
+      "text": "中游",
+      "x": -1079,
+      "y": -2620,
+      "width": 3599,
+      "height": 60,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "6700c63020ad5473",
+      "type": "text",
+      "text": "1.烽火通信\n2.永鼎股份",
+      "x": 250,
+      "y": -1720,
+      "width": 260,
+      "height": 90,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "烽火通信",
+        "永鼎股份"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "4f907361a42ff142"
+      ],
+      "parentNodeTexts": [
+        "通信"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "0245fc293b690224",
+      "type": "text",
+      "text": "MLCC",
+      "x": -151,
+      "y": -2090,
+      "width": 160,
+      "height": 90,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "f087a666f01dc6a3"
+      ],
+      "parentNodeTexts": [
+        "碳酸钡"
+      ],
+      "childNodeIds": [
+        "c08db444f5711212"
+      ],
+      "childNodeTexts": [
+        "风华高科\n火炬电子"
+      ]
+    },
+    {
+      "id": "c7bc7a9b0ea8162f",
+      "type": "text",
+      "text": "超级电容",
+      "x": -140,
+      "y": -1900,
+      "width": 160,
+      "height": 90,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "1f9d1de0a3ac687d"
+      ],
+      "parentNodeTexts": [
+        "半导体"
+      ],
+      "childNodeIds": [
+        "9f281e678407014d"
+      ],
+      "childNodeTexts": [
+        "1.祥和实业"
+      ]
+    },
+    {
+      "id": "9f281e678407014d",
+      "type": "text",
+      "text": "1.祥和实业",
+      "x": 250,
+      "y": -1885,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "祥和实业"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "c7bc7a9b0ea8162f"
+      ],
+      "parentNodeTexts": [
+        "超级电容"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "4cb352e4b33cedbd",
+      "type": "text",
+      "text": "",
+      "x": -1251,
+      "y": -2627,
+      "width": 60,
+      "height": 4363,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "efbc2be777a9d24f",
+      "type": "text",
+      "text": "买",
+      "x": -1363,
+      "y": -1613,
+      "width": 284,
+      "height": 261,
+      "color": "1",
+      "importance": "最高",
+      "importanceRank": 0,
+      "kind": "action",
+      "companyNames": [],
+      "actionTags": [
+        "买"
+      ],
+      "parentNodeIds": [
+        "cbc17fd15ec26725",
+        "d81e76e339a56468",
+        "78edc833870a1691",
+        "7dd015a597669a29",
+        "1a24da6bea0133d8",
+        "372c8ea67ebea6f9",
+        "9543c9f02d0b3214",
+        "8715840d1684ca69",
+        "f42099aaf388480a",
+        "105401b2e2a91ffa",
+        "21d7bbe8f742c8c9",
+        "20fd843cad61dc3a",
+        "f2d1eb9cd6734db7",
+        "a2e6b67b941d9146",
+        "fe2119749e173c91",
+        "d97e9d47707c50a7",
+        "ac85a7766456d97e",
+        "dbafb7e7bb65897d"
+      ],
+      "parentNodeTexts": [
+        "盛和资源（快启动了）",
+        "中科曙光",
+        "1.中船特气\n2.昊华科技（这周卖掉？）\n3.和远气体",
+        "菲力华",
+        "宏和科技 （龙头）",
+        "圣泉集团",
+        "快克智能",
+        "粤桂股份",
+        "厦门钨业（看能不能过前高 67\n中钨高新",
+        "",
+        "有研新材（半导体靶材龙头）",
+        "东材科技",
+        "1.云南锗业",
+        "锡业股份（龙头）\n兴发集团",
+        "赣锋锂业",
+        "诺德股份",
+        "硅片",
+        "鼎泰高科（龙头）"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "2ab903496b161f37",
+      "type": "text",
+      "text": "钨",
+      "x": -3164,
+      "y": -1730,
+      "width": 160,
+      "height": 60,
+      "color": "1",
+      "importance": "最高",
+      "importanceRank": 0,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "784951aee9e86de7",
+        "15c03bf55698c404"
+      ],
+      "parentNodeTexts": [
+        "材料",
+        "稀土永磁"
+      ],
+      "childNodeIds": [
+        "f42099aaf388480a"
+      ],
+      "childNodeTexts": [
+        "厦门钨业（看能不能过前高 67\n中钨高新"
+      ]
+    },
+    {
+      "id": "f42099aaf388480a",
+      "type": "text",
+      "text": "厦门钨业（看能不能过前高 67\n中钨高新",
+      "x": -2774,
+      "y": -1745,
+      "width": 294,
+      "height": 90,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "厦门钨业",
+        "中钨高新"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "2ab903496b161f37"
+      ],
+      "parentNodeTexts": [
+        "钨"
+      ],
+      "childNodeIds": [
+        "efbc2be777a9d24f",
+        "aeafbafa990c4b10"
+      ],
+      "childNodeTexts": [
+        "买",
+        "走势好，刚起"
+      ]
+    },
+    {
+      "id": "cbc17fd15ec26725",
+      "type": "text",
+      "text": "盛和资源（快启动了）",
+      "x": -2774,
+      "y": -1570,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [
+        "快启动"
+      ],
+      "parentNodeIds": [
+        "7193dc9ab71a1759"
+      ],
+      "parentNodeTexts": [
+        "氧化镝"
+      ],
+      "childNodeIds": [
+        "efbc2be777a9d24f"
+      ],
+      "childNodeTexts": [
+        "买"
+      ]
+    },
+    {
+      "id": "6e89aa53d8e6265b",
+      "type": "text",
+      "text": "上游",
+      "x": -4080,
+      "y": -2627,
+      "width": 2717,
+      "height": 60,
+      "color": "1",
+      "importance": "最高",
+      "importanceRank": 0,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "8f9c7cfc4e6b7dac",
+      "type": "text",
+      "text": "国产替代",
+      "x": 862,
+      "y": -3200,
+      "width": 167,
+      "height": 160,
+      "color": "3",
+      "importance": "低",
+      "importanceRank": 3,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "d4d2470d41893e6c"
+      ],
+      "childNodeTexts": [
+        "1.长电科技\n2.通富微电\n3.华天科技"
+      ]
+    },
+    {
+      "id": "3e82d0b5d777695f",
+      "type": "text",
+      "text": "卖",
+      "x": -1363,
+      "y": -2208,
+      "width": 284,
+      "height": 261,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "action",
+      "companyNames": [],
+      "actionTags": [
+        "卖"
+      ],
+      "parentNodeIds": [
+        "78edc833870a1691"
+      ],
+      "parentNodeTexts": [
+        "1.中船特气\n2.昊华科技（这周卖掉？）\n3.和远气体"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "37ab90c8f8c7b44b",
+      "type": "text",
+      "text": "石英股份\n菲利华",
+      "x": -2780,
+      "y": -1312,
+      "width": 260,
+      "height": 90,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "石英股份",
+        "菲利华"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "e3cb6a004c9d778f"
+      ],
+      "parentNodeTexts": [
+        "石英"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "c884ae25ba44c56b",
+      "type": "text",
+      "text": "三祥新材",
+      "x": -2780,
+      "y": -1160,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "a9718de53b119e3f"
+      ],
+      "parentNodeTexts": [
+        "锆"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "7193dc9ab71a1759",
+      "type": "text",
+      "text": "氧化镝",
+      "x": -3164,
+      "y": -1570,
+      "width": 160,
+      "height": 60,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "15c03bf55698c404"
+      ],
+      "parentNodeTexts": [
+        "稀土永磁"
+      ],
+      "childNodeIds": [
+        "cbc17fd15ec26725"
+      ],
+      "childNodeTexts": [
+        "盛和资源（快启动了）"
+      ]
+    },
+    {
+      "id": "f087a666f01dc6a3",
+      "type": "text",
+      "text": "碳酸钡",
+      "x": -3164,
+      "y": -1427,
+      "width": 160,
+      "height": 60,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "784951aee9e86de7"
+      ],
+      "parentNodeTexts": [
+        "材料"
+      ],
+      "childNodeIds": [
+        "7984409ea3d9c49d",
+        "f13361cd17bfdcad",
+        "0245fc293b690224"
+      ],
+      "childNodeTexts": [
+        "红星发展",
+        "电池",
+        "MLCC"
+      ]
+    },
+    {
+      "id": "e3cb6a004c9d778f",
+      "type": "text",
+      "text": "石英",
+      "x": -3164,
+      "y": -1297,
+      "width": 160,
+      "height": 60,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "784951aee9e86de7"
+      ],
+      "parentNodeTexts": [
+        "材料"
+      ],
+      "childNodeIds": [
+        "37ab90c8f8c7b44b"
+      ],
+      "childNodeTexts": [
+        "石英股份\n菲利华"
+      ]
+    },
+    {
+      "id": "a9718de53b119e3f",
+      "type": "text",
+      "text": "锆",
+      "x": -3164,
+      "y": -1160,
+      "width": 160,
+      "height": 60,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "784951aee9e86de7",
+        "15c03bf55698c404"
+      ],
+      "parentNodeTexts": [
+        "材料",
+        "稀土永磁"
+      ],
+      "childNodeIds": [
+        "c884ae25ba44c56b"
+      ],
+      "childNodeTexts": [
+        "三祥新材"
+      ]
+    },
+    {
+      "id": "79c6cc17a57875d7",
+      "type": "text",
+      "text": "锗",
+      "x": -3164,
+      "y": -1020,
+      "width": 160,
+      "height": 60,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "15c03bf55698c404"
+      ],
+      "parentNodeTexts": [
+        "稀土永磁"
+      ],
+      "childNodeIds": [
+        "21d7bbe8f742c8c9"
+      ],
+      "childNodeTexts": [
+        "有研新材（半导体靶材龙头）"
+      ]
+    },
+    {
+      "id": "21d7bbe8f742c8c9",
+      "type": "text",
+      "text": "有研新材（半导体靶材龙头）",
+      "x": -2780,
+      "y": -1020,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "有研新材"
+      ],
+      "actionTags": [
+        "龙头"
+      ],
+      "parentNodeIds": [
+        "79c6cc17a57875d7"
+      ],
+      "parentNodeTexts": [
+        "锗"
+      ],
+      "childNodeIds": [
+        "efbc2be777a9d24f"
+      ],
+      "childNodeTexts": [
+        "买"
+      ]
+    },
+    {
+      "id": "1d76925bbfe75507",
+      "type": "text",
+      "text": "韬定律",
+      "x": -1363,
+      "y": -4040,
+      "width": 427,
+      "height": 400,
+      "color": "1",
+      "importance": "最高",
+      "importanceRank": 0,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "4f907361a42ff142",
+      "type": "text",
+      "text": "通信",
+      "x": -112,
+      "y": -1717,
+      "width": 132,
+      "height": 85,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "6700c63020ad5473"
+      ],
+      "childNodeTexts": [
+        "1.烽火通信\n2.永鼎股份"
+      ]
+    },
+    {
+      "id": "40d8fecd163e8103",
+      "type": "text",
+      "text": "氦气",
+      "x": -3164,
+      "y": -1880,
+      "width": 160,
+      "height": 60,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "025aed51989234a1"
+      ],
+      "parentNodeTexts": [
+        "电子特气"
+      ],
+      "childNodeIds": [
+        "cfaca9143ddc99d4",
+        "105401b2e2a91ffa"
+      ],
+      "childNodeTexts": [
+        "和海峡相关，无法运输\n我国产量低。",
+        ""
+      ]
+    },
+    {
+      "id": "cfaca9143ddc99d4",
+      "type": "text",
+      "text": "和海峡相关，无法运输\n我国产量低。",
+      "x": -3580,
+      "y": -1887,
+      "width": 260,
+      "height": 75,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "note",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "40d8fecd163e8103"
+      ],
+      "parentNodeTexts": [
+        "氦气"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "baca6b66e0656ac7",
+      "type": "text",
+      "text": "玻璃基板",
+      "x": -207,
+      "y": 1079,
+      "width": 165,
+      "height": 82,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "c35aa7a540ce3a3c",
+        "2d86d590a11b65dc",
+        "6b02ddc97089940b"
+      ],
+      "childNodeTexts": [
+        "1.大族激光",
+        "1.沃格光电\n2.红星发展\n3.京东方A（中军）（散户多，等洗）\n4.凯盛科技",
+        "1.彩虹股份\n2.凯盛科技\n华工科技"
+      ]
+    },
+    {
+      "id": "bc9950e53a43ddb7",
+      "type": "text",
+      "text": "半导体",
+      "x": -189,
+      "y": 430,
+      "width": 130,
+      "height": 80,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "d81e76e339a56468"
+      ],
+      "childNodeTexts": [
+        "中科曙光"
+      ]
+    },
+    {
+      "id": "e68cfff06540f58b",
+      "type": "text",
+      "text": "先进封装",
+      "x": -199,
+      "y": 259,
+      "width": 140,
+      "height": 80,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "f544a4965a22197e"
+      ],
+      "childNodeTexts": [
+        "1.晶方科技"
+      ]
+    },
+    {
+      "id": "6cbad0b1fc5bb088",
+      "type": "text",
+      "text": "金刚石",
+      "x": -196,
+      "y": 759,
+      "width": 130,
+      "height": 80,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "db952ec59d6a9635"
+      ],
+      "childNodeTexts": [
+        "黄河旋风 （K线 低点）\n国机精工"
+      ]
+    },
+    {
+      "id": "93be4110993c7613",
+      "type": "text",
+      "text": "机器人",
+      "x": -184,
+      "y": 1564,
+      "width": 155,
+      "height": 82,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "company",
+      "companyNames": [
+        "机器人"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "9164ab4801780b0d"
+      ],
+      "parentNodeTexts": [
+        "物理AI"
+      ],
+      "childNodeIds": [
+        "363ee4ad3ef0232d",
+        "a6077e7d6742f04f"
+      ],
+      "childNodeTexts": [
+        "中大力德",
+        "中超控股 （潜力）\n埃斯顿\n达实智能（龙头？）\n中重科技（龙头？）\n三花智控"
+      ]
+    },
+    {
+      "id": "363ee4ad3ef0232d",
+      "type": "text",
+      "text": "中大力德",
+      "x": 218,
+      "y": 1646,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "中大力德"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "93be4110993c7613"
+      ],
+      "parentNodeTexts": [
+        "机器人"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "544e992a705bd155",
+      "type": "text",
+      "text": "1.天娱数科（中位）\n2.能科科技（中位）",
+      "x": 218,
+      "y": 1765,
+      "width": 293,
+      "height": 100,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "能科科技"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "fcbe49482d06ed9b",
+        "9164ab4801780b0d"
+      ],
+      "parentNodeTexts": [
+        "AI应用",
+        "物理AI"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "fcbe49482d06ed9b",
+      "type": "text",
+      "text": "AI应用",
+      "x": -171,
+      "y": 1815,
+      "width": 130,
+      "height": 80,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "544e992a705bd155"
+      ],
+      "childNodeTexts": [
+        "1.天娱数科（中位）\n2.能科科技（中位）"
+      ]
+    },
+    {
+      "id": "a6077e7d6742f04f",
+      "type": "text",
+      "text": "中超控股 （潜力）\n埃斯顿\n达实智能（龙头？）\n中重科技（龙头？）\n三花智控",
+      "x": 218,
+      "y": 1440,
+      "width": 260,
+      "height": 165,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "中超控股",
+        "达实智能",
+        "中重科技",
+        "三花智控"
+      ],
+      "actionTags": [
+        "龙头",
+        "潜力"
+      ],
+      "parentNodeIds": [
+        "9164ab4801780b0d",
+        "93be4110993c7613"
+      ],
+      "parentNodeTexts": [
+        "物理AI",
+        "机器人"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "99660e2e22e6f43b",
+      "type": "text",
+      "text": "神剑股份（暴雷？）\n巨力索具 （跌到底了？）\n\n1.凯盛科技\n2.中超控股\n3.航天电子\n4.再升科技",
+      "x": 218,
+      "y": 1935,
+      "width": 333,
+      "height": 220,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "凯盛科技",
+        "中超控股",
+        "航天电子",
+        "再升科技"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "ee3f373e3dc28eb6"
+      ],
+      "parentNodeTexts": [
+        "航天"
+      ],
+      "childNodeIds": [
+        "6f1d38923a458157"
+      ],
+      "childNodeTexts": [
+        "巨力 关注K线"
+      ]
+    },
+    {
+      "id": "ee3f373e3dc28eb6",
+      "type": "text",
+      "text": "航天",
+      "x": -172,
+      "y": 2005,
+      "width": 130,
+      "height": 80,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "99660e2e22e6f43b"
+      ],
+      "childNodeTexts": [
+        "神剑股份（暴雷？）\n巨力索具 （跌到底了？）\n\n1.凯盛科技\n2.中超控股\n3.航天电子\n4.再升科技"
+      ]
+    },
+    {
+      "id": "6f1d38923a458157",
+      "type": "text",
+      "text": "巨力 关注K线",
+      "x": 641,
+      "y": 2015,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [
+        "关注K线"
+      ],
+      "parentNodeIds": [
+        "99660e2e22e6f43b"
+      ],
+      "parentNodeTexts": [
+        "神剑股份（暴雷？）\n巨力索具 （跌到底了？）\n\n1.凯盛科技\n2.中超控股\n3.航天电子\n4.再升科技"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "1512709ec93b6ffc",
+      "type": "text",
+      "text": "1.四方股份（龙头？）等后续（关注K线）\n2.阳光电源（K线底部）",
+      "x": 225,
+      "y": 2525,
+      "width": 375,
+      "height": 100,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "四方股份",
+        "阳光电源"
+      ],
+      "actionTags": [
+        "K线底部",
+        "关注K线",
+        "龙头"
+      ],
+      "parentNodeIds": [
+        "7df7215665d9fbf4"
+      ],
+      "parentNodeTexts": [
+        "SST"
+      ],
+      "childNodeIds": [
+        "44c164b1f792bfe1"
+      ],
+      "childNodeTexts": [
+        "800v高压直流供电 DC扩产延期推迟了，等"
+      ]
+    },
+    {
+      "id": "7df7215665d9fbf4",
+      "type": "text",
+      "text": "SST",
+      "x": -149,
+      "y": 2545,
+      "width": 130,
+      "height": 60,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "5fdd1b9ac73d071c"
+      ],
+      "parentNodeTexts": [
+        "电力"
+      ],
+      "childNodeIds": [
+        "1512709ec93b6ffc"
+      ],
+      "childNodeTexts": [
+        "1.四方股份（龙头？）等后续（关注K线）\n2.阳光电源（K线底部）"
+      ]
+    },
+    {
+      "id": "69445d49a67030c0",
+      "type": "text",
+      "text": "豫能控股\n大唐发电\n京能电力\n华能蒙电（K线底部）",
+      "x": 225,
+      "y": 2255,
+      "width": 260,
+      "height": 170,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "大唐发电",
+        "华能蒙电"
+      ],
+      "actionTags": [
+        "K线底部"
+      ],
+      "parentNodeIds": [
+        "5fdd1b9ac73d071c"
+      ],
+      "parentNodeTexts": [
+        "电力"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "5fdd1b9ac73d071c",
+      "type": "text",
+      "text": "电力",
+      "x": -469,
+      "y": 2300,
+      "width": 130,
+      "height": 80,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "69445d49a67030c0",
+        "7df7215665d9fbf4"
+      ],
+      "childNodeTexts": [
+        "豫能控股\n大唐发电\n京能电力\n华能蒙电（K线底部）",
+        "SST"
+      ]
+    },
+    {
+      "id": "fbfc13760caaf493",
+      "type": "text",
+      "text": "RCD 06芯片",
+      "x": -120,
+      "y": -1592,
+      "width": 140,
+      "height": 80,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "48e670e0eb32ad2d",
+        "32e9b1aa99ce9e72"
+      ],
+      "childNodeTexts": [
+        "澜起科技（科创）",
+        "支持9200MT/秒传输速率"
+      ]
+    },
+    {
+      "id": "776ead666b09643c",
+      "type": "text",
+      "text": "CPO",
+      "x": -110,
+      "y": -990,
+      "width": 130,
+      "height": 80,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "5ee447d780d66439"
+      ],
+      "parentNodeTexts": [
+        "光"
+      ],
+      "childNodeIds": [
+        "64cd7f659249b5ec",
+        "4548ebeaf30b001c"
+      ],
+      "childNodeTexts": [
+        "和芯片共封装，脱离光模块",
+        "扩产延期，良率19%，要承压"
+      ]
+    },
+    {
+      "id": "64cd7f659249b5ec",
+      "type": "text",
+      "text": "和芯片共封装，脱离光模块",
+      "x": -473,
+      "y": -980,
+      "width": 260,
+      "height": 60,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "776ead666b09643c"
+      ],
+      "parentNodeTexts": [
+        "CPO"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "5171345418a1f7f2",
+      "type": "text",
+      "text": "近封装光学",
+      "x": -473,
+      "y": -1112,
+      "width": 260,
+      "height": 60,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "95b7e596e01a4fc6"
+      ],
+      "parentNodeTexts": [
+        "NPO"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "95b7e596e01a4fc6",
+      "type": "text",
+      "text": "NPO",
+      "x": -110,
+      "y": -1122,
+      "width": 130,
+      "height": 80,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "5ee447d780d66439"
+      ],
+      "parentNodeTexts": [
+        "光"
+      ],
+      "childNodeIds": [
+        "5171345418a1f7f2",
+        "f85d71b2fb4b4c17"
+      ],
+      "childNodeTexts": [
+        "近封装光学",
+        "光迅科技\n华工科技"
+      ]
+    },
+    {
+      "id": "48e670e0eb32ad2d",
+      "type": "text",
+      "text": "澜起科技（科创）",
+      "x": 250,
+      "y": -1582,
+      "width": 260,
+      "height": 60,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "company",
+      "companyNames": [
+        "澜起科技"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "fbfc13760caaf493"
+      ],
+      "parentNodeTexts": [
+        "RCD 06芯片"
+      ],
+      "childNodeIds": [
+        "1d932289c0b0bbf2"
+      ],
+      "childNodeTexts": [
+        "后期很看好"
+      ]
+    },
+    {
+      "id": "32e9b1aa99ce9e72",
+      "type": "text",
+      "text": "支持9200MT/秒传输速率",
+      "x": -473,
+      "y": -1582,
+      "width": 260,
+      "height": 60,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "note",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "fbfc13760caaf493"
+      ],
+      "parentNodeTexts": [
+        "RCD 06芯片"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "1d932289c0b0bbf2",
+      "type": "text",
+      "text": "后期很看好",
+      "x": 600,
+      "y": -1582,
+      "width": 140,
+      "height": 60,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "48e670e0eb32ad2d"
+      ],
+      "parentNodeTexts": [
+        "澜起科技（科创）"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "bf55d2ad95e9eb66",
+      "type": "text",
+      "text": "光模块",
+      "x": 65,
+      "y": -3200,
+      "width": 167,
+      "height": 160,
+      "color": "3",
+      "importance": "低",
+      "importanceRank": 3,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "3298653d7fb31ca0",
+      "type": "text",
+      "text": "",
+      "x": 254,
+      "y": -1450,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "fbb00ee81dd24f91"
+      ],
+      "parentNodeTexts": [
+        "光模块"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "fbb00ee81dd24f91",
+      "type": "text",
+      "text": "光模块",
+      "x": -110,
+      "y": -1460,
+      "width": 130,
+      "height": 80,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "5ee447d780d66439"
+      ],
+      "parentNodeTexts": [
+        "光"
+      ],
+      "childNodeIds": [
+        "3298653d7fb31ca0"
+      ],
+      "childNodeTexts": [
+        ""
+      ]
+    },
+    {
+      "id": "f85d71b2fb4b4c17",
+      "type": "text",
+      "text": "光迅科技\n华工科技",
+      "x": 250,
+      "y": -1127,
+      "width": 260,
+      "height": 90,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "光迅科技",
+        "华工科技"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "95b7e596e01a4fc6"
+      ],
+      "parentNodeTexts": [
+        "NPO"
+      ],
+      "childNodeIds": [
+        "f0bb7bda906dfd1d"
+      ],
+      "childNodeTexts": [
+        "CPO不理想，利好NPO"
+      ]
+    },
+    {
+      "id": "f0bb7bda906dfd1d",
+      "type": "text",
+      "text": "CPO不理想，利好NPO",
+      "x": 580,
+      "y": -1112,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "f85d71b2fb4b4c17",
+        "4548ebeaf30b001c"
+      ],
+      "parentNodeTexts": [
+        "光迅科技\n华工科技",
+        "扩产延期，良率19%，要承压"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "4548ebeaf30b001c",
+      "type": "text",
+      "text": "扩产延期，良率19%，要承压",
+      "x": 580,
+      "y": -980,
+      "width": 260,
+      "height": 60,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "note",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "776ead666b09643c"
+      ],
+      "parentNodeTexts": [
+        "CPO"
+      ],
+      "childNodeIds": [
+        "f0bb7bda906dfd1d"
+      ],
+      "childNodeTexts": [
+        "CPO不理想，利好NPO"
+      ]
+    },
+    {
+      "id": "44c164b1f792bfe1",
+      "type": "text",
+      "text": "800v高压直流供电 DC扩产延期推迟了，等",
+      "x": 660,
+      "y": 2528,
+      "width": 285,
+      "height": 95,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "note",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "1512709ec93b6ffc"
+      ],
+      "parentNodeTexts": [
+        "1.四方股份（龙头？）等后续（关注K线）\n2.阳光电源（K线底部）"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "78edc833870a1691",
+      "type": "text",
+      "text": "1.中船特气\n2.昊华科技（这周卖掉？）\n3.和远气体",
+      "x": -2774,
+      "y": -2070,
+      "width": 260,
+      "height": 125,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "中船特气",
+        "昊华科技"
+      ],
+      "actionTags": [
+        "卖"
+      ],
+      "parentNodeIds": [
+        "bf71618ca70164ac"
+      ],
+      "parentNodeTexts": [
+        "六氟化钨"
+      ],
+      "childNodeIds": [
+        "3e82d0b5d777695f",
+        "efbc2be777a9d24f"
+      ],
+      "childNodeTexts": [
+        "卖",
+        "买"
+      ]
+    },
+    {
+      "id": "f10ada06eb6722b6",
+      "type": "text",
+      "text": "1.6月底-7月永久初断供\n2.半导体不可替代的特殊其他",
+      "x": -3580,
+      "y": -2042,
+      "width": 260,
+      "height": 74,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "note",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "bf71618ca70164ac"
+      ],
+      "parentNodeTexts": [
+        "六氟化钨"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "105401b2e2a91ffa",
+      "type": "text",
+      "text": "",
+      "x": -2774,
+      "y": -1880,
+      "width": 260,
+      "height": 61,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "40d8fecd163e8103"
+      ],
+      "parentNodeTexts": [
+        "氦气"
+      ],
+      "childNodeIds": [
+        "8c0ac6fb05dbc038",
+        "efbc2be777a9d24f"
+      ],
+      "childNodeTexts": [
+        "还有库存，等回调",
+        "买"
+      ]
+    },
+    {
+      "id": "f13361cd17bfdcad",
+      "type": "text",
+      "text": "电池",
+      "x": -1640,
+      "y": -738,
+      "width": 135,
+      "height": 80,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "f087a666f01dc6a3",
+        "9ea748bb9bfa78af"
+      ],
+      "parentNodeTexts": [
+        "碳酸钡",
+        "锂矿"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "8c7f2b824b30af59",
+      "type": "text",
+      "text": "下游",
+      "x": 3680,
+      "y": -2604,
+      "width": 1840,
+      "height": 60,
+      "color": "3",
+      "importance": "低",
+      "importanceRank": 3,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "5da5ae32a5ad55cb",
+      "type": "text",
+      "text": "",
+      "x": 3040,
+      "y": -2610,
+      "width": 60,
+      "height": 4316,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "025aed51989234a1",
+      "type": "text",
+      "text": "电子特气",
+      "x": -3983,
+      "y": -1960,
+      "width": 167,
+      "height": 160,
+      "color": "3",
+      "importance": "低",
+      "importanceRank": 3,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "bf71618ca70164ac",
+        "40d8fecd163e8103"
+      ],
+      "childNodeTexts": [
+        "六氟化钨",
+        "氦气"
+      ]
+    },
+    {
+      "id": "8c549156d95ba304",
+      "type": "text",
+      "text": "光",
+      "x": -4350,
+      "y": 1066,
+      "width": 660,
+      "height": 160,
+      "color": "3",
+      "importance": "低",
+      "importanceRank": 3,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "de078e0c53cbbf6e"
+      ],
+      "childNodeTexts": [
+        "涨过"
+      ]
+    },
+    {
+      "id": "780089cdd1a6cee1",
+      "type": "text",
+      "text": "芯片",
+      "x": -4350,
+      "y": 1306,
+      "width": 660,
+      "height": 160,
+      "color": "3",
+      "importance": "低",
+      "importanceRank": 3,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "de078e0c53cbbf6e"
+      ],
+      "childNodeTexts": [
+        "涨过"
+      ]
+    },
+    {
+      "id": "3d8782eff9c7d665",
+      "type": "text",
+      "text": "存储",
+      "x": -4350,
+      "y": 1546,
+      "width": 660,
+      "height": 160,
+      "color": "3",
+      "importance": "低",
+      "importanceRank": 3,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "572d6c16bdf8bd1c",
+        "f0017f1ed88247be"
+      ],
+      "childNodeTexts": [
+        "涨的不多",
+        "存储"
+      ]
+    },
+    {
+      "id": "de078e0c53cbbf6e",
+      "type": "text",
+      "text": "涨过",
+      "x": -3450,
+      "y": 1226,
+      "width": 100,
+      "height": 65,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "8c549156d95ba304",
+        "780089cdd1a6cee1"
+      ],
+      "parentNodeTexts": [
+        "光",
+        "芯片"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "572d6c16bdf8bd1c",
+      "type": "text",
+      "text": "涨的不多",
+      "x": -3450,
+      "y": 1594,
+      "width": 120,
+      "height": 65,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "3d8782eff9c7d665"
+      ],
+      "parentNodeTexts": [
+        "存储"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "1d921c4505ae216a",
+      "type": "text",
+      "text": "硫磺",
+      "x": -3164,
+      "y": -2315,
+      "width": 160,
+      "height": 60,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "784951aee9e86de7"
+      ],
+      "parentNodeTexts": [
+        "材料"
+      ],
+      "childNodeIds": [
+        "8715840d1684ca69"
+      ],
+      "childNodeTexts": [
+        "粤桂股份"
+      ]
+    },
+    {
+      "id": "8715840d1684ca69",
+      "type": "text",
+      "text": "粤桂股份",
+      "x": -2774,
+      "y": -2315,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "粤桂股份"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "1d921c4505ae216a"
+      ],
+      "parentNodeTexts": [
+        "硫磺"
+      ],
+      "childNodeIds": [
+        "efbc2be777a9d24f"
+      ],
+      "childNodeTexts": [
+        "买"
+      ]
+    },
+    {
+      "id": "80a563c77994fbfe",
+      "type": "text",
+      "text": "氢氟酸",
+      "x": -3164,
+      "y": -2180,
+      "width": 160,
+      "height": 60,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "784951aee9e86de7"
+      ],
+      "parentNodeTexts": [
+        "材料"
+      ],
+      "childNodeIds": [
+        "b407cdfbee71685a"
+      ],
+      "childNodeTexts": [
+        "多氟多\n巨化股份"
+      ]
+    },
+    {
+      "id": "bf71618ca70164ac",
+      "type": "text",
+      "text": "六氟化钨",
+      "x": -3164,
+      "y": -2037,
+      "width": 160,
+      "height": 60,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "1f9d1de0a3ac687d",
+        "025aed51989234a1"
+      ],
+      "parentNodeTexts": [
+        "半导体",
+        "电子特气"
+      ],
+      "childNodeIds": [
+        "f10ada06eb6722b6",
+        "78edc833870a1691"
+      ],
+      "childNodeTexts": [
+        "1.6月底-7月永久初断供\n2.半导体不可替代的特殊其他",
+        "1.中船特气\n2.昊华科技（这周卖掉？）\n3.和远气体"
+      ]
+    },
+    {
+      "id": "b407cdfbee71685a",
+      "type": "text",
+      "text": "多氟多\n巨化股份",
+      "x": -2777,
+      "y": -2190,
+      "width": 266,
+      "height": 80,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "多氟多",
+        "巨化股份"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "80a563c77994fbfe"
+      ],
+      "parentNodeTexts": [
+        "氢氟酸"
+      ],
+      "childNodeIds": [
+        "c29969c291d435dc"
+      ],
+      "childNodeTexts": [
+        "壁垒不高，扩产时间不长，国产替代"
+      ]
+    },
+    {
+      "id": "2abca6784d4871d8",
+      "type": "text",
+      "text": "硅片",
+      "x": 1226,
+      "y": -2450,
+      "width": 146,
+      "height": 93,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "d2f398c8efd2d727",
+        "97c2e2fd0779b300",
+        "4bccf82f77a71373"
+      ],
+      "childNodeTexts": [
+        "立昂微",
+        "沪硅产业 （龙头）",
+        "TCL中环（散户大本营）"
+      ]
+    },
+    {
+      "id": "def0ba0c404cf200",
+      "type": "text",
+      "text": "长江存储",
+      "x": 2090,
+      "y": -3540,
+      "width": 280,
+      "height": 280,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "35f63650a38038c1",
+      "type": "text",
+      "text": "长鑫存储",
+      "x": 424,
+      "y": -3540,
+      "width": 280,
+      "height": 280,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "94643c324cfb7538",
+        "b2ec613494bfb60f",
+        "97c2e2fd0779b300"
+      ],
+      "childNodeTexts": [
+        "雅克科技",
+        "2.安集科技",
+        "沪硅产业 （龙头）"
+      ]
+    },
+    {
+      "id": "95e013b3fb77fed4",
+      "type": "text",
+      "text": "后面看好（买100股）6/13",
+      "x": 1974,
+      "y": -1552,
+      "width": 260,
+      "height": 60,
+      "color": "1",
+      "importance": "最高",
+      "importanceRank": 0,
+      "kind": "note",
+      "companyNames": [],
+      "actionTags": [
+        "买"
+      ],
+      "parentNodeIds": [
+        "c4852a631f72281e"
+      ],
+      "parentNodeTexts": [
+        "立昂微"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "71ee0a277e83c629",
+      "type": "text",
+      "text": "前驱体",
+      "x": 1254,
+      "y": -2015,
+      "width": 132,
+      "height": 85,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "94643c324cfb7538"
+      ],
+      "childNodeTexts": [
+        "雅克科技"
+      ]
+    },
+    {
+      "id": "f8559b7e17820e8c",
+      "type": "text",
+      "text": "IGBT",
+      "x": 1254,
+      "y": -1795,
+      "width": 132,
+      "height": 85,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "1f9d1de0a3ac687d"
+      ],
+      "parentNodeTexts": [
+        "半导体"
+      ],
+      "childNodeIds": [
+        "59adc359a84ab9a4"
+      ],
+      "childNodeTexts": [
+        "斯达半导"
+      ]
+    },
+    {
+      "id": "ac85a7766456d97e",
+      "type": "text",
+      "text": "硅片",
+      "x": 1254,
+      "y": -1565,
+      "width": 132,
+      "height": 85,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "1f9d1de0a3ac687d"
+      ],
+      "parentNodeTexts": [
+        "半导体"
+      ],
+      "childNodeIds": [
+        "c4852a631f72281e",
+        "efbc2be777a9d24f"
+      ],
+      "childNodeTexts": [
+        "立昂微",
+        "买"
+      ]
+    },
+    {
+      "id": "d4d2470d41893e6c",
+      "type": "text",
+      "text": "1.长电科技\n2.通富微电\n3.华天科技",
+      "x": 260,
+      "y": -235,
+      "width": 260,
+      "height": 148,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "长电科技",
+        "通富微电",
+        "华天科技"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "3bff65ee98719d4a",
+        "8f9c7cfc4e6b7dac",
+        "ea992024feb8dac1",
+        "1f9d1de0a3ac687d"
+      ],
+      "parentNodeTexts": [
+        "先进封装",
+        "国产替代",
+        "HBM",
+        "半导体"
+      ],
+      "childNodeIds": [
+        "2a09d00905a8bc5d"
+      ],
+      "childNodeTexts": [
+        "月底启动？"
+      ]
+    },
+    {
+      "id": "2a09d00905a8bc5d",
+      "type": "text",
+      "text": "月底启动？",
+      "x": 615,
+      "y": -191,
+      "width": 192,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "d4d2470d41893e6c"
+      ],
+      "parentNodeTexts": [
+        "1.长电科技\n2.通富微电\n3.华天科技"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "5d8d98e39a1f7b3f",
+      "type": "text",
+      "text": "雅克科技",
+      "x": 262,
+      "y": -47,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "雅克科技"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "ea992024feb8dac1"
+      ],
+      "parentNodeTexts": [
+        "HBM"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "9543c9f02d0b3214",
+      "type": "text",
+      "text": "快克智能",
+      "x": 266,
+      "y": 91,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "9d4468d651b1c358"
+      ],
+      "parentNodeTexts": [
+        "HBF"
+      ],
+      "childNodeIds": [
+        "efbc2be777a9d24f"
+      ],
+      "childNodeTexts": [
+        "买"
+      ]
+    },
+    {
+      "id": "893e73acabd135e6",
+      "type": "text",
+      "text": "1.太极实业",
+      "x": 260,
+      "y": -351,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "太极实业"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "3bff65ee98719d4a"
+      ],
+      "parentNodeTexts": [
+        "先进封装"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "f0017f1ed88247be",
+      "type": "text",
+      "text": "存储",
+      "x": -800,
+      "y": -97,
+      "width": 167,
+      "height": 160,
+      "color": "3",
+      "importance": "低",
+      "importanceRank": 3,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "3d8782eff9c7d665"
+      ],
+      "parentNodeTexts": [
+        "存储"
+      ],
+      "childNodeIds": [
+        "194f01778a2c333b",
+        "3bff65ee98719d4a",
+        "9d4468d651b1c358",
+        "ea992024feb8dac1"
+      ],
+      "childNodeTexts": [
+        "1.算力HBM 强需求",
+        "先进封装",
+        "HBF",
+        "HBM"
+      ]
+    },
+    {
+      "id": "194f01778a2c333b",
+      "type": "text",
+      "text": "1.算力HBM 强需求",
+      "x": -1140,
+      "y": -57,
+      "width": 212,
+      "height": 60,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "f0017f1ed88247be"
+      ],
+      "parentNodeTexts": [
+        "存储"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "f544a4965a22197e",
+      "type": "text",
+      "text": "1.晶方科技",
+      "x": 262,
+      "y": 264,
+      "width": 260,
+      "height": 70,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "晶方科技"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "e68cfff06540f58b"
+      ],
+      "parentNodeTexts": [
+        "先进封装"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "bd1e5386a9118ce5",
+      "type": "text",
+      "text": "1.宝鼎科技",
+      "x": 1488,
+      "y": -1142,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "宝鼎科技"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "68eb265ffa9cd133"
+      ],
+      "parentNodeTexts": [
+        "PCB"
+      ],
+      "childNodeIds": [
+        "e1808ad26243f8c2"
+      ],
+      "childNodeTexts": [
+        "K线走势好"
+      ]
+    },
+    {
+      "id": "e1dbbd59f324b2a8",
+      "type": "text",
+      "text": "兴森科技",
+      "x": 1488,
+      "y": -1010,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "兴森科技"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "68eb265ffa9cd133",
+        "3bff65ee98719d4a"
+      ],
+      "parentNodeTexts": [
+        "PCB",
+        "先进封装"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "6cff4d12320b8be9",
+      "type": "text",
+      "text": "钻针",
+      "x": 1870,
+      "y": -449,
+      "width": 147,
+      "height": 90,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "68eb265ffa9cd133"
+      ],
+      "parentNodeTexts": [
+        "PCB"
+      ],
+      "childNodeIds": [
+        "dbafb7e7bb65897d",
+        "b8f7b5a246cc149a"
+      ],
+      "childNodeTexts": [
+        "鼎泰高科（龙头）",
+        "中钨高新"
+      ]
+    },
+    {
+      "id": "dbafb7e7bb65897d",
+      "type": "text",
+      "text": "鼎泰高科（龙头）",
+      "x": 2131,
+      "y": -479,
+      "width": 260,
+      "height": 60,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [
+        "龙头"
+      ],
+      "parentNodeIds": [
+        "6cff4d12320b8be9"
+      ],
+      "parentNodeTexts": [
+        "钻针"
+      ],
+      "childNodeIds": [
+        "23d12b9f06bd3866",
+        "efbc2be777a9d24f"
+      ],
+      "childNodeTexts": [
+        "耗材，消耗量极大，K线很好",
+        "买"
+      ]
+    },
+    {
+      "id": "b8f7b5a246cc149a",
+      "type": "text",
+      "text": "中钨高新",
+      "x": 2131,
+      "y": -389,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "中钨高新"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "6cff4d12320b8be9"
+      ],
+      "parentNodeTexts": [
+        "钻针"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "44fe4cc489f437a8",
+      "type": "text",
+      "text": "铜箔",
+      "x": 1879,
+      "y": -266,
+      "width": 147,
+      "height": 90,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "f30f22fe7ea5cecd"
+      ],
+      "parentNodeTexts": [
+        "覆铜板 / CCL"
+      ],
+      "childNodeIds": [
+        "d97e9d47707c50a7"
+      ],
+      "childNodeTexts": [
+        "诺德股份"
+      ]
+    },
+    {
+      "id": "d97e9d47707c50a7",
+      "type": "text",
+      "text": "诺德股份",
+      "x": 2140,
+      "y": -251,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "诺德股份"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "44fe4cc489f437a8"
+      ],
+      "parentNodeTexts": [
+        "铜箔"
+      ],
+      "childNodeIds": [
+        "28b393b0127cca43",
+        "efbc2be777a9d24f"
+      ],
+      "childNodeTexts": [
+        "三代通过台系认证，四代送样",
+        "买"
+      ]
+    },
+    {
+      "id": "9ec95bd1a1a40d0e",
+      "type": "text",
+      "text": "合成树脂",
+      "x": 1879,
+      "y": -101,
+      "width": 160,
+      "height": 90,
+      "color": "1",
+      "importance": "最高",
+      "importanceRank": 0,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "f30f22fe7ea5cecd"
+      ],
+      "parentNodeTexts": [
+        "覆铜板 / CCL"
+      ],
+      "childNodeIds": [
+        "372c8ea67ebea6f9",
+        "20fd843cad61dc3a",
+        "68eb265ffa9cd133",
+        "a11cbe66da5d1130"
+      ],
+      "childNodeTexts": [
+        "圣泉集团",
+        "东材科技",
+        "PCB",
+        "中东停产断货（卡脖子）"
+      ]
+    },
+    {
+      "id": "372c8ea67ebea6f9",
+      "type": "text",
+      "text": "圣泉集团",
+      "x": 2257,
+      "y": -131,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "9ec95bd1a1a40d0e"
+      ],
+      "parentNodeTexts": [
+        "合成树脂"
+      ],
+      "childNodeIds": [
+        "efbc2be777a9d24f",
+        "aaede63fe73a4db3"
+      ],
+      "childNodeTexts": [
+        "买",
+        "待验证，需要长期跟踪，暂时只能抄不能投资.\n可以长期投资"
+      ]
+    },
+    {
+      "id": "a2ba923e20e14603",
+      "type": "text",
+      "text": "中国巨石",
+      "x": 1887,
+      "y": -890,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "中国巨石"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "471ff60a6edc1ae2"
+      ],
+      "parentNodeTexts": [
+        "电子布"
+      ],
+      "childNodeIds": [
+        "014fcf77e977908d"
+      ],
+      "childNodeTexts": [
+        "K线走势好"
+      ]
+    },
+    {
+      "id": "1a24da6bea0133d8",
+      "type": "text",
+      "text": "宏和科技 （龙头）",
+      "x": 1887,
+      "y": -775,
+      "width": 260,
+      "height": 60,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "company",
+      "companyNames": [
+        "宏和科技"
+      ],
+      "actionTags": [
+        "龙头"
+      ],
+      "parentNodeIds": [
+        "471ff60a6edc1ae2"
+      ],
+      "parentNodeTexts": [
+        "电子布"
+      ],
+      "childNodeIds": [
+        "efbc2be777a9d24f",
+        "70544566310356e7"
+      ],
+      "childNodeTexts": [
+        "买",
+        "K线走势好"
+      ]
+    },
+    {
+      "id": "7dd015a597669a29",
+      "type": "text",
+      "text": "菲力华",
+      "x": 1887,
+      "y": -650,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "471ff60a6edc1ae2"
+      ],
+      "parentNodeTexts": [
+        "电子布"
+      ],
+      "childNodeIds": [
+        "a88c680cd534f261",
+        "efbc2be777a9d24f"
+      ],
+      "childNodeTexts": [
+        "快启动了",
+        "买"
+      ]
+    },
+    {
+      "id": "014fcf77e977908d",
+      "type": "text",
+      "text": "K线走势好",
+      "x": 2217,
+      "y": -890,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "a2ba923e20e14603"
+      ],
+      "parentNodeTexts": [
+        "中国巨石"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "70544566310356e7",
+      "type": "text",
+      "text": "K线走势好",
+      "x": 2217,
+      "y": -775,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "1a24da6bea0133d8"
+      ],
+      "parentNodeTexts": [
+        "宏和科技 （龙头）"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "a88c680cd534f261",
+      "type": "text",
+      "text": "快启动了",
+      "x": 2217,
+      "y": -650,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [
+        "快启动"
+      ],
+      "parentNodeIds": [
+        "7dd015a597669a29"
+      ],
+      "parentNodeTexts": [
+        "菲力华"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "23d12b9f06bd3866",
+      "type": "text",
+      "text": "耗材，消耗量极大，K线很好",
+      "x": 2477,
+      "y": -479,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "note",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "dbafb7e7bb65897d"
+      ],
+      "parentNodeTexts": [
+        "鼎泰高科（龙头）"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "28b393b0127cca43",
+      "type": "text",
+      "text": "三代通过台系认证，四代送样",
+      "x": 2477,
+      "y": -251,
+      "width": 260,
+      "height": 60,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "note",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "d97e9d47707c50a7"
+      ],
+      "parentNodeTexts": [
+        "诺德股份"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "a11cbe66da5d1130",
+      "type": "text",
+      "text": "中东停产断货（卡脖子）",
+      "x": 1865,
+      "y": 46,
+      "width": 188,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "9ec95bd1a1a40d0e"
+      ],
+      "parentNodeTexts": [
+        "合成树脂"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "accafd80c34d3be4",
+      "type": "text",
+      "text": "磷化铟",
+      "x": -3164,
+      "y": -900,
+      "width": 160,
+      "height": 60,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "15c03bf55698c404"
+      ],
+      "parentNodeTexts": [
+        "稀土永磁"
+      ],
+      "childNodeIds": [
+        "a2e6b67b941d9146",
+        "a703deb73a1557bd",
+        "f2d1eb9cd6734db7"
+      ],
+      "childNodeTexts": [
+        "锡业股份（龙头）\n兴发集团",
+        "高纯度红磷被主要依赖日本进口，国产正在突破",
+        "1.云南锗业"
+      ]
+    },
+    {
+      "id": "a2e6b67b941d9146",
+      "type": "text",
+      "text": "锡业股份（龙头）\n兴发集团",
+      "x": -2780,
+      "y": -900,
+      "width": 260,
+      "height": 60,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "company",
+      "companyNames": [
+        "锡业股份"
+      ],
+      "actionTags": [
+        "龙头"
+      ],
+      "parentNodeIds": [
+        "accafd80c34d3be4"
+      ],
+      "parentNodeTexts": [
+        "磷化铟"
+      ],
+      "childNodeIds": [
+        "efbc2be777a9d24f"
+      ],
+      "childNodeTexts": [
+        "买"
+      ]
+    },
+    {
+      "id": "a703deb73a1557bd",
+      "type": "text",
+      "text": "高纯度红磷被主要依赖日本进口，国产正在突破",
+      "x": -3540,
+      "y": -900,
+      "width": 260,
+      "height": 60,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "note",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "accafd80c34d3be4"
+      ],
+      "parentNodeTexts": [
+        "磷化铟"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "471ff60a6edc1ae2",
+      "type": "text",
+      "text": "电子布",
+      "x": 1458,
+      "y": -790,
+      "width": 160,
+      "height": 90,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "68eb265ffa9cd133"
+      ],
+      "parentNodeTexts": [
+        "PCB"
+      ],
+      "childNodeIds": [
+        "1a24da6bea0133d8",
+        "7dd015a597669a29",
+        "a2ba923e20e14603"
+      ],
+      "childNodeTexts": [
+        "宏和科技 （龙头）",
+        "菲力华",
+        "中国巨石"
+      ]
+    },
+    {
+      "id": "fb12c9bdeae22dca",
+      "type": "text",
+      "text": "华正新材",
+      "x": 1879,
+      "y": 240,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "华正新材"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "f30f22fe7ea5cecd"
+      ],
+      "parentNodeTexts": [
+        "覆铜板 / CCL"
+      ],
+      "childNodeIds": [
+        "644bff531a1da38c"
+      ],
+      "childNodeTexts": [
+        "K线走势好"
+      ]
+    },
+    {
+      "id": "644bff531a1da38c",
+      "type": "text",
+      "text": "K线走势好",
+      "x": 2230,
+      "y": 240,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "fb12c9bdeae22dca"
+      ],
+      "parentNodeTexts": [
+        "华正新材"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "700308db3442425a",
+      "type": "text",
+      "text": "后期空间大，现在良率底",
+      "x": 640,
+      "y": -605,
+      "width": 260,
+      "height": 60,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "68eb265ffa9cd133"
+      ],
+      "parentNodeTexts": [
+        "PCB"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "c29969c291d435dc",
+      "type": "text",
+      "text": "壁垒不高，扩产时间不长，国产替代",
+      "x": -2350,
+      "y": -2180,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "note",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "b407cdfbee71685a"
+      ],
+      "parentNodeTexts": [
+        "多氟多\n巨化股份"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "8c0ac6fb05dbc038",
+      "type": "text",
+      "text": "还有库存，等回调",
+      "x": -2350,
+      "y": -1879,
+      "width": 200,
+      "height": 60,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "105401b2e2a91ffa"
+      ],
+      "parentNodeTexts": [
+        ""
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "7984409ea3d9c49d",
+      "type": "text",
+      "text": "红星发展",
+      "x": -2771,
+      "y": -1427,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "红星发展"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "f087a666f01dc6a3"
+      ],
+      "parentNodeTexts": [
+        "碳酸钡"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "94643c324cfb7538",
+      "type": "text",
+      "text": "雅克科技",
+      "x": 1611,
+      "y": -2002,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "雅克科技"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "71ee0a277e83c629",
+        "35f63650a38038c1"
+      ],
+      "parentNodeTexts": [
+        "前驱体",
+        "长鑫存储"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "59adc359a84ab9a4",
+      "type": "text",
+      "text": "斯达半导",
+      "x": 1611,
+      "y": -1782,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "斯达半导"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "f8559b7e17820e8c"
+      ],
+      "parentNodeTexts": [
+        "IGBT"
+      ],
+      "childNodeIds": [
+        "41ba61a23b9c5451"
+      ],
+      "childNodeTexts": [
+        "K线低点 （可以买100股）6/13"
+      ]
+    },
+    {
+      "id": "db952ec59d6a9635",
+      "type": "text",
+      "text": "黄河旋风 （K线 低点）\n国机精工",
+      "x": 265,
+      "y": 759,
+      "width": 260,
+      "height": 80,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "黄河旋风"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "6cbad0b1fc5bb088"
+      ],
+      "parentNodeTexts": [
+        "金刚石"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "c35aa7a540ce3a3c",
+      "type": "text",
+      "text": "1.大族激光",
+      "x": 258,
+      "y": 939,
+      "width": 213,
+      "height": 61,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "大族激光"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "baca6b66e0656ac7"
+      ],
+      "parentNodeTexts": [
+        "玻璃基板"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "6b02ddc97089940b",
+      "type": "text",
+      "text": "1.彩虹股份\n2.凯盛科技\n华工科技",
+      "x": 258,
+      "y": 1060,
+      "width": 220,
+      "height": 120,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "凯盛科技",
+        "华工科技"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "baca6b66e0656ac7"
+      ],
+      "parentNodeTexts": [
+        "玻璃基板"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "2d86d590a11b65dc",
+      "type": "text",
+      "text": "1.沃格光电\n2.红星发展\n3.京东方A（中军）（散户多，等洗）\n4.凯盛科技",
+      "x": 258,
+      "y": 1249,
+      "width": 333,
+      "height": 120,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "沃格光电",
+        "红星发展",
+        "凯盛科技"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "baca6b66e0656ac7"
+      ],
+      "parentNodeTexts": [
+        "玻璃基板"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "784951aee9e86de7",
+      "type": "text",
+      "text": "材料",
+      "x": -3983,
+      "y": -2230,
+      "width": 167,
+      "height": 160,
+      "color": "3",
+      "importance": "低",
+      "importanceRank": 3,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "2ab903496b161f37",
+        "15c03bf55698c404",
+        "f087a666f01dc6a3",
+        "e3cb6a004c9d778f",
+        "a9718de53b119e3f",
+        "1d921c4505ae216a",
+        "e3d3312a94da47e6",
+        "80a563c77994fbfe",
+        "9a10e70406c388fb",
+        "72c1aedaebbd166c"
+      ],
+      "childNodeTexts": [
+        "钨",
+        "稀土永磁",
+        "碳酸钡",
+        "石英",
+        "锆",
+        "硫磺",
+        "锗",
+        "氢氟酸",
+        "铜",
+        "光隔离器晶体"
+      ]
+    },
+    {
+      "id": "20fd843cad61dc3a",
+      "type": "text",
+      "text": "东材科技",
+      "x": 2257,
+      "y": -41,
+      "width": 260,
+      "height": 60,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "9ec95bd1a1a40d0e"
+      ],
+      "parentNodeTexts": [
+        "合成树脂"
+      ],
+      "childNodeIds": [
+        "aaede63fe73a4db3",
+        "efbc2be777a9d24f",
+        "04406415667dab0b"
+      ],
+      "childNodeTexts": [
+        "待验证，需要长期跟踪，暂时只能抄不能投资.\n可以长期投资",
+        "买",
+        "K线走势好"
+      ]
+    },
+    {
+      "id": "e3d3312a94da47e6",
+      "type": "text",
+      "text": "锗",
+      "x": -3170,
+      "y": -768,
+      "width": 160,
+      "height": 60,
+      "color": "1",
+      "importance": "最高",
+      "importanceRank": 0,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "784951aee9e86de7"
+      ],
+      "parentNodeTexts": [
+        "材料"
+      ],
+      "childNodeIds": [
+        "f2d1eb9cd6734db7"
+      ],
+      "childNodeTexts": [
+        "1.云南锗业"
+      ]
+    },
+    {
+      "id": "f2d1eb9cd6734db7",
+      "type": "text",
+      "text": "1.云南锗业",
+      "x": -2780,
+      "y": -768,
+      "width": 260,
+      "height": 60,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "company",
+      "companyNames": [
+        "云南锗业"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "e3d3312a94da47e6",
+        "accafd80c34d3be4"
+      ],
+      "parentNodeTexts": [
+        "锗",
+        "磷化铟"
+      ],
+      "childNodeIds": [
+        "342adcce3270b51b",
+        "efbc2be777a9d24f"
+      ],
+      "childNodeTexts": [
+        "",
+        "买"
+      ]
+    },
+    {
+      "id": "342adcce3270b51b",
+      "type": "text",
+      "text": "",
+      "x": -2360,
+      "y": -768,
+      "width": 260,
+      "height": 60,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "f2d1eb9cd6734db7"
+      ],
+      "parentNodeTexts": [
+        "1.云南锗业"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "c08db444f5711212",
+      "type": "text",
+      "text": "风华高科\n火炬电子",
+      "x": 250,
+      "y": -2081,
+      "width": 260,
+      "height": 72,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "风华高科",
+        "火炬电子"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "0245fc293b690224"
+      ],
+      "parentNodeTexts": [
+        "MLCC"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "4bccf82f77a71373",
+      "type": "text",
+      "text": "TCL中环（散户大本营）",
+      "x": 1611,
+      "y": -2325,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "TCL中环"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "2abca6784d4871d8"
+      ],
+      "parentNodeTexts": [
+        "硅片"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "85f530d09e6f7a95",
+      "type": "text",
+      "text": "抛光液",
+      "x": 1240,
+      "y": -2240,
+      "width": 132,
+      "height": 85,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "b2ec613494bfb60f",
+        "99bab89617a71d5c"
+      ],
+      "childNodeTexts": [
+        "2.安集科技",
+        "1.鼎龙股份"
+      ]
+    },
+    {
+      "id": "41ba61a23b9c5451",
+      "type": "text",
+      "text": "K线低点 （可以买100股）6/13",
+      "x": 1980,
+      "y": -1782,
+      "width": 260,
+      "height": 60,
+      "color": "1",
+      "importance": "最高",
+      "importanceRank": 0,
+      "kind": "note",
+      "companyNames": [],
+      "actionTags": [
+        "买"
+      ],
+      "parentNodeIds": [
+        "59adc359a84ab9a4"
+      ],
+      "parentNodeTexts": [
+        "斯达半导"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "d81e76e339a56468",
+      "type": "text",
+      "text": "中科曙光",
+      "x": 262,
+      "y": 445,
+      "width": 260,
+      "height": 65,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "中科曙光"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "bc9950e53a43ddb7"
+      ],
+      "parentNodeTexts": [
+        "半导体"
+      ],
+      "childNodeIds": [
+        "efbc2be777a9d24f"
+      ],
+      "childNodeTexts": [
+        "买"
+      ]
+    },
+    {
+      "id": "9d4468d651b1c358",
+      "type": "text",
+      "text": "HBF",
+      "x": -194,
+      "y": 81,
+      "width": 140,
+      "height": 80,
+      "color": "1",
+      "importance": "最高",
+      "importanceRank": 0,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "f0017f1ed88247be"
+      ],
+      "parentNodeTexts": [
+        "存储"
+      ],
+      "childNodeIds": [
+        "9543c9f02d0b3214"
+      ],
+      "childNodeTexts": [
+        "快克智能"
+      ]
+    },
+    {
+      "id": "ea992024feb8dac1",
+      "type": "text",
+      "text": "HBM",
+      "x": -189,
+      "y": -57,
+      "width": 140,
+      "height": 80,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "f0017f1ed88247be"
+      ],
+      "parentNodeTexts": [
+        "存储"
+      ],
+      "childNodeIds": [
+        "d4d2470d41893e6c",
+        "5d8d98e39a1f7b3f"
+      ],
+      "childNodeTexts": [
+        "1.长电科技\n2.通富微电\n3.华天科技",
+        "雅克科技"
+      ]
+    },
+    {
+      "id": "3bff65ee98719d4a",
+      "type": "text",
+      "text": "先进封装",
+      "x": -194,
+      "y": -201,
+      "width": 140,
+      "height": 80,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "f0017f1ed88247be"
+      ],
+      "parentNodeTexts": [
+        "存储"
+      ],
+      "childNodeIds": [
+        "893e73acabd135e6",
+        "d4d2470d41893e6c",
+        "e1dbbd59f324b2a8"
+      ],
+      "childNodeTexts": [
+        "1.太极实业",
+        "1.长电科技\n2.通富微电\n3.华天科技",
+        "兴森科技"
+      ]
+    },
+    {
+      "id": "c4852a631f72281e",
+      "type": "text",
+      "text": "立昂微",
+      "x": 1611,
+      "y": -1552,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "ac85a7766456d97e"
+      ],
+      "parentNodeTexts": [
+        "硅片"
+      ],
+      "childNodeIds": [
+        "95e013b3fb77fed4"
+      ],
+      "childNodeTexts": [
+        "后面看好（买100股）6/13"
+      ]
+    },
+    {
+      "id": "5ee447d780d66439",
+      "type": "text",
+      "text": "光",
+      "x": -760,
+      "y": -1352,
+      "width": 167,
+      "height": 160,
+      "color": "3",
+      "importance": "低",
+      "importanceRank": 3,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "fbb00ee81dd24f91",
+        "95b7e596e01a4fc6",
+        "776ead666b09643c",
+        "c1e89f3875b388ad",
+        "59fa7259df34767c"
+      ],
+      "childNodeTexts": [
+        "光模块",
+        "NPO",
+        "CPO",
+        "光纤",
+        "光隔离器"
+      ]
+    },
+    {
+      "id": "c1e89f3875b388ad",
+      "type": "text",
+      "text": "光纤",
+      "x": -120,
+      "y": -1312,
+      "width": 130,
+      "height": 80,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "5ee447d780d66439"
+      ],
+      "parentNodeTexts": [
+        "光"
+      ],
+      "childNodeIds": [
+        "aff20309ac08ac45",
+        "41fcd3c2cea934ce"
+      ],
+      "childNodeTexts": [
+        "1.亨通光电 （自主研发）",
+        "2.中天科技（接单）\n3.泰和新材"
+      ]
+    },
+    {
+      "id": "99bab89617a71d5c",
+      "type": "text",
+      "text": "1.鼎龙股份",
+      "x": 1611,
+      "y": -2227,
+      "width": 260,
+      "height": 60,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "company",
+      "companyNames": [
+        "鼎龙股份"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "85f530d09e6f7a95"
+      ],
+      "parentNodeTexts": [
+        "抛光液"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "b2ec613494bfb60f",
+      "type": "text",
+      "text": "2.安集科技",
+      "x": 1611,
+      "y": -2140,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "安集科技"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "85f530d09e6f7a95",
+        "35f63650a38038c1"
+      ],
+      "parentNodeTexts": [
+        "抛光液",
+        "长鑫存储"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "97c2e2fd0779b300",
+      "type": "text",
+      "text": "沪硅产业 （龙头）",
+      "x": 1611,
+      "y": -2500,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "沪硅产业"
+      ],
+      "actionTags": [
+        "龙头"
+      ],
+      "parentNodeIds": [
+        "35f63650a38038c1",
+        "2abca6784d4871d8"
+      ],
+      "parentNodeTexts": [
+        "长鑫存储",
+        "硅片"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "d2f398c8efd2d727",
+      "type": "text",
+      "text": "立昂微",
+      "x": 1611,
+      "y": -2417,
+      "width": 260,
+      "height": 60,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "2abca6784d4871d8"
+      ],
+      "parentNodeTexts": [
+        "硅片"
+      ],
+      "childNodeIds": [
+        "95c753a84e1a5037"
+      ],
+      "childNodeTexts": [
+        "K线走势好"
+      ]
+    },
+    {
+      "id": "95c753a84e1a5037",
+      "type": "text",
+      "text": "K线走势好",
+      "x": 1960,
+      "y": -2417,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "d2f398c8efd2d727"
+      ],
+      "parentNodeTexts": [
+        "立昂微"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "aaede63fe73a4db3",
+      "type": "text",
+      "text": "待验证，需要长期跟踪，暂时只能抄不能投资.\n可以长期投资",
+      "x": 2660,
+      "y": -126,
+      "width": 260,
+      "height": 141,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "action",
+      "companyNames": [],
+      "actionTags": [
+        "待验证",
+        "长期跟踪"
+      ],
+      "parentNodeIds": [
+        "372c8ea67ebea6f9",
+        "20fd843cad61dc3a"
+      ],
+      "parentNodeTexts": [
+        "圣泉集团",
+        "东材科技"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "04406415667dab0b",
+      "type": "text",
+      "text": "K线走势好",
+      "x": 2660,
+      "y": 46,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "20fd843cad61dc3a"
+      ],
+      "parentNodeTexts": [
+        "东材科技"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "e1808ad26243f8c2",
+      "type": "text",
+      "text": "K线走势好",
+      "x": 1870,
+      "y": -1142,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "bd1e5386a9118ce5"
+      ],
+      "parentNodeTexts": [
+        "1.宝鼎科技"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "aff20309ac08ac45",
+      "type": "text",
+      "text": "1.亨通光电 （自主研发）",
+      "x": 254,
+      "y": -1342,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "亨通光电"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "c1e89f3875b388ad"
+      ],
+      "parentNodeTexts": [
+        "光纤"
+      ],
+      "childNodeIds": [
+        "ce97b138a512101b"
+      ],
+      "childNodeTexts": [
+        "K线走势好"
+      ]
+    },
+    {
+      "id": "41fcd3c2cea934ce",
+      "type": "text",
+      "text": "2.中天科技（接单）\n3.泰和新材",
+      "x": 254,
+      "y": -1232,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "中天科技",
+        "泰和新材"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "c1e89f3875b388ad"
+      ],
+      "parentNodeTexts": [
+        "光纤"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "ce97b138a512101b",
+      "type": "text",
+      "text": "K线走势好",
+      "x": 580,
+      "y": -1342,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "aff20309ac08ac45"
+      ],
+      "parentNodeTexts": [
+        "1.亨通光电 （自主研发）"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "68eb265ffa9cd133",
+      "type": "text",
+      "text": "PCB",
+      "x": 1020,
+      "y": -671,
+      "width": 196,
+      "height": 192,
+      "color": "#ff0000",
+      "importance": "最高",
+      "importanceRank": 0,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "9ec95bd1a1a40d0e"
+      ],
+      "parentNodeTexts": [
+        "合成树脂"
+      ],
+      "childNodeIds": [
+        "bd1e5386a9118ce5",
+        "e1dbbd59f324b2a8",
+        "700308db3442425a",
+        "471ff60a6edc1ae2",
+        "f30f22fe7ea5cecd",
+        "6cff4d12320b8be9"
+      ],
+      "childNodeTexts": [
+        "1.宝鼎科技",
+        "兴森科技",
+        "后期空间大，现在良率底",
+        "电子布",
+        "覆铜板 / CCL",
+        "钻针"
+      ]
+    },
+    {
+      "id": "f30f22fe7ea5cecd",
+      "type": "text",
+      "text": "覆铜板 / CCL",
+      "x": 1458,
+      "y": -101,
+      "width": 160,
+      "height": 90,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "68eb265ffa9cd133"
+      ],
+      "parentNodeTexts": [
+        "PCB"
+      ],
+      "childNodeIds": [
+        "fb12c9bdeae22dca",
+        "44fe4cc489f437a8",
+        "9ec95bd1a1a40d0e",
+        "939f9a8f81ffede8"
+      ],
+      "childNodeTexts": [
+        "华正新材",
+        "铜箔",
+        "合成树脂",
+        "看到2700亿"
+      ]
+    },
+    {
+      "id": "939f9a8f81ffede8",
+      "type": "text",
+      "text": "看到2700亿",
+      "x": 1408,
+      "y": 86,
+      "width": 260,
+      "height": 60,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "f30f22fe7ea5cecd"
+      ],
+      "parentNodeTexts": [
+        "覆铜板 / CCL"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "aeafbafa990c4b10",
+      "type": "text",
+      "text": "走势好，刚起",
+      "x": -2350,
+      "y": -1730,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "f42099aaf388480a"
+      ],
+      "parentNodeTexts": [
+        "厦门钨业（看能不能过前高 67\n中钨高新"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "9a10e70406c388fb",
+      "type": "text",
+      "text": "铜",
+      "x": -3170,
+      "y": -640,
+      "width": 160,
+      "height": 60,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "784951aee9e86de7"
+      ],
+      "parentNodeTexts": [
+        "材料"
+      ],
+      "childNodeIds": [
+        "7e389417908c97fb"
+      ],
+      "childNodeTexts": [
+        "云南铜业\n铜陵有色"
+      ]
+    },
+    {
+      "id": "7e389417908c97fb",
+      "type": "text",
+      "text": "云南铜业\n铜陵有色",
+      "x": -2780,
+      "y": -640,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "云南铜业",
+        "铜陵有色"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "9a10e70406c388fb"
+      ],
+      "parentNodeTexts": [
+        "铜"
+      ],
+      "childNodeIds": [
+        "9a7a151fa40e4b1c"
+      ],
+      "childNodeTexts": [
+        "关注K线走势"
+      ]
+    },
+    {
+      "id": "9a7a151fa40e4b1c",
+      "type": "text",
+      "text": "关注K线走势",
+      "x": -2360,
+      "y": -640,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [
+        "关注K线"
+      ],
+      "parentNodeIds": [
+        "7e389417908c97fb"
+      ],
+      "parentNodeTexts": [
+        "云南铜业\n铜陵有色"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "59fa7259df34767c",
+      "type": "text",
+      "text": "光隔离器",
+      "x": -110,
+      "y": -840,
+      "width": 130,
+      "height": 80,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "5ee447d780d66439",
+        "72c1aedaebbd166c"
+      ],
+      "parentNodeTexts": [
+        "光",
+        "光隔离器晶体"
+      ],
+      "childNodeIds": [
+        "7a67049454e001de"
+      ],
+      "childNodeTexts": [
+        "光迅科技"
+      ]
+    },
+    {
+      "id": "7a67049454e001de",
+      "type": "text",
+      "text": "光迅科技",
+      "x": 254,
+      "y": -830,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "光迅科技"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "59fa7259df34767c"
+      ],
+      "parentNodeTexts": [
+        "光隔离器"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "e05639bbbef55dbd",
+      "type": "text",
+      "text": "能源",
+      "x": -3793,
+      "y": -160,
+      "width": 140,
+      "height": 140,
+      "color": "3",
+      "importance": "低",
+      "importanceRank": 3,
+      "kind": "company",
+      "companyNames": [
+        "能源"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "b0c7f01a6c757e3c",
+        "9ea748bb9bfa78af"
+      ],
+      "childNodeTexts": [
+        "煤炭",
+        "锂矿"
+      ]
+    },
+    {
+      "id": "b0c7f01a6c757e3c",
+      "type": "text",
+      "text": "煤炭",
+      "x": -3189,
+      "y": -120,
+      "width": 185,
+      "height": 60,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "e05639bbbef55dbd"
+      ],
+      "parentNodeTexts": [
+        "能源"
+      ],
+      "childNodeIds": [
+        "b285c6971c4c210f"
+      ],
+      "childNodeTexts": [
+        "1.大有能源"
+      ]
+    },
+    {
+      "id": "9ea748bb9bfa78af",
+      "type": "text",
+      "text": "锂矿",
+      "x": -3194,
+      "y": 80,
+      "width": 185,
+      "height": 60,
+      "color": "5",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "e05639bbbef55dbd"
+      ],
+      "parentNodeTexts": [
+        "能源"
+      ],
+      "childNodeIds": [
+        "fe2119749e173c91",
+        "f13361cd17bfdcad"
+      ],
+      "childNodeTexts": [
+        "赣锋锂业",
+        "电池"
+      ]
+    },
+    {
+      "id": "b285c6971c4c210f",
+      "type": "text",
+      "text": "1.大有能源",
+      "x": -2804,
+      "y": -120,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "大有能源",
+        "能源"
+      ],
+      "actionTags": [],
+      "parentNodeIds": [
+        "b0c7f01a6c757e3c"
+      ],
+      "parentNodeTexts": [
+        "煤炭"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "fe2119749e173c91",
+      "type": "text",
+      "text": "赣锋锂业",
+      "x": -2804,
+      "y": 70,
+      "width": 260,
+      "height": 80,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "9ea748bb9bfa78af"
+      ],
+      "parentNodeTexts": [
+        "锂矿"
+      ],
+      "childNodeIds": [
+        "efbc2be777a9d24f"
+      ],
+      "childNodeTexts": [
+        "买"
+      ]
+    },
+    {
+      "id": "72c1aedaebbd166c",
+      "type": "text",
+      "text": "光隔离器晶体",
+      "x": -3164,
+      "y": -505,
+      "width": 160,
+      "height": 60,
+      "color": "2",
+      "importance": "高",
+      "importanceRank": 1,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "784951aee9e86de7"
+      ],
+      "parentNodeTexts": [
+        "材料"
+      ],
+      "childNodeIds": [
+        "59fa7259df34767c",
+        "c105aedb45977635"
+      ],
+      "childNodeTexts": [
+        "光隔离器",
+        "福晶科技（龙头）"
+      ]
+    },
+    {
+      "id": "c105aedb45977635",
+      "type": "text",
+      "text": "福晶科技（龙头）",
+      "x": -2780,
+      "y": -505,
+      "width": 260,
+      "height": 60,
+      "color": "6",
+      "importance": "中",
+      "importanceRank": 2,
+      "kind": "company",
+      "companyNames": [
+        "福晶科技"
+      ],
+      "actionTags": [
+        "龙头"
+      ],
+      "parentNodeIds": [
+        "72c1aedaebbd166c"
+      ],
+      "parentNodeTexts": [
+        "光隔离器晶体"
+      ],
+      "childNodeIds": [
+        "f2ec739465b3e0da"
+      ],
+      "childNodeTexts": [
+        "打破垄断，国产替代"
+      ]
+    },
+    {
+      "id": "f2ec739465b3e0da",
+      "type": "text",
+      "text": "打破垄断，国产替代",
+      "x": -2360,
+      "y": -505,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "c105aedb45977635"
+      ],
+      "parentNodeTexts": [
+        "福晶科技（龙头）"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "650b02eef2211403",
+      "type": "text",
+      "text": "断供日本",
+      "x": -4440,
+      "y": -1475,
+      "width": 260,
+      "height": 60,
+      "color": "",
+      "importance": "未标色",
+      "importanceRank": 4,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "15c03bf55698c404"
+      ],
+      "parentNodeTexts": [
+        "稀土永磁"
+      ],
+      "childNodeIds": [],
+      "childNodeTexts": []
+    },
+    {
+      "id": "15c03bf55698c404",
+      "type": "text",
+      "text": "稀土永磁",
+      "x": -4083,
+      "y": -1557,
+      "width": 200,
+      "height": 190,
+      "color": "#ff0000",
+      "importance": "最高",
+      "importanceRank": 0,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [
+        "784951aee9e86de7"
+      ],
+      "parentNodeTexts": [
+        "材料"
+      ],
+      "childNodeIds": [
+        "650b02eef2211403",
+        "2ab903496b161f37",
+        "a9718de53b119e3f",
+        "7193dc9ab71a1759",
+        "79c6cc17a57875d7",
+        "accafd80c34d3be4"
+      ],
+      "childNodeTexts": [
+        "断供日本",
+        "钨",
+        "锆",
+        "氧化镝",
+        "锗",
+        "磷化铟"
+      ]
+    },
+    {
+      "id": "9164ab4801780b0d",
+      "type": "text",
+      "text": "物理AI",
+      "x": -703,
+      "y": 1671,
+      "width": 140,
+      "height": 131,
+      "color": "3",
+      "importance": "低",
+      "importanceRank": 3,
+      "kind": "topic",
+      "companyNames": [],
+      "actionTags": [],
+      "parentNodeIds": [],
+      "parentNodeTexts": [],
+      "childNodeIds": [
+        "93be4110993c7613",
+        "a6077e7d6742f04f",
+        "544e992a705bd155"
+      ],
+      "childNodeTexts": [
+        "机器人",
+        "中超控股 （潜力）\n埃斯顿\n达实智能（龙头？）\n中重科技（龙头？）\n三花智控",
+        "1.天娱数科（中位）\n2.能科科技（中位）"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "0ee9c05559e3f8b3",
+      "source": "bf71618ca70164ac",
+      "target": "f10ada06eb6722b6"
+    },
+    {
+      "id": "a36e76d2dd294696",
+      "source": "3bff65ee98719d4a",
+      "target": "893e73acabd135e6"
+    },
+    {
+      "id": "169c0b93a9ad2f43",
+      "source": "bf71618ca70164ac",
+      "target": "78edc833870a1691"
+    },
+    {
+      "id": "fb1d4827de44601b",
+      "source": "1f9d1de0a3ac687d",
+      "target": "bf71618ca70164ac"
+    },
+    {
+      "id": "e200f1d92007e716",
+      "source": "9164ab4801780b0d",
+      "target": "93be4110993c7613"
+    },
+    {
+      "id": "d8c03def3f966b1b",
+      "source": "93be4110993c7613",
+      "target": "363ee4ad3ef0232d"
+    },
+    {
+      "id": "c32899b2e605124f",
+      "source": "1f9d1de0a3ac687d",
+      "target": "c7bc7a9b0ea8162f"
+    },
+    {
+      "id": "7d041f06429227ce",
+      "source": "c7bc7a9b0ea8162f",
+      "target": "9f281e678407014d"
+    },
+    {
+      "id": "3d6d6af765460931",
+      "source": "b0c7f01a6c757e3c",
+      "target": "b285c6971c4c210f"
+    },
+    {
+      "id": "a825855b1d4605bf",
+      "source": "e05639bbbef55dbd",
+      "target": "b0c7f01a6c757e3c"
+    },
+    {
+      "id": "bf10772f8114ba3d",
+      "source": "9164ab4801780b0d",
+      "target": "a6077e7d6742f04f"
+    },
+    {
+      "id": "6ad09c9734c93449",
+      "source": "c1e89f3875b388ad",
+      "target": "aff20309ac08ac45"
+    },
+    {
+      "id": "3ec9aaecd8271c7e",
+      "source": "68eb265ffa9cd133",
+      "target": "bd1e5386a9118ce5"
+    },
+    {
+      "id": "928bb3db71f48edd",
+      "source": "fcbe49482d06ed9b",
+      "target": "544e992a705bd155"
+    },
+    {
+      "id": "e50226f62cf3eaae",
+      "source": "4f907361a42ff142",
+      "target": "6700c63020ad5473"
+    },
+    {
+      "id": "c99223dbcfd4adc0",
+      "source": "ee3f373e3dc28eb6",
+      "target": "99660e2e22e6f43b"
+    },
+    {
+      "id": "d8e108006f45f5a7",
+      "source": "baca6b66e0656ac7",
+      "target": "c35aa7a540ce3a3c"
+    },
+    {
+      "id": "6ed50d77c0011d94",
+      "source": "baca6b66e0656ac7",
+      "target": "2d86d590a11b65dc"
+    },
+    {
+      "id": "1c8e3353460894ed",
+      "source": "baca6b66e0656ac7",
+      "target": "6b02ddc97089940b"
+    },
+    {
+      "id": "12d32d5c48971cc7",
+      "source": "3bff65ee98719d4a",
+      "target": "d4d2470d41893e6c"
+    },
+    {
+      "id": "cb4a256996c2417a",
+      "source": "e68cfff06540f58b",
+      "target": "f544a4965a22197e"
+    },
+    {
+      "id": "8e9cc3996541cee7",
+      "source": "5fdd1b9ac73d071c",
+      "target": "69445d49a67030c0"
+    },
+    {
+      "id": "b57b7ee5601ff14f",
+      "source": "93be4110993c7613",
+      "target": "a6077e7d6742f04f"
+    },
+    {
+      "id": "963304ba05af2910",
+      "source": "9164ab4801780b0d",
+      "target": "544e992a705bd155"
+    },
+    {
+      "id": "29fa2ca8cba68d7a",
+      "source": "5fdd1b9ac73d071c",
+      "target": "7df7215665d9fbf4"
+    },
+    {
+      "id": "2fe46d176f3e81c8",
+      "source": "7df7215665d9fbf4",
+      "target": "1512709ec93b6ffc"
+    },
+    {
+      "id": "fd849509db62e8ae",
+      "source": "0245fc293b690224",
+      "target": "c08db444f5711212"
+    },
+    {
+      "id": "b1e45abb91949e4d",
+      "source": "e05639bbbef55dbd",
+      "target": "9ea748bb9bfa78af"
+    },
+    {
+      "id": "fc55b70cbd7fdcab",
+      "source": "9ea748bb9bfa78af",
+      "target": "fe2119749e173c91"
+    },
+    {
+      "id": "54f9dd3bbf74f2da",
+      "source": "bc9950e53a43ddb7",
+      "target": "d81e76e339a56468"
+    },
+    {
+      "id": "fb8b4627e8717e18",
+      "source": "784951aee9e86de7",
+      "target": "2ab903496b161f37"
+    },
+    {
+      "id": "09a09c4cec717186",
+      "source": "2ab903496b161f37",
+      "target": "f42099aaf388480a"
+    },
+    {
+      "id": "39071177e22b5af6",
+      "source": "784951aee9e86de7",
+      "target": "15c03bf55698c404"
+    },
+    {
+      "id": "4a415258609aae43",
+      "source": "f087a666f01dc6a3",
+      "target": "7984409ea3d9c49d"
+    },
+    {
+      "id": "c70f713753503288",
+      "source": "784951aee9e86de7",
+      "target": "f087a666f01dc6a3"
+    },
+    {
+      "id": "df77521d8d3e7bb4",
+      "source": "f087a666f01dc6a3",
+      "target": "f13361cd17bfdcad"
+    },
+    {
+      "id": "7764bd01effd4f15",
+      "source": "f087a666f01dc6a3",
+      "target": "0245fc293b690224"
+    },
+    {
+      "id": "6de8f8cd373dd16f",
+      "source": "68eb265ffa9cd133",
+      "target": "e1dbbd59f324b2a8"
+    },
+    {
+      "id": "6ed1f64904fa6390",
+      "source": "3bff65ee98719d4a",
+      "target": "e1dbbd59f324b2a8"
+    },
+    {
+      "id": "b16b916186c332e0",
+      "source": "cbc17fd15ec26725",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "b2b3045449f2232b",
+      "source": "d4d2470d41893e6c",
+      "target": "2a09d00905a8bc5d"
+    },
+    {
+      "id": "56afc314c055b9bc",
+      "source": "9ea748bb9bfa78af",
+      "target": "f13361cd17bfdcad"
+    },
+    {
+      "id": "6e76797ea0b1e0ea",
+      "source": "8f9c7cfc4e6b7dac",
+      "target": "d4d2470d41893e6c"
+    },
+    {
+      "id": "4dd8f4114592ee22",
+      "source": "d81e76e339a56468",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "3228109545217a94",
+      "source": "15c03bf55698c404",
+      "target": "650b02eef2211403"
+    },
+    {
+      "id": "149b260fa059268a",
+      "source": "99660e2e22e6f43b",
+      "target": "6f1d38923a458157"
+    },
+    {
+      "id": "fb8be39c33492332",
+      "source": "e3cb6a004c9d778f",
+      "target": "37ab90c8f8c7b44b"
+    },
+    {
+      "id": "4a2d642b5559a106",
+      "source": "784951aee9e86de7",
+      "target": "e3cb6a004c9d778f"
+    },
+    {
+      "id": "c1821ae93ee8c642",
+      "source": "784951aee9e86de7",
+      "target": "a9718de53b119e3f"
+    },
+    {
+      "id": "7770aa5807517685",
+      "source": "a9718de53b119e3f",
+      "target": "c884ae25ba44c56b"
+    },
+    {
+      "id": "d487979e09394467",
+      "source": "471ff60a6edc1ae2",
+      "target": "1a24da6bea0133d8"
+    },
+    {
+      "id": "3dba110330d07174",
+      "source": "9ec95bd1a1a40d0e",
+      "target": "372c8ea67ebea6f9"
+    },
+    {
+      "id": "3af4410152425221",
+      "source": "9ec95bd1a1a40d0e",
+      "target": "20fd843cad61dc3a"
+    },
+    {
+      "id": "384e0aa378180df9",
+      "source": "6cbad0b1fc5bb088",
+      "target": "db952ec59d6a9635"
+    },
+    {
+      "id": "ce5d3ba3cb4ff9b5",
+      "source": "78edc833870a1691",
+      "target": "3e82d0b5d777695f"
+    },
+    {
+      "id": "9d1102f575110a58",
+      "source": "15c03bf55698c404",
+      "target": "2ab903496b161f37"
+    },
+    {
+      "id": "6159f10a20b16a18",
+      "source": "15c03bf55698c404",
+      "target": "a9718de53b119e3f"
+    },
+    {
+      "id": "725c1e669acdfcc7",
+      "source": "15c03bf55698c404",
+      "target": "7193dc9ab71a1759"
+    },
+    {
+      "id": "da17b9c683a83011",
+      "source": "7193dc9ab71a1759",
+      "target": "cbc17fd15ec26725"
+    },
+    {
+      "id": "711220274f947b6f",
+      "source": "78edc833870a1691",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "a8cbef5e7be9cd6e",
+      "source": "471ff60a6edc1ae2",
+      "target": "7dd015a597669a29"
+    },
+    {
+      "id": "8199fffbdc884118",
+      "source": "471ff60a6edc1ae2",
+      "target": "a2ba923e20e14603"
+    },
+    {
+      "id": "7b37baadbeaed7d1",
+      "source": "7dd015a597669a29",
+      "target": "a88c680cd534f261"
+    },
+    {
+      "id": "a7b643f363dc27d6",
+      "source": "7dd015a597669a29",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "94a93315c66d2bc2",
+      "source": "1a24da6bea0133d8",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "22580885290ad540",
+      "source": "15c03bf55698c404",
+      "target": "79c6cc17a57875d7"
+    },
+    {
+      "id": "29cd56346e66765a",
+      "source": "79c6cc17a57875d7",
+      "target": "21d7bbe8f742c8c9"
+    },
+    {
+      "id": "ff6baf5c9922ab30",
+      "source": "372c8ea67ebea6f9",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "e47f6060fc331932",
+      "source": "9ec95bd1a1a40d0e",
+      "target": "68eb265ffa9cd133"
+    },
+    {
+      "id": "b002e709d02e8d92",
+      "source": "68eb265ffa9cd133",
+      "target": "700308db3442425a"
+    },
+    {
+      "id": "e93535e9b75a4b61",
+      "source": "95b7e596e01a4fc6",
+      "target": "5171345418a1f7f2"
+    },
+    {
+      "id": "92d8c40e2351eed0",
+      "source": "776ead666b09643c",
+      "target": "64cd7f659249b5ec"
+    },
+    {
+      "id": "6fb641f60815d7a9",
+      "source": "025aed51989234a1",
+      "target": "bf71618ca70164ac"
+    },
+    {
+      "id": "d5d462510d54d19b",
+      "source": "025aed51989234a1",
+      "target": "40d8fecd163e8103"
+    },
+    {
+      "id": "9a508525702f2ad9",
+      "source": "40d8fecd163e8103",
+      "target": "cfaca9143ddc99d4"
+    },
+    {
+      "id": "c5bbb67ff0ae247d",
+      "source": "40d8fecd163e8103",
+      "target": "105401b2e2a91ffa"
+    },
+    {
+      "id": "23f014f83f3752f8",
+      "source": "9d4468d651b1c358",
+      "target": "9543c9f02d0b3214"
+    },
+    {
+      "id": "aed53d594d31aeba",
+      "source": "9543c9f02d0b3214",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "693509242e5cd1f4",
+      "source": "fbfc13760caaf493",
+      "target": "48e670e0eb32ad2d"
+    },
+    {
+      "id": "803edd949b6ece37",
+      "source": "fbfc13760caaf493",
+      "target": "32e9b1aa99ce9e72"
+    },
+    {
+      "id": "f4096f36f897b409",
+      "source": "48e670e0eb32ad2d",
+      "target": "1d932289c0b0bbf2"
+    },
+    {
+      "id": "6dd11158f5d3b596",
+      "source": "784951aee9e86de7",
+      "target": "1d921c4505ae216a"
+    },
+    {
+      "id": "5096469945bf0f33",
+      "source": "1d921c4505ae216a",
+      "target": "8715840d1684ca69"
+    },
+    {
+      "id": "62f653072944b0ba",
+      "source": "e3d3312a94da47e6",
+      "target": "f2d1eb9cd6734db7"
+    },
+    {
+      "id": "524b0229da48e40f",
+      "source": "784951aee9e86de7",
+      "target": "e3d3312a94da47e6"
+    },
+    {
+      "id": "2a0f44328ffdcfbb",
+      "source": "8715840d1684ca69",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "b252e69ec8a07db2",
+      "source": "f42099aaf388480a",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "0820cd32cf929de6",
+      "source": "105401b2e2a91ffa",
+      "target": "8c0ac6fb05dbc038"
+    },
+    {
+      "id": "d7f71efcf8fc1cb5",
+      "source": "1512709ec93b6ffc",
+      "target": "44c164b1f792bfe1"
+    },
+    {
+      "id": "e62fcd05c9d4a6a3",
+      "source": "776ead666b09643c",
+      "target": "4548ebeaf30b001c"
+    },
+    {
+      "id": "d785417691b8b590",
+      "source": "fbb00ee81dd24f91",
+      "target": "3298653d7fb31ca0"
+    },
+    {
+      "id": "278b0397d1815fef",
+      "source": "95b7e596e01a4fc6",
+      "target": "f85d71b2fb4b4c17"
+    },
+    {
+      "id": "c2e02d996b4e8b76",
+      "source": "f85d71b2fb4b4c17",
+      "target": "f0bb7bda906dfd1d"
+    },
+    {
+      "id": "2869851ca3e6a438",
+      "source": "5ee447d780d66439",
+      "target": "fbb00ee81dd24f91"
+    },
+    {
+      "id": "d3da02f3a0f960bb",
+      "source": "5ee447d780d66439",
+      "target": "95b7e596e01a4fc6"
+    },
+    {
+      "id": "632ed4cd429818f7",
+      "source": "5ee447d780d66439",
+      "target": "776ead666b09643c"
+    },
+    {
+      "id": "af47dc3deeb778e5",
+      "source": "ea992024feb8dac1",
+      "target": "d4d2470d41893e6c"
+    },
+    {
+      "id": "55e457840c912a00",
+      "source": "ea992024feb8dac1",
+      "target": "5d8d98e39a1f7b3f"
+    },
+    {
+      "id": "7f07ae244c028d01",
+      "source": "4548ebeaf30b001c",
+      "target": "f0bb7bda906dfd1d"
+    },
+    {
+      "id": "3ca75b11f4ede6e2",
+      "source": "105401b2e2a91ffa",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "46c7d9f66739c0e8",
+      "source": "21d7bbe8f742c8c9",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "a265886a8ce26e5f",
+      "source": "1f9d1de0a3ac687d",
+      "target": "f8559b7e17820e8c"
+    },
+    {
+      "id": "f5ffb156e8adf264",
+      "source": "f8559b7e17820e8c",
+      "target": "59adc359a84ab9a4"
+    },
+    {
+      "id": "1a5e3feca41b2097",
+      "source": "1f9d1de0a3ac687d",
+      "target": "d4d2470d41893e6c"
+    },
+    {
+      "id": "2ad84540a53d263a",
+      "source": "ac85a7766456d97e",
+      "target": "c4852a631f72281e"
+    },
+    {
+      "id": "918ea42c32eaf1d6",
+      "source": "1f9d1de0a3ac687d",
+      "target": "ac85a7766456d97e"
+    },
+    {
+      "id": "2719b646a72e7008",
+      "source": "c4852a631f72281e",
+      "target": "95e013b3fb77fed4"
+    },
+    {
+      "id": "36e54aeb15b2f113",
+      "source": "f0017f1ed88247be",
+      "target": "194f01778a2c333b"
+    },
+    {
+      "id": "2f14538f43ead577",
+      "source": "f0017f1ed88247be",
+      "target": "3bff65ee98719d4a"
+    },
+    {
+      "id": "450cc414f51daaf8",
+      "source": "f0017f1ed88247be",
+      "target": "9d4468d651b1c358"
+    },
+    {
+      "id": "421b8cb6bef6c6e3",
+      "source": "f0017f1ed88247be",
+      "target": "ea992024feb8dac1"
+    },
+    {
+      "id": "79a58e1af2e6601e",
+      "source": "8c549156d95ba304",
+      "target": "de078e0c53cbbf6e"
+    },
+    {
+      "id": "39ef7dacd3a6e983",
+      "source": "780089cdd1a6cee1",
+      "target": "de078e0c53cbbf6e"
+    },
+    {
+      "id": "3b589132d25f807b",
+      "source": "3d8782eff9c7d665",
+      "target": "572d6c16bdf8bd1c"
+    },
+    {
+      "id": "079f19bc9f4df7a3",
+      "source": "3d8782eff9c7d665",
+      "target": "f0017f1ed88247be"
+    },
+    {
+      "id": "5188ced5dffac35d",
+      "source": "784951aee9e86de7",
+      "target": "80a563c77994fbfe"
+    },
+    {
+      "id": "913fbab0d692a942",
+      "source": "80a563c77994fbfe",
+      "target": "b407cdfbee71685a"
+    },
+    {
+      "id": "265a256511dbe489",
+      "source": "2abca6784d4871d8",
+      "target": "d2f398c8efd2d727"
+    },
+    {
+      "id": "adc2c4c8dfbaaea1",
+      "source": "372c8ea67ebea6f9",
+      "target": "aaede63fe73a4db3"
+    },
+    {
+      "id": "53362357ff7e6983",
+      "source": "20fd843cad61dc3a",
+      "target": "aaede63fe73a4db3"
+    },
+    {
+      "id": "1c46a04bbfb4d733",
+      "source": "b407cdfbee71685a",
+      "target": "c29969c291d435dc"
+    },
+    {
+      "id": "3f9e6fe3fe5bbba7",
+      "source": "71ee0a277e83c629",
+      "target": "94643c324cfb7538"
+    },
+    {
+      "id": "831edcaaaeadb1e3",
+      "source": "35f63650a38038c1",
+      "target": "94643c324cfb7538"
+    },
+    {
+      "id": "54da76912e4ab00e",
+      "source": "85f530d09e6f7a95",
+      "target": "b2ec613494bfb60f"
+    },
+    {
+      "id": "a29dd7088acba76e",
+      "source": "35f63650a38038c1",
+      "target": "b2ec613494bfb60f"
+    },
+    {
+      "id": "e5749dfcc82de50d",
+      "source": "35f63650a38038c1",
+      "target": "97c2e2fd0779b300"
+    },
+    {
+      "id": "cc0f8b8d3e9c8012",
+      "source": "2abca6784d4871d8",
+      "target": "97c2e2fd0779b300"
+    },
+    {
+      "id": "9bc085da8c71bd0c",
+      "source": "85f530d09e6f7a95",
+      "target": "99bab89617a71d5c"
+    },
+    {
+      "id": "b7d9b56bdb85a39e",
+      "source": "6cff4d12320b8be9",
+      "target": "dbafb7e7bb65897d"
+    },
+    {
+      "id": "5dc85486fff74a31",
+      "source": "6cff4d12320b8be9",
+      "target": "b8f7b5a246cc149a"
+    },
+    {
+      "id": "cb8602cfde69daf9",
+      "source": "44fe4cc489f437a8",
+      "target": "d97e9d47707c50a7"
+    },
+    {
+      "id": "e0b7dcdaec5727c2",
+      "source": "f2d1eb9cd6734db7",
+      "target": "342adcce3270b51b"
+    },
+    {
+      "id": "dffee4a79f98d210",
+      "source": "68eb265ffa9cd133",
+      "target": "471ff60a6edc1ae2"
+    },
+    {
+      "id": "15e36e53bc265799",
+      "source": "68eb265ffa9cd133",
+      "target": "f30f22fe7ea5cecd"
+    },
+    {
+      "id": "edb9a5eda1ccaa88",
+      "source": "f30f22fe7ea5cecd",
+      "target": "fb12c9bdeae22dca"
+    },
+    {
+      "id": "bf28ca966d15c3b3",
+      "source": "a2ba923e20e14603",
+      "target": "014fcf77e977908d"
+    },
+    {
+      "id": "1b480e5782543ab1",
+      "source": "fb12c9bdeae22dca",
+      "target": "644bff531a1da38c"
+    },
+    {
+      "id": "4a13a102a23c4e34",
+      "source": "1a24da6bea0133d8",
+      "target": "70544566310356e7"
+    },
+    {
+      "id": "71a0e6754f09465d",
+      "source": "f30f22fe7ea5cecd",
+      "target": "44fe4cc489f437a8"
+    },
+    {
+      "id": "b989759fa5d58c29",
+      "source": "f30f22fe7ea5cecd",
+      "target": "9ec95bd1a1a40d0e"
+    },
+    {
+      "id": "989f62eb81c61289",
+      "source": "dbafb7e7bb65897d",
+      "target": "23d12b9f06bd3866"
+    },
+    {
+      "id": "145002d79edef30c",
+      "source": "9ec95bd1a1a40d0e",
+      "target": "a11cbe66da5d1130"
+    },
+    {
+      "id": "5b75a0b07e682bfc",
+      "source": "f30f22fe7ea5cecd",
+      "target": "939f9a8f81ffede8"
+    },
+    {
+      "id": "7fee1b0ee61bc63c",
+      "source": "d97e9d47707c50a7",
+      "target": "28b393b0127cca43"
+    },
+    {
+      "id": "009837804d661dd4",
+      "source": "68eb265ffa9cd133",
+      "target": "6cff4d12320b8be9"
+    },
+    {
+      "id": "322f9519185d3ea0",
+      "source": "20fd843cad61dc3a",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "5794926ee7d3c01d",
+      "source": "15c03bf55698c404",
+      "target": "accafd80c34d3be4"
+    },
+    {
+      "id": "11359cab1ac5b52a",
+      "source": "accafd80c34d3be4",
+      "target": "a2e6b67b941d9146"
+    },
+    {
+      "id": "2de993875461e581",
+      "source": "accafd80c34d3be4",
+      "target": "a703deb73a1557bd"
+    },
+    {
+      "id": "a9cd4ca4bbf7d2f9",
+      "source": "accafd80c34d3be4",
+      "target": "f2d1eb9cd6734db7"
+    },
+    {
+      "id": "4ed322b444393565",
+      "source": "f2d1eb9cd6734db7",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "fc79c73e8ee3b85a",
+      "source": "a2e6b67b941d9146",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "98d44694f3d45ed6",
+      "source": "fe2119749e173c91",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "c734a29712d30b16",
+      "source": "d97e9d47707c50a7",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "d393e298523d4997",
+      "source": "2abca6784d4871d8",
+      "target": "4bccf82f77a71373"
+    },
+    {
+      "id": "62b554b4007656fa",
+      "source": "d2f398c8efd2d727",
+      "target": "95c753a84e1a5037"
+    },
+    {
+      "id": "5e6f2038a891a12d",
+      "source": "59adc359a84ab9a4",
+      "target": "41ba61a23b9c5451"
+    },
+    {
+      "id": "e1b11c4d73881340",
+      "source": "ac85a7766456d97e",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "b99f0572030ac329",
+      "source": "5ee447d780d66439",
+      "target": "c1e89f3875b388ad"
+    },
+    {
+      "id": "ff19509312183338",
+      "source": "dbafb7e7bb65897d",
+      "target": "efbc2be777a9d24f"
+    },
+    {
+      "id": "891182685bffb298",
+      "source": "20fd843cad61dc3a",
+      "target": "04406415667dab0b"
+    },
+    {
+      "id": "39e2eb694df31145",
+      "source": "bd1e5386a9118ce5",
+      "target": "e1808ad26243f8c2"
+    },
+    {
+      "id": "ad9fc59040644f89",
+      "source": "c1e89f3875b388ad",
+      "target": "41fcd3c2cea934ce"
+    },
+    {
+      "id": "00892636e40ed3f8",
+      "source": "aff20309ac08ac45",
+      "target": "ce97b138a512101b"
+    },
+    {
+      "id": "31955b60c2047b0f",
+      "source": "f42099aaf388480a",
+      "target": "aeafbafa990c4b10"
+    },
+    {
+      "id": "8ed872c39b561a28",
+      "source": "9a10e70406c388fb",
+      "target": "7e389417908c97fb"
+    },
+    {
+      "id": "50ed48aad943597e",
+      "source": "784951aee9e86de7",
+      "target": "9a10e70406c388fb"
+    },
+    {
+      "id": "8f3d3ac6652937e2",
+      "source": "7e389417908c97fb",
+      "target": "9a7a151fa40e4b1c"
+    },
+    {
+      "id": "b7bf347a07040077",
+      "source": "5ee447d780d66439",
+      "target": "59fa7259df34767c"
+    },
+    {
+      "id": "0cb0ec6e17fad4d8",
+      "source": "59fa7259df34767c",
+      "target": "7a67049454e001de"
+    },
+    {
+      "id": "38c7484550b2b805",
+      "source": "72c1aedaebbd166c",
+      "target": "59fa7259df34767c"
+    },
+    {
+      "id": "6ca30167609b2fbc",
+      "source": "72c1aedaebbd166c",
+      "target": "c105aedb45977635"
+    },
+    {
+      "id": "7b0fe9ca71b7c0fa",
+      "source": "c105aedb45977635",
+      "target": "f2ec739465b3e0da"
+    },
+    {
+      "id": "f4a731b83de5b93e",
+      "source": "784951aee9e86de7",
+      "target": "72c1aedaebbd166c"
+    }
+  ]
+}

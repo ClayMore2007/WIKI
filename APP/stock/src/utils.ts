@@ -1,4 +1,4 @@
-import type { Company, SnapshotChange, WatchlistItem } from "./types";
+import type { Company, MindmapNode, SnapshotChange, WatchlistItem } from "./types";
 
 export function formatChange(change: SnapshotChange): string {
   if (change.status !== "ok" || typeof change.percent !== "number") {
@@ -40,10 +40,42 @@ export function matchesWatchlistSearch(item: WatchlistItem, query: string): bool
   return [item.name, item.code, item.ownership, item.priority, ...item.chains].join(" ").toLowerCase().includes(trimmed);
 }
 
+export function matchesMindmapSearch(node: MindmapNode, query: string): boolean {
+  const trimmed = query.trim().toLowerCase();
+  if (!trimmed) return true;
+  return [
+    node.text,
+    node.kind,
+    node.color,
+    node.importance,
+    ...node.companyNames,
+    ...node.actionTags,
+    ...node.parentNodeTexts,
+    ...node.childNodeTexts
+  ]
+    .join(" ")
+    .toLowerCase()
+    .includes(trimmed);
+}
+
 export function priorityRank(priority: string): number {
   return { P0: 0, P1: 1, P2: 2, P3: 3 }[priority as "P0" | "P1" | "P2" | "P3"] ?? 9;
 }
 
+export function importanceRank(importance: string): number {
+  return { 最高: 0, 高: 1, 中: 2, 低: 3, 未标色: 4 }[importance as "最高" | "高" | "中" | "低" | "未标色"] ?? 9;
+}
+
 export function unique<T>(items: T[]): T[] {
   return Array.from(new Set(items));
+}
+
+export function toggleSetValue<T>(items: Set<T>, value: T): Set<T> {
+  const next = new Set(items);
+  if (next.has(value)) {
+    next.delete(value);
+  } else {
+    next.add(value);
+  }
+  return next;
 }

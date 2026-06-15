@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   optimizeDeps: {
     noDiscovery: true,
-    include: ["react", "react-dom", "react-dom/client"]
+    include: ["react", "react-dom", "react-dom/client", "@xyflow/react", "zustand"]
   },
   server: {
     host: "127.0.0.1",

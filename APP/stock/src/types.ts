@@ -75,6 +75,37 @@ export interface SourceFile {
   companies: string[];
 }
 
+export interface MindmapNode {
+  id: string;
+  type: string;
+  text: string;
+  x: number;
+  y: number;
+  width: number;
+  height: number;
+  color: string;
+  importance: "最高" | "高" | "中" | "低" | "未标色";
+  importanceRank: number;
+  kind: "topic" | "company" | "action" | "note";
+  companyNames: string[];
+  actionTags: string[];
+  parentNodeIds: string[];
+  parentNodeTexts: string[];
+  childNodeIds: string[];
+  childNodeTexts: string[];
+}
+
+export interface MindmapEdge {
+  id: string;
+  source: string;
+  target: string;
+}
+
+export interface Mindmap {
+  nodes: MindmapNode[];
+  edges: MindmapEdge[];
+}
+
 export interface Meta {
   generatedAt: string;
   wikiRoot: string;
