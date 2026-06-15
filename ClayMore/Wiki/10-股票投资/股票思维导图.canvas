@@ -329,17 +329,6 @@
 			"color":"5"
 		},
 		{
-			"id":"9164ab4801780b0d",
-			"type":"text",
-			"text":"物理AI\n",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-569,
-			"y":1654,
-			"width":140,
-			"height":131,
-			"color":"3"
-		},
-		{
 			"id":"93be4110993c7613",
 			"type":"text",
 			"text":"机器人",
@@ -969,17 +958,6 @@
 			"height":60
 		},
 		{
-			"id":"15c03bf55698c404",
-			"type":"text",
-			"text":"稀土永磁",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3680,
-			"y":-1603,
-			"width":200,
-			"height":190,
-			"color":"#ff0000"
-		},
-		{
 			"id":"f544a4965a22197e",
 			"type":"text",
 			"text":"1.晶方科技",
@@ -1178,16 +1156,6 @@
 			"styleAttributes":{"shape":"document"},
 			"x":2477,
 			"y":-251,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"650b02eef2211403",
-			"type":"text",
-			"text":"断供日本",
-			"styleAttributes":{},
-			"x":-4080,
-			"y":-1540,
 			"width":260,
 			"height":60
 		},
@@ -1718,61 +1686,6 @@
 			"color":"4"
 		},
 		{
-			"id":"b285c6971c4c210f",
-			"type":"text",
-			"text":"1.大有能源",
-			"styleAttributes":{},
-			"x":-2780,
-			"y":-360,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"fe2119749e173c91",
-			"type":"text",
-			"text":"==赣锋锂业==",
-			"styleAttributes":{},
-			"x":-2780,
-			"y":-170,
-			"width":260,
-			"height":80,
-			"color":"6"
-		},
-		{
-			"id":"e05639bbbef55dbd",
-			"type":"text",
-			"text":"能源",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-3769,
-			"y":-400,
-			"width":140,
-			"height":140,
-			"color":"3"
-		},
-		{
-			"id":"b0c7f01a6c757e3c",
-			"type":"text",
-			"text":"煤炭",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-3165,
-			"y":-360,
-			"width":185,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"9ea748bb9bfa78af",
-			"type":"text",
-			"text":"锂矿",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-3170,
-			"y":-160,
-			"width":185,
-			"height":60,
-			"color":"5"
-		},
-		{
 			"id":"9a10e70406c388fb",
 			"type":"text",
 			"text":"铜",
@@ -1804,6 +1717,148 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"59fa7259df34767c",
+			"type":"text",
+			"text":"光隔离器",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-110,
+			"y":-840,
+			"width":130,
+			"height":80,
+			"color":"2"
+		},
+		{
+			"id":"7a67049454e001de",
+			"type":"text",
+			"text":"光迅科技",
+			"styleAttributes":{},
+			"x":254,
+			"y":-830,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"e05639bbbef55dbd",
+			"type":"text",
+			"text":"能源",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-3793,
+			"y":-160,
+			"width":140,
+			"height":140,
+			"color":"3"
+		},
+		{
+			"id":"b0c7f01a6c757e3c",
+			"type":"text",
+			"text":"煤炭",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-3189,
+			"y":-120,
+			"width":185,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"9ea748bb9bfa78af",
+			"type":"text",
+			"text":"锂矿",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-3194,
+			"y":80,
+			"width":185,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"b285c6971c4c210f",
+			"type":"text",
+			"text":"1.大有能源",
+			"styleAttributes":{},
+			"x":-2804,
+			"y":-120,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"fe2119749e173c91",
+			"type":"text",
+			"text":"==赣锋锂业==",
+			"styleAttributes":{},
+			"x":-2804,
+			"y":70,
+			"width":260,
+			"height":80,
+			"color":"6"
+		},
+		{
+			"id":"72c1aedaebbd166c",
+			"type":"text",
+			"text":"光隔离器晶体",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3164,
+			"y":-505,
+			"width":160,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"c105aedb45977635",
+			"type":"text",
+			"text":"福晶科技（龙头）",
+			"styleAttributes":{},
+			"x":-2780,
+			"y":-505,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"f2ec739465b3e0da",
+			"type":"text",
+			"text":"打破垄断，国产替代",
+			"styleAttributes":{"shape":"document"},
+			"x":-2360,
+			"y":-505,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"650b02eef2211403",
+			"type":"text",
+			"text":"断供日本",
+			"styleAttributes":{},
+			"x":-4440,
+			"y":-1475,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"15c03bf55698c404",
+			"type":"text",
+			"text":"稀土永磁",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-4083,
+			"y":-1557,
+			"width":200,
+			"height":190,
+			"color":"#ff0000"
+		},
+		{
+			"id":"9164ab4801780b0d",
+			"type":"text",
+			"text":"物理AI\n",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-703,
+			"y":1671,
+			"width":140,
+			"height":131,
+			"color":"3"
 		}
 	],
 	"edges":[
@@ -1929,7 +1984,7 @@
 		},
 		{
 			"id":"3ec9aaecd8271c7e",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"68eb265ffa9cd133",
@@ -2038,7 +2093,7 @@
 		},
 		{
 			"id":"963304ba05af2910",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"9164ab4801780b0d",
@@ -2173,7 +2228,7 @@
 		},
 		{
 			"id":"6de8f8cd373dd16f",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"68eb265ffa9cd133",
@@ -2355,7 +2410,7 @@
 		},
 		{
 			"id":"9d1102f575110a58",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
 			"fromNode":"15c03bf55698c404",
 			"fromSide":"right",
@@ -2364,7 +2419,7 @@
 		},
 		{
 			"id":"6159f10a20b16a18",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
 			"fromNode":"15c03bf55698c404",
 			"fromSide":"right",
@@ -2373,7 +2428,7 @@
 		},
 		{
 			"id":"725c1e669acdfcc7",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
 			"fromNode":"15c03bf55698c404",
 			"fromSide":"right",
@@ -2457,7 +2512,7 @@
 		},
 		{
 			"id":"22580885290ad540",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"15c03bf55698c404",
@@ -2646,6 +2701,7 @@
 			"id":"524b0229da48e40f",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"784951aee9e86de7",
 			"fromSide":"right",
 			"toNode":"e3d3312a94da47e6",
@@ -3110,7 +3166,7 @@
 		},
 		{
 			"id":"dffee4a79f98d210",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"68eb265ffa9cd133",
@@ -3120,8 +3176,9 @@
 		},
 		{
 			"id":"15e36e53bc265799",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"68eb265ffa9cd133",
 			"fromSide":"right",
 			"toNode":"f30f22fe7ea5cecd",
@@ -3243,8 +3300,9 @@
 		},
 		{
 			"id":"5794926ee7d3c01d",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"15c03bf55698c404",
 			"fromSide":"right",
 			"toNode":"accafd80c34d3be4",
@@ -3360,7 +3418,7 @@
 		},
 		{
 			"id":"b99f0572030ac329",
-			"styleAttributes":{},
+			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
 			"fromNode":"5ee447d780d66439",
 			"fromSide":"right",
@@ -3450,6 +3508,62 @@
 			"fromNode":"7e389417908c97fb",
 			"fromSide":"right",
 			"toNode":"9a7a151fa40e4b1c",
+			"toSide":"left"
+		},
+		{
+			"id":"b7bf347a07040077",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"5ee447d780d66439",
+			"fromSide":"right",
+			"toNode":"59fa7259df34767c",
+			"toSide":"left"
+		},
+		{
+			"id":"0cb0ec6e17fad4d8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"59fa7259df34767c",
+			"fromSide":"right",
+			"toNode":"7a67049454e001de",
+			"toSide":"left"
+		},
+		{
+			"id":"38c7484550b2b805",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"72c1aedaebbd166c",
+			"fromSide":"right",
+			"toNode":"59fa7259df34767c",
+			"toSide":"left",
+			"label":"上游"
+		},
+		{
+			"id":"6ca30167609b2fbc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"72c1aedaebbd166c",
+			"fromSide":"right",
+			"toNode":"c105aedb45977635",
+			"toSide":"left"
+		},
+		{
+			"id":"7b0fe9ca71b7c0fa",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c105aedb45977635",
+			"fromSide":"right",
+			"toNode":"f2ec739465b3e0da",
+			"toSide":"left"
+		},
+		{
+			"id":"f4a731b83de5b93e",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"784951aee9e86de7",
+			"fromSide":"right",
+			"toNode":"72c1aedaebbd166c",
 			"toSide":"left"
 		}
 	],
