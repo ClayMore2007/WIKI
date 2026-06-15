@@ -3074,6 +3074,7 @@
 			"id":"b7d9b56bdb85a39e",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"6cff4d12320b8be9",
 			"fromSide":"right",
 			"toNode":"dbafb7e7bb65897d",
