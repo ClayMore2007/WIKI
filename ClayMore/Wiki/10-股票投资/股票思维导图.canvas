@@ -3862,15 +3862,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"71a0e6754f09465d",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"f30f22fe7ea5cecd",
-			"fromSide":"right",
-			"toNode":"44fe4cc489f437a8",
-			"toSide":"left"
-		},
-		{
 			"id":"b989759fa5d58c29",
 			"styleAttributes":{},
 			"toFloating":false,
