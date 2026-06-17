@@ -100,6 +100,24 @@ Start the gateway:
 openclaw.cmd gateway run --force
 ```
 
+Install the gateway to start automatically when the Windows user logs in:
+
+```powershell
+openclaw.cmd gateway install --force
+```
+
+Current installed task:
+
+```text
+OpenClaw Gateway
+```
+
+The task runs:
+
+```text
+C:\Users\Administrator\.openclaw\gateway.cmd
+```
+
 Current known-good checks:
 
 ```powershell

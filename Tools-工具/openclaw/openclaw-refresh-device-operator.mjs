@@ -22,6 +22,7 @@ const device = JSON.parse(readFileSync(devicePath, "utf8"));
 const paired = JSON.parse(readFileSync(pairedPath, "utf8"));
 const existing = paired[device.deviceId] ?? {};
 const publicKey = existing.publicKey ?? device.publicKeyPem;
+const operatorScopes = [...new Set([...(bootstrapProfile.scopes ?? []), "operator.pairing"])];
 let requestId = process.argv[2];
 
 if (!device.deviceId) {
@@ -38,12 +39,12 @@ if (!requestId) {
       publicKey,
       displayName: existing.displayName ?? "local-cli",
       platform: existing.platform ?? "win32",
-      deviceFamily: existing.deviceFamily ?? "desktop",
+      deviceFamily: existing.deviceFamily,
       clientId: existing.clientId ?? "openclaw-cli",
       clientMode: existing.clientMode ?? "cli",
       role: "operator",
       roles: ["operator"],
-      scopes: bootstrapProfile.scopes,
+      scopes: operatorScopes,
       silent: true,
     },
     openclawHome,
@@ -62,14 +63,10 @@ let approved = await approveBootstrapDevicePairing(
   openclawHome,
 );
 
-if (
-  approved?.status === "forbidden" &&
-  approved?.reason === "bootstrap-scope-not-allowed" &&
-  approved?.scope === "operator.admin"
-) {
+if (approved?.status === "forbidden" && approved?.reason === "bootstrap-scope-not-allowed") {
   approved = await approveDevicePairing(
     requestId,
-    { callerScopes: ["operator.admin"] },
+    { callerScopes: operatorScopes },
     openclawHome,
   );
 }
