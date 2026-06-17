@@ -635,7 +635,7 @@
 		{
 			"id":"78edc833870a1691",
 			"type":"text",
-			"text":"1.中船特气\n2.==昊华科技==（这周卖掉？）\n3.==和远气体==\n",
+			"text":"1.中船特气\n2.==昊华科技==\n3.==和远气体==\n",
 			"styleAttributes":{},
 			"x":-2774,
 			"y":-2070,
@@ -807,7 +807,7 @@
 		{
 			"id":"b407cdfbee71685a",
 			"type":"text",
-			"text":"多氟多\n巨化股份",
+			"text":"1.巨化股份\n2.多氟多\n",
 			"styleAttributes":{},
 			"x":-2777,
 			"y":-2190,
@@ -1045,34 +1045,6 @@
 			"color":"6"
 		},
 		{
-			"id":"9ec95bd1a1a40d0e",
-			"type":"text",
-			"text":"合成树脂",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":1879,
-			"y":-101,
-			"width":160,
-			"height":90,
-			"color":"1"
-		},
-		{
-			"id":"372c8ea67ebea6f9",
-			"type":"text",
-			"text":"圣泉集团",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":2257,
-			"y":-131,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"a2ba923e20e14603",
 			"type":"text",
 			"text":"中国巨石\n",
@@ -1168,17 +1140,6 @@
 			"y":-1475,
 			"width":260,
 			"height":60
-		},
-		{
-			"id":"a11cbe66da5d1130",
-			"type":"text",
-			"text":"中东停产断货（卡脖子）",
-			"styleAttributes":{"shape":"document"},
-			"x":1865,
-			"y":46,
-			"width":188,
-			"height":60,
-			"color":"4"
 		},
 		{
 			"id":"accafd80c34d3be4",
@@ -1345,17 +1306,6 @@
 			"width":167,
 			"height":160,
 			"color":"3"
-		},
-		{
-			"id":"20fd843cad61dc3a",
-			"type":"text",
-			"text":"东材科技",
-			"styleAttributes":{},
-			"x":2257,
-			"y":-41,
-			"width":260,
-			"height":60,
-			"color":"2"
 		},
 		{
 			"id":"e3d3312a94da47e6",
@@ -1555,27 +1505,6 @@
 			"color":"4"
 		},
 		{
-			"id":"aaede63fe73a4db3",
-			"type":"text",
-			"text":"待验证，需要长期跟踪，暂时只能抄不能投资.\n可以长期投资",
-			"styleAttributes":{"shape":"document"},
-			"x":2660,
-			"y":-126,
-			"width":260,
-			"height":141
-		},
-		{
-			"id":"04406415667dab0b",
-			"type":"text",
-			"text":"K线走势好",
-			"styleAttributes":{"shape":"document"},
-			"x":2660,
-			"y":46,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"e1808ad26243f8c2",
 			"type":"text",
 			"text":"K线走势好",
@@ -1629,27 +1558,6 @@
 			"width":196,
 			"height":192,
 			"color":"#ff0000"
-		},
-		{
-			"id":"f30f22fe7ea5cecd",
-			"type":"text",
-			"text":"覆铜板 / CCL",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":1458,
-			"y":-101,
-			"width":160,
-			"height":90,
-			"color":"2"
-		},
-		{
-			"id":"939f9a8f81ffede8",
-			"type":"text",
-			"text":"看到2700亿",
-			"styleAttributes":{},
-			"x":1408,
-			"y":86,
-			"width":260,
-			"height":60
 		},
 		{
 			"id":"aeafbafa990c4b10",
@@ -2060,28 +1968,6 @@
 			"color":"5"
 		},
 		{
-			"id":"fb12c9bdeae22dca",
-			"type":"text",
-			"text":"华正新材",
-			"styleAttributes":{},
-			"x":1865,
-			"y":220,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"644bff531a1da38c",
-			"type":"text",
-			"text":"K线走势好",
-			"styleAttributes":{"shape":"document"},
-			"x":2216,
-			"y":220,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"109aedd286e3a419",
 			"type":"text",
 			"text":"东山精密",
@@ -2121,6 +2007,131 @@
 			"styleAttributes":{},
 			"x":1856,
 			"y":753,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"aaede63fe73a4db3",
+			"type":"text",
+			"text":"待验证，需要长期跟踪，暂时只能抄不能投资.\n可以长期投资",
+			"styleAttributes":{"shape":"document"},
+			"x":2664,
+			"y":13,
+			"width":260,
+			"height":141
+		},
+		{
+			"id":"04406415667dab0b",
+			"type":"text",
+			"text":"K线走势好",
+			"styleAttributes":{"shape":"document"},
+			"x":2664,
+			"y":185,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"20fd843cad61dc3a",
+			"type":"text",
+			"text":"东材科技",
+			"styleAttributes":{},
+			"x":2261,
+			"y":98,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"372c8ea67ebea6f9",
+			"type":"text",
+			"text":"圣泉集团",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":2261,
+			"y":8,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"9ec95bd1a1a40d0e",
+			"type":"text",
+			"text":"合成树脂",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":1883,
+			"y":38,
+			"width":160,
+			"height":90,
+			"color":"1"
+		},
+		{
+			"id":"a11cbe66da5d1130",
+			"type":"text",
+			"text":"中东停产断货（卡脖子）",
+			"styleAttributes":{"shape":"document"},
+			"x":1869,
+			"y":185,
+			"width":188,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"f30f22fe7ea5cecd",
+			"type":"text",
+			"text":"覆铜板 / CCL",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":1462,
+			"y":38,
+			"width":160,
+			"height":90,
+			"color":"2"
+		},
+		{
+			"id":"939f9a8f81ffede8",
+			"type":"text",
+			"text":"看到2700亿",
+			"styleAttributes":{},
+			"x":1412,
+			"y":225,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"fb12c9bdeae22dca",
+			"type":"text",
+			"text":"华正新材",
+			"styleAttributes":{},
+			"x":1869,
+			"y":359,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"644bff531a1da38c",
+			"type":"text",
+			"text":"K线走势好",
+			"styleAttributes":{"shape":"document"},
+			"x":2220,
+			"y":359,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"508798f38ebd3a67",
+			"type":"text",
+			"text":"德福科技",
+			"styleAttributes":{},
+			"x":2140,
+			"y":-140,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -3365,15 +3376,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"cb8602cfde69daf9",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"44fe4cc489f437a8",
-			"fromSide":"right",
-			"toNode":"d97e9d47707c50a7",
-			"toSide":"left"
-		},
-		{
 			"id":"e0b7dcdaec5727c2",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -3431,6 +3433,7 @@
 			"id":"edb9a5eda1ccaa88",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"f30f22fe7ea5cecd",
 			"fromSide":"right",
 			"toNode":"fb12c9bdeae22dca",
@@ -4112,6 +4115,44 @@
 			"fromNode":"3e78ff6f160e3647",
 			"fromSide":"right",
 			"toNode":"9803e2e49e8ec14f",
+			"toSide":"left"
+		},
+		{
+			"id":"cb8602cfde69daf9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"44fe4cc489f437a8",
+			"fromSide":"right",
+			"toNode":"d97e9d47707c50a7",
+			"toSide":"left"
+		},
+		{
+			"id":"7db0a76ebed50527",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"44fe4cc489f437a8",
+			"fromSide":"right",
+			"toNode":"508798f38ebd3a67",
+			"toSide":"left",
+			"label":"锂电铜箔"
+		},
+		{
+			"id":"2d6119f583643640",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"68eb265ffa9cd133",
+			"fromSide":"right",
+			"toNode":"44fe4cc489f437a8",
+			"toSide":"left"
+		},
+		{
+			"id":"b0c6350c66cf2939",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"508798f38ebd3a67",
+			"fromSide":"right",
+			"toNode":"9fef96ecc335091f",
 			"toSide":"left"
 		}
 	],
