@@ -4749,6 +4749,7 @@
 			"id":"7a71bee057e2c117",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"5d8d98e39a1f7b3f",
 			"fromSide":"right",
 			"toNode":"1469145443fd46b2",
