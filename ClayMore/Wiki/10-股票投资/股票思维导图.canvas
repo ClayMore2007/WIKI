@@ -112,7 +112,7 @@
 		{
 			"id":"cbc17fd15ec26725",
 			"type":"text",
-			"text":"==盛和资源==（快启动了）",
+			"text":"==盛和资源==",
 			"styleAttributes":{},
 			"x":-2774,
 			"y":-1570,
@@ -215,17 +215,6 @@
 			"styleAttributes":{"textAlign":"center","shape":"pill"},
 			"x":-3164,
 			"y":-1160,
-			"width":160,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"79c6cc17a57875d7",
-			"type":"text",
-			"text":"锗",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3164,
-			"y":-1020,
 			"width":160,
 			"height":60,
 			"color":"5"
@@ -338,96 +327,6 @@
 			"width":140,
 			"height":131,
 			"color":"3"
-		},
-		{
-			"id":"93be4110993c7613",
-			"type":"text",
-			"text":"机器人",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-184,
-			"y":1564,
-			"width":155,
-			"height":82,
-			"color":"5"
-		},
-		{
-			"id":"363ee4ad3ef0232d",
-			"type":"text",
-			"text":"中大力德",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":258,
-			"y":1646,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"544e992a705bd155",
-			"type":"text",
-			"text":"\n1.==天娱数科==（中位）\n2.能科科技（中位）",
-			"styleAttributes":{},
-			"x":258,
-			"y":1765,
-			"width":293,
-			"height":100,
-			"color":"6"
-		},
-		{
-			"id":"fcbe49482d06ed9b",
-			"type":"text",
-			"text":"AI应用",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-171,
-			"y":1815,
-			"width":130,
-			"height":80,
-			"color":"5"
-		},
-		{
-			"id":"a6077e7d6742f04f",
-			"type":"text",
-			"text":"\n中超控股 （潜力）\n埃斯顿\n达实智能（龙头？）\n中重科技（龙头？）\n三花智控",
-			"styleAttributes":{},
-			"x":258,
-			"y":1440,
-			"width":260,
-			"height":165,
-			"color":"6"
-		},
-		{
-			"id":"99660e2e22e6f43b",
-			"type":"text",
-			"text":"神剑股份（暴雷？）\n巨力索具 （跌到底了？）\n\n1.凯盛科技\n2.中超控股\n3.航天电子\n4.再升科技",
-			"styleAttributes":{},
-			"x":258,
-			"y":1935,
-			"width":333,
-			"height":220,
-			"color":"6"
-		},
-		{
-			"id":"ee3f373e3dc28eb6",
-			"type":"text",
-			"text":"航天",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-172,
-			"y":2005,
-			"width":130,
-			"height":80,
-			"color":"5"
-		},
-		{
-			"id":"6f1d38923a458157",
-			"type":"text",
-			"text":"巨力 关注K线",
-			"styleAttributes":{"shape":"document"},
-			"x":681,
-			"y":2015,
-			"width":260,
-			"height":60,
-			"color":"4"
 		},
 		{
 			"id":"69445d49a67030c0",
@@ -895,49 +794,6 @@
 			"color":"2"
 		},
 		{
-			"id":"dbafb7e7bb65897d",
-			"type":"text",
-			"text":"鼎泰高科（龙头）(科创)",
-			"styleAttributes":{},
-			"x":2131,
-			"y":-479,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b8f7b5a246cc149a",
-			"type":"text",
-			"text":"中钨高新",
-			"styleAttributes":{},
-			"x":2131,
-			"y":-389,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"44fe4cc489f437a8",
-			"type":"text",
-			"text":"铜箔",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":1879,
-			"y":-266,
-			"width":147,
-			"height":90,
-			"color":"2"
-		},
-		{
-			"id":"d97e9d47707c50a7",
-			"type":"text",
-			"text":"诺德股份",
-			"styleAttributes":{},
-			"x":2140,
-			"y":-251,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"a2ba923e20e14603",
 			"type":"text",
 			"text":"中国巨石\n",
@@ -1002,38 +858,6 @@
 			"width":260,
 			"height":60,
 			"color":"4"
-		},
-		{
-			"id":"23d12b9f06bd3866",
-			"type":"text",
-			"text":"耗材，消耗量极大，K线很好",
-			"styleAttributes":{"shape":"document"},
-			"x":2477,
-			"y":-479,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"28b393b0127cca43",
-			"type":"text",
-			"text":"三代通过台系认证，四代送样",
-			"styleAttributes":{"shape":"document"},
-			"x":2477,
-			"y":-251,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"accafd80c34d3be4",
-			"type":"text",
-			"text":"磷化铟",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3164,
-			"y":-900,
-			"width":160,
-			"height":60,
-			"color":"2"
 		},
 		{
 			"id":"a2e6b67b941d9146",
@@ -1145,38 +969,14 @@
 			"color":"6"
 		},
 		{
-			"id":"c35aa7a540ce3a3c",
-			"type":"text",
-			"text":"1.大族激光",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":258,
-			"y":939,
-			"width":213,
-			"height":61,
-			"color":"6"
-		},
-		{
 			"id":"6b02ddc97089940b",
 			"type":"text",
-			"text":"1.彩虹股份\n2.凯盛科技\n华工科技",
+			"text":"1.彩虹股份\n2.凯盛科技\n",
 			"styleAttributes":{},
 			"x":258,
 			"y":1060,
 			"width":220,
-			"height":120,
-			"color":"6"
-		},
-		{
-			"id":"2d86d590a11b65dc",
-			"type":"text",
-			"text":"1.沃格光电\n2.红星发展\n3==.京东方A==（中军）（散户多，等洗）\n4.凯盛科技",
-			"styleAttributes":{},
-			"x":258,
-			"y":1249,
-			"width":333,
-			"height":120,
+			"height":80,
 			"color":"6"
 		},
 		{
@@ -1665,17 +1465,6 @@
 			"color":"2"
 		},
 		{
-			"id":"78f62fb12cb4d152",
-			"type":"text",
-			"text":"刚启动？",
-			"styleAttributes":{"shape":"document"},
-			"x":615,
-			"y":-47,
-			"width":192,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"d5f3260f9f24ea1c",
 			"type":"text",
 			"text":"泰晶科技（龙头）",
@@ -1758,131 +1547,6 @@
 			"styleAttributes":{},
 			"x":1856,
 			"y":753,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"aaede63fe73a4db3",
-			"type":"text",
-			"text":"待验证，需要长期跟踪，暂时只能抄不能投资.\n可以长期投资",
-			"styleAttributes":{"shape":"document"},
-			"x":2664,
-			"y":13,
-			"width":260,
-			"height":141
-		},
-		{
-			"id":"04406415667dab0b",
-			"type":"text",
-			"text":"K线走势好",
-			"styleAttributes":{"shape":"document"},
-			"x":2664,
-			"y":185,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"20fd843cad61dc3a",
-			"type":"text",
-			"text":"东材科技",
-			"styleAttributes":{},
-			"x":2261,
-			"y":98,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"372c8ea67ebea6f9",
-			"type":"text",
-			"text":"圣泉集团",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":2261,
-			"y":8,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"9ec95bd1a1a40d0e",
-			"type":"text",
-			"text":"合成树脂",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"pill",
-				"border":null
-			},
-			"x":1883,
-			"y":38,
-			"width":160,
-			"height":90,
-			"color":"1"
-		},
-		{
-			"id":"a11cbe66da5d1130",
-			"type":"text",
-			"text":"中东停产断货（卡脖子）",
-			"styleAttributes":{"shape":"document"},
-			"x":1869,
-			"y":185,
-			"width":188,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"f30f22fe7ea5cecd",
-			"type":"text",
-			"text":"覆铜板 / CCL",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":1462,
-			"y":38,
-			"width":160,
-			"height":90,
-			"color":"2"
-		},
-		{
-			"id":"939f9a8f81ffede8",
-			"type":"text",
-			"text":"看到2700亿",
-			"styleAttributes":{},
-			"x":1412,
-			"y":225,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"fb12c9bdeae22dca",
-			"type":"text",
-			"text":"华正新材",
-			"styleAttributes":{},
-			"x":1869,
-			"y":359,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"644bff531a1da38c",
-			"type":"text",
-			"text":"K线走势好",
-			"styleAttributes":{"shape":"document"},
-			"x":2220,
-			"y":359,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"508798f38ebd3a67",
-			"type":"text",
-			"text":"德福科技",
-			"styleAttributes":{},
-			"x":2140,
-			"y":-140,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -2005,17 +1669,6 @@
 			"y":2954,
 			"width":260,
 			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"899490fda2d02197",
-			"type":"text",
-			"text":"==麦格米特==\n泰嘉股份",
-			"styleAttributes":{},
-			"x":257,
-			"y":2820,
-			"width":260,
-			"height":75,
 			"color":"6"
 		},
 		{
@@ -2399,7 +2052,409 @@
 		{"id":"3532f63d8cf563dc","type":"file","file":"Wiki/10-股票投资/90-assets-附件/Pasted image 20260621105433.png","x":-4270,"y":-4700,"width":294,"height":400},
 		{"id":"23fbdbcdefa23d5e","type":"file","file":"Wiki/10-股票投资/90-assets-附件/1bf63697eeca12cf0ee36742fc093f34.jpg","x":-3400,"y":-5646,"width":434,"height":766},
 		{"id":"e11daec0cf747a46","type":"file","file":"Wiki/10-股票投资/90-assets-附件/af7eec65aa0ac91ae1735f21c2c31303.jpg","x":-5868,"y":-5640,"width":480,"height":1397},
-		{"id":"99286bc6dc9f61ed","type":"file","file":"Wiki/10-股票投资/90-assets-附件/9f7889583e25dba5cf0769c066809a87.jpg","x":-6480,"y":-5760,"width":558,"height":3515}
+		{"id":"99286bc6dc9f61ed","type":"file","file":"Wiki/10-股票投资/90-assets-附件/9f7889583e25dba5cf0769c066809a87.jpg","x":-6480,"y":-5760,"width":558,"height":3515},
+		{
+			"id":"9ec95bd1a1a40d0e",
+			"type":"text",
+			"text":"合成树脂",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"pill",
+				"border":null
+			},
+			"x":1879,
+			"y":176,
+			"width":160,
+			"height":90,
+			"color":"1"
+		},
+		{
+			"id":"a11cbe66da5d1130",
+			"type":"text",
+			"text":"中东停产断货（卡脖子）",
+			"styleAttributes":{"shape":"document"},
+			"x":1865,
+			"y":323,
+			"width":188,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"fb12c9bdeae22dca",
+			"type":"text",
+			"text":"华正新材",
+			"styleAttributes":{},
+			"x":1865,
+			"y":497,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"aaede63fe73a4db3",
+			"type":"text",
+			"text":"待验证，需要长期跟踪，暂时只能抄不能投资.\n可以长期投资",
+			"styleAttributes":{"shape":"document"},
+			"x":2660,
+			"y":151,
+			"width":260,
+			"height":141
+		},
+		{
+			"id":"20fd843cad61dc3a",
+			"type":"text",
+			"text":"东材科技",
+			"styleAttributes":{},
+			"x":2257,
+			"y":236,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"04406415667dab0b",
+			"type":"text",
+			"text":"K线走势好",
+			"styleAttributes":{"shape":"document"},
+			"x":2660,
+			"y":323,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"644bff531a1da38c",
+			"type":"text",
+			"text":"K线走势好",
+			"styleAttributes":{"shape":"document"},
+			"x":2216,
+			"y":497,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"f30f22fe7ea5cecd",
+			"type":"text",
+			"text":"覆铜板 / CCL",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":1458,
+			"y":176,
+			"width":160,
+			"height":90,
+			"color":"2"
+		},
+		{
+			"id":"939f9a8f81ffede8",
+			"type":"text",
+			"text":"看到2700亿",
+			"styleAttributes":{},
+			"x":1408,
+			"y":363,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"372c8ea67ebea6f9",
+			"type":"text",
+			"text":"圣泉集团",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":2257,
+			"y":146,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"28b393b0127cca43",
+			"type":"text",
+			"text":"三代通过台系认证，四代送样",
+			"styleAttributes":{"shape":"document"},
+			"x":2477,
+			"y":-145,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"44fe4cc489f437a8",
+			"type":"text",
+			"text":"铜箔",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":1879,
+			"y":-160,
+			"width":147,
+			"height":90,
+			"color":"2"
+		},
+		{
+			"id":"d97e9d47707c50a7",
+			"type":"text",
+			"text":"诺德股份",
+			"styleAttributes":{},
+			"x":2140,
+			"y":-145,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"508798f38ebd3a67",
+			"type":"text",
+			"text":"德福科技",
+			"styleAttributes":{},
+			"x":2140,
+			"y":-34,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"1469145443fd46b2",
+			"type":"text",
+			"text":"买",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":3800,
+			"y":-1795,
+			"width":284,
+			"height":261,
+			"color":"1"
+		},
+		{
+			"id":"0ef818410084b0cf",
+			"type":"text",
+			"text":"2026/6/21",
+			"styleAttributes":{},
+			"x":4162,
+			"y":-1694,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"b8f7b5a246cc149a",
+			"type":"text",
+			"text":"中钨高新",
+			"styleAttributes":{},
+			"x":2140,
+			"y":-359,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"dbafb7e7bb65897d",
+			"type":"text",
+			"text":"鼎泰高科（龙头）(科创)",
+			"styleAttributes":{},
+			"x":2147,
+			"y":-494,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"23d12b9f06bd3866",
+			"type":"text",
+			"text":"耗材，消耗量极大，K线很好",
+			"styleAttributes":{"shape":"document"},
+			"x":2477,
+			"y":-494,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"5b8e722dafb16a12",
+			"type":"text",
+			"text":"\n华工科技（打孔高效率）",
+			"styleAttributes":{},
+			"x":258,
+			"y":1161,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"0ae9230e32317d9d",
+			"type":"text",
+			"text":"长期看好，财报可能要第三季度体现",
+			"styleAttributes":{"shape":"document"},
+			"x":615,
+			"y":1147,
+			"width":260,
+			"height":88,
+			"color":"4"
+		},
+		{
+			"id":"accafd80c34d3be4",
+			"type":"text",
+			"text":"磷化铟",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3170,
+			"y":-900,
+			"width":160,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"99660e2e22e6f43b",
+			"type":"text",
+			"text":"神剑股份（暴雷？）\n巨力索具 （跌到底了？）\n\n1.凯盛科技\n2.中超控股\n3.航天电子\n4.再升科技",
+			"styleAttributes":{},
+			"x":257,
+			"y":1975,
+			"width":333,
+			"height":220,
+			"color":"6"
+		},
+		{
+			"id":"6f1d38923a458157",
+			"type":"text",
+			"text":"巨力 关注K线",
+			"styleAttributes":{"shape":"document"},
+			"x":680,
+			"y":2055,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a6077e7d6742f04f",
+			"type":"text",
+			"text":"\n中超控股 （潜力）\n埃斯顿\n达实智能（龙头？）\n中重科技（龙头？）\n三花智控",
+			"styleAttributes":{},
+			"x":257,
+			"y":1480,
+			"width":260,
+			"height":165,
+			"color":"6"
+		},
+		{
+			"id":"93be4110993c7613",
+			"type":"text",
+			"text":"机器人",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-185,
+			"y":1604,
+			"width":155,
+			"height":82,
+			"color":"5"
+		},
+		{
+			"id":"363ee4ad3ef0232d",
+			"type":"text",
+			"text":"中大力德",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":257,
+			"y":1686,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"544e992a705bd155",
+			"type":"text",
+			"text":"\n1.==天娱数科==（中位）\n2.能科科技（中位）",
+			"styleAttributes":{},
+			"x":257,
+			"y":1805,
+			"width":293,
+			"height":100,
+			"color":"6"
+		},
+		{
+			"id":"fcbe49482d06ed9b",
+			"type":"text",
+			"text":"AI应用",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-172,
+			"y":1855,
+			"width":130,
+			"height":80,
+			"color":"5"
+		},
+		{
+			"id":"ee3f373e3dc28eb6",
+			"type":"text",
+			"text":"航天",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-173,
+			"y":2045,
+			"width":130,
+			"height":80,
+			"color":"5"
+		},
+		{
+			"id":"2d86d590a11b65dc",
+			"type":"text",
+			"text":"\n2.红星发展（材料）\n3==.京东方A==（中军）（散户多，等洗）\n4.凯盛科技",
+			"styleAttributes":{},
+			"x":257,
+			"y":1340,
+			"width":333,
+			"height":100,
+			"color":"6"
+		},
+		{
+			"id":"4e5d3790cd3656df",
+			"type":"text",
+			"text":"1.==沃格光电==（龙头）",
+			"styleAttributes":{},
+			"x":257,
+			"y":1260,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"c35aa7a540ce3a3c",
+			"type":"text",
+			"text":"1.大族激光",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":262,
+			"y":980,
+			"width":213,
+			"height":61,
+			"color":"6"
+		},
+		{
+			"id":"899490fda2d02197",
+			"type":"text",
+			"text":"麦格米特",
+			"styleAttributes":{},
+			"x":257,
+			"y":2780,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"2a78a87a8c0d142d",
+			"type":"text",
+			"text":"\n泰嘉股份",
+			"styleAttributes":{},
+			"x":257,
+			"y":2866,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"78f62fb12cb4d152",
+			"type":"text",
+			"text":"供货 三星，海力士，美光。前驱体垄断国产",
+			"styleAttributes":{"shape":"document"},
+			"x":615,
+			"y":-62,
+			"width":240,
+			"height":90,
+			"color":"4"
+		}
 	],
 	"edges":[
 		{
@@ -3050,26 +3105,6 @@
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"right",
 			"color":"2"
-		},
-		{
-			"id":"22580885290ad540",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"15c03bf55698c404",
-			"fromSide":"right",
-			"toNode":"79c6cc17a57875d7",
-			"toSide":"left"
-		},
-		{
-			"id":"29cd56346e66765a",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"79c6cc17a57875d7",
-			"fromSide":"right",
-			"toNode":"21d7bbe8f742c8c9",
-			"toSide":"left"
 		},
 		{
 			"id":"ff6baf5c9922ab30",
@@ -4337,6 +4372,7 @@
 			"id":"fca3e9d1ce5ed2ab",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"f30f22fe7ea5cecd",
 			"fromSide":"right",
 			"toNode":"3e78ff6f160e3647",
@@ -4477,6 +4513,7 @@
 			"id":"6214ccd0f2619e3e",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"9a10e70406c388fb",
 			"fromSide":"right",
 			"toNode":"aa54a78a1c436510",
@@ -4581,6 +4618,152 @@
 			"fromSide":"right",
 			"toNode":"26688dbbfed04ec9",
 			"toSide":"left"
+		},
+		{
+			"id":"3391c9365c0504cb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"accafd80c34d3be4",
+			"fromSide":"right",
+			"toNode":"21d7bbe8f742c8c9",
+			"toSide":"left"
+		},
+		{
+			"id":"7d6c40071c966422",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1469145443fd46b2",
+			"fromSide":"right",
+			"toNode":"0ef818410084b0cf",
+			"toSide":"left"
+		},
+		{
+			"id":"f5a4edfebdef4467",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9b2871d194238ae3",
+			"fromSide":"right",
+			"toNode":"1469145443fd46b2",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"975c295cc1d35b44",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c35aa7a540ce3a3c",
+			"fromSide":"right",
+			"toNode":"1469145443fd46b2",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"c20ed9c362ff4c11",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"baca6b66e0656ac7",
+			"fromSide":"right",
+			"toNode":"5b8e722dafb16a12",
+			"toSide":"left",
+			"label":"全链条"
+		},
+		{
+			"id":"e500cdca73d4153e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5b8e722dafb16a12",
+			"fromSide":"right",
+			"toNode":"0ae9230e32317d9d",
+			"toSide":"left"
+		},
+		{
+			"id":"a2b0c0bc8b1e082b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f2d1eb9cd6734db7",
+			"fromSide":"right",
+			"toNode":"1469145443fd46b2",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"9f4f04f44293cbb7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e3d3312a94da47e6",
+			"fromSide":"right",
+			"toNode":"21d7bbe8f742c8c9",
+			"toSide":"left"
+		},
+		{
+			"id":"c904c2e89e7becc2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"baca6b66e0656ac7",
+			"fromSide":"right",
+			"toNode":"4e5d3790cd3656df",
+			"toSide":"left"
+		},
+		{
+			"id":"3cf36ac6e7390d03",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"20fd843cad61dc3a",
+			"fromSide":"right",
+			"toNode":"1469145443fd46b2",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"38044875af89e996",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"eb0d73c8d4337d62",
+			"fromSide":"right",
+			"toNode":"1469145443fd46b2",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"981ef33a7f474696",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"63073e020d049a27",
+			"fromSide":"right",
+			"toNode":"2a78a87a8c0d142d",
+			"toSide":"left"
+		},
+		{
+			"id":"6485d45c3819e397",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"899490fda2d02197",
+			"fromSide":"right",
+			"toNode":"1469145443fd46b2",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"7a71bee057e2c117",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5d8d98e39a1f7b3f",
+			"fromSide":"right",
+			"toNode":"1469145443fd46b2",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"b00b8f911b856a90",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"21d7bbe8f742c8c9",
+			"fromSide":"right",
+			"toNode":"1469145443fd46b2",
+			"toSide":"left",
+			"color":"1"
 		}
 	],
 	"metadata":{
