@@ -656,8 +656,8 @@
 			"type":"text",
 			"text":"IGBT",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":1254,
-			"y":-1795,
+			"x":1514,
+			"y":1568,
 			"width":132,
 			"height":85,
 			"color":"5"
@@ -704,7 +704,7 @@
 			"y":190,
 			"width":260,
 			"height":60,
-			"color":"6"
+			"color":"2"
 		},
 		{
 			"id":"893e73acabd135e6",
@@ -951,8 +951,8 @@
 			"type":"text",
 			"text":"斯达半导",
 			"styleAttributes":{},
-			"x":1611,
-			"y":-1782,
+			"x":1871,
+			"y":1580,
 			"width":260,
 			"height":60,
 			"color":"6"
@@ -1049,8 +1049,8 @@
 			"type":"text",
 			"text":"K线低点 6/13",
 			"styleAttributes":{"shape":"document"},
-			"x":1980,
-			"y":-1782,
+			"x":2240,
+			"y":1580,
 			"width":260,
 			"height":60,
 			"color":"4"
@@ -2691,6 +2691,82 @@
 			"y":1200,
 			"width":260,
 			"height":140
+		},
+		{
+			"id":"43fcb4da60e27610",
+			"type":"text",
+			"text":"买",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":3800,
+			"y":-1020,
+			"width":284,
+			"height":261,
+			"color":"1"
+		},
+		{
+			"id":"b0b47851f417faea",
+			"type":"text",
+			"text":"后续",
+			"styleAttributes":{},
+			"x":4162,
+			"y":-919,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"be9e818663708e8f",
+			"type":"text",
+			"text":"IDM",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":1514,
+			"y":1186,
+			"width":132,
+			"height":85,
+			"color":"5"
+		},
+		{
+			"id":"37983b8b1bceb52f",
+			"type":"text",
+			"text":"功率半导体",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":954,
+			"y":1271,
+			"width":196,
+			"height":192,
+			"color":"3"
+		},
+		{
+			"id":"effdd85170351321",
+			"type":"text",
+			"text":"士兰微",
+			"styleAttributes":{},
+			"x":1871,
+			"y":1199,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"8a4de6f01f2349b2",
+			"type":"text",
+			"text":"杨杰科技",
+			"styleAttributes":{},
+			"x":1871,
+			"y":1280,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"cedfa93867a64fd8",
+			"type":"text",
+			"text":"新洁能",
+			"styleAttributes":{},
+			"x":1871,
+			"y":1367,
+			"width":260,
+			"height":60,
+			"color":"6"
 		}
 	],
 	"edges":[
@@ -2702,6 +2778,17 @@
 			"fromNode":"bf71618ca70164ac",
 			"fromSide":"left",
 			"toNode":"f10ada06eb6722b6",
+			"toSide":"right",
+			"label":"逻辑"
+		},
+		{
+			"id":"36e54aeb15b2f113",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f0017f1ed88247be",
+			"fromSide":"left",
+			"toNode":"194f01778a2c333b",
 			"toSide":"right",
 			"label":"逻辑"
 		},
@@ -2725,16 +2812,6 @@
 			"fromSide":"right",
 			"toNode":"78edc833870a1691",
 			"toSide":"left"
-		},
-		{
-			"id":"fb1d4827de44601b",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"1f9d1de0a3ac687d",
-			"fromSide":"bottom",
-			"toNode":"bf71618ca70164ac",
-			"toSide":"top"
 		},
 		{
 			"id":"e200f1d92007e716",
@@ -2884,6 +2961,16 @@
 			"toNode":"6b02ddc97089940b",
 			"toSide":"left",
 			"label":"全链条"
+		},
+		{
+			"id":"2f14538f43ead577",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f0017f1ed88247be",
+			"fromSide":"right",
+			"toNode":"3bff65ee98719d4a",
+			"toSide":"left"
 		},
 		{
 			"id":"12d32d5c48971cc7",
@@ -3082,16 +3169,15 @@
 			"toSide":"left"
 		},
 		{
-			"id":"b16b916186c332e0",
+			"id":"b252e69ec8a07db2",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"cbc17fd15ec26725",
+			"fromNode":"f42099aaf388480a",
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
-			"color":"1",
-			"label":"已买，低位"
+			"color":"2"
 		},
 		{
 			"id":"b2b3045449f2232b",
@@ -3283,18 +3369,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"711220274f947b6f",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"78edc833870a1691",
-			"fromSide":"right",
-			"toNode":"efbc2be777a9d24f",
-			"toSide":"left",
-			"color":"1",
-			"label":"已买"
-		},
-		{
 			"id":"a8cbef5e7be9cd6e",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -3324,17 +3398,6 @@
 			"fromSide":"right",
 			"toNode":"a88c680cd534f261",
 			"toSide":"left"
-		},
-		{
-			"id":"a7b643f363dc27d6",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"7dd015a597669a29",
-			"fromSide":"left",
-			"toNode":"efbc2be777a9d24f",
-			"toSide":"right",
-			"color":"2"
 		},
 		{
 			"id":"94a93315c66d2bc2",
@@ -3436,6 +3499,17 @@
 			"toSide":"left"
 		},
 		{
+			"id":"450cc414f51daaf8",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f0017f1ed88247be",
+			"fromSide":"right",
+			"toNode":"9d4468d651b1c358",
+			"toSide":"left",
+			"label":"海力士"
+		},
+		{
 			"id":"23f014f83f3752f8",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -3487,6 +3561,17 @@
 			"toSide":"left"
 		},
 		{
+			"id":"a7b643f363dc27d6",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"7dd015a597669a29",
+			"fromSide":"left",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"right",
+			"color":"2"
+		},
+		{
 			"id":"6dd11158f5d3b596",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
@@ -3530,17 +3615,6 @@
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"8715840d1684ca69",
-			"fromSide":"right",
-			"toNode":"efbc2be777a9d24f",
-			"toSide":"left",
-			"color":"2"
-		},
-		{
-			"id":"b252e69ec8a07db2",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"f42099aaf388480a",
 			"fromSide":"right",
 			"toNode":"efbc2be777a9d24f",
 			"toSide":"left",
@@ -3636,6 +3710,16 @@
 			"toSide":"left"
 		},
 		{
+			"id":"421b8cb6bef6c6e3",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f0017f1ed88247be",
+			"fromSide":"right",
+			"toNode":"ea992024feb8dac1",
+			"toSide":"left"
+		},
+		{
 			"id":"af47dc3deeb778e5",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -3688,16 +3772,6 @@
 			"color":"2"
 		},
 		{
-			"id":"a265886a8ce26e5f",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"1f9d1de0a3ac687d",
-			"fromSide":"bottom",
-			"toNode":"f8559b7e17820e8c",
-			"toSide":"left"
-		},
-		{
 			"id":"f5ffb156e8adf264",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -3714,48 +3788,6 @@
 			"fromNode":"1f9d1de0a3ac687d",
 			"fromSide":"bottom",
 			"toNode":"d4d2470d41893e6c",
-			"toSide":"left"
-		},
-		{
-			"id":"36e54aeb15b2f113",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"f0017f1ed88247be",
-			"fromSide":"left",
-			"toNode":"194f01778a2c333b",
-			"toSide":"right",
-			"label":"逻辑"
-		},
-		{
-			"id":"2f14538f43ead577",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"f0017f1ed88247be",
-			"fromSide":"right",
-			"toNode":"3bff65ee98719d4a",
-			"toSide":"left"
-		},
-		{
-			"id":"450cc414f51daaf8",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"f0017f1ed88247be",
-			"fromSide":"right",
-			"toNode":"9d4468d651b1c358",
-			"toSide":"left",
-			"label":"海力士"
-		},
-		{
-			"id":"421b8cb6bef6c6e3",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"f0017f1ed88247be",
-			"fromSide":"right",
-			"toNode":"ea992024feb8dac1",
 			"toSide":"left"
 		},
 		{
@@ -3903,15 +3935,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"cb8602cfde69daf9",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"44fe4cc489f437a8",
-			"fromSide":"right",
-			"toNode":"d97e9d47707c50a7",
-			"toSide":"left"
-		},
-		{
 			"id":"e0b7dcdaec5727c2",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -3919,6 +3942,30 @@
 			"fromSide":"right",
 			"toNode":"342adcce3270b51b",
 			"toSide":"left"
+		},
+		{
+			"id":"711220274f947b6f",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"78edc833870a1691",
+			"fromSide":"right",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"left",
+			"color":"1",
+			"label":"已买"
+		},
+		{
+			"id":"b16b916186c332e0",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"cbc17fd15ec26725",
+			"fromSide":"right",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"left",
+			"color":"1",
+			"label":"已买，低位"
 		},
 		{
 			"id":"dffee4a79f98d210",
@@ -4153,6 +4200,17 @@
 			"fromSide":"right",
 			"toNode":"41ba61a23b9c5451",
 			"toSide":"left"
+		},
+		{
+			"id":"e1b11c4d73881340",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"2abca6784d4871d8",
+			"fromSide":"left",
+			"toNode":"efbc2be777a9d24f",
+			"toSide":"right",
+			"color":"2"
 		},
 		{
 			"id":"b99f0572030ac329",
@@ -4559,17 +4617,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"e1b11c4d73881340",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"2abca6784d4871d8",
-			"fromSide":"left",
-			"toNode":"efbc2be777a9d24f",
-			"toSide":"right",
-			"color":"2"
-		},
-		{
 			"id":"91a664434e45695c",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
@@ -4635,6 +4682,15 @@
 			"fromNode":"3e78ff6f160e3647",
 			"fromSide":"right",
 			"toNode":"9803e2e49e8ec14f",
+			"toSide":"left"
+		},
+		{
+			"id":"cb8602cfde69daf9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"44fe4cc489f437a8",
+			"fromSide":"right",
+			"toNode":"d97e9d47707c50a7",
 			"toSide":"left"
 		},
 		{
@@ -4950,6 +5006,7 @@
 			"id":"3cf36ac6e7390d03",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"20fd843cad61dc3a",
 			"fromSide":"right",
 			"toNode":"1469145443fd46b2",
@@ -4960,6 +5017,7 @@
 			"id":"38044875af89e996",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"eb0d73c8d4337d62",
 			"fromSide":"right",
 			"toNode":"1469145443fd46b2",
@@ -4980,6 +5038,7 @@
 			"id":"6485d45c3819e397",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"899490fda2d02197",
 			"fromSide":"right",
 			"toNode":"1469145443fd46b2",
@@ -5162,6 +5221,82 @@
 			"fromSide":"right",
 			"toNode":"3a27b068cc73eadd",
 			"toSide":"left"
+		},
+		{
+			"id":"a7ab4dc5a5e25bed",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"9543c9f02d0b3214",
+			"fromSide":"right",
+			"toNode":"43fcb4da60e27610",
+			"toSide":"left",
+			"color":"2"
+		},
+		{
+			"id":"070284b040522333",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"43fcb4da60e27610",
+			"fromSide":"right",
+			"toNode":"b0b47851f417faea",
+			"toSide":"left"
+		},
+		{
+			"id":"ea4de8b9cd47aaac",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"37983b8b1bceb52f",
+			"fromSide":"right",
+			"toNode":"f8559b7e17820e8c",
+			"toSide":"left"
+		},
+		{
+			"id":"80e46b073ab40a15",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"37983b8b1bceb52f",
+			"fromSide":"right",
+			"toNode":"be9e818663708e8f",
+			"toSide":"left"
+		},
+		{
+			"id":"c8ab2254acd22e18",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"be9e818663708e8f",
+			"fromSide":"right",
+			"toNode":"effdd85170351321",
+			"toSide":"left"
+		},
+		{
+			"id":"d1b698b3f3c7d88e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"37983b8b1bceb52f",
+			"fromSide":"right",
+			"toNode":"8a4de6f01f2349b2",
+			"toSide":"left"
+		},
+		{
+			"id":"20c6769f93852485",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"37983b8b1bceb52f",
+			"fromSide":"right",
+			"toNode":"cedfa93867a64fd8",
+			"toSide":"left"
+		},
+		{
+			"id":"e117e3da71c37650",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"effdd85170351321",
+			"fromSide":"right",
+			"toNode":"43fcb4da60e27610",
+			"toSide":"left",
+			"color":"2"
 		}
 	],
 	"metadata":{
