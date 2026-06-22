@@ -2448,7 +2448,7 @@
 			"y":-685,
 			"width":160,
 			"height":60,
-			"color":"2"
+			"color":"1"
 		},
 		{
 			"id":"e3d3312a94da47e6",
@@ -2593,17 +2593,6 @@
 			"color":"6"
 		},
 		{
-			"id":"a2e6b67b941d9146",
-			"type":"text",
-			"text":"锡业股份（龙头）\n兴发集团",
-			"styleAttributes":{},
-			"x":-2775,
-			"y":-685,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
 			"id":"c105aedb45977635",
 			"type":"text",
 			"text":"福晶科技（龙头）",
@@ -2713,16 +2702,6 @@
 			"color":"2"
 		},
 		{
-			"id":"5d0581a06a974f59",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-2777,
-			"y":-1480,
-			"width":260,
-			"height":100
-		},
-		{
 			"id":"46054a2d34e754bd",
 			"type":"text",
 			"text":"氮化镓",
@@ -2732,26 +2711,6 @@
 			"width":160,
 			"height":60,
 			"color":"2"
-		},
-		{
-			"id":"e198004bf7bee7d2",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-2777,
-			"y":-1340,
-			"width":260,
-			"height":100
-		},
-		{
-			"id":"0002f8c6fb2ad23a",
-			"type":"text",
-			"text":"缺8英寸",
-			"styleAttributes":{},
-			"x":-3360,
-			"y":-1320,
-			"width":120,
-			"height":60
 		},
 		{
 			"id":"e05639bbbef55dbd",
@@ -2807,6 +2766,122 @@
 			"width":260,
 			"height":60,
 			"color":"6"
+		},
+		{
+			"id":"0002f8c6fb2ad23a",
+			"type":"text",
+			"text":"缺8英寸",
+			"styleAttributes":{},
+			"x":-3374,
+			"y":-1460,
+			"width":120,
+			"height":60
+		},
+		{
+			"id":"5d0581a06a974f59",
+			"type":"text",
+			"text":"天岳先进",
+			"styleAttributes":{},
+			"x":-2777,
+			"y":-1460,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"43b8ebc1632705ec",
+			"type":"text",
+			"text":"斯达半导",
+			"styleAttributes":{},
+			"x":-1900,
+			"y":-1460,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"a81dd3ae89001869",
+			"type":"text",
+			"text":"三安光电\n士兰微\n",
+			"styleAttributes":{},
+			"x":-2320,
+			"y":-1470,
+			"width":260,
+			"height":80,
+			"color":"6"
+		},
+		{
+			"id":"a6fa9631b9da1e3b",
+			"type":"text",
+			"text":"恒铭达",
+			"styleAttributes":{},
+			"x":-2320,
+			"y":-1320,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"e198004bf7bee7d2",
+			"type":"text",
+			"text":"三安光电",
+			"styleAttributes":{},
+			"x":-2777,
+			"y":-1320,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"7ade6cfa31957a69",
+			"type":"text",
+			"text":"中瓷电子",
+			"styleAttributes":{},
+			"x":-1900,
+			"y":-1320,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"5da8086e423181cb",
+			"type":"text",
+			"text":"英飞凌禁止国内售卖，国产替代",
+			"styleAttributes":{},
+			"x":-3560,
+			"y":-1320,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"a2e6b67b941d9146",
+			"type":"text",
+			"text":"锡业股份（龙头）\n兴发集团",
+			"styleAttributes":{},
+			"x":-2777,
+			"y":-697,
+			"width":260,
+			"height":85,
+			"color":"2"
+		},
+		{
+			"id":"4a8c51d3b7bb8c5a",
+			"type":"text",
+			"text":"云南锗业\n三安光电",
+			"styleAttributes":{},
+			"x":-2355,
+			"y":-697,
+			"width":260,
+			"height":72
+		},
+		{
+			"id":"3b78145de1ea3a3a",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-1920,
+			"y":-705,
+			"width":260,
+			"height":89
 		}
 	],
 	"edges":[
@@ -4962,6 +5037,7 @@
 			"id":"3391c9365c0504cb",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"accafd80c34d3be4",
 			"fromSide":"right",
 			"toNode":"21d7bbe8f742c8c9",
@@ -5350,22 +5426,96 @@
 			"toSide":"left"
 		},
 		{
-			"id":"be53be756d33658b",
+			"id":"95c758fefe0d2648",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"46054a2d34e754bd",
+			"fromNode":"1068ec3768b5112c",
 			"fromSide":"left",
 			"toNode":"0002f8c6fb2ad23a",
 			"toSide":"right"
 		},
 		{
-			"id":"d8f99b868c6e9a89",
+			"id":"ea1c8d1925ccc27f",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"1068ec3768b5112c",
+			"fromNode":"5d0581a06a974f59",
 			"fromSide":"right",
-			"toNode":"cbc17fd15ec26725",
+			"toNode":"a81dd3ae89001869",
+			"toSide":"left",
+			"label":"中游"
+		},
+		{
+			"id":"e47b78974079e906",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a81dd3ae89001869",
+			"fromSide":"right",
+			"toNode":"43b8ebc1632705ec",
+			"toSide":"left",
+			"label":"下游"
+		},
+		{
+			"id":"f77bdc66b768899e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"e198004bf7bee7d2",
+			"fromSide":"right",
+			"toNode":"a6fa9631b9da1e3b",
+			"toSide":"left",
+			"label":"中游"
+		},
+		{
+			"id":"a36f4f538a4ea156",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a6fa9631b9da1e3b",
+			"fromSide":"right",
+			"toNode":"7ade6cfa31957a69",
+			"toSide":"left",
+			"label":"下游"
+		},
+		{
+			"id":"2300e29e5558bd08",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"46054a2d34e754bd",
+			"fromSide":"left",
+			"toNode":"5da8086e423181cb",
+			"toSide":"right"
+		},
+		{
+			"id":"828dec11b7e2edd8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a2e6b67b941d9146",
+			"fromSide":"right",
+			"toNode":"4a8c51d3b7bb8c5a",
+			"toSide":"left",
+			"label":"中游"
+		},
+		{
+			"id":"9df57f30759b5a55",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f2d1eb9cd6734db7",
+			"fromSide":"right",
+			"toNode":"4a8c51d3b7bb8c5a",
 			"toSide":"left"
+		},
+		{
+			"id":"b3beda3c95f2d954",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"4a8c51d3b7bb8c5a",
+			"fromSide":"right",
+			"toNode":"3b78145de1ea3a3a",
+			"toSide":"left",
+			"label":"下游"
 		}
 	],
 	"metadata":{
