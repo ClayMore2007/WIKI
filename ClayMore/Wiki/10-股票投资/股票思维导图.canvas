@@ -2522,28 +2522,6 @@
 			"color":"2"
 		},
 		{
-			"id":"8ec7aa119104cd00",
-			"type":"text",
-			"text":"买",
-			"styleAttributes":{"shape":"diamond","textAlign":"center"},
-			"x":3800,
-			"y":-1151,
-			"width":284,
-			"height":261,
-			"color":"1"
-		},
-		{
-			"id":"7aae3f643b5d8430",
-			"type":"text",
-			"text":"2026/6/22",
-			"styleAttributes":{},
-			"x":4162,
-			"y":-1050,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
 			"id":"13a57e3704685cdc",
 			"type":"text",
 			"text":"永和股份",
@@ -2693,27 +2671,6 @@
 			"height":140
 		},
 		{
-			"id":"43fcb4da60e27610",
-			"type":"text",
-			"text":"买",
-			"styleAttributes":{"shape":"diamond","textAlign":"center"},
-			"x":3800,
-			"y":-1020,
-			"width":284,
-			"height":261,
-			"color":"1"
-		},
-		{
-			"id":"b0b47851f417faea",
-			"type":"text",
-			"text":"后续",
-			"styleAttributes":{},
-			"x":4162,
-			"y":-919,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"be9e818663708e8f",
 			"type":"text",
 			"text":"IDM",
@@ -2767,6 +2724,27 @@
 			"width":260,
 			"height":60,
 			"color":"6"
+		},
+		{
+			"id":"43fcb4da60e27610",
+			"type":"text",
+			"text":"买",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":3820,
+			"y":-1160,
+			"width":284,
+			"height":261,
+			"color":"1"
+		},
+		{
+			"id":"b0b47851f417faea",
+			"type":"text",
+			"text":"后续",
+			"styleAttributes":{},
+			"x":4220,
+			"y":-1059,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -5137,18 +5115,9 @@
 			"toFloating":false,
 			"fromNode":"6cad54c8599fca0b",
 			"fromSide":"right",
-			"toNode":"8ec7aa119104cd00",
+			"toNode":"43fcb4da60e27610",
 			"toSide":"left",
 			"color":"1"
-		},
-		{
-			"id":"63c59489a6b593eb",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"8ec7aa119104cd00",
-			"fromSide":"right",
-			"toNode":"7aae3f643b5d8430",
-			"toSide":"left"
 		},
 		{
 			"id":"6eb8aba9410059ba",
