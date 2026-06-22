@@ -2498,6 +2498,94 @@
 			"width":260,
 			"height":60,
 			"color":"6"
+		},
+		{
+			"id":"6fac137f03d72070",
+			"type":"text",
+			"text":"冷却液",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":1580,
+			"y":3260,
+			"width":200,
+			"height":88,
+			"color":"2"
+		},
+		{
+			"id":"6cad54c8599fca0b",
+			"type":"text",
+			"text":"巨化股份（龙头）",
+			"styleAttributes":{},
+			"x":2180,
+			"y":3280,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"8ec7aa119104cd00",
+			"type":"text",
+			"text":"买",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":3800,
+			"y":-1151,
+			"width":284,
+			"height":261,
+			"color":"1"
+		},
+		{
+			"id":"7aae3f643b5d8430",
+			"type":"text",
+			"text":"2026/6/22",
+			"styleAttributes":{},
+			"x":4162,
+			"y":-1050,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"13a57e3704685cdc",
+			"type":"text",
+			"text":"永和股份",
+			"styleAttributes":{},
+			"x":2180,
+			"y":3560,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"0b30bf2b7a2803d4",
+			"type":"text",
+			"text":"新安股份",
+			"styleAttributes":{},
+			"x":2180,
+			"y":3380,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"cb270ebfbd7eb10d",
+			"type":"text",
+			"text":"\n合盛硅业（华为认证）",
+			"styleAttributes":{},
+			"x":2180,
+			"y":3460,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"09ef2dc9c255b214",
+			"type":"text",
+			"text":"刚启动",
+			"styleAttributes":{"shape":"document"},
+			"x":2560,
+			"y":3380,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[
@@ -4808,6 +4896,7 @@
 			"id":"b00b8f911b856a90",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"21d7bbe8f742c8c9",
 			"fromSide":"right",
 			"toNode":"1469145443fd46b2",
@@ -4848,6 +4937,80 @@
 			"fromNode":"c5432f758c9a6a3f",
 			"fromSide":"right",
 			"toNode":"f1f3aee00f9457b0",
+			"toSide":"left"
+		},
+		{
+			"id":"341c9f316ebb6456",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6fac137f03d72070",
+			"fromSide":"right",
+			"toNode":"6cad54c8599fca0b",
+			"toSide":"left"
+		},
+		{
+			"id":"d3baf70c19287d45",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"6fac137f03d72070",
+			"fromSide":"right",
+			"toNode":"13a57e3704685cdc",
+			"toSide":"left"
+		},
+		{
+			"id":"b297592affc4aebb",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"80a563c77994fbfe",
+			"fromSide":"right",
+			"toNode":"6cad54c8599fca0b",
+			"toSide":"left"
+		},
+		{
+			"id":"3d5bbf4070882199",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6cad54c8599fca0b",
+			"fromSide":"right",
+			"toNode":"8ec7aa119104cd00",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"63c59489a6b593eb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8ec7aa119104cd00",
+			"fromSide":"right",
+			"toNode":"7aae3f643b5d8430",
+			"toSide":"left"
+		},
+		{
+			"id":"6eb8aba9410059ba",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6fac137f03d72070",
+			"fromSide":"right",
+			"toNode":"cb270ebfbd7eb10d",
+			"toSide":"left"
+		},
+		{
+			"id":"f27b920dc1a3fd6d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6fac137f03d72070",
+			"fromSide":"right",
+			"toNode":"0b30bf2b7a2803d4",
+			"toSide":"left"
+		},
+		{
+			"id":"b08e12af1855193f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0b30bf2b7a2803d4",
+			"fromSide":"right",
+			"toNode":"09ef2dc9c255b214",
 			"toSide":"left"
 		}
 	],
