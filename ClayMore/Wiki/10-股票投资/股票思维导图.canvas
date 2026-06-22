@@ -154,28 +154,6 @@
 			"color":"4"
 		},
 		{
-			"id":"37ab90c8f8c7b44b",
-			"type":"text",
-			"text":"石英股份\n菲利华\n\n",
-			"styleAttributes":{},
-			"x":-2780,
-			"y":-1312,
-			"width":260,
-			"height":90,
-			"color":"6"
-		},
-		{
-			"id":"c884ae25ba44c56b",
-			"type":"text",
-			"text":"三祥新材",
-			"styleAttributes":{},
-			"x":-2780,
-			"y":-1160,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"7193dc9ab71a1759",
 			"type":"text",
 			"text":"氧化镝",
@@ -185,50 +163,6 @@
 			"width":160,
 			"height":60,
 			"color":"2"
-		},
-		{
-			"id":"f087a666f01dc6a3",
-			"type":"text",
-			"text":"碳酸钡，低锶重晶石、电子级锶盐",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3200,
-			"y":-1427,
-			"width":284,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"e3cb6a004c9d778f",
-			"type":"text",
-			"text":"石英",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3164,
-			"y":-1297,
-			"width":160,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"a9718de53b119e3f",
-			"type":"text",
-			"text":"锆",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3164,
-			"y":-1160,
-			"width":160,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"21d7bbe8f742c8c9",
-			"type":"text",
-			"text":"==有研新材==（半导体靶材龙头）",
-			"styleAttributes":{},
-			"x":-2780,
-			"y":-1020,
-			"width":260,
-			"height":60,
-			"color":"6"
 		},
 		{
 			"id":"1d76925bbfe75507",
@@ -860,27 +794,6 @@
 			"color":"4"
 		},
 		{
-			"id":"a2e6b67b941d9146",
-			"type":"text",
-			"text":"锡业股份（龙头）\n兴发集团",
-			"styleAttributes":{},
-			"x":-2780,
-			"y":-900,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"a703deb73a1557bd",
-			"type":"text",
-			"text":"高纯度红磷被主要依赖日本进口，国产正在突破",
-			"styleAttributes":{},
-			"x":-3540,
-			"y":-900,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"471ff60a6edc1ae2",
 			"type":"text",
 			"text":"电子布",
@@ -925,17 +838,6 @@
 			"height":60
 		},
 		{
-			"id":"7984409ea3d9c49d",
-			"type":"text",
-			"text":"红星发展",
-			"styleAttributes":{},
-			"x":-2771,
-			"y":-1427,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"94643c324cfb7538",
 			"type":"text",
 			"text":"雅克科技",
@@ -978,38 +880,6 @@
 			"width":220,
 			"height":80,
 			"color":"6"
-		},
-		{
-			"id":"e3d3312a94da47e6",
-			"type":"text",
-			"text":"锗",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3170,
-			"y":-768,
-			"width":160,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"f2d1eb9cd6734db7",
-			"type":"text",
-			"text":"1.==云南锗业==",
-			"styleAttributes":{},
-			"x":-2780,
-			"y":-768,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"342adcce3270b51b",
-			"type":"text",
-			"text":"TTM 3162倍，换手率高",
-			"styleAttributes":{"shape":"document"},
-			"x":-2360,
-			"y":-768,
-			"width":260,
-			"height":60
 		},
 		{
 			"id":"c08db444f5711212",
@@ -1232,83 +1102,6 @@
 			"color":"4"
 		},
 		{
-			"id":"b285c6971c4c210f",
-			"type":"text",
-			"text":"1.大有能源",
-			"styleAttributes":{},
-			"x":-2804,
-			"y":-120,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"fe2119749e173c91",
-			"type":"text",
-			"text":"==赣锋锂业==",
-			"styleAttributes":{},
-			"x":-2804,
-			"y":70,
-			"width":260,
-			"height":80,
-			"color":"6"
-		},
-		{
-			"id":"e05639bbbef55dbd",
-			"type":"text",
-			"text":"能源",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-3793,
-			"y":-160,
-			"width":140,
-			"height":140,
-			"color":"3"
-		},
-		{
-			"id":"b0c7f01a6c757e3c",
-			"type":"text",
-			"text":"煤炭",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-3189,
-			"y":-120,
-			"width":185,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"9ea748bb9bfa78af",
-			"type":"text",
-			"text":"锂矿",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-3194,
-			"y":80,
-			"width":185,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"9a10e70406c388fb",
-			"type":"text",
-			"text":"铜",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3170,
-			"y":-640,
-			"width":160,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"9a7a151fa40e4b1c",
-			"type":"text",
-			"text":"关注K线走势",
-			"styleAttributes":{"shape":"document"},
-			"x":-2360,
-			"y":-640,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"59fa7259df34767c",
 			"type":"text",
 			"text":"光隔离器",
@@ -1496,16 +1289,6 @@
 			"width":260,
 			"height":105,
 			"color":"4"
-		},
-		{
-			"id":"c2f94413f4b20108",
-			"type":"text",
-			"text":"对日出口断供",
-			"styleAttributes":{},
-			"x":-3420,
-			"y":-1427,
-			"width":160,
-			"height":60
 		},
 		{
 			"id":"9d6df93ed3f61722",
@@ -1768,105 +1551,6 @@
 			"width":135,
 			"height":80,
 			"color":"2"
-		},
-		{
-			"id":"c105aedb45977635",
-			"type":"text",
-			"text":"福晶科技（龙头）",
-			"styleAttributes":{},
-			"x":-2792,
-			"y":-260,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"f2ec739465b3e0da",
-			"type":"text",
-			"text":"打破垄断，国产替代",
-			"styleAttributes":{"shape":"document"},
-			"x":-2372,
-			"y":-260,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"72c1aedaebbd166c",
-			"type":"text",
-			"text":"光隔离器晶体",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3176,
-			"y":-260,
-			"width":160,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"de79158fadfda69a",
-			"type":"text",
-			"text":"钼",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3170,
-			"y":-410,
-			"width":160,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"aa54a78a1c436510",
-			"type":"text",
-			"text":"紫金矿业（龙头）",
-			"styleAttributes":{},
-			"x":-2780,
-			"y":-510,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"57d747702fde93ac",
-			"type":"text",
-			"text":"洛阳钼业",
-			"styleAttributes":{},
-			"x":-2780,
-			"y":-410,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"7e389417908c97fb",
-			"type":"text",
-			"text":"云南铜业\n==铜陵有色==（冶炼龙头）\n江西铜业",
-			"styleAttributes":{},
-			"x":-2780,
-			"y":-660,
-			"width":260,
-			"height":100,
-			"color":"6"
-		},
-		{
-			"id":"7bc7f51eb8f96bad",
-			"type":"text",
-			"text":"先买入等",
-			"styleAttributes":{"shape":"document"},
-			"x":-2360,
-			"y":-510,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"87a14692a463eb2a",
-			"type":"text",
-			"text":"金",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3170,
-			"y":-520,
-			"width":160,
-			"height":60,
-			"color":"5"
 		},
 		{
 			"id":"8c549156d95ba304",
@@ -2285,17 +1969,6 @@
 			"width":260,
 			"height":88,
 			"color":"4"
-		},
-		{
-			"id":"accafd80c34d3be4",
-			"type":"text",
-			"text":"磷化铟",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-3170,
-			"y":-900,
-			"width":160,
-			"height":60,
-			"color":"2"
 		},
 		{
 			"id":"99660e2e22e6f43b",
@@ -2745,6 +2418,395 @@
 			"y":-1059,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"d1b0b8ad425076a4",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-3240,
+			"y":-2420,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a703deb73a1557bd",
+			"type":"text",
+			"text":"高纯度红磷被主要依赖日本进口，国产正在突破",
+			"styleAttributes":{},
+			"x":-3535,
+			"y":-685,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"accafd80c34d3be4",
+			"type":"text",
+			"text":"磷化铟",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3165,
+			"y":-685,
+			"width":160,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"e3d3312a94da47e6",
+			"type":"text",
+			"text":"锗",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3165,
+			"y":-553,
+			"width":160,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"9a10e70406c388fb",
+			"type":"text",
+			"text":"铜",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3165,
+			"y":-425,
+			"width":160,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"87a14692a463eb2a",
+			"type":"text",
+			"text":"金",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3165,
+			"y":-305,
+			"width":160,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"de79158fadfda69a",
+			"type":"text",
+			"text":"钼",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3165,
+			"y":-195,
+			"width":160,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"7e389417908c97fb",
+			"type":"text",
+			"text":"云南铜业\n==铜陵有色==（冶炼龙头）\n江西铜业",
+			"styleAttributes":{},
+			"x":-2775,
+			"y":-445,
+			"width":260,
+			"height":100,
+			"color":"6"
+		},
+		{
+			"id":"aa54a78a1c436510",
+			"type":"text",
+			"text":"紫金矿业（龙头）",
+			"styleAttributes":{},
+			"x":-2775,
+			"y":-295,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"57d747702fde93ac",
+			"type":"text",
+			"text":"洛阳钼业",
+			"styleAttributes":{},
+			"x":-2775,
+			"y":-195,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"f2ec739465b3e0da",
+			"type":"text",
+			"text":"打破垄断，国产替代",
+			"styleAttributes":{"shape":"document"},
+			"x":-2367,
+			"y":-45,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"342adcce3270b51b",
+			"type":"text",
+			"text":"TTM 3162倍，换手率高",
+			"styleAttributes":{"shape":"document"},
+			"x":-2355,
+			"y":-553,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9a7a151fa40e4b1c",
+			"type":"text",
+			"text":"关注K线走势",
+			"styleAttributes":{"shape":"document"},
+			"x":-2355,
+			"y":-425,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"7bc7f51eb8f96bad",
+			"type":"text",
+			"text":"先买入等",
+			"styleAttributes":{"shape":"document"},
+			"x":-2355,
+			"y":-295,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"72c1aedaebbd166c",
+			"type":"text",
+			"text":"光隔离器晶体",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3171,
+			"y":-45,
+			"width":160,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"21d7bbe8f742c8c9",
+			"type":"text",
+			"text":"==有研新材==（半导体靶材龙头）",
+			"styleAttributes":{},
+			"x":-2775,
+			"y":-805,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"a2e6b67b941d9146",
+			"type":"text",
+			"text":"锡业股份（龙头）\n兴发集团",
+			"styleAttributes":{},
+			"x":-2775,
+			"y":-685,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"c105aedb45977635",
+			"type":"text",
+			"text":"福晶科技（龙头）",
+			"styleAttributes":{},
+			"x":-2787,
+			"y":-45,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"f2d1eb9cd6734db7",
+			"type":"text",
+			"text":"1.==云南锗业==",
+			"styleAttributes":{},
+			"x":-2775,
+			"y":-553,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"c884ae25ba44c56b",
+			"type":"text",
+			"text":"三祥新材",
+			"styleAttributes":{},
+			"x":-2774,
+			"y":-933,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"e3cb6a004c9d778f",
+			"type":"text",
+			"text":"石英",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3158,
+			"y":-1070,
+			"width":160,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"a9718de53b119e3f",
+			"type":"text",
+			"text":"锆",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3158,
+			"y":-933,
+			"width":160,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"37ab90c8f8c7b44b",
+			"type":"text",
+			"text":"石英股份\n菲利华\n\n",
+			"styleAttributes":{},
+			"x":-2774,
+			"y":-1085,
+			"width":260,
+			"height":90,
+			"color":"6"
+		},
+		{
+			"id":"c2f94413f4b20108",
+			"type":"text",
+			"text":"对日出口断供",
+			"styleAttributes":{},
+			"x":-3414,
+			"y":-1200,
+			"width":160,
+			"height":60
+		},
+		{
+			"id":"f087a666f01dc6a3",
+			"type":"text",
+			"text":"碳酸钡，低锶重晶石、电子级锶盐",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3194,
+			"y":-1200,
+			"width":284,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"7984409ea3d9c49d",
+			"type":"text",
+			"text":"红星发展",
+			"styleAttributes":{},
+			"x":-2765,
+			"y":-1200,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"1068ec3768b5112c",
+			"type":"text",
+			"text":"碳化硅",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3164,
+			"y":-1460,
+			"width":160,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"5d0581a06a974f59",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-2777,
+			"y":-1480,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"46054a2d34e754bd",
+			"type":"text",
+			"text":"氮化镓",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-3164,
+			"y":-1320,
+			"width":160,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"e198004bf7bee7d2",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-2777,
+			"y":-1340,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"0002f8c6fb2ad23a",
+			"type":"text",
+			"text":"缺8英寸",
+			"styleAttributes":{},
+			"x":-3360,
+			"y":-1320,
+			"width":120,
+			"height":60
+		},
+		{
+			"id":"e05639bbbef55dbd",
+			"type":"text",
+			"text":"能源",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-3800,
+			"y":225,
+			"width":140,
+			"height":140,
+			"color":"3"
+		},
+		{
+			"id":"9ea748bb9bfa78af",
+			"type":"text",
+			"text":"锂矿",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-3196,
+			"y":365,
+			"width":185,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"fe2119749e173c91",
+			"type":"text",
+			"text":"==赣锋锂业==",
+			"styleAttributes":{},
+			"x":-2806,
+			"y":355,
+			"width":260,
+			"height":80,
+			"color":"6"
+		},
+		{
+			"id":"b0c7f01a6c757e3c",
+			"type":"text",
+			"text":"煤炭",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-3189,
+			"y":225,
+			"width":185,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"b285c6971c4c210f",
+			"type":"text",
+			"text":"1.大有能源",
+			"styleAttributes":{},
+			"x":-2804,
+			"y":225,
+			"width":260,
+			"height":60,
+			"color":"6"
 		}
 	],
 	"edges":[
@@ -3575,16 +3637,6 @@
 			"fromNode":"e3d3312a94da47e6",
 			"fromSide":"right",
 			"toNode":"f2d1eb9cd6734db7",
-			"toSide":"left"
-		},
-		{
-			"id":"524b0229da48e40f",
-			"styleAttributes":{"path":"short-dashed"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"784951aee9e86de7",
-			"fromSide":"right",
-			"toNode":"e3d3312a94da47e6",
 			"toSide":"left"
 		},
 		{
@@ -4825,6 +4877,7 @@
 			"id":"b0e5cd4c268873be",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"9a10e70406c388fb",
 			"fromSide":"right",
 			"toNode":"57d747702fde93ac",
@@ -5266,6 +5319,52 @@
 			"toNode":"43fcb4da60e27610",
 			"toSide":"left",
 			"color":"2"
+		},
+		{
+			"id":"524b0229da48e40f",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"784951aee9e86de7",
+			"fromSide":"right",
+			"toNode":"e3d3312a94da47e6",
+			"toSide":"left"
+		},
+		{
+			"id":"13ca706e0dacc9bd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1068ec3768b5112c",
+			"fromSide":"right",
+			"toNode":"5d0581a06a974f59",
+			"toSide":"left"
+		},
+		{
+			"id":"de9d1851ea1215f4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"46054a2d34e754bd",
+			"fromSide":"right",
+			"toNode":"e198004bf7bee7d2",
+			"toSide":"left"
+		},
+		{
+			"id":"be53be756d33658b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"46054a2d34e754bd",
+			"fromSide":"left",
+			"toNode":"0002f8c6fb2ad23a",
+			"toSide":"right"
+		},
+		{
+			"id":"d8f99b868c6e9a89",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1068ec3768b5112c",
+			"fromSide":"right",
+			"toNode":"cbc17fd15ec26725",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
