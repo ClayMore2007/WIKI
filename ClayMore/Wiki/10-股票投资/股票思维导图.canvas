@@ -5247,7 +5247,8 @@
 			"fromNode":"80a563c77994fbfe",
 			"fromSide":"right",
 			"toNode":"6cad54c8599fca0b",
-			"toSide":"left"
+			"toSide":"left",
+			"fromFloating":false
 		},
 		{
 			"id":"6eb8aba9410059ba",
@@ -5414,7 +5415,8 @@
 			"fromNode":"1068ec3768b5112c",
 			"fromSide":"right",
 			"toNode":"5d0581a06a974f59",
-			"toSide":"left"
+			"toSide":"left",
+			"fromFloating":false
 		},
 		{
 			"id":"de9d1851ea1215f4",
