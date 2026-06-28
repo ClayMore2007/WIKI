@@ -2853,16 +2853,6 @@
 			"color":"2"
 		},
 		{
-			"id":"4a8c51d3b7bb8c5a",
-			"type":"text",
-			"text":"云南锗业\n三安光电",
-			"styleAttributes":{},
-			"x":-2355,
-			"y":-697,
-			"width":260,
-			"height":72
-		},
-		{
 			"id":"3b78145de1ea3a3a",
 			"type":"text",
 			"text":"",
@@ -2871,6 +2861,16 @@
 			"y":-705,
 			"width":260,
 			"height":89
+		},
+		{
+			"id":"4a8c51d3b7bb8c5a",
+			"type":"text",
+			"text":"云南锗业\n三安光电",
+			"styleAttributes":{},
+			"x":-2355,
+			"y":-690,
+			"width":260,
+			"height":72
 		}
 	],
 	"edges":[
@@ -5033,11 +5033,11 @@
 			"id":"b297592affc4aebb",
 			"styleAttributes":{"path":"short-dashed"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"80a563c77994fbfe",
 			"fromSide":"right",
 			"toNode":"6cad54c8599fca0b",
-			"toSide":"left",
-			"fromFloating":false
+			"toSide":"left"
 		},
 		{
 			"id":"6eb8aba9410059ba",
@@ -5201,11 +5201,11 @@
 			"id":"13ca706e0dacc9bd",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"1068ec3768b5112c",
 			"fromSide":"right",
 			"toNode":"5d0581a06a974f59",
-			"toSide":"left",
-			"fromFloating":false
+			"toSide":"left"
 		},
 		{
 			"id":"de9d1851ea1215f4",
@@ -5292,6 +5292,7 @@
 			"id":"9df57f30759b5a55",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"f2d1eb9cd6734db7",
 			"fromSide":"right",
 			"toNode":"4a8c51d3b7bb8c5a",
